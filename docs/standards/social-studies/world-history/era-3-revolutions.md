@@ -238,5 +238,42 @@ The essential question running through this era: **When is revolution justified 
 
 ---
 
+## Skinnies for Era 3
+
+- [WH.6_12.4 Revolution Social/Economic Skinny](../../../skinnies/world-history/era-3/wh-6-12-4-revolution-social-economic-skinny.md) — When Is Rebellion Justified? Social/economic forces behind revolution (WH.6_12.4 + W.4)
+- *WH.6_12.1 Revolution Science/Tech skinny — coming soon*
+- *WH.6_12.2 Reformation/Ideology skinny — coming soon*
+- *WH.6_12.3 Revolutionary Political Systems skinny — coming soon*
+- *WH.6_12.5 Imperialism Cause/Effect skinny — coming soon*
+- *WH.6_12.6 Revolution to Present skinny — coming soon*
+
+---
+
+## Reading Library — Era 3 Texts
+
+- [Common Sense — Thomas Paine (1776)](../../../reading-library/social-studies/common-sense-paine.md) — Revolutionary argument for independence · WH.6_12.3 + WH.6_12.4 + W.4 · Primary Source
+- [Declaration of the Rights of Man (1789)](../../../reading-library/social-studies/declaration-rights-man.md) — French Revolutionary founding document · WH.6_12.3 + WH.6_12.4 · Primary Source
+- [A Vindication of the Rights of Woman — Wollstonecraft (1792)](../../../reading-library/social-studies/wollstonecraft-vindication.md) — Enlightenment argument for women's equality · WH.6_12.4 + W.4 · Primary Source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table — Common Sense + W.4 crosswalk available
+
+---
+
+## CrashCourse Episodes — Era 3
+
+- [CC — French Revolution](../../../crashcourse/world-history/ep-33-french-revolution.md) — Causes, events, legacy (WH.6_12.3 + WH.6_12.5 + Era 3)
+- *Additional Era 3 episodes (Imperialism, Industrial Revolution, Age of Exploration) — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Era 3:**
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (when is revolution justified? was imperialism progress or exploitation?)
+- [W.3](../../ela/writing-standards.md#9-10w3) — Explanatory writing (explain causes of the French Revolution; explain how Enlightenment ideas spread)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (Paine, Wollstonecraft, Declaration of Rights of Man — all argumentative primary sources)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio; primary source evaluation)
+
+---
+
 *Era 3: Age of Revolutions — SDA Commons Wiki*
-*See also: [WH Standards Overview](standards-overview.md) · [Era 2 — Middle Ages](era-2-middle-ages.md) · [Era 4 — Global War](era-4-global-war.md)*
+*See also: [WH Standards Overview](standards-overview.md) · [Era 2 — Middle Ages](era-2-middle-ages.md) · [Era 4 — Global War](era-4-global-war.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

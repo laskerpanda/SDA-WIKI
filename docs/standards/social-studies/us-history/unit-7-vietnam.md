@@ -151,4 +151,38 @@ This unit covers:
 
 ---
 
-*Unit 7: Vietnam War and Counterculture — SDA Commons Wiki · See also: [Unit 6 — Civil Rights](unit-6-civil-rights.md) · [Unit 8 — 1970s & 1980s](unit-8-1970s-1980s.md)*
+## Skinnies for Unit 7
+
+- *US.6_12.1 Primary Sources (Unit 7) skinny — coming soon*
+- *US.6_12.2 Multiple Perspectives (Unit 7) skinny — coming soon*
+- *US.6_12.3 Cause & Effect (Unit 7) skinny — coming soon*
+- *US.6_12.4 Change Over Time (Unit 7) skinny — coming soon*
+- *US.6_12.5 Key Figures/Policy (Unit 7) skinny — coming soon*
+- *US.6_12.6 Past to Present (Unit 7) skinny — coming soon*
+
+---
+
+## Reading Library — Unit 7 Texts
+
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
+- *Vietnam-era primary sources (Pentagon Papers, anti-war speeches, soldier letters, Kent State accounts) — coming soon*
+
+---
+
+## CrashCourse Episodes — Unit 7
+
+- *Vietnam War, counterculture, Great Society episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Unit 7:**
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (was US involvement in Vietnam justified? was the counterculture a positive social force?)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (anti-war speeches, Pentagon Papers excerpts, LBJ speeches — competing political arguments)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
+*Unit 7: Vietnam War and Counterculture — SDA Commons Wiki*
+*See also: [USH Standards Overview](standards-overview.md) · [Unit 6 — Civil Rights](unit-6-civil-rights.md) · [Unit 8 — 1970s & 1980s](unit-8-1970s-1980s.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

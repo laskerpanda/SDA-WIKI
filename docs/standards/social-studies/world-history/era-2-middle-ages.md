@@ -241,5 +241,40 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
+## Skinnies for Era 2
+
+- [WH.6_12.3 Medieval Political Skinny](../../../skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md) — Is Order Worth Obedience? Feudalism and Church power (WH.6_12.3 + W.4)
+- *WH.6_12.1 Medieval Science/Tech skinny — coming soon*
+- *WH.6_12.2 Medieval Religion skinny — coming soon*
+- *WH.6_12.4 Medieval Social/Economic skinny — coming soon*
+- *WH.6_12.5 Medieval Cause/Effect skinny — coming soon*
+- *WH.6_12.6 Medieval to Present skinny — coming soon*
+
+---
+
+## Reading Library — Era 2 Texts
+
+- [Magna Carta (1215)](../../../reading-library/social-studies/magna-carta.md) — Constitutional limits on royal power · WH.6_12.3 + W.4 argument · Primary Source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
+
+---
+
+## CrashCourse Episodes — Era 2
+
+- [CC — Silk Road](../../../crashcourse/world-history/ep-09-silk-road.md) — Trade networks connecting Era 1 and Era 2 worlds (WH.6_12.4 + WH.6_12.6)
+- *Additional Era 2 episodes (Crusades, Black Death, Renaissance) — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Era 2:**
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (is feudal order just? was the Church's power legitimate?)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (Magna Carta, papal decrees, chronicler accounts)
+- [R.2](../../ela/gr9-10-scales.md#9-10r2) — Comprehension and inference (reading medieval primary sources)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio; primary source annotation)
+
+---
+
 *Era 2: Middle Ages and Renaissance — SDA Commons Wiki*
-*See also: [WH Standards Overview](standards-overview.md) · [Era 1 — Civilizations](era-1-civilizations.md) · [Era 3 — Revolutions](era-3-revolutions.md)*
+*See also: [WH Standards Overview](standards-overview.md) · [Era 1 — Civilizations](era-1-civilizations.md) · [Era 3 — Revolutions](era-3-revolutions.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

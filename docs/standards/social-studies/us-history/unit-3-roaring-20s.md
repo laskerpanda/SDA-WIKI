@@ -151,4 +151,38 @@ This unit covers:
 
 ---
 
-*Unit 3: Roaring 20s and Great Depression — SDA Commons Wiki · See also: [Unit 2 — Imperialism & WWI](unit-2-imperialism-wwi.md) · [Unit 4 — WWII](unit-4-wwii.md)*
+## Skinnies for Unit 3
+
+- *US.6_12.1 Primary Sources (Unit 3) skinny — coming soon*
+- *US.6_12.2 Multiple Perspectives (Unit 3) skinny — coming soon*
+- *US.6_12.3 Cause & Effect (Unit 3) skinny — coming soon*
+- *US.6_12.4 Change Over Time (Unit 3) skinny — coming soon*
+- *US.6_12.5 Key Figures/Policy (Unit 3) skinny — coming soon*
+- *US.6_12.6 Past to Present (Unit 3) skinny — coming soon*
+
+---
+
+## Reading Library — Unit 3 Texts
+
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
+- *Great Depression primary sources (FDR Fireside Chats, Dust Bowl oral histories, Dorothea Lange captions) — coming soon*
+
+---
+
+## CrashCourse Episodes — Unit 3
+
+- *Roaring 20s, Great Depression, New Deal episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Unit 3:**
+- [W.3](../../ela/writing-standards.md#9-10w3) — Explanatory writing (explain causes of the Great Depression; explain how New Deal programs worked)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (FDR speeches, Depression-era journalism, New Deal debates)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
+*Unit 3: Roaring 20s and Great Depression — SDA Commons Wiki*
+*See also: [USH Standards Overview](standards-overview.md) · [Unit 2 — Imperialism & WWI](unit-2-imperialism-wwi.md) · [Unit 4 — WWII](unit-4-wwii.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

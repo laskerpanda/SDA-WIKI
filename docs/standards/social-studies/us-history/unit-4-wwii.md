@@ -150,4 +150,40 @@ This unit covers:
 
 ---
 
-*Unit 4: WWII — SDA Commons Wiki · See also: [Unit 3 — Roaring 20s](unit-3-roaring-20s.md) · [Unit 5 — Cold War](unit-5-cold-war.md)*
+## Skinnies for Unit 4
+
+- *US.6_12.1 Primary Sources (Unit 4) skinny — coming soon*
+- *US.6_12.2 Multiple Perspectives (Unit 4) skinny — coming soon*
+- *US.6_12.3 Cause & Effect (Unit 4) skinny — coming soon*
+- *US.6_12.4 Change Over Time (Unit 4) skinny — coming soon*
+- *US.6_12.5 Key Figures/Policy (Unit 4) skinny — coming soon*
+- *US.6_12.6 Past to Present (Unit 4) skinny — coming soon*
+
+---
+
+## Reading Library — Unit 4 Texts
+
+- [Night — Elie Wiesel](../../../reading-library/ela/night-wiesel.md) — Holocaust memoir · US.6_12.2 + US.6_12.5 + R.8 · Literary Text
+- *FDR Four Freedoms Speech — coming soon* · US.6_12.5 + W.3 · Primary Source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
+
+---
+
+## CrashCourse Episodes — Unit 4
+
+- *WWII (Atlantic theater, Pacific theater, Holocaust, home front) episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Unit 4:**
+- [R.8](../../ela/gr9-10-scales.md#9-10r8) — Literary elements (*Night* — character under impossible circumstances, Wiesel's narrative choices, symbolism)
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (was dropping the atomic bomb justified? was Japanese internment constitutional?)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (FDR speeches, wartime propaganda, Nuremberg trial testimony)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
+*Unit 4: WWII — SDA Commons Wiki*
+*See also: [USH Standards Overview](standards-overview.md) · [Unit 3 — Roaring 20s](unit-3-roaring-20s.md) · [Unit 5 — Cold War](unit-5-cold-war.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

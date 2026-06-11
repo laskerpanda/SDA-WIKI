@@ -157,4 +157,40 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
-*Unit 6: Civil Rights and Social Movements — SDA Commons Wiki · See also: [Unit 5 — Cold War](unit-5-cold-war.md) · [Unit 7 — Vietnam](unit-7-vietnam.md)*
+## Skinnies for Unit 6
+
+- *US.6_12.1 Primary Sources (Unit 6) skinny — coming soon*
+- *US.6_12.2 Multiple Perspectives (Unit 6) skinny — coming soon*
+- *US.6_12.3 Cause & Effect (Unit 6) skinny — coming soon*
+- *US.6_12.4 Change Over Time (Unit 6) skinny — coming soon*
+- *US.6_12.5 Key Figures/Policy (Unit 6) skinny — coming soon*
+- *US.6_12.6 Past to Present (Unit 6) skinny — coming soon*
+
+---
+
+## Reading Library — Unit 6 Texts
+
+- [MLK — Letter from Birmingham Jail (1963)](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Argument for nonviolent civil disobedience · US.6_12.2 + US.6_12.5 + W.4 + R.9 · Primary Source
+- *Narrative of Frederick Douglass — coming soon* · US.6_12.2 + R.9 · Primary Source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — Letter from Birmingham + W.4 crosswalk available
+
+---
+
+## CrashCourse Episodes — Unit 6
+
+- *Civil Rights Movement (Brown v. Board, Montgomery Bus Boycott, Freedom Riders, March on Washington, Voting Rights Act) episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Unit 6:**
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (MLK Letter, Birmingham manifesto, movement speeches — all argumentative primary sources)
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (was civil disobedience the right strategy? should the Voting Rights Act have come sooner?)
+- [R.7](../../ela/gr9-10-scales.md#9-10r7) — Style and word choice (MLK's rhetorical choices — allusion, metaphor, parallel structure)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
+*Unit 6: Civil Rights and Social Movements — SDA Commons Wiki*
+*See also: [USH Standards Overview](standards-overview.md) · [Unit 5 — Cold War](unit-5-cold-war.md) · [Unit 7 — Vietnam](unit-7-vietnam.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

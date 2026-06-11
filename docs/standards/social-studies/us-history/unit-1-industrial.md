@@ -173,4 +173,38 @@ This unit covers:
 
 ---
 
-*Unit 1: Industrial Revolution — SDA Commons Wiki · See also: [USH Standards Overview](standards-overview.md) · [Unit 2 — Imperialism & WWI](unit-2-imperialism-wwi.md)*
+## Skinnies for Unit 1
+
+- *US.6_12.1 Primary Sources (Unit 1) skinny — coming soon*
+- *US.6_12.2 Multiple Perspectives (Unit 1) skinny — coming soon*
+- *US.6_12.3 Cause & Effect (Unit 1) skinny — coming soon*
+- *US.6_12.4 Change Over Time (Unit 1) skinny — coming soon*
+- *US.6_12.5 Key Figures/Policy (Unit 1) skinny — coming soon*
+- *US.6_12.6 Past to Present (Unit 1) skinny — coming soon*
+
+---
+
+## Reading Library — Unit 1 Texts
+
+- *The Jungle — Upton Sinclair (selections) — coming soon* · US.6_12.4 + W.3 · Literary/muckraker primary source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
+
+---
+
+## CrashCourse Episodes — Unit 1
+
+- *Industrial Revolution, Progressive Era, Muckrakers episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Unit 1:**
+- [W.3](../../ela/writing-standards.md#9-10w3) — Explanatory writing (explain causes/effects of industrialization; explain how Progressive Era reforms changed working conditions)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (muckraker journalism, labor union documents, Progressive reform pamphlets)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
+*Unit 1: Industrial Revolution — SDA Commons Wiki*
+*See also: [USH Standards Overview](standards-overview.md) · [Unit 2 — Imperialism & WWI](unit-2-imperialism-wwi.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

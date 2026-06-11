@@ -244,5 +244,42 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
+## Skinnies for Era 4
+
+- *WH.6_12.1 20th-Century Science/Tech skinny — coming soon*
+- *WH.6_12.2 Fascism/Communism Ideology skinny — coming soon*
+- *WH.6_12.3 20th-Century Political Systems skinny — coming soon*
+- *WH.6_12.4 20th-Century Social/Economic skinny — coming soon*
+- *WH.6_12.5 WWI/WWII Cause/Effect skinny — coming soon*
+- *WH.6_12.6 Past to Present skinny — coming soon*
+
+---
+
+## Reading Library — Era 4 Texts
+
+- [Night — Elie Wiesel](../../../reading-library/ela/night-wiesel.md) — Holocaust memoir · WH.6_12.3 + WH.6_12.5 + R.8 · Literary Text
+- [1984 — George Orwell](../../../reading-library/ela/orwell-1984.md) — Totalitarianism and surveillance · WH.6_12.3 + R.8 + W.4 · Literary Text
+- [MLK — Letter from Birmingham Jail (1963)](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Civil rights argument · WH.6_12.4 + W.4 + R.9 · Primary Source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — Letter from Birmingham + W.4 crosswalk available
+
+---
+
+## CrashCourse Episodes — Era 4
+
+- *WWI, WWII, Cold War, Decolonization episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Era 4:**
+- [R.8](../../ela/gr9-10-scales.md#9-10r8) — Literary elements (Night, 1984 — character, symbolism, setting under totalitarianism)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (MLK Letter, political propaganda, Cold War documents)
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (was dropping the atomic bomb justified? is propaganda ever legitimate?)
+- [W.3](../../ela/writing-standards.md#9-10w3) — Explanatory writing (explain causes of WWI; explain how propaganda shaped public opinion)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
 *Era 4: Age of Global War and Globalization — SDA Commons Wiki*
-*See also: [WH Standards Overview](standards-overview.md) · [Era 3 — Revolutions](era-3-revolutions.md)*
+*See also: [WH Standards Overview](standards-overview.md) · [Era 3 — Revolutions](era-3-revolutions.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

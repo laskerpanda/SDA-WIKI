@@ -164,4 +164,38 @@ This unit covers:
 
 ---
 
-*Unit 2: Imperialism and WWI — SDA Commons Wiki · See also: [Unit 1 — Industrial Revolution](unit-1-industrial.md) · [Unit 3 — Roaring 20s](unit-3-roaring-20s.md)*
+## Skinnies for Unit 2
+
+- *US.6_12.1 Primary Sources (Unit 2) skinny — coming soon*
+- *US.6_12.2 Multiple Perspectives (Unit 2) skinny — coming soon*
+- *US.6_12.3 Cause & Effect (Unit 2) skinny — coming soon*
+- *US.6_12.4 Change Over Time (Unit 2) skinny — coming soon*
+- *US.6_12.5 Key Figures/Policy (Unit 2) skinny — coming soon*
+- *US.6_12.6 Past to Present (Unit 2) skinny — coming soon*
+
+---
+
+## Reading Library — Unit 2 Texts
+
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
+- *WWI primary sources (Zimmermann Telegram, Wilson's 14 Points, anti-war speeches) — coming soon*
+
+---
+
+## CrashCourse Episodes — Unit 2
+
+- *Imperialism, WWI (causes, trench warfare, aftermath) episodes — coming soon*
+
+---
+
+## Related Standards
+
+**ELA crosswalk standards most used in Unit 2:**
+- [W.4](../../ela/writing-standards.md#9-10w4) — Argument writing (was American imperialism justified? should the US have entered WWI?)
+- [R.9](../../ela/gr9-10-scales.md#9-10r9) — Informational/argumentative analysis (war propaganda posters, Wilson's speeches, anti-war arguments)
+- [IR.1–5](../../ela/gr9-10-priority.md) — Research bundle (active every studio)
+
+---
+
+*Unit 2: Imperialism and WWI — SDA Commons Wiki*
+*See also: [USH Standards Overview](standards-overview.md) · [Unit 1 — Industrial Revolution](unit-1-industrial.md) · [Unit 3 — Roaring 20s](unit-3-roaring-20s.md) · [Primary Sources](../../../resources/primary-sources/index.md)*
