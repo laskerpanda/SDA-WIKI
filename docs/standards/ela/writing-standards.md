@@ -168,5 +168,13 @@ Each writing standard has dedicated skinnies you can pull when you hit a gap:
 
 ---
 
+## Reading Library — Writing Mentor Texts
+
+- [Common Sense — Thomas Paine](../../reading-library/social-studies/common-sense-paine.md) — Model for W.4 argument writing · Claim-evidence-reasoning structure · Primary Source
+- [MLK — Letter from Birmingham Jail (1963)](../../reading-library/social-studies/mlk-letter-birmingham.md) — Model for W.4 argument + R.7 rhetorical choices · Primary Source
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Full standards ↔ texts alignment table
+
+---
+
 *Writing Standards Deep Dive — SDA Commons Wiki*
 *See also: [ELA 9-10 Scales](gr9-10-scales.md) · [Priority by Studio](gr9-10-priority.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

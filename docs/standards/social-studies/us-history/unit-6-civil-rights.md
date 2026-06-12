@@ -159,26 +159,23 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ## Skinnies for Unit 6
 
-- *US.6_12.1 Primary Sources (Unit 6) skinny — coming soon*
-- *US.6_12.2 Multiple Perspectives (Unit 6) skinny — coming soon*
-- *US.6_12.3 Cause & Effect (Unit 6) skinny — coming soon*
-- *US.6_12.4 Change Over Time (Unit 6) skinny — coming soon*
-- *US.6_12.5 Key Figures/Policy (Unit 6) skinny — coming soon*
-- *US.6_12.6 Past to Present (Unit 6) skinny — coming soon*
+*USH skinnies are Grade 10 content — coming October 2026.*
 
 ---
 
 ## Reading Library — Unit 6 Texts
 
 - [MLK — Letter from Birmingham Jail (1963)](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Argument for nonviolent civil disobedience · US.6_12.2 + US.6_12.5 + W.4 + R.9 · Primary Source
-- *Narrative of Frederick Douglass — coming soon* · US.6_12.2 + R.9 · Primary Source
+- [Narrative of Frederick Douglass](../../../reading-library/social-studies/narrative-frederick-douglass.md) — Autobiography tracing slavery → freedom · US.6_12.2 + R.9 · Primary Source
+- [Warriors Don't Cry — Melba Pattillo Beals](../../../reading-library/ela/warriors-dont-cry.md) — Little Rock Nine memoir · US.6_12.2 + US.6_12.5 + R.8 · Literary Text
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — Letter from Birmingham + W.4 crosswalk available
 
 ---
 
 ## CrashCourse Episodes — Unit 6
 
-- *Civil Rights Movement (Brown v. Board, Montgomery Bus Boycott, Freedom Riders, March on Washington, Voting Rights Act) episodes — coming soon*
+- *Civil Rights Movement (Brown v. Board, Montgomery Bus Boycott, Freedom Riders, March on Washington, Voting Rights Act) CrashCourse entries — coming soon*
+- [CrashCourse US History Index](../../../crashcourse/us-history/index.md) — available USH episodes
 
 ---
 

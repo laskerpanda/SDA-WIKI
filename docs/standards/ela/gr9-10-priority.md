@@ -134,5 +134,17 @@ These are valid ND standards but are not the primary focus of SDA 9–10 studios
 
 ---
 
+## Reading Library — ELA Mentor Texts
+
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Master table matching reading library texts to ELA standards by studio
+
+---
+
+## CrashCourse Episodes — ELA Focus
+
+- *ELA-focused CrashCourse entries — coming soon*
+
+---
+
 *ELA Priority Standards page — SDA Commons Wiki*
 *See also: [ELA 9-10 Scales](gr9-10-scales.md) · [Writing Standards](writing-standards.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*
