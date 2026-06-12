@@ -160,18 +160,14 @@ This unit covers:
 
 ## Skinnies for Unit 5
 
-- *US.6_12.1 Primary Sources (Unit 5) skinny — coming soon*
-- *US.6_12.2 Multiple Perspectives (Unit 5) skinny — coming soon*
-- *US.6_12.3 Cause & Effect (Unit 5) skinny — coming soon*
-- *US.6_12.4 Change Over Time (Unit 5) skinny — coming soon*
-- *US.6_12.5 Key Figures/Policy (Unit 5) skinny — coming soon*
-- *US.6_12.6 Past to Present (Unit 5) skinny — coming soon*
+*USH skinnies are Grade 10 content — coming October 2026.*
 
 ---
 
 ## Reading Library — Unit 5 Texts
 
 - [1984 — George Orwell](../../../reading-library/ela/orwell-1984.md) — Totalitarianism and surveillance state · US.6_12.2 + US.6_12.3 + R.8 · Literary Text (Cold War allegory)
+- [Fahrenheit 451 — Ray Bradbury](../../../reading-library/ela/fahrenheit-451-bradbury.md) — Censorship and conformity in Cold War America · US.6_12.2 + US.6_12.3 + R.8 · Literary Text
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
 - *Cold War primary sources (NSC-68, Truman Doctrine, Berlin Airlift documents, Cuban Missile Crisis cables) — coming soon*
 
@@ -179,7 +175,8 @@ This unit covers:
 
 ## CrashCourse Episodes — Unit 5
 
-- *Cold War (containment, Korea, arms race, Cuban Missile Crisis, détente) episodes — coming soon*
+- *Cold War (containment, Korea, arms race, Cuban Missile Crisis, détente) CrashCourse entries — coming soon*
+- [CrashCourse US History Index](../../../crashcourse/us-history/index.md) — available USH episodes
 
 ---
 

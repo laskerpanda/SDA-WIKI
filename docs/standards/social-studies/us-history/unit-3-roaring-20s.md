@@ -153,12 +153,7 @@ This unit covers:
 
 ## Skinnies for Unit 3
 
-- *US.6_12.1 Primary Sources (Unit 3) skinny — coming soon*
-- *US.6_12.2 Multiple Perspectives (Unit 3) skinny — coming soon*
-- *US.6_12.3 Cause & Effect (Unit 3) skinny — coming soon*
-- *US.6_12.4 Change Over Time (Unit 3) skinny — coming soon*
-- *US.6_12.5 Key Figures/Policy (Unit 3) skinny — coming soon*
-- *US.6_12.6 Past to Present (Unit 3) skinny — coming soon*
+*USH skinnies are Grade 10 content — coming October 2026.*
 
 ---
 
@@ -171,7 +166,8 @@ This unit covers:
 
 ## CrashCourse Episodes — Unit 3
 
-- *Roaring 20s, Great Depression, New Deal episodes — coming soon*
+- *Roaring 20s, Great Depression, New Deal CrashCourse entries — coming soon*
+- [CrashCourse US History Index](../../../crashcourse/us-history/index.md) — available USH episodes
 
 ---
 

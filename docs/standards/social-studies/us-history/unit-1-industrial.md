@@ -167,33 +167,21 @@ This unit covers:
 
 ## Skinnies for Unit 1
 
-- [Political Cartoon Analysis](/skinnies/us-history/unit-1/political-cartoon-analysis.md) — US.6_12.1 + R.9: analyzing Gilded Age cartoons
-- [Cause Effect Industrial](/skinnies/us-history/unit-1/cause-effect-industrial.md) — US.6_12.3: cause-and-effect chains
-- [Progressive Argument](/skinnies/us-history/unit-1/progressive-argument.md) — US.6_12.5 + W.4: arguing most significant figure/policy
-
----
-
-## Skinnies for Unit 1
-
-- *US.6_12.1 Primary Sources (Unit 1) skinny — coming soon*
-- *US.6_12.2 Multiple Perspectives (Unit 1) skinny — coming soon*
-- *US.6_12.3 Cause & Effect (Unit 1) skinny — coming soon*
-- *US.6_12.4 Change Over Time (Unit 1) skinny — coming soon*
-- *US.6_12.5 Key Figures/Policy (Unit 1) skinny — coming soon*
-- *US.6_12.6 Past to Present (Unit 1) skinny — coming soon*
+*USH skinnies are Grade 10 content — coming October 2026.*
 
 ---
 
 ## Reading Library — Unit 1 Texts
 
-- *The Jungle — Upton Sinclair (selections) — coming soon* · US.6_12.4 + W.3 · Literary/muckraker primary source
+- [The Jungle — Upton Sinclair](../../../reading-library/social-studies/jungle-sinclair.md) — Muckraking fiction exposing meatpacking industry conditions · US.6_12.4 + W.3 · Literary Text
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
 
 ---
 
 ## CrashCourse Episodes — Unit 1
 
-- *Industrial Revolution, Progressive Era, Muckrakers episodes — coming soon*
+- *Industrial Revolution, Progressive Era, Muckrakers CrashCourse entries — coming soon*
+- [CrashCourse US History Index](../../../crashcourse/us-history/index.md) — available USH episodes
 
 ---
 

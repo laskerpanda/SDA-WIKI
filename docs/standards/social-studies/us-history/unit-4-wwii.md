@@ -152,26 +152,22 @@ This unit covers:
 
 ## Skinnies for Unit 4
 
-- *US.6_12.1 Primary Sources (Unit 4) skinny — coming soon*
-- *US.6_12.2 Multiple Perspectives (Unit 4) skinny — coming soon*
-- *US.6_12.3 Cause & Effect (Unit 4) skinny — coming soon*
-- *US.6_12.4 Change Over Time (Unit 4) skinny — coming soon*
-- *US.6_12.5 Key Figures/Policy (Unit 4) skinny — coming soon*
-- *US.6_12.6 Past to Present (Unit 4) skinny — coming soon*
+*USH skinnies are Grade 10 content — coming October 2026.*
 
 ---
 
 ## Reading Library — Unit 4 Texts
 
 - [Night — Elie Wiesel](../../../reading-library/ela/night-wiesel.md) — Holocaust memoir · US.6_12.2 + US.6_12.5 + R.8 · Literary Text
-- *FDR Four Freedoms Speech — coming soon* · US.6_12.5 + W.3 · Primary Source
+- [FDR Four Freedoms Speech](../../../reading-library/social-studies/fdr-four-freedoms.md) — 1941 speech defining the purpose of WWII · US.6_12.5 + W.3 · Primary Source
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
 
 ---
 
 ## CrashCourse Episodes — Unit 4
 
-- *WWII (Atlantic theater, Pacific theater, Holocaust, home front) episodes — coming soon*
+- *WWII (Atlantic theater, Pacific theater, Holocaust, home front) CrashCourse entries — coming soon*
+- [CrashCourse US History Index](../../../crashcourse/us-history/index.md) — available USH episodes
 
 ---
 

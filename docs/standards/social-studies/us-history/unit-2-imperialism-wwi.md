@@ -158,33 +158,22 @@ This unit covers:
 
 ## Skinnies for Unit 2
 
-- [Wwi Propaganda Analysis](/skinnies/us-history/unit-2/wwi-propaganda-analysis.md) — US.6_12.1 + R.7: propaganda and word choice
-- [Imperialism Argument](/skinnies/us-history/unit-2/imperialism-argument.md) — US.6_12.2 + US.6_12.3 + W.4: arguing imperialism's impact
-- [Versailles Cause Effect](/skinnies/us-history/unit-2/versailles-cause-effect.md) — US.6_12.3 + US.6_12.6: Treaty of Versailles → WWII chain
-
----
-
-## Skinnies for Unit 2
-
-- *US.6_12.1 Primary Sources (Unit 2) skinny — coming soon*
-- *US.6_12.2 Multiple Perspectives (Unit 2) skinny — coming soon*
-- *US.6_12.3 Cause & Effect (Unit 2) skinny — coming soon*
-- *US.6_12.4 Change Over Time (Unit 2) skinny — coming soon*
-- *US.6_12.5 Key Figures/Policy (Unit 2) skinny — coming soon*
-- *US.6_12.6 Past to Present (Unit 2) skinny — coming soon*
+*USH skinnies are Grade 10 content — coming October 2026.*
 
 ---
 
 ## Reading Library — Unit 2 Texts
 
+- [Kipling "The White Man's Burden" + H.T. Johnson response](../../../reading-library/social-studies/kipling-white-mans-burden.md) — Competing perspectives on American imperialism · US.6_12.2 + US.6_12.4 + W.4 · Primary Sources
+- [Dulce et Decorum Est — Wilfred Owen](../../../reading-library/social-studies/dulce-et-decorum-est.md) — Anti-war WWI poetry · US.6_12.2 + US.6_12.5 + R.8 · Literary Text
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
-- *WWI primary sources (Zimmermann Telegram, Wilson's 14 Points, anti-war speeches) — coming soon*
 
 ---
 
 ## CrashCourse Episodes — Unit 2
 
-- *Imperialism, WWI (causes, trench warfare, aftermath) episodes — coming soon*
+- *Imperialism, WWI (causes, trench warfare, aftermath) CrashCourse entries — coming soon*
+- [CrashCourse US History Index](../../../crashcourse/us-history/index.md) — available USH episodes
 
 ---
 
