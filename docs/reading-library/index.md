@@ -113,56 +113,71 @@ Processed entries are added to the appropriate subfolder and a git commit is mad
 
 ---
 
-## Text Types by Era
+## All Library Entries
 
-### World History (Grade 9)
+### Social Studies Primary Sources
 
-**Era 1 — Civilizations and Religions**
-- Hammurabi's Code (primary source, c. 1750 BCE)
-- Excerpts from the Analects of Confucius
-- Selections from the Quran or Hadith (for WH.6_12.2)
-- Selections from the New Testament (for WH.6_12.2)
-- Caesar's *Gallic Wars* (primary source, Roman perspective on conquest)
-- Thucydides on the Peloponnesian War (primary source)
+#### Era 1 — Ancient Civilizations (c. 1750 BCE – 500 CE)
 
-**Era 2 — Middle Ages and Renaissance**
-- Magna Carta (1215) — primary source
-- Excerpts from Dante's *Inferno*
-- Boccaccio's *Decameron* (Black Death as context)
-- Ibn Battuta's travel accounts (Islamic Golden Age primary source)
-- Erasmus's *In Praise of Folly* (Renaissance humanism)
+| Text | Author | Date | Standards |
+|------|--------|------|-----------|
+| [Hammurabi's Code](social-studies/hammurabi-code.md) | Hammurabi | c. 1750 BCE | WH.6_12.2 · WH.6_12.3 · R.9 |
+| [The Analects](social-studies/analects-confucius.md) | Confucius | c. 500 BCE | WH.6_12.2 · WH.6_12.3 · R.4 · R.9 |
+| [Pericles' Funeral Oration](social-studies/pericles-funeral-oration.md) | Thucydides | 431 BCE | WH.6_12.3 · WH.6_12.4 · WH.6_12.6 · R.9 · W.4 · C.1 |
+| [The Melian Dialogue](social-studies/melian-dialogue.md) | Thucydides | 416 BCE | WH.6_12.3 · WH.6_12.5 · WH.6_12.6 · R.9 · W.4 · C.6 |
 
-**Era 3 — Age of Revolutions**
-- Thomas Paine's *Common Sense* (1776)
-- Declaration of the Rights of Man and Citizen (1789)
-- Haitian Declaration of Independence (1804)
-- Mary Wollstonecraft's *A Vindication of the Rights of Woman* (1792)
-- Friedrich Engels and Karl Marx, *Communist Manifesto* (1848) selections
+> **Pair:** Pericles and the Melian Dialogue must be read together — same author, same democracy, 15 years apart.
 
-**Era 4 — Age of Global War and Globalization**
-- Elie Wiesel, *Night* (literary text, Holocaust memoir)
-- George Orwell's *1984* (dystopian literature connected to totalitarianism)
-- George Orwell's "Politics and the English Language" (essay on propaganda and language)
-- Hiroshima survivor testimony (primary sources)
-- UN Universal Declaration of Human Rights (1948)
+#### Era 2 — Middle Ages and Early Modern (500–1750 CE)
 
-### US History (Grade 10)
+| Text | Author | Date | Standards |
+|------|--------|------|-----------|
+| [Magna Carta](social-studies/magna-carta.md) | English barons / King John | 1215 | WH.6_12.2 · WH.6_12.3 · R.9 |
+| [Rihla (Travels)](social-studies/ibn-battuta-rihla.md) | Ibn Battuta | 1354 | WH.6_12.1 · WH.6_12.4 · R.9 · IR.4 |
+| [The 95 Theses](social-studies/luther-95-theses.md) | Martin Luther | 1517 | WH.6_12.2 · WH.6_12.5 · R.9 · W.4 |
+| [A Short Account of the Destruction of the Indies](social-studies/las-casas-short-account.md) | Bartolomé de las Casas | 1542 | WH.6_12.4 · WH.6_12.5 · R.9 · IR.4 · W.4 |
 
-**Units 1–3**
-- Upton Sinclair, *The Jungle* selections
-- Ida Tarbell's Standard Oil exposé selections
-- Langston Hughes's poetry (Harlem Renaissance primary sources)
+#### Era 3 — Age of Revolutions and Industry (1750–1914)
 
-**Units 4–6**
-- MLK's "Letter from Birmingham Jail" (primary source — full text)
-- FDR's "Four Freedoms" speech
-- Zora Neale Hurston selections
-- James Baldwin essays
+| Text | Author | Date | Standards |
+|------|--------|------|-----------|
+| [Common Sense](social-studies/common-sense-paine.md) | Thomas Paine | 1776 | WH.6_12.3 · WH.6_12.5 · R.9 · W.4 |
+| [Declaration of the Rights of Man](social-studies/declaration-rights-man.md) | National Assembly of France | 1789 | WH.6_12.3 · WH.6_12.5 · WH.6_12.6 · R.9 |
+| [A Vindication of the Rights of Woman](social-studies/wollstonecraft-vindication.md) | Mary Wollstonecraft | 1792 | WH.6_12.3 · WH.6_12.6 · R.9 · W.4 |
+| [Haitian Declaration of Independence](social-studies/haitian-declaration-independence.md) | Dessalines / Boisrond-Tonnerre | 1804 | WH.6_12.3 · WH.6_12.5 · WH.6_12.6 · R.9 · W.4 |
+| ["The White Man's Burden" + H.T. Johnson response](social-studies/kipling-white-mans-burden.md) | Kipling / Johnson | 1899 | WH.6_12.4 · WH.6_12.5 · WH.6_12.6 · R.7 · R.9 · IR.4 |
+| [The Communist Manifesto](social-studies/communist-manifesto.md) | Marx & Engels | 1848 | WH.6_12.2 · WH.6_12.3 · WH.6_12.5 · R.9 · W.4 |
+| [Narrative of the Life of Frederick Douglass](social-studies/narrative-frederick-douglass.md) | Frederick Douglass | 1845 | WH.6_12.4 · WH.6_12.5 · US.6_12.2 · US.6_12.4 · R.8 · R.9 · W.4 |
+| [The Jungle](social-studies/jungle-sinclair.md) | Upton Sinclair | 1906 | US.6_12.1 · US.6_12.4 · R.8 · W.4 · IR.1–5 |
+| ["Dulce et Decorum Est"](social-studies/dulce-et-decorum-est.md) | Wilfred Owen | 1920 | WH.6_12.2 · WH.6_12.5 · R.4 · R.7 · R.8 |
 
-**Units 7–9**
-- Pentagon Papers selections (declassified)
-- Philip Caputo, *A Rumor of War* (Vietnam memoir)
-- Contemporary journalism on 9/11 and its aftermath
+#### Era 4 — Global War and Globalization (1914–Present)
+
+| Text | Author | Date | Standards |
+|------|--------|------|-----------|
+| [FDR — Four Freedoms Speech](social-studies/fdr-four-freedoms.md) | Franklin D. Roosevelt | 1941 | WH.6_12.2 · WH.6_12.3 · US.6_12.1 · US.6_12.2 · R.9 · W.4 · C.1 |
+| [UN Universal Declaration of Human Rights](social-studies/un-declaration-human-rights.md) | United Nations | 1948 | WH.6_12.3 · WH.6_12.6 · US.6_12.1 · US.6_12.4 · R.9 · IR.1–5 |
+| [Rivonia Trial Speech](social-studies/mandela-rivonia-speech.md) | Nelson Mandela | 1964 | WH.6_12.3 · WH.6_12.6 · R.9 · W.4 · C.1 |
+| [UN Speech — "One Child, One Teacher"](social-studies/malala-un-speech.md) | Malala Yousafzai | 2013 | WH.6_12.2 · WH.6_12.6 · R.9 · W.4 · C.1 |
+
+> **Rights chain:** Hammurabi's Code → Pericles → Magna Carta → Common Sense → Declaration of Rights of Man → Haitian Declaration → FDR Four Freedoms → UN UDHR → Malala
+
+---
+
+### ELA Literary Texts (Dual-Use: also primary sources for history)
+
+| Text | Author | Date | ELA Standards | History Connection |
+|------|--------|------|---------------|--------------------|
+| [Julius Caesar](ela/julius-caesar-shakespeare.md) | Shakespeare | 1599 | R.8 · R.9 · W.4 | WH Era 1 (Rome) + WH Era 2 (Elizabethan political thought) |
+| [Narrative of Frederick Douglass](social-studies/narrative-frederick-douglass.md) | Douglass | 1845 | R.8 · R.9 · W.4 | USH Civil War era primary source |
+| [The Jungle](social-studies/jungle-sinclair.md) | Sinclair | 1906 | R.8 · W.4 · IR.1–5 | USH Progressive Era primary source |
+| [Fahrenheit 451](ela/fahrenheit-451-bradbury.md) | Bradbury | 1953 | R.8 · R.9 · W.4 | WH Era 4 Cold War cultural anxiety document |
+| [Night](ela/night-wiesel.md) | Wiesel | 1960 | R.8 · R.9 · W.4 | WH Era 4 Holocaust memoir / primary source |
+| [Warriors Don't Cry](ela/warriors-dont-cry.md) | Beals | 1994 | R.8 · R.9 · W.4 | USH Civil Rights primary source (Little Rock 1957) |
+| [Persepolis](ela/persepolis-satrapi.md) | Satrapi | 2000 | R.8 · R.9 · W.4 | WH Era 4 Iranian Revolution primary source |
+| [1984](ela/orwell-1984.md) | Orwell | 1949 | R.8 · R.9 · W.4 | WH Era 4 totalitarianism / Cold War |
+
+> **Dual-use note:** All ELA texts above carry both literary standards (R.8 literary analysis) and historical standards as primary sources for their era. See individual entries for full standard crosswalk.
 
 ---
 
