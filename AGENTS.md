@@ -305,18 +305,29 @@ as World History. Always record both the standard code and the unit.
 
 ---
 
-## PRE-PACKAGED STUDIO CATALOG (Grade 9 / WH)
+## PRE-PACKAGED STUDIO CATALOG (Built June 2026)
 
-| # | Studio | Essential Question | Writing | WH Standard | Era |
-|---|--------|--------------------|---------|-------------|-----|
-| 1 | Power & Belief | How did early religions justify political authority? | W.3 | WH.6_12.2 | Era 1 |
-| 2 | Builders & Breakers | What makes a civilization rise or collapse? | W.4 | WH.6_12.1 | Era 1 |
-| 3 | The Medieval Crisis | Is order worth obedience? | W.4 | WH.6_12.3 | Era 2 |
-| 4 | Renaissance & Rebirth | Can art change the way people think? | W.3 | WH.6_12.2 | Era 2 |
-| 5 | The Age of Revolution | When is rebellion justified? | W.4 | WH.6_12.4 | Era 3 |
-| 6 | Propaganda & Truth | How do governments control information? | W.4 | WH.6_12.3 | Era 4 |
-| 7 | War & Memory | Whose stories get told after a war? | W.3 | WH.6_12.5 | Era 4 |
-| 8 | Globalization | Does connection create inequality? | W.4 | WH.6_12.6 | Era 4 |
+Full packets at: `docs/units/studio-archive/` — each has EQ, standards map, reading list, inquiry angle menu (Trailblazer/Maverick/Phoenix), six-week arc, all 6 demo modes, scale tasks, skinny recs, exhibition format.
+
+### World History (Grade 9)
+
+| Code | Studio | Essential Question | Primary Standards | Era |
+|------|--------|--------------------|-------------------|-----|
+| WH-01 | Who Should Govern? | Who should govern, and what gives them the right? | WH.6_12.2+3 · R.9 · W.4 | Era 1 |
+| WH-06 | The Connected World | What connects the world — and who decides who counts as part of it? | WH.6_12.1+4 · IR.1–5 | Era 2 |
+| WH-04 | One Idea, 130 Years of War | Can one document change the world — and if so, how? | WH.6_12.2+5 · R.9 · W.4 | Era 2–3 |
+| WH-02 | The Rights We Wrote Down | When people write down their rights, what changes — and what doesn't? | WH.6_12.3+5+6 · R.9 · W.4 | Era 3 (Era 1–4 chain) |
+| WH-03 | Writing Against Empire | When a powerful system is doing harm, what does it take to challenge it? | WH.6_12.4+5 · IR.4 · R.9 | Era 2–3 |
+| WH-05 | The Cost of War | Who pays the cost of war — and who gets to tell the story? | WH.6_12.2+5 · R.7+8+9 | Era 4 |
+
+**Recommended Year 1 sequence:** WH-01 → WH-06 → WH-04 → WH-02 → WH-03 → WH-05
+
+### US History (Grade 10 / Year 2)
+
+| Code | Studio | Essential Question | Primary Standards | Units |
+|------|--------|--------------------|-------------------|-------|
+| USH-01 | When the System Fails | When an institution fails the people it's supposed to serve, what does it take to fix it? | US.6_12.1+2+4 · R.9 · W.4 | Units 1–2, 6 |
+| USH-02 | The Literature of Fear | What does a society's fiction reveal about its fears — and whose fears count? | WH.6_12.2+6 · US.6_12.2 · R.8+9 | Unit 5 + WH Era 4 |
 
 ---
 
