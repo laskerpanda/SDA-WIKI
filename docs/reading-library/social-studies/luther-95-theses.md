@@ -1,0 +1,102 @@
+# The 95 Theses — Excerpts (1517)
+
+**Author:** Martin Luther
+**Type:** Primary Source · Religious and Political Argument
+**Source:** Public domain — [Project Wittenberg](http://www.iclnet.org/pub/resources/text/wittenberg/luther/web/ninetyfive.html)
+**Era/Period:** Era 2 — Middle Ages and Early Modern Period
+**WH Standards:** WH.6_12.2 · WH.6_12.5
+**ELA Standards:** 9-10.R.9 · 9-10.W.4
+
+---
+
+## What This Text Is About
+
+On October 31, 1517, a German Augustinian friar named Martin Luther reportedly nailed a list of 95 arguments (in Latin) to the door of the Castle Church in Wittenberg, Germany — a customary academic way to invite scholarly debate. Within weeks, the document had been translated into German and printed on the newly widespread printing press, and within months it was circulating across Europe. The 95 Theses challenged the Catholic Church's sale of indulgences — payments to the Church said to reduce a person's time in Purgatory — and by implication challenged the Church's authority to define the terms of salvation. Luther did not intend to split the Western Church. He split the Western Church.
+
+**What the theses actually argue:** The document is a point-by-point academic disputation, not a manifesto. Luther's arguments range from narrow theological points (What does Scripture say about Purgatory?) to broad ecclesiological ones (Does the Pope have authority over Purgatory at all?) to practical economic ones (If the Pope is wealthy, why does he not simply pay to build St. Peter's Basilica himself rather than taking money from the poor?). The final theses end with the argument that a Christian who has genuine repentance of sins has no need of an indulgence — because they already have everything an indulgence claims to offer.
+
+---
+
+## ELA Standards This Connects To
+
+- [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The 95 Theses are structured as a formal academic disputation — each thesis is a claim that requires a supporting argument. Students analyze the argumentative structure: How does Luther build his case? What assumptions does each argument depend on? Where is his logic strongest and where is it weakest?
+- [W.4](../../standards/ela/writing-standards.md#9-10w4) — Luther's argument is unusual: he defends his challenge to authority by appealing to the same authority (Scripture) that the authority claims to represent. Use as a W.4 case study for argument from within an institution's own premises.
+- [R.2](../../standards/ela/gr9-10-scales.md#9-10r2) — The gap between what Luther intended (academic debate within the Church) and what happened (the Reformation) is a powerful inference exercise: What in the theses made them so explosive? What did the Church's reaction reveal?
+
+---
+
+## Social Studies Standards This Connects To
+
+- [WH.6_12.2](../../standards/social-studies/world-history/era-2-middle-ages.md) — The 95 Theses triggered the Protestant Reformation — the fracturing of Western Christianity that permanently altered the political and cultural landscape of Europe. The Reformation's consequences include: the wars of religion (30 Years War, French Wars of Religion), the rise of secular political theory, the development of individual conscience as a political concept, and the long-term weakening of the Church's political authority. All of these trace back to this document.
+- [WH.6_12.5](../../standards/social-studies/world-history/era-2-middle-ages.md) — Students trace the causal chain: Luther's theses (1517) → Reformation spreads (1520s) → Charles V fails to suppress it (1521 Diet of Worms) → German princes use it politically against the Emperor → Religious wars → Peace of Augsburg (1555, "whose realm, his religion") → Thirty Years War (1618–1648) → Westphalian state system. One document → 130 years of European warfare and the modern state system.
+
+---
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|-----------|
+| Indulgence | A payment to the Church said to reduce time in Purgatory for sins already confessed — Luther's central target |
+| Purgatory | In Catholic theology, a state of purification after death before entering Heaven — Luther questioned whether the Pope had authority over it |
+| Diet of Worms | The 1521 imperial assembly where Luther refused to recant his writings — the moment the split became irreversible |
+| Sola Scriptura | "Scripture alone" — Luther's argument that Christian doctrine must be grounded in the Bible, not Church tradition or papal decree |
+| Johann Tetzel | The Dominican friar selling indulgences near Wittenberg whose practices provoked Luther — reportedly saying "When a coin in the coffer rings, a soul from Purgatory springs" |
+
+---
+
+## Selected Theses
+
+**Thesis 1:**
+> When our Lord and Master Jesus Christ said, "Repent" (Mt 4:17), he willed the entire life of believers to be one of repentance.
+
+**Thesis 27:**
+> They preach only human doctrines who say that as soon as the money clinks into the money chest, the soul flies out of purgatory.
+
+**Thesis 50:**
+> Christians are to be taught that if the pope knew the exactions of the indulgence preachers, he would rather that St. Peter's church should lie in ashes, than that it should be built up with the skin, flesh and bones of his sheep.
+
+**Thesis 62:**
+> The true treasure of the church is the Most Holy Gospel of the glory and the grace of God.
+
+**Thesis 86:**
+> Again: — "Why does not the pope, whose wealth is to-day greater than the riches of the richest, build just this one church of St. Peter with his own money, rather than with the money of poor believers?"
+
+**Thesis 95:**
+> And thus be confident of entering into heaven rather through many tribulations, than through the assurance of peace.
+
+**Why these selections matter:** Thesis 1 establishes Luther's theological foundation. Thesis 27 is the direct attack on Tetzel's sales pitch. Thesis 50 shows Luther appealing to the Pope against the Pope's agents. Thesis 86 is the economic argument — the most practically damaging. Thesis 95 is the theological conclusion: genuine repentance already has everything an indulgence claims to offer.
+
+---
+
+## The Printing Press and the Theses
+
+Luther's theses reached across Europe within months of being written — something that was simply impossible before Gutenberg's printing press (c. 1440). The Reformation is the first major historical event where mass printing demonstrably changed the outcome. Students connect this to:
+
+- WH.6_12.1 (Science & Technology): The printing press as the technology that enabled the Reformation
+- WH.6_12.5 (Causes & Effects): Could the Reformation have happened without the printing press?
+- WH.6_12.6 (Past → Present): Compare to the role of social media in contemporary political movements
+
+---
+
+## Studio Ideas
+
+1. **"The Argument That Split a Church"** — EQ: How does a theological dispute become a political revolution? · Standard: WH.6_12.2 + R.9 · Demo Mode: Written Assessment (identify Luther's three strongest arguments in the 95 Theses — the theological, the practical, and the economic. Which do you think was most threatening to the Church's authority, and why?)
+
+2. **"The Printing Press Changes Everything"** — EQ: Does technology determine the outcome of political movements? · Standard: WH.6_12.1 + WH.6_12.5 · Demo Mode: Extended Writing (compare the role of the printing press in spreading Luther's theses to the role of social media in a contemporary political movement. Are the dynamics the same? Write an argument with specific evidence from both cases)
+
+3. **"Challenging Authority from Within"** — EQ: When you challenge an institution using its own rules, is that more or less powerful than attacking it from outside? · Standard: WH.6_12.2 + W.4 · Demo Mode: Verbal Conversation (Luther's argument is entirely grounded in Christian Scripture — the same authority the Church claims. Compare his strategy to MLK's use of Christian theology in the Birmingham Letter. What makes this "inside" argument powerful? What are its limits?)
+
+4. **"The Causal Chain"** — EQ: Can one document cause 130 years of war? · Standard: WH.6_12.5 + IR.1–5 · Demo Mode: Visual/Creative (trace the causal chain from the 95 Theses through the Reformation, the wars of religion, to the Peace of Westphalia. Annotate: at what point could this chain have been broken? What would have had to change?)
+
+---
+
+## See Also
+
+- [Era 2 — Middle Ages](../../standards/social-studies/world-history/era-2-middle-ages.md)
+- [Magna Carta](./magna-carta.md) — 300 years earlier: another challenge to an institution's claim to absolute authority
+- [Common Sense — Paine](./common-sense-paine.md) — The secular Reformation: same structure (challenging authority using its own premises) applied to monarchy
+- [Communist Manifesto](./communist-manifesto.md) — Another manifesto that triggered more change than its author intended
+
+---
+
+*Reading Library · SDA Commons Wiki · South High School*
