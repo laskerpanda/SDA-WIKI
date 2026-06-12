@@ -233,36 +233,29 @@ The essential question running through this era: **When does order protect peopl
 
 ## Skinnies for Era 2
 
-- [Feudalism Analysis](/skinnies/world-history/era-2/feudalism-analysis.md) — WH.6_12.3 + W.4 argument: was feudalism protection or exploitation?
-- [Black Death Causes Effects](/skinnies/world-history/era-2/black-death-causes-effects.md) — WH.6_12.5 + R.9b: multiple accounts, causes and effects
-- [Crusades Perspectives](/skinnies/world-history/era-2/crusades-perspectives.md) — WH.6_12.5 + R.9a: comparing Christian and Islamic accounts
-- [Magna Carta Primary Source](/skinnies/world-history/era-2/magna-carta-primary-source.md) — WH.6_12.3 + WH.6_12.6: primary source analysis with past-to-present
-- [Printing Press Impact](/skinnies/world-history/era-2/printing-press-impact.md) — WH.6_12.1 + WH.6_12.6
-
----
-
-## Skinnies for Era 2
-
-- [WH.6_12.3 Medieval Political Skinny](../../../skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md) — Is Order Worth Obedience? Feudalism and Church power (WH.6_12.3 + W.4)
-- *WH.6_12.1 Medieval Science/Tech skinny — coming soon*
-- *WH.6_12.2 Medieval Religion skinny — coming soon*
-- *WH.6_12.4 Medieval Social/Economic skinny — coming soon*
-- *WH.6_12.5 Medieval Cause/Effect skinny — coming soon*
-- *WH.6_12.6 Medieval to Present skinny — coming soon*
+- [WH.6_12.1 Medieval Science and Technology](../../../skinnies/world-history/era-2/wh-6-12-1-science-tech-era2-skinny.md) — Medieval and Renaissance Science and Technology (WH.6_12.1 + R.4)
+- [WH.6_12.2 Medieval Religion and Ideology](../../../skinnies/world-history/era-2/wh-6-12-2-religion-ideology-era2-skinny.md) — Medieval Religion, Church Power, and Ideology (WH.6_12.2 + R.9)
+- [WH.6_12.3 Medieval Political Systems](../../../skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md) — How Medieval Political Systems Controlled People (WH.6_12.3 + W.4)
+- [WH.6_12.4 Medieval Social and Economic Life](../../../skinnies/world-history/era-2/wh-6-12-4-social-cultural-era2-skinny.md) — Medieval Social, Cultural, and Economic Life (WH.6_12.4 + W.3)
+- [WH.6_12.5 Medieval Causes and Effects](../../../skinnies/world-history/era-2/wh-6-12-5-causes-effects-era2-skinny.md) — Causes and Effects of Medieval Global Events (WH.6_12.5 + R.9)
+- [WH.6_12.6 Medieval Legacies to the Present](../../../skinnies/world-history/era-2/wh-6-12-6-past-present-era2-skinny.md) — Medieval Legacies to the Present (WH.6_12.6 + W.4)
 
 ---
 
 ## Reading Library — Era 2 Texts
 
-- [Magna Carta (1215)](../../../reading-library/social-studies/magna-carta.md) — Constitutional limits on royal power · WH.6_12.3 + W.4 argument · Primary Source
+- [Magna Carta (1215)](../../../reading-library/social-studies/magna-carta.md) — Constitutional limits on royal power · WH.6_12.3 + W.4 · Primary Source
+- [Ibn Battuta — Rihla (1354)](../../../reading-library/social-studies/ibn-battuta-rihla.md) — Medieval Islamic world through a traveler's eyes · WH.6_12.1 + WH.6_12.4 + IR.4 · Primary Source
+- [Martin Luther — The 95 Theses (1517)](../../../reading-library/social-studies/luther-95-theses.md) — Reformation challenge to Church authority · WH.6_12.2 + WH.6_12.5 + R.9 · Primary Source
+- [Las Casas — A Short Account of the Destruction of the Indies (1542)](../../../reading-library/social-studies/las-casas-short-account.md) — Eyewitness account of colonization · WH.6_12.4 + WH.6_12.5 + IR.4 · Primary Source
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table
 
 ---
 
 ## CrashCourse Episodes — Era 2
 
-- [CC — Silk Road](../../../crashcourse/world-history/ep-09-silk-road.md) — Trade networks connecting Era 1 and Era 2 worlds (WH.6_12.4 + WH.6_12.6)
-- *Additional Era 2 episodes (Crusades, Black Death, Renaissance) — coming soon*
+- [CC — The Silk Road](../../../crashcourse/world-history/ep-09-silk-road.md) — Trade networks connecting Era 1 and Era 2 worlds (WH.6_12.4 + WH.6_12.6)
+- *Crusades, Black Death, Renaissance, Protestant Reformation episodes — coming soon*
 
 ---
 

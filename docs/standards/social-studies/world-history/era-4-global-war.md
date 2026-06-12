@@ -236,37 +236,33 @@ The essential questions running through this era: **How do governments control i
 
 ## Skinnies for Era 4
 
-- [Atomic Bomb Debate](/skinnies/world-history/era-4/atomic-bomb-debate.md) — WH.6_12.3 + C.6: structured debate with primary sources
-- [Propaganda Analysis](/skinnies/world-history/era-4/propaganda-analysis.md) — WH.6_12.3 + R.7: style, word choice, and government messaging
-- [Holocaust Primary Sources](/skinnies/world-history/era-4/holocaust-primary-sources.md) — WH.6_12.5 + R.9: Wannsee, survivor testimony, comparison
-- [Cold War Ideology](/skinnies/world-history/era-4/cold-war-ideology.md) — WH.6_12.2 + WH.6_12.3: competing political systems
-- [Globalization Inequality](/skinnies/world-history/era-4/globalization-inequality.md) — WH.6_12.4 + WH.6_12.6: economic effects, past-to-present
-
----
-
-## Skinnies for Era 4
-
-- *WH.6_12.1 20th-Century Science/Tech skinny — coming soon*
-- *WH.6_12.2 Fascism/Communism Ideology skinny — coming soon*
-- *WH.6_12.3 20th-Century Political Systems skinny — coming soon*
-- *WH.6_12.4 20th-Century Social/Economic skinny — coming soon*
-- *WH.6_12.5 WWI/WWII Cause/Effect skinny — coming soon*
-- *WH.6_12.6 Past to Present skinny — coming soon*
+- [WH.6_12.1 Science, Technology, and Weapons of Mass Destruction](../../../skinnies/world-history/era-4/wh-6-12-1-science-tech-era4-skinny.md) — Age of Global War: Science, Technology, and WMDs (WH.6_12.1 + R.4)
+- [WH.6_12.2 Ideology, Totalitarianism, and Resistance](../../../skinnies/world-history/era-4/wh-6-12-2-religion-ideology-era4-skinny.md) — Age of Global War: Ideology, Totalitarianism, and Resistance (WH.6_12.2 + R.9)
+- [WH.6_12.3 Political Systems, War, and Decolonization](../../../skinnies/world-history/era-4/wh-6-12-3-political-systems-era4-skinny.md) — Age of Global War: Political Systems, War, and Decolonization (WH.6_12.3 + W.4)
+- [WH.6_12.4 Social, Cultural, and Economic Life](../../../skinnies/world-history/era-4/wh-6-12-4-social-cultural-era4-skinny.md) — Age of Global War: Social, Cultural, and Economic Life (WH.6_12.4 + W.3)
+- [WH.6_12.5 Causes and Effects of WWI, WWII, and Beyond](../../../skinnies/world-history/era-4/wh-6-12-5-causes-effects-era4-skinny.md) — Age of Global War: Causes and Effects of WWI, WWII, and Beyond (WH.6_12.5 + R.9)
+- [WH.6_12.6 Legacies to the Present](../../../skinnies/world-history/era-4/wh-6-12-6-past-present-era4-skinny.md) — Age of Global War: Legacies to the Present (WH.6_12.6 + W.4)
 
 ---
 
 ## Reading Library — Era 4 Texts
 
-- [Night — Elie Wiesel](../../../reading-library/ela/night-wiesel.md) — Holocaust memoir · WH.6_12.3 + WH.6_12.5 + R.8 · Literary Text
-- [1984 — George Orwell](../../../reading-library/ela/orwell-1984.md) — Totalitarianism and surveillance · WH.6_12.3 + R.8 + W.4 · Literary Text
-- [MLK — Letter from Birmingham Jail (1963)](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Civil rights argument · WH.6_12.4 + W.4 + R.9 · Primary Source
+- [FDR — Four Freedoms Speech (1941)](../../../reading-library/social-studies/fdr-four-freedoms.md) — WWII-era vision of global human rights · WH.6_12.2 + WH.6_12.6 + R.9 · Primary Source
+- [Night — Elie Wiesel (1960)](../../../reading-library/ela/night-wiesel.md) — Holocaust memoir · WH.6_12.3 + WH.6_12.5 + R.8 · Literary Text
+- [UN Universal Declaration of Human Rights (1948)](../../../reading-library/social-studies/un-declaration-human-rights.md) — Post-WWII global rights framework · WH.6_12.2 + WH.6_12.6 + R.9 · Primary Source
+- [MLK — Letter from Birmingham Jail (1963)](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Civil rights argument against unjust law · WH.6_12.4 + W.4 + R.9 · Primary Source
+- [Nelson Mandela — Rivonia Trial Speech (1964)](../../../reading-library/social-studies/mandela-rivonia-speech.md) — Anti-apartheid argument under trial · WH.6_12.3 + WH.6_12.4 + W.4 · Primary Source
+- [1984 — George Orwell (1949)](../../../reading-library/ela/orwell-1984.md) — Totalitarianism and surveillance state · WH.6_12.3 + R.8 + W.4 · Literary Text
+- [Fahrenheit 451 — Ray Bradbury (1953)](../../../reading-library/ela/fahrenheit-451-bradbury.md) — Cold War fear, censorship, and conformity · WH.6_12.2 + WH.6_12.6 + R.8 · Literary Text
+- [Persepolis — Marjane Satrapi (2000)](../../../reading-library/ela/persepolis-satrapi.md) — Iranian Revolution through a child's eyes · WH.6_12.3 + WH.6_12.5 + R.8 · Literary Text
+- [Malala Yousafzai — UN Speech (2013)](../../../reading-library/social-studies/malala-un-speech.md) — Global education rights in the contemporary era · WH.6_12.2 + WH.6_12.6 + C.1 · Primary Source
 - [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — Letter from Birmingham + W.4 crosswalk available
 
 ---
 
 ## CrashCourse Episodes — Era 4
 
-- *WWI, WWII, Cold War, Decolonization episodes — coming soon*
+- *WWI, WWII, Cold War, Decolonization, Globalization episodes — coming soon*
 
 ---
 

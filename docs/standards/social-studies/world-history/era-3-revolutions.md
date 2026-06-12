@@ -230,22 +230,12 @@ The essential question running through this era: **When is revolution justified 
 
 ## Skinnies for Era 3
 
-- [French Revolution Argument](/skinnies/world-history/era-3/french-revolution-argument.md) — WH.6_12.3 + W.4: was the Terror a betrayal?
-- [Haitian Revolution](/skinnies/world-history/era-3/haitian-revolution.md) — WH.6_12.3 + WH.6_12.6: primary sources + past-to-present
-- [Industrial Revolution Sources](/skinnies/world-history/era-3/industrial-revolution-sources.md) — WH.6_12.4 + WH.6_12.5: competing accounts
-- [Enlightenment Ideology](/skinnies/world-history/era-3/enlightenment-ideology.md) — WH.6_12.2 + R.9: analyzing Enlightenment texts
-- [Columbian Exchange](/skinnies/world-history/era-3/columbian-exchange.md) — WH.6_12.4 + WH.6_12.5: causes and effects
-
----
-
-## Skinnies for Era 3
-
-- [WH.6_12.4 Revolution Social/Economic Skinny](../../../skinnies/world-history/era-3/wh-6-12-4-revolution-social-economic-skinny.md) — When Is Rebellion Justified? Social/economic forces behind revolution (WH.6_12.4 + W.4)
-- *WH.6_12.1 Revolution Science/Tech skinny — coming soon*
-- *WH.6_12.2 Reformation/Ideology skinny — coming soon*
-- *WH.6_12.3 Revolutionary Political Systems skinny — coming soon*
-- *WH.6_12.5 Imperialism Cause/Effect skinny — coming soon*
-- *WH.6_12.6 Revolution to Present skinny — coming soon*
+- [WH.6_12.1 Age of Revolutions: Science and Technology](../../../skinnies/world-history/era-3/wh-6-12-1-science-tech-era3-skinny.md) — Science, Technology, and the Scientific Revolution (WH.6_12.1 + R.4)
+- [WH.6_12.2 Age of Revolutions: Religion and Ideology](../../../skinnies/world-history/era-3/wh-6-12-2-religion-ideology-era3-skinny.md) — Religion, Ideology, and the Reformation (WH.6_12.2 + R.9)
+- [WH.6_12.3 Revolutionary Political Systems](../../../skinnies/world-history/era-3/wh-6-12-3-political-systems-era3-skinny.md) — Political Systems, Revolution, and the Nation-State (WH.6_12.3 + W.4)
+- [WH.6_12.4 Social and Economic Shifts](../../../skinnies/world-history/era-3/wh-6-12-4-revolution-social-economic-skinny.md) — The Age of Revolutions: Social and Economic Shifts (WH.6_12.4 + W.4)
+- [WH.6_12.5 Causes and Effects of Global Events](../../../skinnies/world-history/era-3/wh-6-12-5-causes-effects-era3-skinny.md) — Causes and Effects of Age of Revolutions Events (WH.6_12.5 + R.9)
+- [WH.6_12.6 Age of Revolutions Legacies](../../../skinnies/world-history/era-3/wh-6-12-6-past-present-era3-skinny.md) — Age of Revolutions: Legacies to the Present (WH.6_12.6 + W.3)
 
 ---
 
@@ -254,14 +244,20 @@ The essential question running through this era: **When is revolution justified 
 - [Common Sense — Thomas Paine (1776)](../../../reading-library/social-studies/common-sense-paine.md) — Revolutionary argument for independence · WH.6_12.3 + WH.6_12.4 + W.4 · Primary Source
 - [Declaration of the Rights of Man (1789)](../../../reading-library/social-studies/declaration-rights-man.md) — French Revolutionary founding document · WH.6_12.3 + WH.6_12.4 · Primary Source
 - [A Vindication of the Rights of Woman — Wollstonecraft (1792)](../../../reading-library/social-studies/wollstonecraft-vindication.md) — Enlightenment argument for women's equality · WH.6_12.4 + W.4 · Primary Source
-- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — ELA ↔ SS Crosswalk master table — Common Sense + W.4 crosswalk available
+- [Haitian Declaration of Independence (1804)](../../../reading-library/social-studies/haitian-declaration-independence.md) — First Black republic's founding document · WH.6_12.3 + WH.6_12.5 + R.9 · Primary Source
+- [The Communist Manifesto — Marx and Engels (1848)](../../../reading-library/social-studies/communist-manifesto.md) — Industrial-era revolutionary ideology · WH.6_12.2 + WH.6_12.4 + W.4 · Primary Source
+- [Narrative of the Life of Frederick Douglass (1845)](../../../reading-library/social-studies/narrative-frederick-douglass.md) — Slave narrative as argument and evidence · WH.6_12.4 + WH.6_12.5 + R.9 · Literary/Primary Source
+- ["The White Man's Burden" + H.T. Johnson Response (1899)](../../../reading-library/social-studies/kipling-white-mans-burden.md) — Pro- and anti-imperialist argument in verse · WH.6_12.4 + WH.6_12.5 + R.9 · Primary Sources
+- [The Jungle — Upton Sinclair (1906)](../../../reading-library/social-studies/jungle-sinclair.md) — Industrial labor conditions and reform · WH.6_12.4 + WH.6_12.5 + R.8 · Literary/Primary Source
+- ["Dulce et Decorum Est" — Wilfred Owen (1920)](../../../reading-library/social-studies/dulce-et-decorum-est.md) — Anti-war poem from WWI · WH.6_12.2 + WH.6_12.5 + R.7 · Primary Source
+- [ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) — Common Sense + W.4 crosswalk available
 
 ---
 
 ## CrashCourse Episodes — Era 3
 
-- [CC — French Revolution](../../../crashcourse/world-history/ep-33-french-revolution.md) — Causes, events, legacy (WH.6_12.3 + WH.6_12.5 + Era 3)
-- *Additional Era 3 episodes (Imperialism, Industrial Revolution, Age of Exploration) — coming soon*
+- [CC — The French Revolution](../../../crashcourse/world-history/ep-33-french-revolution.md) — Causes, events, and legacy of the French Revolution (WH.6_12.3 + WH.6_12.5 + Era 3)
+- *Haitian Revolution, Imperialism, Industrial Revolution, WWI episodes — coming soon*
 
 ---
 
