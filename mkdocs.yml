@@ -58,6 +58,9 @@ nav:
   - Home: index.md
   - How SDA Works:
     - Student Guide: commons/how-to-sda/index.md
+    - Exhibition Prep: commons/exhibition-prep.md
+    - How to Use the Reading Library: commons/how-to-use-reading-library.md
+    - FAQ: commons/faq.md
     - Studio Contract: commons/studio-contract-template.md
   - ELA Standards:
     - Gr 9-10 Scales: standards/ela/gr9-10-scales.md
