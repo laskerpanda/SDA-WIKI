@@ -137,7 +137,17 @@ These episodes map most directly to the SDA studio sequence:
 
 | # | Status |
 |---|--------|
-| 1 | stub (sample) |
-| 9 | stub (sample) |
-| 33 | stub (sample) |
-| 2–8, 10–42 | pending |
+| 1 | stub |
+| 9 | stub |
+| 15 | stub |
+| 23 | stub |
+| 24 | stub |
+| 25 | stub |
+| 31 | stub |
+| 33 | stub |
+| 37 | stub |
+| 38 | stub |
+| 40 | stub |
+| 41 | stub |
+| 42 | stub |
+| 2–8, 10–14, 16–22, 26–30, 32, 34–36, 39 | pending |
