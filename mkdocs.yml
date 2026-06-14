@@ -62,27 +62,57 @@ nav:
     - How to Use the Reading Library: commons/how-to-use-reading-library.md
     - FAQ: commons/faq.md
     - Studio Contract: commons/studio-contract-template.md
-  - ELA Standards:
-    - Gr 9-10 Scales: standards/ela/gr9-10-scales.md
-    - Priority by Studio: standards/ela/gr9-10-priority.md
-    - Writing Standards: standards/ela/writing-standards.md
-  - World History Standards:
-    - Overview: standards/social-studies/world-history/standards-overview.md
-    - Era 1 — Civilizations: standards/social-studies/world-history/era-1-civilizations.md
-    - Era 2 — Middle Ages: standards/social-studies/world-history/era-2-middle-ages.md
-    - Era 3 — Revolutions: standards/social-studies/world-history/era-3-revolutions.md
-    - Era 4 — Global War: standards/social-studies/world-history/era-4-global-war.md
-  - US History Standards:
-    - Overview: standards/social-studies/us-history/standards-overview.md
-    - Unit 1 — Industrial Revolution: standards/social-studies/us-history/unit-1-industrial.md
-    - Unit 2 — Imperialism & WWI: standards/social-studies/us-history/unit-2-imperialism-wwi.md
-    - Unit 3 — Roaring 20s: standards/social-studies/us-history/unit-3-roaring-20s.md
-    - Unit 4 — WWII: standards/social-studies/us-history/unit-4-wwii.md
-    - Unit 5 — Cold War: standards/social-studies/us-history/unit-5-cold-war.md
-    - Unit 6 — Civil Rights: standards/social-studies/us-history/unit-6-civil-rights.md
-    - Unit 7 — Vietnam Era: standards/social-studies/us-history/unit-7-vietnam.md
-    - Unit 8 — 1970s & 1980s: standards/social-studies/us-history/unit-8-1970s-1980s.md
-    - Unit 9 — 1990s-2000s: standards/social-studies/us-history/unit-9-1990s-2000s.md
+    - Studio Packets:
+      - Overview: units/studio-archive/index.md
+      - World History:
+        - WH-01 Who Should Govern: units/studio-archive/wh-01-who-should-govern.md
+        - WH-02 Rights Chain: units/studio-archive/wh-02-rights-chain.md
+        - WH-03 Writing Against Empire: units/studio-archive/wh-03-writing-against-empire.md
+        - WH-04 Reformation & Revolution: units/studio-archive/wh-04-reformation-and-revolution.md
+        - WH-05 The Cost of War: units/studio-archive/wh-05-the-cost-of-war.md
+        - WH-06 Connected World: units/studio-archive/wh-06-connected-world.md
+      - US History:
+        - USH-01 When the System Fails: units/studio-archive/ush-01-when-the-system-fails.md
+        - USH-02 Literature of Fear: units/studio-archive/ush-02-literature-of-fear.md
+    - Resource Bank:
+      - Overview: resources/index.md
+      - Primary Sources: resources/primary-sources/index.md
+      - FPS Framers: resources/fps-framers/index.md
+      - Ingest System: resources/ingest.md
+      - Studio Onboarding Form: resources/studio-onboarding-appsscript.md
+  - Gr 9 ELA & SS Crosswalk:
+    - Overview: crosswalk/gr9/index.md
+    - Era 1 — Civilizations: crosswalk/gr9/era-1.md
+    - Era 2 — Middle Ages: crosswalk/gr9/era-2.md
+    - Era 3 — Age of Revolutions: crosswalk/gr9/era-3.md
+    - Era 4 — Global War: crosswalk/gr9/era-4.md
+  - Gr 10 ELA & SS Crosswalk:
+    - Overview: crosswalk/gr10/index.md
+    - Units 1–3 — Industrial to Depression: crosswalk/gr10/units-1-3.md
+    - Units 4–6 — WWII, Cold War, Civil Rights: crosswalk/gr10/units-4-6.md
+    - Units 7–9 — Vietnam to Present: crosswalk/gr10/units-7-9.md
+  - Standards:
+    - ELA Gr 9-10:
+      - Gr 9-10 Scales: standards/ela/gr9-10-scales.md
+      - Priority by Studio: standards/ela/gr9-10-priority.md
+      - Writing Standards: standards/ela/writing-standards.md
+    - World History:
+      - Overview: standards/social-studies/world-history/standards-overview.md
+      - Era 1 — Civilizations: standards/social-studies/world-history/era-1-civilizations.md
+      - Era 2 — Middle Ages: standards/social-studies/world-history/era-2-middle-ages.md
+      - Era 3 — Revolutions: standards/social-studies/world-history/era-3-revolutions.md
+      - Era 4 — Global War: standards/social-studies/world-history/era-4-global-war.md
+    - US History:
+      - Overview: standards/social-studies/us-history/standards-overview.md
+      - Unit 1 — Industrial Revolution: standards/social-studies/us-history/unit-1-industrial.md
+      - Unit 2 — Imperialism & WWI: standards/social-studies/us-history/unit-2-imperialism-wwi.md
+      - Unit 3 — Roaring 20s: standards/social-studies/us-history/unit-3-roaring-20s.md
+      - Unit 4 — WWII: standards/social-studies/us-history/unit-4-wwii.md
+      - Unit 5 — Cold War: standards/social-studies/us-history/unit-5-cold-war.md
+      - Unit 6 — Civil Rights: standards/social-studies/us-history/unit-6-civil-rights.md
+      - Unit 7 — Vietnam Era: standards/social-studies/us-history/unit-7-vietnam.md
+      - Unit 8 — 1970s & 1980s: standards/social-studies/us-history/unit-8-1970s-1980s.md
+      - Unit 9 — 1990s-2000s: standards/social-studies/us-history/unit-9-1990s-2000s.md
   - Skinnies:
     - Skinny Library Index: skinnies/index.md
     - World History:
@@ -261,32 +291,3 @@ nav:
       - Ep 10 — WWII Home Front: crashcourse/us-history/ep-ush-10-wwii-home-front.md
       - Ep 11 — Civil Rights: crashcourse/us-history/ep-ush-11-civil-rights.md
       - Ep 12 — Vietnam & Watergate: crashcourse/us-history/ep-ush-12-vietnam-watergate.md
-  - Studio Packets:
-    - Overview: units/studio-archive/index.md
-    - World History:
-      - WH-01 Who Should Govern: units/studio-archive/wh-01-who-should-govern.md
-      - WH-02 Rights Chain: units/studio-archive/wh-02-rights-chain.md
-      - WH-03 Writing Against Empire: units/studio-archive/wh-03-writing-against-empire.md
-      - WH-04 Reformation & Revolution: units/studio-archive/wh-04-reformation-and-revolution.md
-      - WH-05 The Cost of War: units/studio-archive/wh-05-the-cost-of-war.md
-      - WH-06 Connected World: units/studio-archive/wh-06-connected-world.md
-    - US History:
-      - USH-01 When the System Fails: units/studio-archive/ush-01-when-the-system-fails.md
-      - USH-02 Literature of Fear: units/studio-archive/ush-02-literature-of-fear.md
-  - Gr 9 ELA & SS Crosswalk:
-    - Overview: crosswalk/gr9/index.md
-    - Era 1 — Civilizations: crosswalk/gr9/era-1.md
-    - Era 2 — Middle Ages: crosswalk/gr9/era-2.md
-    - Era 3 — Age of Revolutions: crosswalk/gr9/era-3.md
-    - Era 4 — Global War: crosswalk/gr9/era-4.md
-  - Gr 10 ELA & SS Crosswalk:
-    - Overview: crosswalk/gr10/index.md
-    - Units 1–3 — Industrial to Depression: crosswalk/gr10/units-1-3.md
-    - Units 4–6 — WWII, Cold War, Civil Rights: crosswalk/gr10/units-4-6.md
-    - Units 7–9 — Vietnam to Present: crosswalk/gr10/units-7-9.md
-  - Resource Bank:
-    - Overview: resources/index.md
-    - Primary Sources: resources/primary-sources/index.md
-    - FPS Framers: resources/fps-framers/index.md
-    - Ingest System: resources/ingest.md
-    - Studio Onboarding Form: resources/studio-onboarding-appsscript.md

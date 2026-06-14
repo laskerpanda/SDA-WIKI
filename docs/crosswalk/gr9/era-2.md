@@ -3,6 +3,9 @@
 **Grade 9 · World History Era 2 + ELA 9-10**
 **Span:** 500–1600 CE · Islamic Golden Age, Crusades, Mongol Empire, Renaissance, early Reformation
 
+!!! tip "Start here — one Demo, two standards"
+    **WH.6_12.3 + R.9 + W.4** — Read [Magna Carta](../../reading-library/social-studies/magna-carta.md). Analyze its claims about limiting government ([R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)). Argue whether limiting power is always justified ([W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)). That's WH.6_12.3 + two ELA standards in one Demo. Use the [WH.6_12.3 Skinny](../../skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md) to find your argument move.
+
 ---
 
 ## Standards Active This Era

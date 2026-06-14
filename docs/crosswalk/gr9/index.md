@@ -4,7 +4,7 @@
 
 This tab is the integration hub for Grade 9 SDA. Every Studio in Year 1 combines an English standard with a World History standard. This section organizes all wiki resources — reading library texts, CrashCourse episodes, skinnies, and studio packets — by era, so you can see everything relevant to one Studio in one place.
 
-> **How to use this:** Find the era your Studio is in. Everything on that page connects to each other.
+> **How to use this:** Find the era your Studio is in. Everything on that page connects to each other. Each era page has a **Start here** box at the top — that's the highest-leverage path if you're not sure where to begin.
 
 ---
 

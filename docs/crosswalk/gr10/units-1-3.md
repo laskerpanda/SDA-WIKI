@@ -3,6 +3,9 @@
 **Grade 10 · US History Units 1–3 + ELA 9-10**
 **Span:** 1870s–1930s · Industrialization · Progressive Era · Imperialism · WWI · Boom and Bust
 
+!!! tip "Start here — one Demo, two standards"
+    **US.6_12.4–5 + R.9 + W.4** — Read [*The Jungle*](../../reading-library/social-studies/jungle-sinclair.md). Analyze Sinclair's argument about labor conditions ([R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)). Write your own reform argument ([W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)). That's US.6_12.4 content + two ELA standards in one Demo. Use the [US.4 Unit 1 Skinny](../../skinnies/us-history/unit-1/us-6-12-4-social-economic-unit1-skinny.md) to find your argument move.
+
 ---
 
 ## Standards Active These Units

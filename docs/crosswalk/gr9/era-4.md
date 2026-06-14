@@ -3,6 +3,12 @@
 **Grade 9 · World History Era 4 + ELA 9-10**
 **Span:** 1900–present · WWI, WWII, Cold War, Decolonization, Globalization
 
+!!! tip "Start here — one Demo, two standards"
+    **Two paths depending on your inquiry:**
+
+    - **Literary angle → WH.6_12.2 + R.8** — Read [*Night*](../../reading-library/ela/night-wiesel.md). Analyze Wiesel's use of literary elements ([R.8 Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)). That's Holocaust evidence (WH.6_12.2) + R.8 in a single Demo.
+    - **Argument angle → WH.6_12.6 + R.9 + W.4** — Read [Malala's UN Speech](../../reading-library/social-studies/malala-un-speech.md). Analyze the argument ([R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)). Write your own position on what history requires of us now ([W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)).
+
 ---
 
 ## Standards Active This Era

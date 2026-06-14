@@ -3,6 +3,9 @@
 **Grade 9 · World History Era 1 + ELA 9-10**
 **Span:** Prehistory through 600 CE · Earliest civilizations, first religions, ancient empires
 
+!!! tip "Start here — one Demo, two standards"
+    **WH.6_12.3 + R.9 + W.4** — Read [Hammurabi's Code](../../reading-library/social-studies/hammurabi-code.md). Analyze its claims about who the law protects ([R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)). Write your own argument about who should govern ([W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)). That's WH.6_12.3 content + two ELA standards in one Demo. Use the [WH.6_12.3 Skinny](../../skinnies/world-history/era-1/wh-6-12-3-political-systems-era1-skinny.md) to find your argument move.
+
 ---
 
 ## Standards Active This Era

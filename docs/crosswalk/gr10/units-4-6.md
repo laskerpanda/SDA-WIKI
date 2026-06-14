@@ -3,6 +3,9 @@
 **Grade 10 · US History Units 4–6 + ELA 9-10**
 **Span:** 1930s–1970s · WWII · Cold War · Civil Rights Movement · Great Society
 
+!!! tip "Start here — one Demo, two standards"
+    **US.6_12.3 + R.9 + W.4** — Read [MLK's Letter from Birmingham Jail](../../reading-library/social-studies/mlk-letter-birmingham.md). Analyze his argument for civil disobedience ([R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)). Write your own argument about protest strategy ([W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)). That's US.6_12.3 + two ELA standards in one Demo. See the [Letter from Birmingham + W.4 Crosswalk](../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md) for a step-by-step guide. Use the [US.3 Unit 6 Skinny](../../skinnies/us-history/unit-6/us-6-12-3-political-systems-unit6-skinny.md) to find your argument move.
+
 ---
 
 ## Standards Active These Units

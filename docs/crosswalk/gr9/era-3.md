@@ -3,6 +3,9 @@
 **Grade 9 · World History Era 3 + ELA 9-10**
 **Span:** 1400–1900 · Exploration, Enlightenment, Atlantic Revolutions, Industrialization, Imperialism
 
+!!! tip "Start here — one Demo, two standards"
+    **WH.6_12.3 + R.9 + W.4** — Era 3 is the richest crosswalk era. Pick *any* text from the Reading Library table below — [Common Sense](../../reading-library/social-studies/common-sense-paine.md), [Wollstonecraft](../../reading-library/social-studies/wollstonecraft-vindication.md), [Douglass](../../reading-library/social-studies/narrative-frederick-douglass.md), or [Kipling+Johnson](../../reading-library/social-studies/kipling-white-mans-burden.md). Analyze the argument (R.9). Write your own position (W.4). Each one already is WH.6_12.3 primary source evidence. Use the [WH.6_12.3 Skinny](../../skinnies/world-history/era-3/wh-6-12-3-political-systems-era3-skinny.md) or the [Common Sense + W.4 Crosswalk](../../reading-library/crosswalk/common-sense-w4-crosswalk.md) to scaffold.
+
 ---
 
 ## Standards Active This Era

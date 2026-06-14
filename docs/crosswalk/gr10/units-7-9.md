@@ -3,6 +3,9 @@
 **Grade 10 · US History Units 7–9 + ELA 9-10**
 **Span:** 1960s–2000s · Vietnam · Watergate · Reagan Era · End of Cold War · 9/11 and After
 
+!!! tip "Start here — one Demo, two standards"
+    **US.6_12.6 + R.9 + W.4** — These units are the closest to your lived experience. Read [Malala's UN Speech](../../reading-library/social-studies/malala-un-speech.md) or [Mandela's Rivonia Speech](../../reading-library/social-studies/mandela-rivonia-speech.md). Analyze the argument ([R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)). Write your own answer to: *What does the past owe the present?* ([W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)). Use the [US.6 Unit 9 Skinny](../../skinnies/us-history/unit-9/us-6-12-6-past-present-unit9-skinny.md) — it's the capstone of the whole two-year arc.
+
 ---
 
 ## Standards Active These Units
