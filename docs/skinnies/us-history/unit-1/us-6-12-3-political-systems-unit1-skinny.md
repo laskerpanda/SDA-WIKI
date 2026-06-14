@@ -55,7 +55,7 @@ US.6_12.3 is about evaluating democratic institutions — not just listing refor
 
 ## Connect to Studio Packets
 
-- [USH-01 — When the System Fails](../../../../units/studio-archive/ush-01-when-the-system-fails.md)
+- [USH-01 — When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md)
 
 ---
 

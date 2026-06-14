@@ -49,8 +49,8 @@ US.6_12.6 in Unit 6 is about what "incomplete" means.
 
 ## Connect to Reading Library
 
-- [MLK — Letter from Birmingham Jail](../../../../reading-library/social-studies/mlk-letter-birmingham.md)
-- [Warriors Don't Cry — Beals](../../../../reading-library/ela/warriors-dont-cry.md)
+- [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md)
+- [Warriors Don't Cry — Beals](../../../reading-library/ela/warriors-dont-cry.md)
 
 ---
 

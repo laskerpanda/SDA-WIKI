@@ -52,7 +52,7 @@ US.6_12.3 in Unit 4 is about the paradox of protecting democracy by limiting it.
 
 ## Connect to Reading Library
 
-- [FDR — Four Freedoms](../../../../reading-library/social-studies/fdr-four-freedoms.md) — contrast with internment
+- [FDR — Four Freedoms](../../../reading-library/social-studies/fdr-four-freedoms.md) — contrast with internment
 
 ---
 

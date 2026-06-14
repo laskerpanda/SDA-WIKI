@@ -66,7 +66,7 @@ US.6_12.5 is where you show historical thinking, not just knowledge. The most po
 
 ## Connect to CrashCourse
 
-- [Ep USH-06 — Industrial Revolution](../../../../crashcourse/us-history/ep-ush-06-industrial-revolution.md)
+- [Ep USH-06 — Industrial Revolution](../../../crashcourse/us-history/ep-ush-06-industrial-revolution.md)
 
 ---
 

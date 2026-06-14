@@ -55,7 +55,7 @@ US.6_12.6 in Unit 4 is about institutional inheritance.
 
 ## Connect to Reading Library
 
-- [UN Declaration of Human Rights](../../../../reading-library/social-studies/un-declaration-human-rights.md) — WWII's primary ideological legacy; R.9
+- [UN Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md) — WWII's primary ideological legacy; R.9
 
 ---
 

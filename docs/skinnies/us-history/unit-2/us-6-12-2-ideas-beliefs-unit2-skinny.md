@@ -51,14 +51,14 @@ US.6_12.2 in Unit 2 is about interrogating official justifications. The most pow
 
 ## Connect to Reading Library
 
-- [Kipling + H.T. Johnson](../../../../reading-library/social-studies/kipling-white-mans-burden.md) — competing arguments about imperial ideology; R.9 + W.4
+- [Kipling + H.T. Johnson](../../../reading-library/social-studies/kipling-white-mans-burden.md) — competing arguments about imperial ideology; R.9 + W.4
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep WH-37 — Imperialism](../../../../crashcourse/world-history/ep-37-imperialism.md)
-- [Ep USH-08 — America and WWI](../../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
+- [Ep WH-37 — Imperialism](../../../crashcourse/world-history/ep-37-imperialism.md)
+- [Ep USH-08 — America and WWI](../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
 
 ---
 

@@ -54,7 +54,7 @@ US.6_12.1 in Unit 7 is about technology as truth-teller — or truth-revealer.
 
 ## Connect to CrashCourse
 
-- [Ep USH-12 — Vietnam and Watergate](../../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
+- [Ep USH-12 — Vietnam and Watergate](../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
 
 ---
 

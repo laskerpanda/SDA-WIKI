@@ -52,14 +52,14 @@ US.6_12.3 in Unit 6 is about the relationship between protest and policy.
 
 ## Connect to Reading Library
 
-- [MLK — Letter from Birmingham Jail](../../../../reading-library/social-studies/mlk-letter-birmingham.md)
-- [Warriors Don't Cry — Beals](../../../../reading-library/ela/warriors-dont-cry.md) — individual experience of legal change
+- [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md)
+- [Warriors Don't Cry — Beals](../../../reading-library/ela/warriors-dont-cry.md) — individual experience of legal change
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep USH-11 — Civil Rights Movement](../../../../crashcourse/us-history/ep-ush-11-civil-rights.md)
+- [Ep USH-11 — Civil Rights Movement](../../../crashcourse/us-history/ep-ush-11-civil-rights.md)
 
 ---
 

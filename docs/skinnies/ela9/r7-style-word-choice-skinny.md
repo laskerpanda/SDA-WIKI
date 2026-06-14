@@ -103,7 +103,6 @@ To reach a 4.0, you must evaluate patterns of style across a text — not analyz
 - [R.7 Scale](../../standards/ela/gr9-10-scales.md#9-10r7) — Full NDSBL scale for this standard
 - [R.8 Literary Elements](./r8-literary-elements-skinny.md) — Related: literary elements (character, symbolism, setting) are shaped by and expressed through style
 - [R.2 Comprehension](./r2-comprehension-inference-skinny.md) — Close reading foundation for style analysis
-- [W.1 Clear Writing](./w1-clear-writing-skinny.md) — Applying style analysis to your own writing
 - [MLK — Letter from Birmingham Jail](../../reading-library/social-studies/mlk-letter-birmingham.md) — Best single text for R.7 practice
 - [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Common Sense + W.4 crosswalk available
 

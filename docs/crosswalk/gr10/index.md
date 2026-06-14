@@ -71,7 +71,7 @@ The same standards from Grade 9 continue, with increased complexity expected:
 | [USH-01](../../units/studio-archive/ush-01-when-the-system-fails.md) | When an institution fails the people it's supposed to serve, what does it take to fix it? | 1–2, 6 |
 | [USH-02](../../units/studio-archive/ush-02-literature-of-fear.md) | What does a society's fiction reveal about its fears — and whose fears count? | 5 + WH Era 4 |
 
-> **Note:** USH Skinnies (54 total) are scheduled for October 2026. Unit crosswalk pages below link to the available WH Era 3–4 skinnies where they overlap.
+> **USH Skinnies are now available** — 54 skinnies across 9 units and 6 standards. Browse via the **Skinnies** tab above, or use the unit crosswalk pages below for standard × unit pairings.
 
 ---
 

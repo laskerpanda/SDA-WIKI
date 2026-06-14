@@ -43,6 +43,17 @@
 | WH.6_12.6 Era 4 | [Past to Present Era 4](../../skinnies/world-history/era-4/wh-6-12-6-past-present-era4-skinny.md) | Directly applicable — cold war → present connections |
 | WH.6_12.3 Era 4 | [Political Systems Era 4](../../skinnies/world-history/era-4/wh-6-12-3-political-systems-era4-skinny.md) | Democracy under pressure, decolonization — Unit 7–8 context |
 
+### USH Skinnies — Units 7–9
+
+| Standard | Unit 7 | Unit 8 | Unit 9 |
+|----------|--------|--------|--------|
+| US.1 Science & Tech | [Skinny](../../skinnies/us-history/unit-7/us-6-12-1-science-tech-unit7-skinny.md) | [Skinny](../../skinnies/us-history/unit-8/us-6-12-1-science-tech-unit8-skinny.md) | [Skinny](../../skinnies/us-history/unit-9/us-6-12-1-science-tech-unit9-skinny.md) |
+| US.2 Ideas & Beliefs | [Skinny](../../skinnies/us-history/unit-7/us-6-12-2-ideas-beliefs-unit7-skinny.md) | [Skinny](../../skinnies/us-history/unit-8/us-6-12-2-ideas-beliefs-unit8-skinny.md) | [Skinny](../../skinnies/us-history/unit-9/us-6-12-2-ideas-beliefs-unit9-skinny.md) |
+| US.3 Political Systems | [Skinny](../../skinnies/us-history/unit-7/us-6-12-3-political-systems-unit7-skinny.md) | [Skinny](../../skinnies/us-history/unit-8/us-6-12-3-political-systems-unit8-skinny.md) | [Skinny](../../skinnies/us-history/unit-9/us-6-12-3-political-systems-unit9-skinny.md) |
+| US.4 Social & Economic | [Skinny](../../skinnies/us-history/unit-7/us-6-12-4-social-economic-unit7-skinny.md) | [Skinny](../../skinnies/us-history/unit-8/us-6-12-4-social-economic-unit8-skinny.md) | [Skinny](../../skinnies/us-history/unit-9/us-6-12-4-social-economic-unit9-skinny.md) |
+| US.5 Causes & Effects | [Skinny](../../skinnies/us-history/unit-7/us-6-12-5-causes-effects-unit7-skinny.md) | [Skinny](../../skinnies/us-history/unit-8/us-6-12-5-causes-effects-unit8-skinny.md) | [Skinny](../../skinnies/us-history/unit-9/us-6-12-5-causes-effects-unit9-skinny.md) |
+| US.6 Past to Present | [Skinny](../../skinnies/us-history/unit-7/us-6-12-6-past-present-unit7-skinny.md) | [Skinny](../../skinnies/us-history/unit-8/us-6-12-6-past-present-unit8-skinny.md) | [Skinny](../../skinnies/us-history/unit-9/us-6-12-6-past-present-unit9-skinny.md) |
+
 ### ELA Skinnies — Strongest Pulls for Units 7–9
 | Standard | Skinny | When to Pull |
 |----------|--------|-------------|

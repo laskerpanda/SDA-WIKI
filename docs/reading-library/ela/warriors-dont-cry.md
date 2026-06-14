@@ -103,7 +103,6 @@ This memoir contains detailed descriptions of racial violence, targeted harassme
 - [Unit 6 — Civil Rights](../../standards/social-studies/us-history/unit-6-civil-rights.md)
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)
 - [MLK — Letter from Birmingham Jail](../social-studies/mlk-letter-birmingham.md)
-- [Just Mercy — Stevenson](./just-mercy-stevenson.md) *(coming soon)*
 
 ---
 

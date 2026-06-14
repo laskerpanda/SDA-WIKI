@@ -159,7 +159,14 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ## Skinnies for Unit 6
 
-*USH skinnies are Grade 10 content — coming October 2026.*
+| Standard | Skinny |
+|----------|--------|
+| US.1 Science & Tech | [Unit 6 Skinny](../../../skinnies/us-history/unit-6/us-6-12-1-science-tech-unit6-skinny.md) |
+| US.2 Ideas & Beliefs | [Unit 6 Skinny](../../../skinnies/us-history/unit-6/us-6-12-2-ideas-beliefs-unit6-skinny.md) |
+| US.3 Political Systems | [Unit 6 Skinny](../../../skinnies/us-history/unit-6/us-6-12-3-political-systems-unit6-skinny.md) |
+| US.4 Social & Economic | [Unit 6 Skinny](../../../skinnies/us-history/unit-6/us-6-12-4-social-economic-unit6-skinny.md) |
+| US.5 Causes & Effects | [Unit 6 Skinny](../../../skinnies/us-history/unit-6/us-6-12-5-causes-effects-unit6-skinny.md) |
+| US.6 Past to Present | [Unit 6 Skinny](../../../skinnies/us-history/unit-6/us-6-12-6-past-present-unit6-skinny.md) |
 
 ---
 

@@ -51,7 +51,7 @@ US.6_12.2 in Unit 6 is about a debate within a movement — and an argument abou
 
 ## Connect to Reading Library
 
-- [MLK — Letter from Birmingham Jail](../../../../reading-library/social-studies/mlk-letter-birmingham.md) — R.9 + W.4; [crosswalk guide](../../../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md)
+- [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) — R.9 + W.4; [crosswalk guide](../../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md)
 
 ---
 

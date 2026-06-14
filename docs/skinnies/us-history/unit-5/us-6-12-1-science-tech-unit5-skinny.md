@@ -52,14 +52,14 @@ US.6_12.1 in Unit 5 is about the relationship between technology and fear.
 
 ## Connect to Reading Library
 
-- [Fahrenheit 451 — Bradbury](../../../../reading-library/ela/fahrenheit-451-bradbury.md) — R.8; technology and conformism
-- [1984 — Orwell](../../../../reading-library/ela/orwell-1984.md) — R.8; surveillance state
+- [Fahrenheit 451 — Bradbury](../../../reading-library/ela/fahrenheit-451-bradbury.md) — R.8; technology and conformism
+- [1984 — Orwell](../../../reading-library/ela/orwell-1984.md) — R.8; surveillance state
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep WH-42 — The Cold War](../../../../crashcourse/world-history/ep-42-cold-war.md)
+- [Ep WH-42 — The Cold War](../../../crashcourse/world-history/ep-42-cold-war.md)
 
 ---
 

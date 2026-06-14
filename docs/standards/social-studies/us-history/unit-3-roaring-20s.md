@@ -153,7 +153,14 @@ This unit covers:
 
 ## Skinnies for Unit 3
 
-*USH skinnies are Grade 10 content — coming October 2026.*
+| Standard | Skinny |
+|----------|--------|
+| US.1 Science & Tech | [Unit 3 Skinny](../../../skinnies/us-history/unit-3/us-6-12-1-science-tech-unit3-skinny.md) |
+| US.2 Ideas & Beliefs | [Unit 3 Skinny](../../../skinnies/us-history/unit-3/us-6-12-2-ideas-beliefs-unit3-skinny.md) |
+| US.3 Political Systems | [Unit 3 Skinny](../../../skinnies/us-history/unit-3/us-6-12-3-political-systems-unit3-skinny.md) |
+| US.4 Social & Economic | [Unit 3 Skinny](../../../skinnies/us-history/unit-3/us-6-12-4-social-economic-unit3-skinny.md) |
+| US.5 Causes & Effects | [Unit 3 Skinny](../../../skinnies/us-history/unit-3/us-6-12-5-causes-effects-unit3-skinny.md) |
+| US.6 Past to Present | [Unit 3 Skinny](../../../skinnies/us-history/unit-3/us-6-12-6-past-present-unit3-skinny.md) |
 
 ---
 

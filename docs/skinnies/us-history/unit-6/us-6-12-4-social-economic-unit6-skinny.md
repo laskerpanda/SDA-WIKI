@@ -52,8 +52,8 @@ US.6_12.4 in Unit 6 is about the gap between legal change and lived experience.
 
 ## Connect to Reading Library
 
-- [Warriors Don't Cry — Beals](../../../../reading-library/ela/warriors-dont-cry.md) — R.8 + US.6_12.4
-- [MLK — Letter from Birmingham Jail](../../../../reading-library/social-studies/mlk-letter-birmingham.md)
+- [Warriors Don't Cry — Beals](../../../reading-library/ela/warriors-dont-cry.md) — R.8 + US.6_12.4
+- [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md)
 
 ---
 

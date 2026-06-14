@@ -53,7 +53,7 @@ US.6_12.6 in Unit 2 is about foreign policy continuity. The argument: *American 
 
 ## Connect to Reading Library
 
-- [Kipling + H.T. Johnson](../../../../reading-library/social-studies/kipling-white-mans-burden.md) — imperial ideology still relevant today
+- [Kipling + H.T. Johnson](../../../reading-library/social-studies/kipling-white-mans-burden.md) — imperial ideology still relevant today
 
 ---
 

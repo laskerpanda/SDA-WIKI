@@ -58,7 +58,7 @@ US.6_12.5 in Unit 6 is about strategic causation — the movement understood wha
 
 ## Connect to CrashCourse
 
-- [Ep USH-11 — Civil Rights Movement](../../../../crashcourse/us-history/ep-ush-11-civil-rights.md)
+- [Ep USH-11 — Civil Rights Movement](../../../crashcourse/us-history/ep-ush-11-civil-rights.md)
 
 ---
 

@@ -51,8 +51,8 @@ US.6_12.2 in Unit 4 is most powerful when you hold the contradiction.
 
 ## Connect to Reading Library
 
-- [FDR — Four Freedoms](../../../../reading-library/social-studies/fdr-four-freedoms.md) — R.9; war ideology
-- [Night — Wiesel](../../../../reading-library/ela/night-wiesel.md) — R.8; fascist ideology's human cost
+- [FDR — Four Freedoms](../../../reading-library/social-studies/fdr-four-freedoms.md) — R.9; war ideology
+- [Night — Wiesel](../../../reading-library/ela/night-wiesel.md) — R.8; fascist ideology's human cost
 
 ---
 

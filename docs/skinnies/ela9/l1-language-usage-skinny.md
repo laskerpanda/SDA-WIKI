@@ -123,7 +123,6 @@ Subordination shows relationships between ideas; overusing coordination flattens
 ## See Also
 
 - [L.1 Scale](../../standards/ela/gr9-10-scales.md#9-10l1) — Full NDSBL scale for this standard
-- [W.1 Clarity and Focus](./w1-clear-writing-skinny.md) — L.1 conventions serve clarity; W.1 is about clarity at the whole-piece level
 - [W.4 Argument Writing](./w4-argument-writing-skinny.md) — Argument writing benefits most from precise language and strong register
 - [C.1 Formal Presentation](./c1-formal-presentation-skinny.md) — Register and usage apply equally to spoken formal communication
 - [R.7 Style and Word Choice](./r7-style-word-choice-skinny.md) — Analyzing others' style choices develops your own

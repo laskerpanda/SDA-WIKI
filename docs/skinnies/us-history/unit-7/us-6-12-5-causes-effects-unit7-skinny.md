@@ -66,7 +66,7 @@ US.6_12.5 in Unit 7 is about compounding effects — one event making another po
 
 ## Connect to CrashCourse
 
-- [Ep USH-12 — Vietnam and Watergate](../../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
+- [Ep USH-12 — Vietnam and Watergate](../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
 
 ---
 

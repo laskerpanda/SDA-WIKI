@@ -58,14 +58,14 @@ US.6_12.4 is about who bears the costs of economic change. The richest argument 
 
 ## Connect to Reading Library
 
-- [The Jungle — Sinclair](../../../../reading-library/social-studies/jungle-sinclair.md) — social conditions in factory system; muckraker argument
+- [The Jungle — Sinclair](../../../reading-library/social-studies/jungle-sinclair.md) — social conditions in factory system; muckraker argument
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep USH-06 — Industrial Revolution](../../../../crashcourse/us-history/ep-ush-06-industrial-revolution.md)
-- [Ep USH-07 — Progressive Era](../../../../crashcourse/us-history/ep-ush-07-progressive-era.md)
+- [Ep USH-06 — Industrial Revolution](../../../crashcourse/us-history/ep-ush-06-industrial-revolution.md)
+- [Ep USH-07 — Progressive Era](../../../crashcourse/us-history/ep-ush-07-progressive-era.md)
 
 ---
 

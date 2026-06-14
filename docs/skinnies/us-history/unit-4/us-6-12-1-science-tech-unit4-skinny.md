@@ -53,14 +53,14 @@ US.6_12.1 in Unit 4 is about the moral responsibility that comes with technologi
 
 ## Connect to Reading Library
 
-- [FDR — Four Freedoms](../../../../reading-library/social-studies/fdr-four-freedoms.md) — what the war's technology was supposed to be for
+- [FDR — Four Freedoms](../../../reading-library/social-studies/fdr-four-freedoms.md) — what the war's technology was supposed to be for
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep USH-10 — WWII Home Front](../../../../crashcourse/us-history/ep-ush-10-wwii-home-front.md)
-- [Ep WH-40 — WWII Part 1](../../../../crashcourse/world-history/ep-40-wwii-1.md)
+- [Ep USH-10 — WWII Home Front](../../../crashcourse/us-history/ep-ush-10-wwii-home-front.md)
+- [Ep WH-40 — WWII Part 1](../../../crashcourse/world-history/ep-40-wwii-1.md)
 
 ---
 

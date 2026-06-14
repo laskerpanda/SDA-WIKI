@@ -97,7 +97,6 @@ These texts are exemplary W.3 models — they explain complex ideas clearly:
 
 - [W.3 Scale](../../standards/ela/writing-standards.md#9-10w3) — Full NDSBL scale for this standard
 - [W.4 Argument Writing](./w4-argument-writing-skinny.md) — Closely related: explanatory writing explains, argument writing persuades
-- [W.2 Organization](./w2-organization-skinny.md) — Structure is essential for explanatory clarity
 - [W.6 Writing Process](./w6-writing-process-skinny.md) — Using feedback to improve explanatory writing
 - [IR.1–5 Research Bundle](./ir1-5-research-bundle-skinny.md) — Finding and evaluating the sources your W.3 needs
 

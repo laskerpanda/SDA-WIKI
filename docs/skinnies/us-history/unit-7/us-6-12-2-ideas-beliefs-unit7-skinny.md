@@ -51,7 +51,7 @@ US.6_12.2 in Unit 7 is about ideology colliding with reality.
 
 ## Connect to CrashCourse
 
-- [Ep USH-12 — Vietnam and Watergate](../../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
+- [Ep USH-12 — Vietnam and Watergate](../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
 
 ---
 

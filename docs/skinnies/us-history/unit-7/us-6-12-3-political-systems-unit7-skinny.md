@@ -52,7 +52,7 @@ US.6_12.3 in Unit 7 is about institutional resilience — the system works, bare
 
 ## Connect to CrashCourse
 
-- [Ep USH-12 — Vietnam and Watergate](../../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
+- [Ep USH-12 — Vietnam and Watergate](../../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md)
 
 ---
 

@@ -56,14 +56,14 @@ US.6_12.2 in Unit 5 is about ideology creating its own dangers.
 
 ## Connect to Reading Library
 
-- [1984 — Orwell](../../../../reading-library/ela/orwell-1984.md) — R.8 + US.6_12.2
-- [Fahrenheit 451 — Bradbury](../../../../reading-library/ela/fahrenheit-451-bradbury.md) — R.8 + US.6_12.2
+- [1984 — Orwell](../../../reading-library/ela/orwell-1984.md) — R.8 + US.6_12.2
+- [Fahrenheit 451 — Bradbury](../../../reading-library/ela/fahrenheit-451-bradbury.md) — R.8 + US.6_12.2
 
 ---
 
 ## Connect to Studio Packets
 
-- [USH-02 — Literature of Fear](../../../../units/studio-archive/ush-02-literature-of-fear.md)
+- [USH-02 — Literature of Fear](../../../units/studio-archive/ush-02-literature-of-fear.md)
 
 ---
 

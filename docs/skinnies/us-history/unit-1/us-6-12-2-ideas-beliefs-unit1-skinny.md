@@ -50,7 +50,7 @@ US.6_12.2 asks you to analyze ideas as arguments. Social Darwinism wasn't just a
 
 ## Connect to Reading Library
 
-- [The Jungle — Sinclair](../../../../reading-library/social-studies/jungle-sinclair.md) — muckraker journalism as counter-ideology to Social Darwinism
+- [The Jungle — Sinclair](../../../reading-library/social-studies/jungle-sinclair.md) — muckraker journalism as counter-ideology to Social Darwinism
 
 ---
 

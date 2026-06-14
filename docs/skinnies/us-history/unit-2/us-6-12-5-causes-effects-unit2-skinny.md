@@ -79,8 +79,8 @@ US.6_12.5 in Unit 2 is richest when you trace unintended consequences. *The war 
 
 ## Connect to CrashCourse
 
-- [Ep USH-08 — America and WWI](../../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
-- [Ep WH-38 — World War I](../../../../crashcourse/world-history/ep-38-wwi.md)
+- [Ep USH-08 — America and WWI](../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
+- [Ep WH-38 — World War I](../../../crashcourse/world-history/ep-38-wwi.md)
 
 ---
 

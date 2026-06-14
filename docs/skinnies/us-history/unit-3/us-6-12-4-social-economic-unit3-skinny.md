@@ -56,7 +56,7 @@ US.6_12.4 in Unit 3 is about how crises reveal existing inequality.
 
 ## Connect to CrashCourse
 
-- [Ep USH-09 — Great Depression](../../../../crashcourse/us-history/ep-ush-09-great-depression.md)
+- [Ep USH-09 — Great Depression](../../../crashcourse/us-history/ep-ush-09-great-depression.md)
 
 ---
 

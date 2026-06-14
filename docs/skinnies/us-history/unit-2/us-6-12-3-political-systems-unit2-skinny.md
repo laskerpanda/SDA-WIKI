@@ -51,7 +51,7 @@ US.6_12.3 in Unit 2 asks: *what do democratic governments do when they believe t
 
 ## Connect to CrashCourse
 
-- [Ep USH-08 — America and WWI](../../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
+- [Ep USH-08 — America and WWI](../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
 
 ---
 

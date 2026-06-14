@@ -57,7 +57,7 @@ US.6_12.4 in Unit 5 is about the gap between the 1950s myth and the 1950s realit
 
 ## Connect to Reading Library
 
-- [Fahrenheit 451 — Bradbury](../../../../reading-library/ela/fahrenheit-451-bradbury.md) — conformism in postwar America; R.8
+- [Fahrenheit 451 — Bradbury](../../../reading-library/ela/fahrenheit-451-bradbury.md) — conformism in postwar America; R.8
 
 ---
 

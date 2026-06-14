@@ -53,8 +53,8 @@ US.6_12.6 is your chance to make history feel relevant. The strongest move: *fin
 
 ## Connect to CrashCourse
 
-- [Ep USH-06 — Industrial Revolution](../../../../crashcourse/us-history/ep-ush-06-industrial-revolution.md)
-- [Ep USH-07 — Progressive Era](../../../../crashcourse/us-history/ep-ush-07-progressive-era.md)
+- [Ep USH-06 — Industrial Revolution](../../../crashcourse/us-history/ep-ush-06-industrial-revolution.md)
+- [Ep USH-07 — Progressive Era](../../../crashcourse/us-history/ep-ush-07-progressive-era.md)
 
 ---
 

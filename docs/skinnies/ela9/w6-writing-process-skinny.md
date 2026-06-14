@@ -108,7 +108,6 @@ To reach a 4.0, you must use the writing process to identify and address problem
 - [W.6 Scale](../../standards/ela/writing-standards.md#9-10w6) — Full NDSBL scale for this standard
 - [W.4 Argument Writing](./w4-argument-writing-skinny.md) — The process applies to all writing types; W.4 is most commonly where process matters
 - [W.3 Explanatory Writing](./w3-explanatory-writing-skinny.md) — Process applies equally to explanatory writing
-- [W.2 Organization](./w2-organization-skinny.md) — Organization problems are often what revision needs to fix
 - [C.6 Discussion and Debate](./c6-discussion-debate-skinny.md) — Peer feedback in discussion is a form of the writing process
 
 ---

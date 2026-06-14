@@ -58,7 +58,7 @@ US.6_12.5 in Unit 5 invites argument about who "won" — and what that means.
 
 ## Connect to CrashCourse
 
-- [Ep WH-42 — The Cold War](../../../../crashcourse/world-history/ep-42-cold-war.md)
+- [Ep WH-42 — The Cold War](../../../crashcourse/world-history/ep-42-cold-war.md)
 
 ---
 

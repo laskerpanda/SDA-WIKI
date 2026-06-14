@@ -57,7 +57,7 @@ US.6_12.4 in Unit 2 asks whose social position changed and why. The richest argu
 
 ## Connect to Reading Library
 
-- [Dulce et Decorum Est — Owen](../../../../reading-library/social-studies/dulce-et-decorum-est.md) — the human cost of WWI; R.9
+- [Dulce et Decorum Est — Owen](../../../reading-library/social-studies/dulce-et-decorum-est.md) — the human cost of WWI; R.9
 
 ---
 

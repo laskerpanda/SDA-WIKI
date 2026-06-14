@@ -53,13 +53,13 @@ US.6_12.4 in Unit 4 is about the gap between promise and reality.
 
 ## Connect to Reading Library
 
-- [Night — Wiesel](../../../../reading-library/ela/night-wiesel.md) — R.8; social experience of fascism
+- [Night — Wiesel](../../../reading-library/ela/night-wiesel.md) — R.8; social experience of fascism
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep USH-10 — WWII Home Front](../../../../crashcourse/us-history/ep-ush-10-wwii-home-front.md)
+- [Ep USH-10 — WWII Home Front](../../../crashcourse/us-history/ep-ush-10-wwii-home-front.md)
 
 ---
 

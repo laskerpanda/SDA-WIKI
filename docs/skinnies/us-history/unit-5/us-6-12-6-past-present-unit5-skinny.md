@@ -49,8 +49,8 @@ US.6_12.6 in Unit 5 is about Cold War frameworks returning.
 
 ## Connect to Reading Library
 
-- [1984 — Orwell](../../../../reading-library/ela/orwell-1984.md) — surveillance state; still relevant
-- [Fahrenheit 451 — Bradbury](../../../../reading-library/ela/fahrenheit-451-bradbury.md) — censorship; conformism
+- [1984 — Orwell](../../../reading-library/ela/orwell-1984.md) — surveillance state; still relevant
+- [Fahrenheit 451 — Bradbury](../../../reading-library/ela/fahrenheit-451-bradbury.md) — censorship; conformism
 
 ---
 

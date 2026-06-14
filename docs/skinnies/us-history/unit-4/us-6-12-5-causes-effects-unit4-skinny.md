@@ -61,8 +61,8 @@ US.6_12.5 in Unit 4 invites a multi-level causal argument.
 
 ## Connect to CrashCourse
 
-- [Ep WH-40 — WWII Part 1](../../../../crashcourse/world-history/ep-40-wwii-1.md)
-- [Ep WH-41 — WWII Part 2](../../../../crashcourse/world-history/ep-41-wwii-2.md)
+- [Ep WH-40 — WWII Part 1](../../../crashcourse/world-history/ep-40-wwii-1.md)
+- [Ep WH-41 — WWII Part 2](../../../crashcourse/world-history/ep-41-wwii-2.md)
 
 ---
 

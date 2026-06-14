@@ -53,7 +53,16 @@ These are World History episodes covering the same time period with relevant con
 | WH.6_12.5 Era 3 | [Causes & Effects Era 3](../../skinnies/world-history/era-3/wh-6-12-5-causes-effects-era3-skinny.md) | Imperialism causes and effects |
 | WH.6_12.5 Era 4 | [Causes & Effects Era 4](../../skinnies/world-history/era-4/wh-6-12-5-causes-effects-era4-skinny.md) | WWI causes — directly applicable to Unit 2 |
 
-> **Note:** US History skinnies (54 total) are scheduled for October 2026. Use WH Era 3–4 skinnies in the meantime for skills support.
+### USH Skinnies — Units 1–3
+
+| Standard | Unit 1 | Unit 2 | Unit 3 |
+|----------|--------|--------|--------|
+| US.1 Science & Tech | [Skinny](../../skinnies/us-history/unit-1/us-6-12-1-science-tech-unit1-skinny.md) | [Skinny](../../skinnies/us-history/unit-2/us-6-12-1-science-tech-unit2-skinny.md) | [Skinny](../../skinnies/us-history/unit-3/us-6-12-1-science-tech-unit3-skinny.md) |
+| US.2 Ideas & Beliefs | [Skinny](../../skinnies/us-history/unit-1/us-6-12-2-ideas-beliefs-unit1-skinny.md) | [Skinny](../../skinnies/us-history/unit-2/us-6-12-2-ideas-beliefs-unit2-skinny.md) | [Skinny](../../skinnies/us-history/unit-3/us-6-12-2-ideas-beliefs-unit3-skinny.md) |
+| US.3 Political Systems | [Skinny](../../skinnies/us-history/unit-1/us-6-12-3-political-systems-unit1-skinny.md) | [Skinny](../../skinnies/us-history/unit-2/us-6-12-3-political-systems-unit2-skinny.md) | [Skinny](../../skinnies/us-history/unit-3/us-6-12-3-political-systems-unit3-skinny.md) |
+| US.4 Social & Economic | [Skinny](../../skinnies/us-history/unit-1/us-6-12-4-social-economic-unit1-skinny.md) | [Skinny](../../skinnies/us-history/unit-2/us-6-12-4-social-economic-unit2-skinny.md) | [Skinny](../../skinnies/us-history/unit-3/us-6-12-4-social-economic-unit3-skinny.md) |
+| US.5 Causes & Effects | [Skinny](../../skinnies/us-history/unit-1/us-6-12-5-causes-effects-unit1-skinny.md) | [Skinny](../../skinnies/us-history/unit-2/us-6-12-5-causes-effects-unit2-skinny.md) | [Skinny](../../skinnies/us-history/unit-3/us-6-12-5-causes-effects-unit3-skinny.md) |
+| US.6 Past to Present | [Skinny](../../skinnies/us-history/unit-1/us-6-12-6-past-present-unit1-skinny.md) | [Skinny](../../skinnies/us-history/unit-2/us-6-12-6-past-present-unit2-skinny.md) | [Skinny](../../skinnies/us-history/unit-3/us-6-12-6-past-present-unit3-skinny.md) |
 
 ### ELA Skinnies — Strongest Pulls for Units 1–3
 | Standard | Skinny | When to Pull |

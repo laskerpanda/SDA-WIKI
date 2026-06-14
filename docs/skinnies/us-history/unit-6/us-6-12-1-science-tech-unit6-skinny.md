@@ -53,7 +53,7 @@ US.6_12.1 in Unit 6 is about technology as a tool of social change.
 
 ## Connect to Reading Library
 
-- [MLK — Letter from Birmingham Jail](../../../../reading-library/social-studies/mlk-letter-birmingham.md)
+- [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md)
 
 ---
 

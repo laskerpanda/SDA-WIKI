@@ -65,7 +65,7 @@ US.6_12.5 in Unit 3 invites a causal argument about complexity.
 
 ## Connect to CrashCourse
 
-- [Ep USH-09 — Great Depression](../../../../crashcourse/us-history/ep-ush-09-great-depression.md)
+- [Ep USH-09 — Great Depression](../../../crashcourse/us-history/ep-ush-09-great-depression.md)
 
 ---
 

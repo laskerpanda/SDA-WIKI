@@ -51,13 +51,13 @@ When you write about US.6_12.1, you're not just describing technology — you're
 
 ## Connect to Reading Library
 
-- [The Jungle — Sinclair](../../../../reading-library/social-studies/jungle-sinclair.md) — technology and labor conditions; factory system as argument
+- [The Jungle — Sinclair](../../../reading-library/social-studies/jungle-sinclair.md) — technology and labor conditions; factory system as argument
 
 ---
 
 ## Connect to Studio Packets
 
-- [USH-01 — When the System Fails](../../../../units/studio-archive/ush-01-when-the-system-fails.md)
+- [USH-01 — When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md)
 
 ---
 

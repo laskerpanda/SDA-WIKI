@@ -104,7 +104,6 @@ These texts are exemplary argument models — read them as *how to argue*, not j
 - [W.4 Scale](../../standards/ela/writing-standards.md#9-10w4) — Full NDSBL scale for this standard
 - [W.3 Explanatory Writing](./w3-explanatory-writing-skinny.md) — Closely related: argument persuades, explanation informs
 - [R.9 Informational/Argumentative](./r9-informational-argumentative-skinny.md) — Reading argument well makes you write it better
-- [W.2 Organization](./w2-organization-skinny.md) — Argument needs structure to be persuasive
 - [IR.1–5 Research Bundle](./ir1-5-research-bundle-skinny.md) — Finding the evidence your argument needs
 - [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — W.4 crosswalk using Birmingham Letter
 

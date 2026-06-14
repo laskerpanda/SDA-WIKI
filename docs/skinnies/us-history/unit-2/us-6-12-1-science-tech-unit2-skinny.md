@@ -52,14 +52,14 @@ Technology in Unit 2 is most powerful as a cause-and-effect argument: *the same 
 
 ## Connect to Reading Library
 
-- [Dulce et Decorum Est — Owen](../../../../reading-library/social-studies/dulce-et-decorum-est.md) — technology of war; R.9
+- [Dulce et Decorum Est — Owen](../../../reading-library/social-studies/dulce-et-decorum-est.md) — technology of war; R.9
 
 ---
 
 ## Connect to CrashCourse
 
-- [Ep USH-08 — America and WWI](../../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
-- [Ep WH-38 — World War I](../../../../crashcourse/world-history/ep-38-wwi.md)
+- [Ep USH-08 — America and WWI](../../../crashcourse/us-history/ep-ush-08-wwi-american.md)
+- [Ep WH-38 — World War I](../../../crashcourse/world-history/ep-38-wwi.md)
 
 ---
 
