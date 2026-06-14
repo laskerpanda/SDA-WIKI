@@ -22,7 +22,7 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
-    - toc.follow
+    - toc.integrate
 
 extra_css:
   - assets/sda-theme.css
@@ -84,14 +84,50 @@ nav:
     - Unit 8 — 1970s & 1980s: standards/social-studies/us-history/unit-8-1970s-1980s.md
     - Unit 9 — 1990s-2000s: standards/social-studies/us-history/unit-9-1990s-2000s.md
   - Skinnies:
+    - Skinny Library Index: skinnies/index.md
     - World History:
-      - Era 1 — Civilizations: skinnies/world-history/era-1/
-      - Era 2 — Middle Ages: skinnies/world-history/era-2/
-      - Era 3 — Revolutions: skinnies/world-history/era-3/
-      - Era 4 — Global War: skinnies/world-history/era-4/
-    - ELA Gr 9: skinnies/ela9/
-    - ELA Gr 10: skinnies/ela10/
-    - US History: skinnies/us-history/
+      - Era 1 — Civilizations:
+        - WH.1 Science & Tech: skinnies/world-history/era-1/wh-6-12-1-science-tech-era1-skinny.md
+        - WH.2 Belief Systems: skinnies/world-history/era-1/wh-6-12-2-belief-systems-skinny.md
+        - WH.3 Political Systems: skinnies/world-history/era-1/wh-6-12-3-political-systems-era1-skinny.md
+        - WH.4 Social & Cultural: skinnies/world-history/era-1/wh-6-12-4-social-cultural-era1-skinny.md
+        - WH.5 Causes & Effects: skinnies/world-history/era-1/wh-6-12-5-causes-effects-era1-skinny.md
+        - WH.6 Past to Present: skinnies/world-history/era-1/wh-6-12-6-past-present-era1-skinny.md
+      - Era 2 — Middle Ages:
+        - WH.1 Science & Tech: skinnies/world-history/era-2/wh-6-12-1-science-tech-era2-skinny.md
+        - WH.2 Religion & Ideology: skinnies/world-history/era-2/wh-6-12-2-religion-ideology-era2-skinny.md
+        - WH.3 Medieval Political: skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md
+        - WH.4 Social & Cultural: skinnies/world-history/era-2/wh-6-12-4-social-cultural-era2-skinny.md
+        - WH.5 Causes & Effects: skinnies/world-history/era-2/wh-6-12-5-causes-effects-era2-skinny.md
+        - WH.6 Past to Present: skinnies/world-history/era-2/wh-6-12-6-past-present-era2-skinny.md
+      - Era 3 — Revolutions:
+        - WH.1 Science & Tech: skinnies/world-history/era-3/wh-6-12-1-science-tech-era3-skinny.md
+        - WH.2 Religion & Ideology: skinnies/world-history/era-3/wh-6-12-2-religion-ideology-era3-skinny.md
+        - WH.3 Political Systems: skinnies/world-history/era-3/wh-6-12-3-political-systems-era3-skinny.md
+        - WH.4 Social & Economic: skinnies/world-history/era-3/wh-6-12-4-revolution-social-economic-skinny.md
+        - WH.5 Causes & Effects: skinnies/world-history/era-3/wh-6-12-5-causes-effects-era3-skinny.md
+        - WH.6 Past to Present: skinnies/world-history/era-3/wh-6-12-6-past-present-era3-skinny.md
+      - Era 4 — Global War:
+        - WH.1 Science & Tech: skinnies/world-history/era-4/wh-6-12-1-science-tech-era4-skinny.md
+        - WH.2 Religion & Ideology: skinnies/world-history/era-4/wh-6-12-2-religion-ideology-era4-skinny.md
+        - WH.3 Political Systems: skinnies/world-history/era-4/wh-6-12-3-political-systems-era4-skinny.md
+        - WH.4 Social & Cultural: skinnies/world-history/era-4/wh-6-12-4-social-cultural-era4-skinny.md
+        - WH.5 Causes & Effects: skinnies/world-history/era-4/wh-6-12-5-causes-effects-era4-skinny.md
+        - WH.6 Past to Present: skinnies/world-history/era-4/wh-6-12-6-past-present-era4-skinny.md
+    - ELA Gr 9:
+      - R.2 Comprehension & Inference: skinnies/ela9/r2-comprehension-inference-skinny.md
+      - R.4 Main Idea & Theme: skinnies/ela9/r4-main-idea-theme-skinny.md
+      - R.7 Style & Word Choice: skinnies/ela9/r7-style-word-choice-skinny.md
+      - R.8 Literary Elements: skinnies/ela9/r8-literary-elements-skinny.md
+      - R.9 Informational & Argumentative: skinnies/ela9/r9-informational-argumentative-skinny.md
+      - W.3 Explanatory Writing: skinnies/ela9/w3-explanatory-writing-skinny.md
+      - W.4 Argument Writing: skinnies/ela9/w4-argument-writing-skinny.md
+      - W.6 Writing Process: skinnies/ela9/w6-writing-process-skinny.md
+      - L.1 Language Usage: skinnies/ela9/l1-language-usage-skinny.md
+      - C.1 Formal Presentation: skinnies/ela9/c1-formal-presentation-skinny.md
+      - C.6 Discussion & Debate: skinnies/ela9/c6-discussion-debate-skinny.md
+      - IR.1-5 Research Bundle: skinnies/ela9/ir1-5-research-bundle-skinny.md
+    - Template: skinnies/templates/skinny-template.md
   - Reading Library:
     - Index: reading-library/index.md
     - Social Studies:
