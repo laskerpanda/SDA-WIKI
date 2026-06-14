@@ -130,16 +130,39 @@ nav:
     - Template: skinnies/templates/skinny-template.md
   - Reading Library:
     - Index: reading-library/index.md
-    - Social Studies:
+    - Social Studies — Era 1:
       - Hammurabi's Code: reading-library/social-studies/hammurabi-code.md
+      - Analects of Confucius: reading-library/social-studies/analects-confucius.md
+      - Pericles' Funeral Oration: reading-library/social-studies/pericles-funeral-oration.md
+      - Melian Dialogue: reading-library/social-studies/melian-dialogue.md
+    - Social Studies — Era 2:
       - Magna Carta: reading-library/social-studies/magna-carta.md
+      - Ibn Battuta — Rihla: reading-library/social-studies/ibn-battuta-rihla.md
+      - Luther — 95 Theses: reading-library/social-studies/luther-95-theses.md
+      - Las Casas — Short Account: reading-library/social-studies/las-casas-short-account.md
+    - Social Studies — Era 3:
       - Common Sense — Paine: reading-library/social-studies/common-sense-paine.md
       - Declaration of Rights of Man: reading-library/social-studies/declaration-rights-man.md
       - Wollstonecraft — Vindication: reading-library/social-studies/wollstonecraft-vindication.md
+      - Haitian Declaration: reading-library/social-studies/haitian-declaration-independence.md
+      - Communist Manifesto: reading-library/social-studies/communist-manifesto.md
+      - Douglass — Narrative: reading-library/social-studies/narrative-frederick-douglass.md
+      - Kipling + Johnson: reading-library/social-studies/kipling-white-mans-burden.md
+      - The Jungle — Sinclair: reading-library/social-studies/jungle-sinclair.md
+      - Dulce et Decorum Est: reading-library/social-studies/dulce-et-decorum-est.md
+    - Social Studies — Era 4 & USH:
       - MLK — Letter from Birmingham: reading-library/social-studies/mlk-letter-birmingham.md
+      - FDR — Four Freedoms: reading-library/social-studies/fdr-four-freedoms.md
+      - UN Declaration of Human Rights: reading-library/social-studies/un-declaration-human-rights.md
+      - Mandela — Rivonia Speech: reading-library/social-studies/mandela-rivonia-speech.md
+      - Malala — UN Speech: reading-library/social-studies/malala-un-speech.md
     - ELA Texts:
+      - Julius Caesar — Shakespeare: reading-library/ela/julius-caesar-shakespeare.md
       - Night — Wiesel: reading-library/ela/night-wiesel.md
+      - Fahrenheit 451 — Bradbury: reading-library/ela/fahrenheit-451-bradbury.md
       - 1984 — Orwell: reading-library/ela/orwell-1984.md
+      - Warriors Don't Cry — Beals: reading-library/ela/warriors-dont-cry.md
+      - Persepolis — Satrapi: reading-library/ela/persepolis-satrapi.md
     - ELA ↔ SS Crosswalk:
       - Master Crosswalk Table: reading-library/crosswalk/crosswalk-ela-ss.md
       - Common Sense + W.4: reading-library/crosswalk/common-sense-w4-crosswalk.md
@@ -167,6 +190,25 @@ nav:
       - Ep 03 — Thanksgiving: crashcourse/us-history/ep-ush-03-thanksgiving.md
       - Ep 04 — Quakers and Dutch: crashcourse/us-history/ep-ush-04-quakers-dutch.md
       - Ep 05 — Seven Years War: crashcourse/us-history/ep-ush-05-seven-years-war.md
+      - Ep 06 — Industrial Revolution: crashcourse/us-history/ep-ush-06-industrial-revolution.md
+      - Ep 07 — Progressive Era: crashcourse/us-history/ep-ush-07-progressive-era.md
+      - Ep 08 — America and WWI: crashcourse/us-history/ep-ush-08-wwi-american.md
+      - Ep 09 — Great Depression: crashcourse/us-history/ep-ush-09-great-depression.md
+      - Ep 10 — WWII Home Front: crashcourse/us-history/ep-ush-10-wwii-home-front.md
+      - Ep 11 — Civil Rights: crashcourse/us-history/ep-ush-11-civil-rights.md
+      - Ep 12 — Vietnam & Watergate: crashcourse/us-history/ep-ush-12-vietnam-watergate.md
+  - Studio Packets:
+    - Overview: units/studio-archive/index.md
+    - World History:
+      - WH-01 Who Should Govern: units/studio-archive/wh-01-who-should-govern.md
+      - WH-02 Rights Chain: units/studio-archive/wh-02-rights-chain.md
+      - WH-03 Writing Against Empire: units/studio-archive/wh-03-writing-against-empire.md
+      - WH-04 Reformation & Revolution: units/studio-archive/wh-04-reformation-and-revolution.md
+      - WH-05 The Cost of War: units/studio-archive/wh-05-the-cost-of-war.md
+      - WH-06 Connected World: units/studio-archive/wh-06-connected-world.md
+    - US History:
+      - USH-01 When the System Fails: units/studio-archive/ush-01-when-the-system-fails.md
+      - USH-02 Literature of Fear: units/studio-archive/ush-02-literature-of-fear.md
   - Gr 9 ELA & SS Crosswalk:
     - Overview: crosswalk/gr9/index.md
     - Era 1 — Civilizations: crosswalk/gr9/era-1.md

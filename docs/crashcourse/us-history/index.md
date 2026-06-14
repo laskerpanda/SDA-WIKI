@@ -30,10 +30,19 @@
 
 ---
 
-## Episode Stubs (Phase 2 Priority)
+## All Episodes with Wiki Entries
 
-- [Ep Ush 01 Black Legend](/ep-ush-01-black-legend.md) — completed stub
-- [Ep Ush 02 Natives English](/ep-ush-02-natives-english.md) — completed stub
-- [Ep Ush 03 Thanksgiving](/ep-ush-03-thanksgiving.md) — completed stub
-- [Ep Ush 04 Quakers Dutch](/ep-ush-04-quakers-dutch.md) — completed stub
-- [Ep Ush 05 Seven Years War](/ep-ush-05-seven-years-war.md) — completed stub
+| File | Topic | USH Unit | Status |
+|------|-------|----------|--------|
+| [ep-ush-01](ep-ush-01-black-legend.md) | Black Legend, Native Americans & Spaniards | Colonial | stub |
+| [ep-ush-02](ep-ush-02-natives-english.md) | Natives and the English | Colonial | stub |
+| [ep-ush-03](ep-ush-03-thanksgiving.md) | When is Thanksgiving? | Colonial | stub |
+| [ep-ush-04](ep-ush-04-quakers-dutch.md) | Quakers, Dutch & the Ladies | Colonial | stub |
+| [ep-ush-05](ep-ush-05-seven-years-war.md) | Seven Years War & Great Awakening | Colonial | stub |
+| [ep-ush-06](ep-ush-06-industrial-revolution.md) | Industrial Revolution & Labor | Unit 1 | ✅ complete |
+| [ep-ush-07](ep-ush-07-progressive-era.md) | Progressive Era & Muckrakers | Unit 1 | ✅ complete |
+| [ep-ush-08](ep-ush-08-wwi-american.md) | America and World War I | Unit 2 | ✅ complete |
+| [ep-ush-09](ep-ush-09-great-depression.md) | The Great Depression & New Deal | Unit 3 | ✅ complete |
+| [ep-ush-10](ep-ush-10-wwii-home-front.md) | WWII and the American Home Front | Unit 4 | ✅ complete |
+| [ep-ush-11](ep-ush-11-civil-rights.md) | The Civil Rights Movement | Unit 6 | ✅ complete |
+| [ep-ush-12](ep-ush-12-vietnam-watergate.md) | Vietnam and Watergate | Unit 7 | ✅ complete |
