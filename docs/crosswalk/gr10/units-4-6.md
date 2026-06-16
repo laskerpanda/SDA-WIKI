@@ -35,6 +35,10 @@
 | *1984* — George Orwell (1949) | US.6_12.2–3 + Unit 5 | R.8 — literary elements; W.4 — surveillance/conformism | [Open](../../reading-library/ela/orwell-1984.md) |
 | MLK — Letter from Birmingham Jail (1963) | US.6_12.3–4 + Unit 6 | R.9 + W.4 mentor text — argument for civil disobedience | [Open](../../reading-library/social-studies/mlk-letter-birmingham.md) |
 | *Warriors Don't Cry* — Melba Beals (1994) | US.6_12.3 + Unit 6 | R.8 — memoir elements; W.3 — explain integration experience | [Open](../../reading-library/ela/warriors-dont-cry.md) |
+| *Slaughterhouse-Five* — Kurt Vonnegut (1969) | US.6_12.5 + Unit 4 | R.8 — anti-war satire, non-linear narrative; W.4 — was Dresden justified? | [Open](../../reading-library/ela/slaughterhouse-five-vonnegut.md) |
+| *A Raisin in the Sun* — Lorraine Hansberry (1959) | US.6_12.3 + Unit 6 | R.8 — dramatic structure, character foils; W.4 — housing integration argument | [Open](../../reading-library/ela/raisin-in-the-sun-hansberry.md) |
+| *To Kill a Mockingbird* — Harper Lee (1960) | US.6_12.3 + US.6_12.4 + Unit 6 | R.8 — point of view, moral argument; W.4 — what justice requires | [Open](../../reading-library/ela/to-kill-a-mockingbird-lee.md) |
+| *I Know Why the Caged Bird Sings* — Maya Angelou (1969) | US.6_12.4 + Units 5–6 | R.8 — memoir, lyrical voice; W.3 — what Jim Crow required of individuals | [Open](../../reading-library/ela/caged-bird-sings-angelou.md) |
 
 **Highest-leverage crosswalk texts Units 4–6:**
 - **MLK "Letter from Birmingham Jail"** — [Letter from Birmingham + W.4 Crosswalk](../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md)
@@ -49,6 +53,17 @@
 | Ep 40 | WWII Part 1 — Origins & Pacific | Unit 4 directly | [Watch guide](../../crashcourse/world-history/ep-40-wwii-1.md) |
 | Ep 41 | WWII Part 2 — Europe & Holocaust | Unit 4 directly | [Watch guide](../../crashcourse/world-history/ep-41-wwii-2.md) |
 | Ep 42 | The Cold War | Unit 5 directly — McCarthyism, proxy wars, ideology | [Watch guide](../../crashcourse/world-history/ep-42-cold-war.md) |
+
+## CrashCourse Literature — Units 4–6
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *Slaughterhouse-Five* | Dresden firebombing, WWII's human cost — the anti-war argument inside fiction | US.6_12.5 + Unit 4 + R.8 | [Episode guide](../../crashcourse/literature/slaughterhouse-five-vonnegut.md) |
+| *Fahrenheit 451* | McCarthyism, censorship, Cold War fear of conformism | US.6_12.2 + Unit 5 + R.8 | [Episode guide](../../crashcourse/literature/fahrenheit-451-bradbury.md) |
+| *1984* | Cold War totalitarian ideology, surveillance state, the mechanics of control | US.6_12.2 + Unit 5 + R.8 | [Episode guide](../../crashcourse/literature/1984-orwell.md) |
+| *A Raisin in the Sun* | Housing discrimination, Civil Rights era aspirations, the Younger family's choice | US.6_12.3 + Unit 6 + R.8 | [Episode guide](../../crashcourse/literature/raisin-in-the-sun-hansberry.md) |
+| *To Kill a Mockingbird* | Jim Crow courts, racial injustice, Scout's point of view — seeing injustice through a child's eyes | US.6_12.3 + Unit 6 + R.8 | [Episode guide](../../crashcourse/literature/to-kill-a-mockingbird-lee.md) |
+| *I Know Why the Caged Bird Sings* | Jim Crow childhood, Black resilience and dignity — memoir as witness | US.6_12.4 + Units 5–6 + R.8 | [Episode guide](../../crashcourse/literature/caged-bird-sings-angelou.md) |
 
 ---
 

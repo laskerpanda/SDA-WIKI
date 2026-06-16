@@ -31,8 +31,10 @@
 | Upton Sinclair — *The Jungle* selections (1906) | US.6_12.4–5 + Unit 1 | R.9 — muckraker argument structure; W.4 — reform argument | [Open](../../reading-library/social-studies/jungle-sinclair.md) |
 | Kipling — "White Man's Burden" + H.T. Johnson (1899) | US.6_12.4 + Unit 2 | R.9 — compare imperial arguments; W.4 — rebuttal writing | [Open](../../reading-library/social-studies/kipling-white-mans-burden.md) |
 | Wilfred Owen — "Dulce et Decorum Est" (1917) | US.6_12.5 + Unit 2 | R.9 — poetic argument; W.4 — anti-war position | [Open](../../reading-library/social-studies/dulce-et-decorum-est.md) |
-
-> **Note:** Additional Unit 3 texts (Langston Hughes, etc.) are not yet in the reading library. Check back as the library grows.
+| *Moby Dick* — Herman Melville (1851) | US.6_12.4 + US.6_12.1 + Unit 1 | R.8 — epic structure, symbolism; W.4 — obsession as American ideology | [Open](../../reading-library/ela/moby-dick-melville.md) |
+| *Beloved* — Toni Morrison (1987, set 1873) | US.6_12.4 + US.6_12.5 + Unit 1 | R.8 — non-linear narrative, trauma; W.4 — what slavery required of survivors | [Open](../../reading-library/ela/beloved-morrison.md) |
+| *The Great Gatsby* — F. Scott Fitzgerald (1925) | US.6_12.4 + US.6_12.1 + Unit 3 | R.8 — symbolism, unreliable narrator; W.4 — American Dream argument | [Open](../../reading-library/ela/great-gatsby-fitzgerald.md) |
+| *Their Eyes Were Watching God* — Zora Neale Hurston (1937) | US.6_12.4 + US.6_12.3 + Unit 3 | R.8 — voice and dialect as literary choice; W.3 — Black life in the Jim Crow South | [Open](../../reading-library/ela/their-eyes-were-watching-god-hurston.md) |
 
 ---
 
@@ -44,6 +46,15 @@ These are World History episodes covering the same time period with relevant con
 |---------|-------|-----------|------|
 | Ep 37 | Imperialism | American imperialism context; Kipling + H.T. Johnson | [Watch guide](../../crashcourse/world-history/ep-37-imperialism.md) |
 | Ep 38 | World War I | WWI causes and effects — Unit 2 directly | [Watch guide](../../crashcourse/world-history/ep-38-wwi.md) |
+
+## CrashCourse Literature — Units 1–3
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *Moby Dick* | 19th-century whaling industry, American obsession, the cost of ambition | US.6_12.4 + US.6_12.1 + R.8 | [Episode guide](../../crashcourse/literature/moby-dick-melville.md) |
+| *Beloved* | Reconstruction era, slavery's psychological legacy, what freedom required | US.6_12.4 + US.6_12.5 + R.8 | [Episode guide](../../crashcourse/literature/beloved-morrison.md) |
+| *The Great Gatsby* | The American Dream, 1920s class and wealth, the lie beneath the prosperity | US.6_12.4 + R.8 | [Episode guide](../../crashcourse/literature/great-gatsby-fitzgerald.md) |
+| *Their Eyes Were Watching God* | Black life in 1930s Jim Crow South, Harlem Renaissance, voice as resistance | US.6_12.4 + R.8 | [Episode guide](../../crashcourse/literature/their-eyes-were-watching-god-hurston.md) |
 
 ---
 

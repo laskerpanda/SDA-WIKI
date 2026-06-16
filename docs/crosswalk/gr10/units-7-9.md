@@ -33,8 +33,19 @@
 | UN Declaration of Human Rights (1948) | US.6_12.6 + Unit 9 | R.9 — claims and evidence; W.4 — what do rights require of governments? | [Open](../../reading-library/social-studies/un-declaration-human-rights.md) |
 | Malala Yousafzai — UN Speech (2013) | US.6_12.6 + Unit 9 | R.9 — contemporary argument; W.4 — argument for access to education | [Open](../../reading-library/social-studies/malala-un-speech.md) |
 | *Persepolis* — Marjane Satrapi (2000) | US.6_12.3 + Unit 7–8 context | R.8 — graphic memoir; W.3 — explain political change through personal experience | [Open](../../reading-library/ela/persepolis-satrapi.md) |
+| *The Handmaid's Tale* — Margaret Atwood (1985) | US.6_12.3 + US.6_12.2 + Unit 9 | R.8 — dystopian conventions; R.9 — Atwood's argument about democratic fragility; W.4 | [Open](../../reading-library/ela/handmaids-tale-atwood.md) |
+| *The Kite Runner* — Khaled Hosseini (2003) | US.6_12.6 + US.6_12.5 + Unit 9 | R.8 — guilt/redemption arc; W.4 — what do we owe people we've wronged? | [Open](../../reading-library/ela/kite-runner-hosseini.md) |
 
 > **Note:** Vietnam-era primary sources (Pentagon Papers, anti-war speeches, protest music) are strong additions to this section — not yet in the reading library. Pull from outside sources using IR.2–4 skills.
+
+---
+
+## CrashCourse Literature — Units 7–9
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *The Handmaid's Tale* | Theocratic authoritarianism, gender politics, democratic fragility — how totalitarianism replaces democracy | US.6_12.3 + US.6_12.2 + R.8 | [Episode guide](../../crashcourse/literature/handmaids-tale-atwood.md) |
+| *The Kite Runner* | Afghanistan from the inside — Soviet invasion, Taliban, 9/11 context, guilt and past-to-present obligation | US.6_12.6 + US.6_12.5 + R.8 | [Episode guide](../../crashcourse/literature/kite-runner-hosseini.md) |
 
 ---
 

@@ -65,12 +65,10 @@
 
 | Work | Focus | Standard | Link |
 |------|-------|----------|------|
-| *Night* | Holocaust memoir — testimony as literature; survivor voice and historical evidence in one text | WH.6_12.2 + WH.6_12.5 + R.8 | [Episode guide](../../crashcourse/literature/1984-orwell.md) |
 | *1984* | Cold War totalitarianism, surveillance, conformism — fictional anatomy of how authoritarian control works | WH.6_12.2 + WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/1984-orwell.md) |
 | *Fahrenheit 451* | McCarthyism and censorship — fear of ideas as the engine of political control | WH.6_12.2 + R.8 | [Episode guide](../../crashcourse/literature/fahrenheit-451-bradbury.md) |
 | *Lord of the Flies* | Post-WWII disillusionment — what happens when civilization's rules are stripped away | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/lord-of-the-flies-golding.md) |
 | *Slaughterhouse-Five* | Dresden firebombing, WWII's human cost, trauma — the anti-war argument in fiction form | WH.6_12.5 + R.8 | [Episode guide](../../crashcourse/literature/slaughterhouse-five-vonnegut.md) |
-| *Persepolis* | Iranian Revolution — political change experienced from inside through graphic memoir | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/handmaids-tale-atwood.md) |
 
 ---
 
