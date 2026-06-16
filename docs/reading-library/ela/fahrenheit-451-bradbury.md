@@ -106,6 +106,7 @@ Ray Bradbury wrote *Fahrenheit 451* in 1953 — the same year Joseph McCarthy he
 - [1984 — Orwell](./orwell-1984.md) — Written 1948, published 1949; the closest parallel text; both are Cold War dystopias by authors who lived through WWII
 - [Night — Wiesel](./night-wiesel.md) — The Holocaust book-burnings (1933) that Bradbury directly referenced
 - [Communist Manifesto](../social-studies/communist-manifesto.md) — One of the most-banned books in U.S. history during the Cold War
+- [CrashCourse Literature — Fahrenheit 451](../../crashcourse/literature/fahrenheit-451-bradbury.md)
 
 ---
 

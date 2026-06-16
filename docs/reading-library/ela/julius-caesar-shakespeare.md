@@ -100,6 +100,7 @@
 - [Melian Dialogue](../social-studies/melian-dialogue.md) — Power and legitimacy in ancient Greece
 - [1984 — Orwell](./orwell-1984.md) — Another text about how political power corrupts and persists
 - [W.4 Argument Writing Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md) — Antony's speech as the model
+- [CrashCourse Literature — Julius Caesar](../../crashcourse/literature/julius-caesar-shakespeare.md)
 
 ---
 

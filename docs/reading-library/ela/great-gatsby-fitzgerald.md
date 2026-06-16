@@ -30,8 +30,8 @@ The novel's deepest argument is about the American Dream itself — whether the 
 
 ## Social Studies Standards This Connects To
 
-- [US.6_12.4](../../standards/social-studies/us-history/unit-2-twenties.md) — *The Great Gatsby* is a primary source for 1920s class and economic reality. The novel documents the specific social geography of new wealth vs. old wealth, the explosion of consumer spending, the glittering surface of prosperity, and the invisible underside (the Valley of Ashes, Myrtle Wilson's death). Tom Buchanan's casual racism — he cites a eugenics book and lectures Nick about "the rise of the colored empires" — is a documented feature of upper-class 1920s white culture. Students use the novel as a primary source: What did 1920s America look like from inside, for people of different classes?
-- [US.6_12.1](../../standards/social-studies/us-history/unit-2-twenties.md) — The novel captures the 1920s technological and consumer revolution. Cars are everywhere — and kill people. Gatsby's parties feature technologies that didn't exist a generation earlier (electric light, phonographs, bootleg liquor on an industrial scale). The consumer culture that Fitzgerald depicts — where people buy things to signal status — is a product of 1920s mass production and advertising. Students analyze: What specific technologies and economic developments made this world possible?
+- [US.6_12.4](../../standards/social-studies/us-history/unit-3-roaring-20s.md) — *The Great Gatsby* is a primary source for 1920s class and economic reality. The novel documents the specific social geography of new wealth vs. old wealth, the explosion of consumer spending, the glittering surface of prosperity, and the invisible underside (the Valley of Ashes, Myrtle Wilson's death). Tom Buchanan's casual racism — he cites a eugenics book and lectures Nick about "the rise of the colored empires" — is a documented feature of upper-class 1920s white culture. Students use the novel as a primary source: What did 1920s America look like from inside, for people of different classes?
+- [US.6_12.1](../../standards/social-studies/us-history/unit-3-roaring-20s.md) — The novel captures the 1920s technological and consumer revolution. Cars are everywhere — and kill people. Gatsby's parties feature technologies that didn't exist a generation earlier (electric light, phonographs, bootleg liquor on an industrial scale). The consumer culture that Fitzgerald depicts — where people buy things to signal status — is a product of 1920s mass production and advertising. Students analyze: What specific technologies and economic developments made this world possible?
 
 ---
 
@@ -77,7 +77,7 @@ The novel's deepest argument is about the American Dream itself — whether the 
 
 ## See Also
 
-- [US History Unit 2 — The 1920s](../../standards/social-studies/us-history/unit-2-twenties.md)
+- [US History Unit 2 — The 1920s](../../standards/social-studies/us-history/unit-3-roaring-20s.md)
 - [Their Eyes Were Watching God — Hurston](./their-eyes-were-watching-god-hurston.md) — Same decade, radically different experience of 1920s-30s America
 - [Fahrenheit 451 — Bradbury](./fahrenheit-451-bradbury.md) — Another novel about the American Dream's hollow promises
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)

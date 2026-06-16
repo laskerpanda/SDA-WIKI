@@ -29,8 +29,8 @@ Shakespeare's audience in 1597 would have read the feud as the problem — not t
 
 ## Social Studies Standards This Connects To
 
-- [WH.6_12.3](../../standards/social-studies/world-history/era-2-renaissance-reformation.md) — The feud between the Montagues and Capulets is not just personal grudge — it represents the political structure of Renaissance Italian city-states, where noble families wielded private military and judicial power within cities theoretically governed by civic authorities. Prince Escalus's repeated failures to end the feud document this tension. Students analyze: What does the play reveal about the relationship between private power (noble families) and public authority (the Prince) in Renaissance Italy? How is this different from modern government? How does this connect to the broader Renaissance political context (Machiavelli's *The Prince* was written in 1513 for exactly this political world)?
-- [WH.6_12.4](../../standards/social-studies/world-history/era-2-renaissance-reformation.md) — The play dramatizes Renaissance social norms around gender, honor, and marriage that are specific to this era and culture. Juliet is 13; her parents arrange a marriage without asking her. Honor violence (Tybalt's challenge, Romeo's revenge killing) is presented as a social norm that men are obligated to participate in, even when they don't want to. Students examine: What does the play reveal about gender roles and family structure in Renaissance society? What does the honor culture require of its participants?
+- [WH.6_12.3](../../standards/social-studies/world-history/era-2-middle-ages.md) — The feud between the Montagues and Capulets is not just personal grudge — it represents the political structure of Renaissance Italian city-states, where noble families wielded private military and judicial power within cities theoretically governed by civic authorities. Prince Escalus's repeated failures to end the feud document this tension. Students analyze: What does the play reveal about the relationship between private power (noble families) and public authority (the Prince) in Renaissance Italy? How is this different from modern government? How does this connect to the broader Renaissance political context (Machiavelli's *The Prince* was written in 1513 for exactly this political world)?
+- [WH.6_12.4](../../standards/social-studies/world-history/era-2-middle-ages.md) — The play dramatizes Renaissance social norms around gender, honor, and marriage that are specific to this era and culture. Juliet is 13; her parents arrange a marriage without asking her. Honor violence (Tybalt's challenge, Romeo's revenge killing) is presented as a social norm that men are obligated to participate in, even when they don't want to. Students examine: What does the play reveal about gender roles and family structure in Renaissance society? What does the honor culture require of its participants?
 
 ---
 
@@ -90,7 +90,7 @@ Shakespeare's audience in 1597 would have read the feud as the problem — not t
 
 ## See Also
 
-- [Era 2 — Renaissance and Reformation](../../standards/social-studies/world-history/era-2-renaissance-reformation.md)
+- [Era 2 — Renaissance and Reformation](../../standards/social-studies/world-history/era-2-middle-ages.md)
 - [Julius Caesar — Shakespeare](./julius-caesar-shakespeare.md) — Same author; political power and its limits
 - [Hamlet — Shakespeare](./hamlet-shakespeare.md) — The other great Shakespeare tragedy
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)

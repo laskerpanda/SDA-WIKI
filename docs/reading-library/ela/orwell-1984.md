@@ -69,6 +69,7 @@ This is the thesis of Orwell's argument about language and control: if you elimi
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)
 - [Night — Wiesel](night-wiesel.md)
 - [Orwell Politics Language](/reading-library/ela/orwell-politics-language.md)
+- [CrashCourse Literature — 1984](../../crashcourse/literature/1984-orwell.md)
 
 ---
 

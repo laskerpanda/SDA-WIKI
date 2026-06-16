@@ -30,8 +30,8 @@ Shakespeare's *Hamlet* is set in medieval Denmark but written for Elizabethan En
 
 ## Social Studies Standards This Connects To
 
-- [WH.6_12.3](../../standards/social-studies/world-history/era-2-renaissance-reformation.md) — The play's central political problem is succession and legitimacy: Claudius murdered the king and seized the throne; the court accepted him; no institution exists to challenge this. Students analyze: What does the play reveal about how political legitimacy worked (and failed) in hereditary monarchies? What are Hamlet's options within the political system — and why does none of them work? How does this connect to the actual political anxieties of Elizabethan England in 1600?
-- [WH.6_12.2](../../standards/social-studies/world-history/era-2-renaissance-reformation.md) — The play is saturated with Christian concepts of sin, redemption, and afterlife — but in ways that create rather than resolve moral problems. Hamlet cannot kill Claudius while he is praying because that would send him to heaven. The ghost claims to suffer in purgatory — a Catholic concept that Protestant England officially rejected. Hamlet's most famous speech is about the "undiscover'd country" of death and what awaits there. Students examine: How do Christian belief systems shape the ethical choices characters face in this play? How do religious concepts function as actual constraints on political and personal action?
+- [WH.6_12.3](../../standards/social-studies/world-history/era-2-middle-ages.md) — The play's central political problem is succession and legitimacy: Claudius murdered the king and seized the throne; the court accepted him; no institution exists to challenge this. Students analyze: What does the play reveal about how political legitimacy worked (and failed) in hereditary monarchies? What are Hamlet's options within the political system — and why does none of them work? How does this connect to the actual political anxieties of Elizabethan England in 1600?
+- [WH.6_12.2](../../standards/social-studies/world-history/era-2-middle-ages.md) — The play is saturated with Christian concepts of sin, redemption, and afterlife — but in ways that create rather than resolve moral problems. Hamlet cannot kill Claudius while he is praying because that would send him to heaven. The ghost claims to suffer in purgatory — a Catholic concept that Protestant England officially rejected. Hamlet's most famous speech is about the "undiscover'd country" of death and what awaits there. Students examine: How do Christian belief systems shape the ethical choices characters face in this play? How do religious concepts function as actual constraints on political and personal action?
 
 ---
 
@@ -93,7 +93,7 @@ Shakespeare's *Hamlet* is set in medieval Denmark but written for Elizabethan En
 
 ## See Also
 
-- [Era 2 — Renaissance and Reformation](../../standards/social-studies/world-history/era-2-renaissance-reformation.md)
+- [Era 2 — Renaissance and Reformation](../../standards/social-studies/world-history/era-2-middle-ages.md)
 - [Julius Caesar — Shakespeare](./julius-caesar-shakespeare.md) — Same author; political succession and legitimacy
 - [Romeo and Juliet — Shakespeare](./romeo-and-juliet-shakespeare.md) — Same author; tragedy and social structure
 - [Oedipus Rex — Sophocles](./oedipus-rex-sophocles.md) — The Greek tragic model; Hamlet is often compared to Oedipus
