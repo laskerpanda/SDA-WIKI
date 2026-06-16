@@ -97,9 +97,9 @@ This connects to **WH.6_12.3** (analyzing effects of political systems on people
 
 ## Skinny Connection
 
-- [French Revolution](/skinnies/world-history/era-3/french-revolution.md)
-- [Enlightenment Ideals](/skinnies/world-history/era-3/enlightenment-ideals.md)
-- [Revolution And Terror](/skinnies/world-history/era-3/revolution-and-terror.md)
+- [WH.6_12.3 Political Systems — Era 3](../../skinnies/world-history/era-3/wh-6-12-3-political-systems-era3-skinny.md) — political power, revolution, and popular sovereignty
+- [WH.6_12.2 Religion & Ideology — Era 3](../../skinnies/world-history/era-3/wh-6-12-2-religion-ideology-era3-skinny.md) — Enlightenment ideology driving the revolution
+- [WH.6_12.5 Causes & Effects — Era 3](../../skinnies/world-history/era-3/wh-6-12-5-causes-effects-era3-skinny.md) — fiscal crisis → revolution → Terror causal chain
 
 ---
 

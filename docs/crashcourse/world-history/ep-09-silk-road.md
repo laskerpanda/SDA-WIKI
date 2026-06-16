@@ -84,8 +84,9 @@ After watching: In one sentence, what is Green's main argument? Find one specifi
 
 ## Skinny Connection
 
-- [Trade Networks](/skinnies/world-history/era-1/trade-networks.md)
-- [Cultural Diffusion](/skinnies/world-history/era-1/cultural-diffusion.md)
+- [WH.6_12.4 Social & Cultural — Era 1](../../skinnies/world-history/era-1/wh-6-12-4-social-cultural-era1-skinny.md) — trade networks shaping societies
+- [WH.6_12.4 Social & Cultural — Era 2](../../skinnies/world-history/era-2/wh-6-12-4-social-cultural-era2-skinny.md) — Silk Road active into medieval period
+- [WH.6_12.6 Past to Present — Era 1](../../skinnies/world-history/era-1/wh-6-12-6-past-present-era1-skinny.md) — trade route → globalization connection
 
 ---
 

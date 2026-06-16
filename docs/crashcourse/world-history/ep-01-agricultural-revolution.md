@@ -82,8 +82,8 @@ This connects to **WH.6_12.4**: analyzing how economic development (agriculture)
 
 ## Skinny Connection
 
-- [Agricultural Revolution](/skinnies/world-history/era-1/agricultural-revolution.md) *(create when skinnies are built)*
-- [Social Stratification](/skinnies/world-history/era-1/social-stratification.md)
+- [WH.6_12.4 Social & Cultural — Era 1](../../skinnies/world-history/era-1/wh-6-12-4-social-cultural-era1-skinny.md) — economic development, surplus, and hierarchy
+- [WH.6_12.1 Science & Tech — Era 1](../../skinnies/world-history/era-1/wh-6-12-1-science-tech-era1-skinny.md) — agricultural technology as transformative innovation
 
 ---
 

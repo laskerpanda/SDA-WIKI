@@ -222,6 +222,57 @@ nav:
         - US.5 Causes & Effects: skinnies/us-history/unit-9/us-6-12-5-causes-effects-unit9-skinny.md
         - US.6 Past to Present: skinnies/us-history/unit-9/us-6-12-6-past-present-unit9-skinny.md
     - Template: skinnies/templates/skinny-template.md
+    - CrashCourse:
+      - World History:
+        - Index: crashcourse/world-history/index.md
+        - Ep 01 — Agricultural Revolution: crashcourse/world-history/ep-01-agricultural-revolution.md
+        - Ep 09 — The Silk Road: crashcourse/world-history/ep-09-silk-road.md
+        - Ep 15 — The Crusades: crashcourse/world-history/ep-15-crusades.md
+        - Ep 23 — Atlantic Slave Trade: crashcourse/world-history/ep-23-slave-trade.md
+        - Ep 24 — Columbian Exchange: crashcourse/world-history/ep-24-columbian-exchange.md
+        - Ep 25 — Protestant Reformation: crashcourse/world-history/ep-25-reformation.md
+        - Ep 31 — Haitian Revolution: crashcourse/world-history/ep-31-haitian-revolution.md
+        - Ep 33 — French Revolution: crashcourse/world-history/ep-33-french-revolution.md
+        - Ep 37 — Imperialism: crashcourse/world-history/ep-37-imperialism.md
+        - Ep 38 — World War I: crashcourse/world-history/ep-38-wwi.md
+        - Ep 40 — WWII Part 1: crashcourse/world-history/ep-40-wwii-1.md
+        - Ep 41 — WWII Part 2: crashcourse/world-history/ep-41-wwii-2.md
+        - Ep 42 — The Cold War: crashcourse/world-history/ep-42-cold-war.md
+      - US History:
+        - Index: crashcourse/us-history/index.md
+        - Ep 01 — Black Legend: crashcourse/us-history/ep-ush-01-black-legend.md
+        - Ep 02 — Natives and English: crashcourse/us-history/ep-ush-02-natives-english.md
+        - Ep 03 — Thanksgiving: crashcourse/us-history/ep-ush-03-thanksgiving.md
+        - Ep 04 — Quakers and Dutch: crashcourse/us-history/ep-ush-04-quakers-dutch.md
+        - Ep 05 — Seven Years War: crashcourse/us-history/ep-ush-05-seven-years-war.md
+        - Ep 06 — Industrial Revolution: crashcourse/us-history/ep-ush-06-industrial-revolution.md
+        - Ep 07 — Progressive Era: crashcourse/us-history/ep-ush-07-progressive-era.md
+        - Ep 08 — America and WWI: crashcourse/us-history/ep-ush-08-wwi-american.md
+        - Ep 09 — Great Depression: crashcourse/us-history/ep-ush-09-great-depression.md
+        - Ep 10 — WWII Home Front: crashcourse/us-history/ep-ush-10-wwii-home-front.md
+        - Ep 11 — Civil Rights: crashcourse/us-history/ep-ush-11-civil-rights.md
+        - Ep 12 — Vietnam & Watergate: crashcourse/us-history/ep-ush-12-vietnam-watergate.md
+      - Literature:
+        - Index: crashcourse/literature/index.md
+        - The Odyssey: crashcourse/literature/odyssey-homer.md
+        - Oedipus Rex: crashcourse/literature/oedipus-rex-sophocles.md
+        - Romeo & Juliet: crashcourse/literature/romeo-and-juliet-shakespeare.md
+        - Julius Caesar: crashcourse/literature/julius-caesar-shakespeare.md
+        - Hamlet: crashcourse/literature/hamlet-shakespeare.md
+        - The Great Gatsby: crashcourse/literature/great-gatsby-fitzgerald.md
+        - Lord of the Flies: crashcourse/literature/lord-of-the-flies-golding.md
+        - Their Eyes Were Watching God: crashcourse/literature/their-eyes-were-watching-god-hurston.md
+        - A Raisin in the Sun: crashcourse/literature/raisin-in-the-sun-hansberry.md
+        - To Kill a Mockingbird: crashcourse/literature/to-kill-a-mockingbird-lee.md
+        - Fahrenheit 451: crashcourse/literature/fahrenheit-451-bradbury.md
+        - 1984: crashcourse/literature/1984-orwell.md
+        - Things Fall Apart: crashcourse/literature/things-fall-apart-achebe.md
+        - Slaughterhouse-Five: crashcourse/literature/slaughterhouse-five-vonnegut.md
+        - I Know Why the Caged Bird Sings: crashcourse/literature/caged-bird-sings-angelou.md
+        - The Handmaid's Tale: crashcourse/literature/handmaids-tale-atwood.md
+        - The Kite Runner: crashcourse/literature/kite-runner-hosseini.md
+        - Beloved: crashcourse/literature/beloved-morrison.md
+        - Moby Dick: crashcourse/literature/moby-dick-melville.md
   - Reading Library:
     - Index: reading-library/index.md
     - Social Studies — Era 1:
@@ -261,33 +312,3 @@ nav:
       - Master Crosswalk Table: reading-library/crosswalk/crosswalk-ela-ss.md
       - Common Sense + W.4: reading-library/crosswalk/common-sense-w4-crosswalk.md
       - Letter from Birmingham + W.4: reading-library/crosswalk/letter-birmingham-w4-crosswalk.md
-  - CrashCourse:
-    - World History:
-      - Index: crashcourse/world-history/index.md
-      - Ep 01 — Agricultural Revolution: crashcourse/world-history/ep-01-agricultural-revolution.md
-      - Ep 09 — The Silk Road: crashcourse/world-history/ep-09-silk-road.md
-      - Ep 15 — The Crusades: crashcourse/world-history/ep-15-crusades.md
-      - Ep 23 — Atlantic Slave Trade: crashcourse/world-history/ep-23-slave-trade.md
-      - Ep 24 — Columbian Exchange: crashcourse/world-history/ep-24-columbian-exchange.md
-      - Ep 25 — Protestant Reformation: crashcourse/world-history/ep-25-reformation.md
-      - Ep 31 — Haitian Revolution: crashcourse/world-history/ep-31-haitian-revolution.md
-      - Ep 33 — French Revolution: crashcourse/world-history/ep-33-french-revolution.md
-      - Ep 37 — Imperialism: crashcourse/world-history/ep-37-imperialism.md
-      - Ep 38 — World War I: crashcourse/world-history/ep-38-wwi.md
-      - Ep 40 — WWII Part 1: crashcourse/world-history/ep-40-wwii-1.md
-      - Ep 41 — WWII Part 2: crashcourse/world-history/ep-41-wwii-2.md
-      - Ep 42 — The Cold War: crashcourse/world-history/ep-42-cold-war.md
-    - US History:
-      - Index: crashcourse/us-history/index.md
-      - Ep 01 — Black Legend: crashcourse/us-history/ep-ush-01-black-legend.md
-      - Ep 02 — Natives and English: crashcourse/us-history/ep-ush-02-natives-english.md
-      - Ep 03 — Thanksgiving: crashcourse/us-history/ep-ush-03-thanksgiving.md
-      - Ep 04 — Quakers and Dutch: crashcourse/us-history/ep-ush-04-quakers-dutch.md
-      - Ep 05 — Seven Years War: crashcourse/us-history/ep-ush-05-seven-years-war.md
-      - Ep 06 — Industrial Revolution: crashcourse/us-history/ep-ush-06-industrial-revolution.md
-      - Ep 07 — Progressive Era: crashcourse/us-history/ep-ush-07-progressive-era.md
-      - Ep 08 — America and WWI: crashcourse/us-history/ep-ush-08-wwi-american.md
-      - Ep 09 — Great Depression: crashcourse/us-history/ep-ush-09-great-depression.md
-      - Ep 10 — WWII Home Front: crashcourse/us-history/ep-ush-10-wwii-home-front.md
-      - Ep 11 — Civil Rights: crashcourse/us-history/ep-ush-11-civil-rights.md
-      - Ep 12 — Vietnam & Watergate: crashcourse/us-history/ep-ush-12-vietnam-watergate.md
