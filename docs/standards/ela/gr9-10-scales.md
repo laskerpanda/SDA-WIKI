@@ -34,7 +34,7 @@ Every standard uses the same structure:
 
 ---
 
-### 9-10.C.1 — Presentational Communication
+### 9-10.C.1 — Presentational Communication { #9-10c1 }
 
 **Standard:** Construct and deliver formal and informal presentations, incorporating multimedia components when appropriate for the audience and purpose.
 
@@ -93,7 +93,7 @@ Processes: make eye contact with the audience; use body and gestures to communic
 
 ---
 
-### 9-10.C.6 — Collaboration: Discussions and Debates
+### 9-10.C.6 — Collaboration: Discussions and Debates { #9-10c6 }
 
 **Standard:** Engage in respectful discussions or debates: listen to acknowledge varying perspectives and evaluate speaker's logic or argument; present or share synthesized research and information; ask and respond to questions to propel discussion.
 
@@ -173,7 +173,7 @@ Processes: determine what the text says explicitly; make inferences from the tex
 
 ---
 
-### 9-10.R.4 — Reading: Main Idea and Theme
+### 9-10.R.4 — Reading: Main Idea and Theme { #9-10r4 }
 
 **Standard:** Determine main idea(s), claim(s), or theme(s) as they develop over the course of the text and support with textual evidence.
 
@@ -341,7 +341,7 @@ Processes: determine an appropriate introduction for the prompt or purpose; prov
 
 ---
 
-### 9-10.W.3 — Explanatory/Informational Writing
+### 9-10.W.3 — Explanatory/Informational Writing { #9-10w3 }
 
 **Standard:** Write to inform an audience and to explain complex information by creating a clear thesis and providing supporting claims, details, and evidence from a variety of relevant and reliable sources.
 
@@ -393,7 +393,7 @@ Processes: identify relevant context surrounding an argument (time, place, audie
 
 ---
 
-### 9-10.W.6 — Writing Process
+### 9-10.W.6 — Writing Process { #9-10w6 }
 
 **Standard:** Develop and strengthen writing through the writing process to produce a quality product for a specific purpose and audience.
 
@@ -416,7 +416,7 @@ Processes: identify the stages of the writing process; revise for clarity and co
 
 ---
 
-### 9-10.L.1 — Language Knowledge
+### 9-10.L.1 — Language Knowledge { #9-10l1 }
 
 **Standard:** Apply language knowledge for a specific task, purpose, intention, and audience, resolving issues of usage as needed.
 

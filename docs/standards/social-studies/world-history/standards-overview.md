@@ -23,14 +23,23 @@ Example: `WH.6_12.5 + Era 3` = Analyze causes and effects of global events durin
 
 ## The Six Standards
 
-| Standard | What It Measures |
-|----------|-----------------|
-| **WH.6_12.1** | Analyze historical achievements related to science and technology |
-| **WH.6_12.2** | Explain historical changes related to religions and ideologies |
-| **WH.6_12.3** | Analyze the effects of different political systems on people |
-| **WH.6_12.4** | Analyze the influence of social, cultural, and economic development on individuals |
-| **WH.6_12.5** | Analyze causes and effects of global events using primary and/or secondary sources |
-| **WH.6_12.6** | Explain how past events connect to the present |
+### WH.6_12.1 — Science & Technology { #wh6-121 }
+Analyze historical achievements related to science and technology.
+
+### WH.6_12.2 — Religions & Ideologies { #wh6-122 }
+Explain historical changes related to religions and ideologies.
+
+### WH.6_12.3 — Political Systems { #wh6-123 }
+Analyze the effects of different political systems on people.
+
+### WH.6_12.4 — Social & Economic Development { #wh6-124 }
+Analyze the influence of social, cultural, and economic development on individuals.
+
+### WH.6_12.5 — Causes & Effects { #wh6-125 }
+Analyze causes and effects of global events using primary and/or secondary sources.
+
+### WH.6_12.6 — Past to Present { #wh6-126 }
+Explain how past events connect to the present.
 
 ### FPS Social Studies Skill Strands (Cross-Cutting)
 

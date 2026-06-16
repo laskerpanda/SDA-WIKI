@@ -634,7 +634,7 @@ recommendations, pace sheet scaffold with demo mode suggestions and deliverable 
 
 ---
 
-## SKINNY ANATOMY (UPDATED — ALL SIX DEMO MODES)
+## SKINNY ANATOMY (UPDATED — ALL SIX DEMO MODES) { #skinny-anatomy }
 
 ```
 # [Topic Title] Skinny

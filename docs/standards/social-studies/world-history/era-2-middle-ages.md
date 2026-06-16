@@ -25,7 +25,7 @@ The essential question running through this era: **When does order protect peopl
 
 ## All Six Standards Applied to Era 2
 
-### WH.6_12.1 + Era 2 — Science and Technology of the Middle Ages and Renaissance
+### WH.6_12.1 + Era 2 — Science and Technology of the Middle Ages and Renaissance { #wh6-121 }
 
 **Full standard:** Analyze historical achievements related to science and technology.
 
@@ -55,7 +55,7 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
-### WH.6_12.2 + Era 2 — Religions and Ideologies of the Middle Ages and Renaissance
+### WH.6_12.2 + Era 2 — Religions and Ideologies of the Middle Ages and Renaissance { #wh6-122 }
 
 **Full standard:** Explain historical changes related to religions and ideologies.
 
@@ -87,7 +87,7 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
-### WH.6_12.3 + Era 2 — Political Systems and Their Effects on People
+### WH.6_12.3 + Era 2 — Political Systems and Their Effects on People { #wh6-123 }
 
 **Full standard:** Analyze the effects of different political systems on people.
 
@@ -118,7 +118,7 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
-### WH.6_12.4 + Era 2 — Social, Cultural, and Economic Development
+### WH.6_12.4 + Era 2 — Social, Cultural, and Economic Development { #wh6-124 }
 
 **Full standard:** Analyze the influence of social, cultural, and economic development on individuals.
 
@@ -149,7 +149,7 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
-### WH.6_12.5 + Era 2 — Causes and Effects Using Primary and Secondary Sources
+### WH.6_12.5 + Era 2 — Causes and Effects Using Primary and Secondary Sources { #wh6-125 }
 
 **Full standard:** Analyze causes and effects of global events using primary and/or secondary sources.
 
@@ -178,7 +178,7 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
-### WH.6_12.6 + Era 2 — Past to Present
+### WH.6_12.6 + Era 2 — Past to Present { #wh6-126 }
 
 **Full standard:** Explain how past events connect to the present.
 

@@ -27,7 +27,7 @@ The essential questions running through this era: **How do governments control i
 
 ## All Six Standards Applied to Era 4
 
-### WH.6_12.1 + Era 4 — Science and Technology of the 20th Century and Beyond
+### WH.6_12.1 + Era 4 — Science and Technology of the 20th Century and Beyond { #wh6-121 }
 
 **Full standard:** Analyze historical achievements related to science and technology.
 
@@ -58,7 +58,7 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
-### WH.6_12.2 + Era 4 — Religions and Ideologies of the Age of Global War
+### WH.6_12.2 + Era 4 — Religions and Ideologies of the Age of Global War { #wh6-122 }
 
 **Full standard:** Explain historical changes related to religions and ideologies.
 
@@ -89,7 +89,7 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
-### WH.6_12.3 + Era 4 — Political Systems and Their Effects on People
+### WH.6_12.3 + Era 4 — Political Systems and Their Effects on People { #wh6-123 }
 
 **Full standard:** Analyze the effects of different political systems on people.
 
@@ -120,7 +120,7 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
-### WH.6_12.4 + Era 4 — Social, Cultural, and Economic Development
+### WH.6_12.4 + Era 4 — Social, Cultural, and Economic Development { #wh6-124 }
 
 **Full standard:** Analyze the influence of social, cultural, and economic development on individuals.
 
@@ -152,7 +152,7 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
-### WH.6_12.5 + Era 4 — Causes and Effects Using Primary and Secondary Sources
+### WH.6_12.5 + Era 4 — Causes and Effects Using Primary and Secondary Sources { #wh6-125 }
 
 **Full standard:** Analyze causes and effects of global events using primary and/or secondary sources.
 
@@ -182,7 +182,7 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
-### WH.6_12.6 + Era 4 — Past to Present
+### WH.6_12.6 + Era 4 — Past to Present { #wh6-126 }
 
 **Full standard:** Explain how past events connect to the present.
 

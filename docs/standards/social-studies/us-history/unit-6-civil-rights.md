@@ -33,7 +33,7 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ## All Six Standards Applied to Unit 6
 
-### US.6_12.1 + Unit 6 — Primary and Secondary Sources
+### US.6_12.1 + Unit 6 — Primary and Secondary Sources { #us6-121 }
 
 **Standard:** Analyze primary and secondary sources with attention to reliability, impact, and purpose.
 
@@ -56,7 +56,7 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
-### US.6_12.2 + Unit 6 — Multiple Perspectives
+### US.6_12.2 + Unit 6 — Multiple Perspectives { #us6-122 }
 
 **Standard:** Examine the impact of multiple perspectives on social, political, and cultural development.
 
@@ -76,7 +76,7 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
-### US.6_12.3 + Unit 6 — Cause and Effect
+### US.6_12.3 + Unit 6 — Cause and Effect { #us6-123 }
 
 **Standard:** Explain the relationship of events focusing on the link(s) between cause and effect.
 
@@ -96,7 +96,7 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
-### US.6_12.4 + Unit 6 — Change Over Time
+### US.6_12.4 + Unit 6 — Change Over Time { #us6-124 }
 
 **Standard:** Compare how historical elements change over time.
 
@@ -110,7 +110,7 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
-### US.6_12.5 + Unit 6 — Significant Contributions of People and Policy
+### US.6_12.5 + Unit 6 — Significant Contributions of People and Policy { #us6-125 }
 
 **Standard:** Analyze the significant contributions of people, policy, and the influence on an era.
 
@@ -127,7 +127,7 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
-### US.6_12.6 + Unit 6 — Past to Present
+### US.6_12.6 + Unit 6 — Past to Present { #us6-126 }
 
 **Standard:** Connect the past to the present using current events.
 

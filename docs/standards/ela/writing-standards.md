@@ -98,7 +98,7 @@ The alternation is intentional pedagogy. Over a full year in SDA, you'll write b
 
 ---
 
-## W.6 — The Writing Process
+## W.6 — The Writing Process { #9-10w6 }
 
 W.6 is the metacognitive standard. It's not about what you write — it's about *how* you got there.
 

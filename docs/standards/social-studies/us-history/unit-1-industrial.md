@@ -23,7 +23,7 @@ This unit covers:
 
 ## All Six Standards Applied to Unit 1
 
-### US.6_12.1 + Unit 1 — Primary and Secondary Sources
+### US.6_12.1 + Unit 1 — Primary and Secondary Sources { #us6-121 }
 
 **Standard:** Analyze primary and secondary sources with attention to reliability, impact, and purpose.
 
@@ -49,7 +49,7 @@ This unit covers:
 
 ---
 
-### US.6_12.2 + Unit 1 — Multiple Perspectives
+### US.6_12.2 + Unit 1 — Multiple Perspectives { #us6-122 }
 
 **Standard:** Examine the impact of multiple perspectives on social, political, and cultural development.
 
@@ -68,7 +68,7 @@ This unit covers:
 
 ---
 
-### US.6_12.3 + Unit 1 — Cause and Effect
+### US.6_12.3 + Unit 1 — Cause and Effect { #us6-123 }
 
 **Standard:** Explain the relationship of events focusing on the link(s) between cause and effect.
 
@@ -88,7 +88,7 @@ This unit covers:
 
 ---
 
-### US.6_12.4 + Unit 1 — Change Over Time
+### US.6_12.4 + Unit 1 — Change Over Time { #us6-124 }
 
 **Standard:** Compare how historical elements change over time.
 
@@ -107,7 +107,7 @@ This unit covers:
 
 ---
 
-### US.6_12.5 + Unit 1 — Significant Contributions of People and Policy
+### US.6_12.5 + Unit 1 — Significant Contributions of People and Policy { #us6-125 }
 
 **Standard:** Analyze the significant contributions of people, policy, and the influence on an era.
 
@@ -129,7 +129,7 @@ This unit covers:
 
 ---
 
-### US.6_12.6 + Unit 1 — Past to Present
+### US.6_12.6 + Unit 1 — Past to Present { #us6-126 }
 
 **Standard:** Connect the past to the present using current events.
 

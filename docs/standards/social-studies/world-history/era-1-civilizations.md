@@ -25,7 +25,7 @@ The essential question running through this era: **What does it take to build a 
 
 ## All Six Standards Applied to Era 1
 
-### WH.6_12.1 + Era 1 — Science and Technology of Early Civilizations
+### WH.6_12.1 + Era 1 — Science and Technology of Early Civilizations { #wh6-121 }
 
 **Full standard:** Analyze historical achievements related to science and technology.
 
@@ -56,7 +56,7 @@ The essential question running through this era: **What does it take to build a 
 
 ---
 
-### WH.6_12.2 + Era 1 — Religions and Ideologies of Early Civilizations
+### WH.6_12.2 + Era 1 — Religions and Ideologies of Early Civilizations { #wh6-122 }
 
 **Full standard:** Explain historical changes related to religions and ideologies.
 
@@ -88,7 +88,7 @@ The essential question running through this era: **What does it take to build a 
 
 ---
 
-### WH.6_12.3 + Era 1 — Political Systems and Their Effects on People
+### WH.6_12.3 + Era 1 — Political Systems and Their Effects on People { #wh6-123 }
 
 **Full standard:** Analyze the effects of different political systems on people.
 
@@ -119,7 +119,7 @@ The essential question running through this era: **What does it take to build a 
 
 ---
 
-### WH.6_12.4 + Era 1 — Social, Cultural, and Economic Development
+### WH.6_12.4 + Era 1 — Social, Cultural, and Economic Development { #wh6-124 }
 
 **Full standard:** Analyze the influence of social, cultural, and economic development on individuals.
 
@@ -150,7 +150,7 @@ The essential question running through this era: **What does it take to build a 
 
 ---
 
-### WH.6_12.5 + Era 1 — Causes and Effects Using Primary and Secondary Sources
+### WH.6_12.5 + Era 1 — Causes and Effects Using Primary and Secondary Sources { #wh6-125 }
 
 **Full standard:** Analyze causes and effects of global events using primary and/or secondary sources.
 
@@ -180,7 +180,7 @@ The essential question running through this era: **What does it take to build a 
 
 ---
 
-### WH.6_12.6 + Era 1 — Past to Present
+### WH.6_12.6 + Era 1 — Past to Present { #wh6-126 }
 
 **Full standard:** Explain how past events connect to the present.
 
