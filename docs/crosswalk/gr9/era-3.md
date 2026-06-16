@@ -40,6 +40,7 @@
 | Kipling — "White Man's Burden" + H.T. Johnson — "Black Man's Burden" (1899) | WH.6_12.4–5 | R.9 — compare two arguments; W.4 — rebuttal writing | [Open](../../reading-library/social-studies/kipling-white-mans-burden.md) |
 | Upton Sinclair — *The Jungle* selections (1906) | WH.6_12.4 | R.9 — investigative argument; W.4 — argument for reform | [Open](../../reading-library/social-studies/jungle-sinclair.md) |
 | Wilfred Owen — "Dulce et Decorum Est" (1917) | WH.6_12.5 | R.9 — poetic argument; W.4 — anti-war argument | [Open](../../reading-library/social-studies/dulce-et-decorum-est.md) |
+| *Things Fall Apart* — Chinua Achebe (1958) | WH.6_12.5 + WH.6_12.4 + WH.6_12.3 | R.8 — counter-narrative, tragic structure; R.9 — Achebe's argument about representation; W.4 | [Open](../../reading-library/ela/things-fall-apart-achebe.md) |
 
 **Highest-leverage crosswalk texts this era:**
 - **Common Sense** — [Common Sense + W.4 Crosswalk](../../reading-library/crosswalk/common-sense-w4-crosswalk.md)
@@ -58,6 +59,12 @@
 | Ep 33 | The French Revolution | WH.6_12.3 | [Watch guide](../../crashcourse/world-history/ep-33-french-revolution.md) |
 | Ep 37 | Imperialism | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-37-imperialism.md) |
 | Ep 38 | World War I | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-38-wwi.md) |
+
+## CrashCourse Literature — Era 3
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *Things Fall Apart* | Achebe's counter-narrative to European imperialism — Igbo civilization before, during, and after colonial conquest | WH.6_12.5 + WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/things-fall-apart-achebe.md) |
 
 ---
 

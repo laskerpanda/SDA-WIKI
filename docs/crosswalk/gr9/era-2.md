@@ -35,6 +35,8 @@
 | Ibn Battuta — Rihla (1355) | WH.6_12.4 | R.2 — comprehension of travel narrative; W.3 — explain trade networks | [Open](../../reading-library/social-studies/ibn-battuta-rihla.md) |
 | Martin Luther — 95 Theses (1517) | WH.6_12.2 | R.9 — analyze a reform argument; W.4 — argument for institutional change | [Open](../../reading-library/social-studies/luther-95-theses.md) |
 | Las Casas — Short Account (1542) | WH.6_12.4–5 | R.9 — eyewitness argument; W.4 — moral argument | [Open](../../reading-library/social-studies/las-casas-short-account.md) |
+| *Romeo and Juliet* — Shakespeare (c. 1597) | WH.6_12.3 + WH.6_12.4 | R.8 — dramatic structure, honor culture; W.4 — who is responsible? | [Open](../../reading-library/ela/romeo-and-juliet-shakespeare.md) |
+| *Hamlet* — Shakespeare (c. 1600) | WH.6_12.3 + WH.6_12.2 | R.8 — soliloquy, dramatic irony; R.9 — embedded argument; W.4 | [Open](../../reading-library/ela/hamlet-shakespeare.md) |
 
 **Highest-leverage crosswalk text this era:** **Magna Carta** — compact, dense with argument, and directly tied to WH.6_12.3. Excellent for R.9 analysis (what is the barons' argument? what evidence do they give?) and W.4 writing ("Should there be limits on government authority?").
 
@@ -48,6 +50,13 @@
 | Ep 25 | The Protestant Reformation | WH.6_12.2 | [Watch guide](../../crashcourse/world-history/ep-25-reformation.md) |
 
 *Additional Era 2 episodes (ep-12 through ep-20) listed in the [WH Episode Index](../../crashcourse/world-history/index.md) — guides pending.*
+
+## CrashCourse Literature — Era 2
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *Romeo and Juliet* | Honor culture, noble family power, Renaissance Italy — the political embedded in the personal | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/romeo-and-juliet-shakespeare.md) |
+| *Hamlet* | Succession, legitimacy, Elizabethan political anxiety — when institutions fail to prevent injustice | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/hamlet-shakespeare.md) |
 
 ---
 

@@ -36,6 +36,9 @@
 | Analects of Confucius (c. 500 BCE) | WH.6_12.2 | R.9 — ideology and political authority | [Open](../../reading-library/social-studies/analects-confucius.md) |
 | Pericles' Funeral Oration (431 BCE) | WH.6_12.3 | R.9 — political argument; W.4 — democracy as argument | [Open](../../reading-library/social-studies/pericles-funeral-oration.md) |
 | Melian Dialogue (Thucydides, 416 BCE) | WH.6_12.3 | R.9 — power argument; W.4 — rebuttal writing | [Open](../../reading-library/social-studies/melian-dialogue.md) |
+| *The Odyssey* — Homer (c. 800 BCE) | WH.6_12.3 | R.8 — epic conventions, author's craft; W.4 — heroism argument | [Open](../../reading-library/ela/odyssey-homer.md) |
+| *Oedipus Rex* — Sophocles (c. 429 BCE) | WH.6_12.3 | R.8 — dramatic irony, tragic structure; W.4 — fate vs. responsibility | [Open](../../reading-library/ela/oedipus-rex-sophocles.md) |
+| *Julius Caesar* — Shakespeare (44 BCE / 1599) | WH.6_12.3 + WH.6_12.5 | R.9 — funeral speech rhetoric; R.8 — character complexity; W.4 | [Open](../../reading-library/ela/julius-caesar-shakespeare.md) |
 
 **Highest-leverage crosswalk text this era:** **Hammurabi's Code** — short, dense, analytically rich. The code *is* an argument about governance. Perfect for R.9 (analyze claims and evidence) + WH.6_12.3 (political systems) in one Demo.
 
@@ -49,6 +52,14 @@
 | Ep 09 | The Silk Road and Ancient Trade | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-09-silk-road.md) |
 
 *Additional Era 1 episodes (ep-02 through ep-13) are in the full [WH Episode Index](../../crashcourse/world-history/index.md) — guides pending.*
+
+## CrashCourse Literature — Era 1
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *The Odyssey* | Epic structure, heroism, Greek values — ancient civilization through one story | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/odyssey-homer.md) |
+| *Oedipus Rex* | Tragic structure, fate vs. free will, Athenian political thought | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/oedipus-rex-sophocles.md) |
+| *Julius Caesar* | Roman Republic collapse, funeral speeches, political manipulation | WH.6_12.3 + WH.6_12.5 + R.9 | [Episode guide](../../crashcourse/literature/julius-caesar-shakespeare.md) |
 
 ---
 

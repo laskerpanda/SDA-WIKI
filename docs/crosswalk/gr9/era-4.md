@@ -43,6 +43,8 @@
 | *1984* — George Orwell (1949) | WH.6_12.2–3 | R.8 — dystopian literary elements; W.4 — argument about surveillance | [Open](../../reading-library/ela/orwell-1984.md) |
 | *Fahrenheit 451* — Ray Bradbury (1953) | WH.6_12.2 | R.8 — literary elements; W.4 — argument about censorship | [Open](../../reading-library/ela/fahrenheit-451-bradbury.md) |
 | *Persepolis* — Marjane Satrapi (2000) | WH.6_12.3 | R.8 — graphic memoir elements; W.3 — identity under political change | [Open](../../reading-library/ela/persepolis-satrapi.md) |
+| *Lord of the Flies* — William Golding (1954) | WH.6_12.3 | R.8 — allegory, symbolism; W.4 — are humans naturally violent? | [Open](../../reading-library/ela/lord-of-the-flies-golding.md) |
+| *Slaughterhouse-Five* — Kurt Vonnegut (1969) | WH.6_12.5 | R.8 — non-linear narrative, dark satire; W.4 — anti-war argument | [Open](../../reading-library/ela/slaughterhouse-five-vonnegut.md) |
 
 **Highest-leverage crosswalk texts this era:**
 - ***Night*** — Literary analysis AND Holocaust evidence simultaneously. R.8 + WH.6_12.2. See the [ELA ↔ SS Master Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md).
@@ -58,6 +60,17 @@
 | Ep 40 | WWII Part 1 — Origins & Pacific | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-40-wwii-1.md) |
 | Ep 41 | WWII Part 2 — Europe & Holocaust | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-41-wwii-2.md) |
 | Ep 42 | The Cold War | WH.6_12.2–3 | [Watch guide](../../crashcourse/world-history/ep-42-cold-war.md) |
+
+## CrashCourse Literature — Era 4
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *Night* | Holocaust memoir — testimony as literature; survivor voice and historical evidence in one text | WH.6_12.2 + WH.6_12.5 + R.8 | [Episode guide](../../crashcourse/literature/1984-orwell.md) |
+| *1984* | Cold War totalitarianism, surveillance, conformism — fictional anatomy of how authoritarian control works | WH.6_12.2 + WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/1984-orwell.md) |
+| *Fahrenheit 451* | McCarthyism and censorship — fear of ideas as the engine of political control | WH.6_12.2 + R.8 | [Episode guide](../../crashcourse/literature/fahrenheit-451-bradbury.md) |
+| *Lord of the Flies* | Post-WWII disillusionment — what happens when civilization's rules are stripped away | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/lord-of-the-flies-golding.md) |
+| *Slaughterhouse-Five* | Dresden firebombing, WWII's human cost, trauma — the anti-war argument in fiction form | WH.6_12.5 + R.8 | [Episode guide](../../crashcourse/literature/slaughterhouse-five-vonnegut.md) |
+| *Persepolis* | Iranian Revolution — political change experienced from inside through graphic memoir | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/handmaids-tale-atwood.md) |
 
 ---
 
