@@ -38,9 +38,18 @@
 
 ---
 
-## CrashCourse Episodes — Units 1–3 Context
+## CrashCourse US History Episodes — Units 1–3
 
-These are World History episodes covering the same time period with relevant content:
+| Episode | Topic | Standard | Link |
+|---------|-------|----------|------|
+| Ep 06 | The Industrial Revolution | US.6_12.4–5 + Unit 1 | [Watch guide](../../crashcourse/us-history/ep-ush-06-industrial-revolution.md) |
+| Ep 07 | The Progressive Era & Immigration | US.6_12.4 + Unit 1 | [Watch guide](../../crashcourse/us-history/ep-ush-07-progressive-era.md) |
+| Ep 08 | America and WWI | US.6_12.5 + Unit 2 | [Watch guide](../../crashcourse/us-history/ep-ush-08-wwi-american.md) |
+| Ep 09 | The Great Depression | US.6_12.4–5 + Unit 3 | [Watch guide](../../crashcourse/us-history/ep-ush-09-great-depression.md) |
+
+## CrashCourse World History Context — Units 1–3
+
+These WH episodes cover the same global time period and add useful international context:
 
 | Episode | Topic | Relevance | Link |
 |---------|-------|-----------|------|

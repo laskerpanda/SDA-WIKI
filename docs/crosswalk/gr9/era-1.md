@@ -51,7 +51,7 @@
 | Ep 01 | The Agricultural Revolution | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-01-agricultural-revolution.md) |
 | Ep 09 | The Silk Road and Ancient Trade | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-09-silk-road.md) |
 
-*Additional Era 1 episodes (ep-02 through ep-13) are in the full [WH Episode Index](../../crashcourse/world-history/index.md) — guides pending.*
+*Additional Era 1 episodes are indexed at [WH Episode Index](../../crashcourse/world-history/index.md).*
 
 ## CrashCourse Literature — Era 1
 

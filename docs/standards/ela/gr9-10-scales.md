@@ -147,7 +147,7 @@ Processes: determine necessary norms and processes for the task; cooperate with 
 
 ---
 
-### 9-10.R.2 — Reading: Comprehension
+### 9-10.R.2 — Reading: Comprehension { #9-10r2 }
 
 **Standard:** Comprehend a variety of texts with multiple levels of complexity while developing inferences and providing relevant textual evidence and reasoning.
 
@@ -199,7 +199,7 @@ Processes: identify the main idea, claim, or theme of a text; support the main i
 
 ---
 
-### 9-10.R.7 — Text Analysis: Style and Language
+### 9-10.R.7 — Text Analysis: Style and Language { #9-10r7 }
 
 **Standard:** Analyze the impact of specific style, syntax, and word choices on meaning, mood, and tone, including figurative and ambiguous language.
 
@@ -225,7 +225,7 @@ Processes: identify style, syntax, and word choice in a text; identify figurativ
 
 ---
 
-### 9-10.R.8 — Text Analysis: Literary Elements
+### 9-10.R.8 — Text Analysis: Literary Elements { #9-10r8 }
 
 **Standard:** Analyze the development and interaction of literary elements and determine how they impact meaning, using strong textual evidence to support the analysis.
 
@@ -256,7 +256,7 @@ Processes: identify complex characters (static vs. dynamic); identify themes; id
 
 ---
 
-### 9-10.R.9 — Text Analysis: Informational and Argumentative Texts
+### 9-10.R.9 — Text Analysis: Informational and Argumentative Texts { #9-10r9 }
 
 **Standard:** Analyze the development and interaction of informational and argumentative elements over the course of a nonfiction text and how they impact purpose using textual evidence to support the analysis.
 

@@ -44,7 +44,7 @@ W.6 and L.1 are also always present. The writing process happens every cycle. La
 
 This is the most important distinction in SDA writing. Students who mix these up will struggle.
 
-### W.3 — Explanatory Writing
+### W.3 — Explanatory Writing { #9-10w3 }
 
 **What it is:** Informational writing. You take something complex and explain it clearly. Your job is to help the reader understand — not to persuade them of anything.
 
@@ -65,7 +65,7 @@ That's a claim that can be explained and supported with evidence. It doesn't arg
 
 ---
 
-### W.4 — Argumentative Writing
+### W.4 — Argumentative Writing { #9-10w4 }
 
 **What it is:** Persuasive writing. You take a position and defend it. Your job is to convince the reader your argument is correct — which means you have to acknowledge the opposing argument and beat it.
 

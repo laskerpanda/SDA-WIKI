@@ -49,7 +49,7 @@
 | Ep 15 | The Crusades — Pilgrimage or Holy War? | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-15-crusades.md) |
 | Ep 25 | The Protestant Reformation | WH.6_12.2 | [Watch guide](../../crashcourse/world-history/ep-25-reformation.md) |
 
-*Additional Era 2 episodes (ep-12 through ep-20) listed in the [WH Episode Index](../../crashcourse/world-history/index.md) — guides pending.*
+*Additional Era 2 episodes are indexed at [WH Episode Index](../../crashcourse/world-history/index.md).*
 
 ## CrashCourse Literature — Era 2
 

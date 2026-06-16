@@ -46,7 +46,16 @@
 
 ---
 
-## CrashCourse Episodes — Units 4–6
+## CrashCourse US History Episodes — Units 4–6
+
+| Episode | Topic | Standard | Link |
+|---------|-------|----------|------|
+| Ep 10 | WWII — The Home Front | US.6_12.4–5 + Unit 4 | [Watch guide](../../crashcourse/us-history/ep-ush-10-wwii-home-front.md) |
+| Ep 11 | The Civil Rights Movement | US.6_12.3–4 + Unit 6 | [Watch guide](../../crashcourse/us-history/ep-ush-11-civil-rights.md) |
+
+## CrashCourse World History Context — Units 4–6
+
+These WH episodes cover the global dimensions of the same events:
 
 | Episode | Topic | Relevance | Link |
 |---------|-------|-----------|------|

@@ -40,6 +40,12 @@
 
 ---
 
+## CrashCourse US History Episodes — Units 7–9
+
+| Episode | Topic | Standard | Link |
+|---------|-------|----------|------|
+| Ep 12 | Vietnam & Watergate | US.6_12.3–5 + Unit 7 | [Watch guide](../../crashcourse/us-history/ep-ush-12-vietnam-watergate.md) |
+
 ## CrashCourse Literature — Units 7–9
 
 | Work | Focus | Standard | Link |
