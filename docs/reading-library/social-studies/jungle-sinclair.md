@@ -18,6 +18,54 @@
 
 ---
 
+## Read It
+
+*Key selections — full text public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/140).*
+
+### Chapter I — The Wedding Feast (Opening Scene)
+
+> It was four o'clock when the ceremony was over and the carriages began to arrive. There had been a crowd following all the way, owing to the exuberance of Marija Berczynskas. The occasion rested heavily upon Marija's broad shoulders—it was her task to see that all things went in due form, and after the best home traditions; and, flying wildly hither and thither, bowling every one out of the way, and scolding and exhorting all day with her tremendous voice, Marija was too eager to see that others conformed to the proprieties to consider them herself.
+>
+> She stood in the doorway, shepherded by Cousin Marija, breathless from pushing through the crowd, and in her happiness painful to look upon. There was a light of wonder in her eyes and her lids trembled, and her otherwise wan little face was flushed. She wore a muslin dress, conspicuously white, and a stiff little veil coming to her shoulders. There were five pink paper roses twisted in the veil, and eleven bright green rose leaves. There were new white cotton gloves upon her hands, and as she stood staring about her she twisted them together feverishly. It was almost too much for her—you could see the pain of too great emotion in her face, and all the tremor of her form. She was so young—not quite sixteen—and small for her age, a mere child; and she had just been married.
+>
+> It was one of the laws of the *veselija* that no one goes hungry; and, while a rule made in the forests of Lithuania is hard to apply in the stockyards district of Chicago, with its quarter of a million inhabitants, still they did their best, and the children who ran in from the street, and even the dogs, went out again happier. A charming informality was one of the characteristics of this celebration. The men wore their hats, or, if they wished, they took them off, and their coats with them; they ate when and where they pleased, and moved as often as they pleased.
+
+*Sinclair opens with a celebration to show what the immigrants bring with them — community, joy, tradition — before the industrial system dismantles it.*
+
+### Chapter III — Arrival at the Stockyards
+
+> There is over a square mile of space in the yards, and more than half of it is occupied by cattle pens; north and south as far as the eye can reach there stretches a sea of pens. And they were all filled—so many cattle no one had ever dreamed existed in the world. Red cattle, black, white, and yellow cattle; old cattle and young cattle; great bellowing bulls and little calves not an hour born; meek-eyed milch cows and fierce, long-horned Texas steers. The sound of them here was as of all the barnyards of the universe.
+>
+> "And what will become of all these creatures?" cried Teta Elzbieta.
+>
+> "By tonight," Jokubas answered, "they will all be killed and cut up; and over there on the other side of the packing houses are more railroad tracks, where the cars come to take them away."
+>
+> There were two hundred and fifty miles of track within the yards, their guide went on to tell them. They brought about ten thousand head of cattle every day, and as many hogs, and half as many sheep—which meant some eight or ten million live creatures turned into food every year. One stood and watched, and little by little caught the drift of the tide, as it set in the direction of the packing houses. There were groups of cattle being driven to the chutes, which were roadways about fifteen feet wide, raised high above the pens. In these chutes the stream of animals was continuous; it was quite uncanny to watch them, pressing on to their fate, all unsuspicious—a very river of death.
+>
+> It was a long, narrow room, with a gallery along it for visitors. At the head there was a great iron wheel, about twenty feet in circumference, with rings here and there along its edge. In a minute or two it began slowly to revolve, and then the men upon each side of it sprang to work. They had chains which they fastened about the leg of the nearest hog, and the other end of the chain they hooked into one of the rings upon the wheel. So, as the wheel turned, a hog was suddenly jerked off his feet and borne aloft.
+>
+> At the same instant the car was assailed by a most terrifying shriek; the visitors started in alarm, the women turned pale and shrank back. The shriek was followed by another, louder and yet more agonizing—for once started upon that journey, the hog never came back; at the top of the wheel he was shunted off upon a trolley, and went sailing down the room. And meantime another was swung up, and then another, and another, until there was a double line of them, each dangling by a foot and kicking in frenzy—and squealing. The uproar was appalling, perilous to the eardrums.
+>
+> Meantime, heedless of all these things, the men upon the floor were going about their work. Neither squeals of hogs nor tears of visitors made any difference to them; one by one they hooked up the hogs, and one by one with a swift stroke they slit their throats. There was a long line of hogs, with squeals and lifeblood ebbing away together; until at last each started again, and vanished with a splash into a huge vat of boiling water.
+>
+> It was all so very businesslike that one watched it fascinated. It was porkmaking by machinery, porkmaking by applied mathematics. And yet somehow the most matter-of-fact person could not help thinking of the hogs; they were so innocent, they came so very trustingly; and they were so very human in their protests—and so perfectly within their rights! They had done nothing to deserve it; and it was adding insult to injury, as the thing was done here, swinging them up in this cold-blooded, impersonal way, without a pretense of apology, without the homage of a tear.
+
+*This is the passage that made Sinclair famous — and that he resented, because readers were horrified by the animal deaths and the implied food safety issues, while he had meant them to identify with the workers doing the killing.*
+
+### Chapter XIV — What Goes Into the Sausage
+
+> For it was the custom, as they found, whenever meat was so spoiled that it could not be used for anything else, either to can it or else to chop it up into sausage. With what had been told them by Jonas, who had worked in the pickle rooms, they could now study the whole of the spoiled-meat industry on the inside, and read a new and grim meaning into that old Packingtown jest—that they use everything of the pig except the squeal.
+>
+> Jonas had told them how the meat that was taken out of pickle would often be found sour, and how they would rub it up with soda to take away the smell, and sell it to be eaten on free-lunch counters; also of all the miracles of chemistry which they performed, giving to any sort of meat, fresh or salted, whole or chopped, any color and any flavor and any odor they chose.
+>
+> There would be meat that had tumbled out on the floor, in the dirt and sawdust, where the workers had tramped and spit uncounted billions of consumption germs. There would be meat stored in great piles in rooms; and the water from leaky roofs would drip over it, and thousands of rats would race about on it. It was too dark in these storage places to see well, but a man could run his hand over these piles of meat and sweep off handfuls of the dried dung of rats. These rats were nuisances, and the packers would put poisoned bread out for them; they would die, and then rats, bread, and meat would go into the hoppers together. This is no fairy story and no joke; the meat would be shoveled into carts, and the man who did the shoveling would not trouble to lift out a rat even when he saw one—there were things that went into the sausage in comparison with which a poisoned rat was a tidbit.
+>
+> Every spring they did it; and in the barrels would be dirt and rust and old nails and stale water—and cartload after cartload of it would be taken up and dumped into the hoppers with fresh meat, and sent out to the public's breakfast. Some of it they would make into "smoked" sausage—but as the smoking took time, and was therefore expensive, they would call upon their chemistry department, and preserve it with borax and color it with gelatine to make it brown.
+
+*This is the passage that triggered national outrage and led directly to the Pure Food and Drug Act (1906). President Roosevelt read it and ordered a federal investigation.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *The Jungle* uses naturalism: characters are shaped and ultimately defeated by forces (industrial capitalism, immigration systems, corporate corruption) far larger than themselves. The novel's setting — the stockyards — functions as both a literal place and a symbol of the machine that consumes workers the way it consumes animals. Students analyze how Sinclair uses setting and characterization to make his argument without stating it directly.

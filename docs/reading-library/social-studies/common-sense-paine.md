@@ -15,6 +15,40 @@
 
 ---
 
+## Read It
+
+*Key selections — full text public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/147).*
+
+### Introduction
+
+> Perhaps the sentiments contained in the following pages, are not yet sufficiently fashionable to procure them general favor; a long habit of not thinking a thing wrong, gives it a superficial appearance of being right, and raises at first a formidable outcry in defense of custom. But the tumult soon subsides. Time makes more converts than reason.
+>
+> The cause of America is in a great measure the cause of all mankind. Many circumstances hath, and will arise, which are not local, but universal, and through which the principles of all Lovers of Mankind are affected, and in the Event of which, their Affections are interested. The laying a Country desolate with Fire and Sword, declaring War against the natural rights of all Mankind, and extirpating the Defenders thereof from the Face of the Earth, is the Concern of every Man to whom Nature hath given the Power of feeling.
+
+### Of the Origin and Design of Government in General
+
+> Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins. Society is produced by our wants, and government by our wickedness; the former promotes our happiness positively by uniting our affections, the latter negatively by restraining our vices. The one encourages intercourse, the other creates distinctions. The first a patron, the last a punisher.
+>
+> Society in every state is a blessing, but government even in its best state is but a necessary evil; in its worst state an intolerable one; for when we suffer, or are exposed to the same miseries by a government, which we might expect in a country without government, our calamity is heightened by reflecting that we furnish the means by which we suffer. Government, like dress, is the badge of lost innocence; the palaces of kings are built on the ruins of the bowers of paradise.
+
+### Of Monarchy and Hereditary Succession
+
+> Mankind being originally equals in the order of creation, the equality could only be destroyed by some subsequent circumstance. But there is another and greater distinction for which no truly natural or religious reason can be assigned, and that is, the distinction of men into kings and subjects. Male and female are the distinctions of nature, good and bad the distinctions of heaven; but how a race of men came into the world so exalted above the rest, and distinguished like some new species, is worth enquiring into, and whether they are the means of happiness or of misery to mankind.
+>
+> In the early ages of the world, according to the scripture chronology, there were no kings; the consequence of which was there were no wars; it is the pride of kings which throw mankind into confusion.
+>
+> Government by kings was first introduced into the world by the Heathens, from whom the children of Israel copied the custom. It was the most prosperous invention the Devil ever set on foot for the promotion of idolatry. The Heathens paid divine honors to their deceased kings, and the christian world hath improved on the plan by doing the same to their living ones. How impious is the title of sacred majesty applied to a worm, who in the midst of his splendor is crumbling into dust!
+>
+> For all men being originally equals, no one by birth could have a right to set up his own family in perpetual preference to all others for ever, and though himself might deserve some decent degree of honors of his cotemporaries, yet his descendants might be far too unworthy to inherit them. One of the strongest natural proofs of the folly of hereditary right in kings, is, that nature disapproves it, otherwise she would not so frequently turn it into ridicule by giving mankind an ass for a lion.
+>
+> This is supposing the present race of kings in the world to have had an honorable origin; whereas it is more than probable, that could we take off the dark covering of antiquity, and trace them to their first rise, that we should find the first of them nothing better than the principal ruffian of some restless gang, whose savage manners or pre-eminence in subtility obtained him the title of chief among plunderers.
+>
+> In short, monarchy and succession have laid (not this or that kingdom only) but the world in blood and ashes. 'Tis a form of government which the word of God bears testimony against, and blood will attend it.
+>
+> Of more worth is one honest man to society and in the sight of God, than all the crowned ruffians that ever lived.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — *Common Sense* is one of the most carefully constructed argumentative texts in the American canon. Students can map Paine's claims, identify his evidence (historical examples, biblical critique, economic argument), and evaluate his reasoning. Is his argument logical? What emotional appeals does he use?
