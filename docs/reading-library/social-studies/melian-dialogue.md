@@ -19,6 +19,46 @@ Thucydides presents this without moral commentary. The reader is left to draw th
 
 ---
 
+## Read It
+
+*Crawley translation, public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/7142). Read this alongside [Pericles' Funeral Oration](./pericles-funeral-oration.md) — both are from Thucydides, fifteen years apart.*
+
+### The Setup — Athens Gives Melos a Choice
+
+> The Melians are a colony of Lacedaemon that would not submit to the Athenians like the other islanders... The Athenians... sent envoys to negotiate. These the Melians did not bring before the people, but bade them state the object of their mission to the magistrates and the few; upon which the Athenian envoys spoke as follows:
+
+### The Core Exchange — Power vs. Justice
+
+> **Athenians.** For ourselves, we shall not trouble you with specious pretences—either of how we have a right to our empire because we overthrew the Mede, or are now attacking you because of wrong that you have done us—and make a long speech which would not be believed; and in return we hope that you, instead of thinking to influence us by saying that you did not join the Lacedaemonians, although their colonists, or that you have done us no wrong, will aim at what is feasible, holding in view the real sentiments of us both; since you know as well as we do that right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must.
+>
+> **Melians.** As we think, at any rate, it is expedient—we speak as we are obliged, since you enjoin us to let right alone and talk only of interest—that you should not destroy what is our common protection, the privilege of being allowed in danger to invoke what is fair and right, and even to profit by arguments not strictly valid if they can be got to pass current. And you are as much interested in this as any, as your fall would be a signal for the heaviest vengeance and an example for the world to meditate upon.
+>
+> **Athenians.** The end of our empire, if end it should, does not frighten us: a rival empire like Lacedaemon, even if Lacedaemon was our real antagonist, is not so terrible to the vanquished as subjects who by themselves attack and overpower their rulers. This, however, is a risk that we are content to take. We will now proceed to show you that we are come here in the interest of our empire, and that we shall say what we are now going to say, for the preservation of your country; as we would fain exercise that empire over you without trouble, and see you preserved for the good of us both.
+>
+> **Melians.** And how, pray, could it turn out as good for us to serve as for you to rule?
+>
+> **Athenians.** Because you would have the advantage of submitting before suffering the worst, and we should gain by not destroying you.
+>
+> **Melians.** So that you would not consent to our being neutral, friends instead of enemies, but allies of neither side.
+>
+> **Athenians.** No; for your hostility cannot so much hurt us as your friendship will be an argument to our subjects of our weakness, and your enmity of our power.
+
+### On Hope and Survival
+
+> **Melians.** Well then, if you risk so much to retain your empire, and your subjects to get rid of it, it were surely great baseness and cowardice in us who are still free not to try everything that can be tried, before submitting to your yoke.
+>
+> **Athenians.** Not if you are well advised, the contest not being an equal one, with honour as the prize and shame as the penalty, but a question of self-preservation and of not resisting those who are far stronger than you are.
+>
+> **Melians.** But we know that the fortune of war is sometimes more impartial than the disproportion of numbers might lead one to suppose; to submit is to give ourselves over to despair, while action still preserves for us a hope that we may stand erect.
+>
+> **Athenians.** Hope, danger's comforter, may be indulged in by those who have abundant resources, if not without loss at all events without ruin; but its nature is to be extravagant, and those who go so far as to put their all upon the venture see it in its true colours only when they are ruined; but so long as the discovery would enable them to guard against it, it is never found wanting. Let not this be the case with you, who are weak and hang on a single turn of the scale; nor be like the vulgar, who, abandoning such security as human means may still afford, when visible hopes fail them in extremity, turn to invisible, to prophecies and oracles, and other such inventions that delight men with hopes to their destruction.
+
+### The Outcome — What Happened to Melos
+
+> The Melians surrendered at discretion to the Athenians, who put to death all the grown men whom they took, and sold the women and children for slaves, and subsequently sent out five hundred colonists and inhabited the place themselves.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The dialogue is structured as a formal argument with claim and counterclaim — the Athenians make a case; the Melians respond; the Athenians rebut. Students analyze both sides: Is the Athenian argument logically sound? Is the Melian argument morally compelling but strategically naïve? Which is the better argument — on what terms?

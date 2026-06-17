@@ -15,6 +15,32 @@ In the winter of 431 BCE, during the first year of the Peloponnesian War between
 
 ---
 
+## Read It
+
+*Key selections — Crawley translation, public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/7142).*
+
+### The Opening — Honoring the Ancestors
+
+> "I shall begin with our ancestors: it is both just and proper that they should have the honour of the first mention on an occasion like the present. They dwelt in the country without break in the succession from generation to generation, and handed it down free to the present time by their valour. And if our more remote ancestors deserve praise, much more do our own fathers, who added to their inheritance the empire which we now possess, and spared no pains to be able to leave their acquisitions to us of the present generation."
+
+### On Athens and Democracy
+
+> "Our constitution does not copy the laws of neighbouring states; we are rather a pattern to others than imitators ourselves. Its administration favours the many instead of the few; this is why it is called a democracy. If we look to the laws, they afford equal justice to all in their private differences; if no social standing, advancement in public life falls to reputation for capacity, class considerations not being allowed to interfere with merit; nor again does poverty bar the way, if a man is able to serve the state, he is not hindered by the obscurity of his condition. The freedom which we enjoy in our government extends also to our ordinary life. There, far from exercising a jealous surveillance over each other, we do not feel called upon to be angry with our neighbour for doing what he likes, or even to indulge in those injurious looks which cannot fail to be offensive, although they inflict no positive penalty. But all this ease in our private relations does not make us lawless as citizens. Against this fear is our chief safeguard, teaching us to obey the magistrates and the laws, particularly such as regard the protection of the injured, whether they are actually on the statute book, or belong to that code which, although unwritten, yet cannot be broken without acknowledged disgrace."
+
+### On the Athenian Way of Life
+
+> "We cultivate refinement without extravagance and knowledge without effeminacy; wealth we employ more for use than for show, and place the real disgrace of poverty not in owning to the fact but in declining the struggle against it. Our public men have, besides politics, their private affairs to attend to, and our ordinary citizens, though occupied with the pursuits of industry, are still fair judges of public matters; for, unlike any other nation, regarding him who takes no part in these duties not as unambitious but as useless, we Athenians are able to judge at all events if we cannot originate, and, instead of looking on discussion as a stumbling-block in the way of action, we think it an indispensable preliminary to any wise action at all."
+>
+> "In short, I say that as a city we are the school of Hellas, while I doubt if the world can produce a man who, where he has only himself to depend upon, is equal to so many emergencies, and graced by so happy a versatility, as the Athenian. And that this is no mere boast thrown out for the occasion, but plain matter of fact, the power of the state acquired by these habits proves. For Athens alone of her contemporaries is found when tested to be greater than her reputation, and alone gives no occasion to her assailants to blush at the antagonist by whom they have been worsted, or to her subjects to question her title by merit to rule."
+
+### The Call to Action — Fix Your Eyes on Athens
+
+> "So died these men as became Athenians. You, their survivors, must determine to have as unfaltering a resolution in the field, though you may pray that it may have a happier issue. And not contented with ideas derived only from words of the advantages which are bound up with the defence of your country, though these would furnish a valuable text to a speaker even before an audience so alive to them as the present, you must yourselves realize the power of Athens, and feed your eyes upon her from day to day, till love of her fills your hearts; and then, when all her greatness shall break upon you, you must reflect that it was by courage, sense of duty, and a keen feeling of honour in action that men were enabled to win all this, and that no personal failure in an enterprise could make them consent to deprive their country of their valour, but they laid it at her feet as the most glorious contribution that they could offer."
+>
+> "For heroes have the whole earth for their tomb; and in lands far from their own, where the column with its epitaph declares it, there is enshrined in every breast a record unwritten with no tablet to preserve it, except that of the heart. These take as your model and, judging happiness to be the fruit of freedom and freedom of valour, never decline the dangers of war."
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The oration is a formal public argument: its claim is that Athens is worth defending because of what it represents, not just what it is. Students map the argumentative structure: What is Pericles' thesis? What evidence does he offer? Who is his audience? What does he want them to believe and do?
