@@ -65,8 +65,8 @@ To reach a 4.0, you must **synthesize** and **evaluate**. This means comparing t
 
 ## Reading Library Connection
 
-*   [Declaration Rights Man 1789](/reading-library/social-studies/declaration-rights-man-1789.md) — This document shows how the *bourgeoisie* wanted to move away from monarchy toward a system where wealth and talent (not just birth) determined status.
-*   [Haitian Declaration Independence 1804](/reading-library/social-studies/haitian-declaration-independence-1804.md) — This highlights the unique social urgency of the Haitian Revolution: the immediate need for freedom from slavery.
+*   [Declaration Rights Man 1789](/reading-library/social-studies/declaration-rights-man.md) — This document shows how the *bourgeoisie* wanted to move away from monarchy toward a system where wealth and talent (not just birth) determined status.
+*   [Haitian Declaration Independence 1804](/reading-library/social-studies/haitian-declaration-independence.md) — This highlights the unique social urgency of the Haitian Revolution: the immediate need for freedom from slavery.
 *   [Declaration Woman](/reading-library/social-studies/olympe-de-gouges/declaration-woman.md) — Use this to identify **bias**; it shows that even "revolutionary" documents often excluded women, revealing the limits of the revolution's social reach.
 
 ---

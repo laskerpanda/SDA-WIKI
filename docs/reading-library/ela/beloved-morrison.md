@@ -18,6 +18,47 @@
 
 ---
 
+## Read It
+
+*Beloved* is copyrighted. Key passages below are provided for study and analysis. For the full novel, see the access options at the bottom of this section.
+
+### The Sweet Home Men — What Slavery Looked Like
+*Part One*
+
+> "Sad as it was that she did not know where her children were buried or what they looked like if alive, fact was she knew more about them than she knew about herself, having watched them every one of her days. Had she been able to see them scattered and grown, she might have felt the pain more. Instead she felt the muffled shout of being where they were not... In the place where long grass spread, and trees that were not trees at all but the shape of trees."
+
+Paul D arrives at 124 Bluestone Road and finds Sethe. Their reunion opens with the weight of Sweet Home — the Kentucky plantation where they were both enslaved. Morrison's description of the "Sweet Home men" (the enslaved workers there) is deliberately ironic: the place was called Sweet Home; it was not.
+
+### Rememory — The Past That Cannot Be Left Behind
+*Part One — Sethe and Denver*
+
+> "I was talking about time. It's so hard for me to believe in it. Some things go. Pass on. Some things just stay. I used to think it was my rememory. You know. Some things you forget. Other things you never do. But it's not. Places, places are still there. If a house burns down, it's gone, but the place — the picture of it — stays, and not just in my rememory, but out there, in the world."
+>
+> Denver asks if that means the picture is still there even if Sethe is not.
+>
+> "Oh yes. Oh yes, yes, yes. Someday you be walking down the road and you hear something or see something going on. So clear. And you think it's you thinking it up. A thought picture. But no. It's when you bump into a rememory that belongs to somebody else."
+
+This passage is the heart of the novel's argument about trauma. "Rememory" is Morrison's word for the way the past exists as a physical presence in the world — not just as personal memory but as a shared historical reality that can be stumbled into by anyone. Students connect this to US.6_12.5: the consequences of slavery did not end when slavery ended. The past is still *out there*.
+
+### The Woodshed — Sethe's Choice
+*Part One — the central crisis of the novel*
+
+Morrison does not narrate the woodshed scene abstractly. Baby Suggs arrives. Stamp Paid recounts what happened. Schoolteacher's nephews arrive to reclaim Sethe under the Fugitive Slave Act. What Sethe does — what she is found doing — is presented fully, not summarized. Morrison refuses to make the reader comfortable.
+
+The passage cannot be excerpted here without removing the weight the novel places on it by approaching it slowly, through multiple perspectives. **This is one of the passages that must be read in the full text.** What you need to know to engage it: Sethe chose to kill her infant daughter rather than allow her to be taken back into slavery. The novel asks the reader to sit with this choice without resolving it into simple condemnation or simple justification.
+
+> "She just flew. Collected every bit of life she had made, all the parts of her that were precious and fine and beautiful, and carried, pushed, dragged them through the veil, out, away, over there where no one could hurt them."
+
+This is how Paul D processes what Sethe did. Morrison makes both the horror and the love fully present at once — which is the novel's central achievement.
+
+---
+
+**Get the full text:**
+- [Open Library — free digital borrowing](https://openlibrary.org/works/OL27258W) *(free account, borrow like a library)*
+- No account? Connect with **Mr. Reese** or the **Fargo South Library**.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Morrison's narrative structure is fragmented and non-linear because the characters themselves cannot bear to remember in sequence. Students analyze how form mirrors content: the novel's structural fragmentation is itself a portrait of trauma. The ghost Beloved functions as a literary device: she embodies the past that will not stay buried, the children who were not free, the violence that haunts the present. Morrison's prose is lyrical and dense — close reading of individual passages is essential.

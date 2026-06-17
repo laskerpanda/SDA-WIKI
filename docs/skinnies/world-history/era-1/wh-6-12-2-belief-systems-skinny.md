@@ -77,7 +77,7 @@ To reach a 4.0, you must synthesize information by comparing different civilizat
 
 ## Reading Library Connection
 
-- [Hammurabi's Code](/reading-library/social-studies/hammurabis-code.md) — This text shows how Mesopotamian law used "retributive justice" to maintain social order under a divine mandate.
+- [Hammurabi's Code](/reading-library/social-studies/hammurabi-code.md) — This text shows how Mesopotamian law used "retributive justice" to maintain social order under a divine mandate.
 - [Book of the Dead](/reading-library/social-studies/book-of-the-dead-egypt.md) — This primary source reveals the Egyptian obsession with the afterlife and the role of priests in navigating the journey of the soul.
 - [Dhammapada](/reading-library/social-studies/dhammapada-buddhism.md) — These verses provide insight into how early Buddhist followers sought to escape suffering through internal discipline rather than external ritual.
 

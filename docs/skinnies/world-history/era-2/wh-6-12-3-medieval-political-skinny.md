@@ -76,7 +76,7 @@ To reach a **4.0**, you must perform a "transfer" task. This means taking these 
 
 ## Reading Library Connection
 
-- [Magna Carta 1215](/reading-library/social-studies/magna-carta-1215.md) — A primary source showing how the Magna Carta limited royal power.
+- [Magna Carta 1215](/reading-library/social-studies/magna-carta.md) — A primary source showing how the Magna Carta limited royal power.
 - [Feudal Obligations Primary Source](/reading-library/social-studies/feudal-obligations-primary-source.md) — A breakdown of what a knight owed his lord in exchange for a fief.
 - [Pope Gregory Emperor Henry Correspondence](/reading-library/social-studies/pope-gregory-emperor-henry-correspondence.md) — Primary letters showing the tension between Church and State during the Investiture Controversy.
 
