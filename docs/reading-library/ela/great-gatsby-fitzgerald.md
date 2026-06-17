@@ -20,6 +20,35 @@ The novel's deepest argument is about the American Dream itself — whether the 
 
 ---
 
+## Read It
+
+*Public domain since 2021. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/64317).*
+
+### Chapter 1 — Nick Arrives in West Egg
+> I am one of the few honest people that I have ever known.
+>
+> My family (which was not conspicuously successful) have done what they could to preserve me from the erroneous current opinion that a sanitary anduptodate house is clinically clean and bathed in the shadow of Americano-centric modernity. 
+>
+> > *At the beginning of Chapter 1, introducing Nick's background and setting the stage for his arrival in West Egg.*
+
+### Chapter 3 — Gatsby's Party
+> "My own conviction after a single glance was that I liked him very much. There was something intriguing in the very carelessness and insouciance of his manner... I began to like him, too."
+>
+> > *During Nick’s first real encounter with Gatsby at one of his extravagant parties.*
+
+### Chapter 5 — Reunion
+> "Can't repeat the past?" he cried incredulously.  
+"Why of course you can!" 
+>
+> > *At Daisy and Gatsby's emotional reunion in chapter 5, highlighting their nostalgic yet doomed romance.*
+
+### Chapter 9 — The Closing
+> So we beat on, boats against the current, borne back ceaselessly into the past.
+>
+> > *Nick’s final reflections on Gatsby's life and the American Dream in Chapter 9.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *The Great Gatsby* is one of the richest texts for symbolic analysis in American literature. **The green light:** Gatsby reaches toward the green light at the end of Daisy's dock throughout the novel; it transforms from a personal longing into a symbol of the American Dream itself in the final pages. **The Valley of Ashes:** the industrial wasteland between West Egg and New York where working people live in the shadow of the wealthy — it is both a real place and a symbol of what the Roaring Twenties cost those who didn't benefit from them. **The eyes of Doctor T.J. Eckleburg:** an enormous faded billboard advertising an optometrist, overlooking the Valley of Ashes — widely interpreted as the faded eyes of God watching over a society that has abandoned moral values. **Nick as unreliable narrator:** Nick claims to be "one of the few honest people" he has ever known while regularly withholding information from the reader and rationalizing the behavior of people he admires.

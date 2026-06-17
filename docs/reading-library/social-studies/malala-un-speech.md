@@ -17,6 +17,28 @@ The speech is short (about 1,200 words), formally structured, and extraordinaril
 
 ---
 
+## Read It
+*Fair-use excerpts for educational use. [Full text at UN.org](https://www.un.org/press/en/2013/note6521.doc.htm). Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### The Opening — Speaking After Being Shot
+> I am here to tell all of you that extremists are afraid of women. The power of education frightens them. That is why they kill and maim teachers and students, bomb schools and launch book burnings.
+
+>
+
+### On Education as Power
+> One child, one teacher, one pen and one book can change the world. It is the responsibility of every head of state to provide free education to everyone in their country.
+
+>
+
+### The Call — 'Let Us Pick Up Our Books and Our Pens'
+> So let us wage a global struggle against illiteracy, poverty and terrorism, and let us pick up our books and pens. They are our most powerful weapons. One child, one teacher, one book, and one pen can bring about change in the world.
+
+>
+
+*Full text available at [UN.org](https://www.un.org) and [Internet Archive](https://archive.org). Connect with Mr. Reese or the Fargo South Library for a complete copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The speech is an argument structured for a specific audience (the UN General Assembly and world media) and a specific purpose (mobilize international support for girls' education and pressure on the Pakistani government). Students analyze: What is her central claim? How does she use ethos (her own story as evidence), logos (the specific arguments for education), and pathos (the specific restraint of her emotional appeal — she refuses to be defined by victimhood)? What makes her rhetorical choices powerful?

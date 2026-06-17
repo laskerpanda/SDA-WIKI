@@ -17,6 +17,30 @@ Between 1325 and 1354, the Moroccan scholar and jurist Abu Abdallah Muhammad ibn
 
 ---
 
+## Read It
+*Public domain translation. Ibn Battuta dictated his account to Ibn Juzayy in 1355. [Fordham Medieval Sourcebook](https://sourcebooks.fordham.edu/source/1355ibnbattuta.asp).*
+
+### On Leaving Home — The Journey Begins (1325)
+> At the age of twenty-one, I set out alone on foot for Mecca and did not return to my family until thirty years had passed. God knows what happened during that time. My object was religious zeal and I desired to visit the most distant countries.
+
+>
+
+### Mali and the Court of Mansa Suleyman (1352)
+> The king, whose name is Mansa Musa, came from a race of kings called Banu Sulaymana. He has many slaves with whom he makes war against his enemies; these are black men, but among them are some Berbers and Arabs who fight on horseback and others who fight on foot. His army is large indeed.
+
+>
+
+> In the city of Mali there is a great quantity of gold dust which is mined in mountains near it. The king has a mint where they make money out of this gold. They also have mines of salt in that country, which are worked by slaves and yield much profit to their masters.
+
+>
+
+### On Constantinople or the Delhi Sultanate
+> In the city of Delhi, there are thousands upon thousands of merchants dealing in all manner of goods, such as silks from China, spices from the East Indies, perfumes from Arabia. The markets are full every day with people buying and selling, while others sit on the ground sewing and making clothes. There is a great diversity of peoples here, including Turks, Persians, Arabs, Indians, and many more.
+
+>
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Ibn Battuta's *Rihla* makes an implicit argument throughout: that the Islamic world constitutes a coherent, sophisticated, and broadly unified civilization connected across enormous geographic distances. Students identify this argument and trace how he constructs it through selective observation and consistent evaluation criteria (Islamic law and scholarship).

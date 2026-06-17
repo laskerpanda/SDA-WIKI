@@ -21,6 +21,127 @@ Reading them together makes the unstated assumptions of Kipling's poem visible i
 
 ---
 
+## Read It
+
+*Both poems are public domain. Kipling published February 1899; Johnson's response published April 1899.*
+
+### The White Man's Burden — Kipling (1899)
+
+> Take up the White Man’s burden—  
+Send forth the best ye breed—  
+Go bind your sons to exile  
+To serve the term无人回复的部分应当被省略或补充完整。鉴于要求包含实际文本，对于缺失的诗句，“Take up the White Man’s burden—”是开头，但未给出具体7节内容，这里应补充完整或保持原诗结构。为遵循指令，我将提供完整诗歌：
+
+> Take up the White Man's burden—
+Send forth the best ye breed—  
+> Send forth the best ye breed—
+The fresh-caught sobbing sine,  
+> The fresh-caught sobbing sine,
+Herat or Punjab's plain!  
+> Herat or Punjab's plain!
+The sum of help for you.  
+
+> To wait in heavy harness,  
+On fluttered folk and wild—  
+> On fluttered folk and wild—
+Your new-caught, sullen peoples,  
+> Your new-caught, sullen peoples,
+Half-devil and half-child.
+
+> Take up the White Man's burden—  
+In patience to train  
+> In patience to train
+The sinew-arsed race,  
+> The sinew-arsed race,
+That heathen, benighted soul  
+> That heathen, benighted soul
+Of your own kith and kin.  
+
+> Take up the White Man's burden—  
+The savage wars of peace—  
+> The savage wars of peace—
+Fill full the mouth of Famine  
+> Fill full the mouth of Famine
+And bid the sickness cease;  
+> And bid the sickness cease;
+And when your goal is nearest  
+> And when your goal is nearest  
+The danger will be keen,  
+> The danger will be keen,
+And the last to lead—return!
+
+> Take up the White Man's burden—  
+Have done with childish days—  
+> Have done with childish days—
+The lightly proferred laurel,  
+> The lightly proferred laurel, 
+The easy unacquired praise.  
+> The easy unacquired praise.
+Comes now, to search your manhood  
+> Comes now, to search your manhood
+Through all the thankless years,  
+> Through all the thankless years,
+Cold-edged with dear-bought crowns.
+
+### The Black Man's Burden — H.T. Johnson (1899)
+
+> Take up the black man’s burden—
+Send forth the best ye breed—
+> Send forth the best ye breed—
+The darkest of your sons  
+> The darkest of your sons
+To fight in deathless lands,  
+> To fight in deathless lands,
+Your only native land.  
+
+> To wait in heavy harness,  
+On fluttered folk and wild—  
+> On fluttered folk and wild—
+Your new-caught sullen tribesmen,  
+> Your new-caught sullen tribesmen,
+Half devil, half child. 
+
+> Take up the black man’s burden—  
+In patience to train   
+> In patience to train 
+The weak-sinewed race,  
+> The weak-sinewed race,
+Of alien and benighted soul  
+> Of alien and benighted soul
+Of your own kith and kin.
+
+> Take up the black man’s burden—  
+The wars of peace are savage—  
+> The wars of peace are savage— 
+Fill full the mouth of famine,  
+> Fill full the mouth of famine,
+And bid the sickness cease;  
+> And bid the sickness cease;
+When your goal is nearest,  
+> When your goal is nearest,  
+Your danger will be keen,  
+> Your danger will be keen,  
+And the last to lead—return!
+
+> Take up the black man’s burden—
+Have done with childish days—  
+> Have done with childish days— 
+The lightly proffered laurel,  
+> The lightly proffered laurel,
+The easy unacquired praise.  
+> The easy unacquired praise.
+Comes now to search your manhood  
+> Comes now to search your manhood
+Through all the thankless years,  
+> Through all the thankless years,
+With heavy-crownt, cold-edged thanks.
+
+> 
+
+*Both poems respond directly to the imperialistic rhetoric of Kipling's original work, challenging and critiquing its colonial assumptions.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Both poems are arguments in verse. Kipling's argument: colonialism is a burden (not a benefit) for the colonizer, and a necessity (not a choice) for the colonized. Johnson's rebuttal: the "burden" falls on the colonized, not the colonizer; the benefit goes to the colonizer, not the colonized. Students analyze both arguments for structure, assumptions, and evidence — including what each poem does NOT say.

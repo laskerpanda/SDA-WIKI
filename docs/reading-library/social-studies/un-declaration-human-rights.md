@@ -18,6 +18,50 @@ The UDHR was drafted by representatives from countries across the ideological sp
 
 ---
 
+## Read It
+*Public domain — UN document. [Full text at UN.org](https://www.un.org/en/about-us/universal-declaration-of-human-rights).*
+
+### Preamble
+> The General Assembly,
+
+> Proclaims this Universal Declaration of Human Rights as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.
+
+>
+
+### Articles 1–10 — Core Rights
+> **Article 1.** All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+>
+> **Article 2.** Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+>
+> **Article 3.** Everyone has the right to life, liberty and security of person.
+>
+> **Article 4.** No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.
+>
+> **Article 5.** No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+>
+> **Article 6.** Everyone has the right to recognition everywhere as a person before the law.
+>
+> **Article 7.** All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.
+>
+> **Article 8.** Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.
+>
+> **Article 9.** No one shall be subjected to arbitrary arrest, detention or exile.
+>
+
+### Articles 18–21 — Rights of Conscience and Political Life
+> **Article 18.** Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.
+>
+> **Article 19.** Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
+>
+> **Article 20.** (1) Everyone has the right to peaceful assembly and association.  
+> (2) No one may be compelled to belong to an association.
+>
+> **Article 21.** (1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.  
+> (2) Everyone has the right of equal access to public service in his country.  
+> (3) The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The UDHR is an argumentative document structured as a declaration: its Preamble makes the case for why universal rights are necessary; its articles specify what those rights are. Students analyze the argument structure of the Preamble — what assumptions does it make? What historical events is it responding to? Compare the rhetorical approach to the French Declaration of the Rights of Man (1789) and the Haitian Declaration (1804).

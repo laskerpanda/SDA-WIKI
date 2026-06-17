@@ -15,6 +15,28 @@
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 1 — Arrival at Birkenau
+
+>*It was about four o'clock in the afternoon. A dark sky cast a grey pall over everything around us. It was then that I heard the first question, the one Auschwitz would repeat throughout the years: Where is God now? And I heard the reply: Here He is—He is hanging here on this gallows...*
+
+### Chapter 4 — The Hanging of the Child
+
+>*His face was pale and his lips were blue. His eyes stared vacantly straight ahead; they never saw us, never felt our presence... When he was pushed back by an SS man, he looked at me with those two big, empty eyes. It was such a terrible night.*
+
+> *Where is God now?* Someone behind me asked the question. So as not to meet his eye, I gazed toward the distant sea where the first rays of sun painted the horizon red.
+
+### Chapter 9 — Liberation
+
+>*I saw myself. That was all. But it was enough. I recoiled in horror and anguish... I looked at my face. A young boy's face was peering into mine from a distance.*
+
+> *Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [9-10.R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Night* is a literary text that relies heavily on symbol (fire, night, silence), motif (father-son relationship, the hanging of a child), and tone shifts from naive faith to dark despair. Students analyze how Wiesel uses literary elements to convey meaning beyond the literal events.

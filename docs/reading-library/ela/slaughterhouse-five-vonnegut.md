@@ -20,6 +20,32 @@ This text is dual-use in ways that reward careful examination. As an ELA text, *
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 1 — The Author's Note
+
+> Kurt Vonnegut introduces the novel as a confession about what happened to him in Dresden during World War II, explaining that he has struggled for 23 years to write this story.
+
+>
+
+### Chapter 2 — 'So it goes'
+
+> Billy Pilgrim is introduced as an optometrist who has come unstuck in time. After describing an event in his life, Vonnegut writes "so it goes," a refrain used throughout the book as a way of coping with and accepting death.
+
+>
+
+### Chapter 10 — After Dresden
+
+> In the final chapter, Vonnegut returns to Dresden in 1967, finding birds singing and wondering, "'Poo-tee-weet?'" as an expression of confusion about why things happen the way they do.
+
+>
+
+*Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Slaughterhouse-Five* is one of the most structurally distinctive novels students are likely to encounter. **Non-linear narrative:** events are not presented in chronological order; the novel jumps between Billy's wartime past, his post-war present, and his Tralfamadorian "abduction." Students analyze: Why does Vonnegut structure the novel this way? What does a non-linear narrative do that a conventional chronological one cannot? The answer is that the non-linear structure is the trauma itself — Billy (and Vonnegut) cannot organize these events into a story because they refuse to be storified. **Dark humor/satire:** "So it goes" — repeated every time anything dies — begins as a darkly funny refrain and becomes, by the end, devastating. Students trace how Vonnegut uses humor as a way of bearing witness to things that cannot be borne directly. **Billy Pilgrim's unreliable consciousness:** the Tralfamadore episodes may be fantasy, delusion, or PTSD hallucination — Vonnegut never clarifies. Students analyze: What does the Tralfamadorian worldview (all moments exist simultaneously; there is no death) offer Billy? What does it cost him?

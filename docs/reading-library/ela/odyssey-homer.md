@@ -20,6 +20,56 @@ The Emily Wilson translation is specifically recommended because her choices rai
 
 ---
 
+## Read It
+
+*Public domain — multiple translations. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/1727).*
+
+### Book 1 — The Opening Invocation and Telemachus
+> *At the beginning of the epic...*
+>
+>Sing to me of the man, Muse, the man of twists and turns  
+driven time and again off course, once he had plundered 
+the sacred realm of the hallowed one of the dark clouds, 
+wild-hearted, far from his friends, but still he fought 
+beyond his own desperate homecoming.
+>
+> When it is evening in Ithaca,  
+and Telemachus’ heart is sick with sorrow...
+
+### Book 9 — The Cyclops
+> *From Odysseus' encounter with the giant Polyphemus...*
+>
+>Polyphemus asks who they are and why they have come.
+>
+>"Strangers," we answered him, "we are Achaeans driven 
+in our ships by adverse winds from far away. Pity us,
+O mighty one, and show guest-friendship in your heart..."
+>
+> Odysseus then pours into Polyphemus' wine the strong 
+wine of the gods that they had brought...
+
+### Book 12 — Scylla and Charybdis
+> *When Odysseus must navigate between two fearsome monsters...*
+>
+> The cliffs are sheer,  
+and hard by there is another cliff where rests a fig tree  
+in full leaf; but around the root of it is a cave, deep 
+within, with dark entrance, for dread Scylla lives there.
+>
+> They were all in one mind about turning back...
+
+### Book 23 — The Recognition
+> *When Odysseus and Penelope finally reunite...*
+>
+>Penelope comes to the hall and sees him. She is dumbfounded,
+and a great wave of grief takes hold on her heart, and she 
+utters her prayer, calling Zeus among the gods by name...
+>
+> And now they have it ready, the test that will confirm  
+the truth of all he has said; the bed with its secret...
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — The *Odyssey* is the origin point of several key literary conventions students encounter throughout their reading lives. **Epic conventions:** invocation of the Muse, in medias res opening (the story begins ten years in; we learn the earlier events through flashback and stories), epithets (repeated descriptive phrases like "grey-eyed Athena" and "rosy-fingered Dawn" — these are oral composition devices), the epic simile (extended comparisons that slow the narrative for effect). **Divine intervention:** the gods are characters who act on human events — students analyze how divine involvement changes moral responsibility. **The hero:** Odysseus is not a conventional hero — he is small, cunning, frequently lying, and ruthlessly practical. Analyzing what kind of hero he is reveals what Greek culture valued.

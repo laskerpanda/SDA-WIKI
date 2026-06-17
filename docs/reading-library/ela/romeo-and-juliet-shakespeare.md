@@ -20,6 +20,62 @@ Shakespeare's audience in 1597 would have read the feud as the problem — not t
 
 ---
 
+## Read It
+
+*Public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/1513).*
+
+### Act I, Scene 5 — 'Did my heart love till now?'
+
+> Did my heart love till now? Forswear it, sight!  
+For I ne'er saw true beauty till this night.
+
+> — *Romeo sees Juliet for the first time at the Capulet ball, and Tybalt recognizes Romeo, feeling a deep hatred towards him.*
+
+>
+
+### Act II, Scene 2 — The Balcony Scene
+
+> But soft, what light through yonder window breaks?  
+It is the east, and Juliet is the sun.  
+Arise, fair sun, and kill the envious moon,  
+Who is already sick and pale with grief...
+
+> > Two hours of love's precious dawnings will shine  
+> > Away eight long nights, having little strength  
+> > With which to keep on our perpetual night.
+
+> — *Romeo stands below Juliet's balcony in a famous declaration of his love for her.*
+
+>
+
+### Act III, Scene 1 — The Turning Point
+
+> This day’s black fate on more days doth depend;  
+This but begins the woe other days predict.  
+The worm i’ th’ bud! O, woeful day!
+
+> > Romeo kills Tybalt in a duel and is banished by Prince Escalus.
+
+— *Mercutio's death at the hands of Tybalt and subsequent revenge killing of Tybalt by Romeo mark the pivotal moment where the play shifts from romance to tragedy.*
+
+>
+
+### Act V, Scene 3 — The Final Scene
+
+> Here’s to my love!  
+O true apothecary, thy bare neelds  
+Are sharp enough to sheathe another man.
+— *Romeo in the tomb, having taken poison to be with Juliet and about to die.*
+
+>
+
+> For never was a story of more woe  
+Than this of Juliet and her Romeo.
+
+— *The Prince's final speech upon discovering the tragic deaths of both young lovers, highlighting the devastating cost of the long-standing feud between their families.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Romeo and Juliet* offers one of the richest sets of literary structures available in a single text. **Sonnet form:** the Prologue is a perfect Shakespearean sonnet (14 lines, ABAB CDCD EFEF GG); Romeo and Juliet's first conversation (Act I, Scene 5) is a hidden sonnet split between their dialogue — Elizabethan audiences would have recognized this as a signal of romantic destiny. **Foil characters:** Mercutio is everything Romeo is not — cynical, realistic, funny, unwilling to be absorbed into romantic fantasy; Juliet is more rational than Romeo almost from the start (the balcony scene, which is actually Juliet's scene, not Romeo's). **Dramatic structure:** students map the classic five-act tragic structure. **Dramatic irony:** the audience is told in the Prologue that both die — every hopeful moment is shadowed by this knowledge.

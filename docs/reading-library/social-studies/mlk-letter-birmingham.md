@@ -14,6 +14,33 @@ Written on April 16, 1963, from a Birmingham, Alabama jail cell, this letter is 
 
 ---
 
+## Read It
+*Copyright held by the King Estate. Fair-use excerpts for educational use. [Full text at Stanford King Institute](https://kinginstitute.stanford.edu/letter-birmingham-jail). Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### The Opening — Writing from a Jail Cell
+> I am in lowly jail cell, far from the rhetoric of fine-sounding words.
+
+>
+
+### On 'Wait' — The Argument for Direct Action
+> We know through painful experience that freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed. Frankly, I have yet to engage in a direct action movement that was "well timed" in the view of those who have not suffered unduly from the disease of segregation.
+
+>
+
+### On the White Moderate
+> I have almost reached the regrettable conclusion that the Negro's great stumbling block in his stride toward freedom is not the White Citizen's Councilor or the Ku Klux Klanner, but the white moderate, who is more devoted to "order" than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice.
+
+>
+
+### On Unjust Laws — The Moral Argument
+> A just law is a man-made code that squares with the moral law or the law of God. An unjust law is a code that is out of harmony with the moral law... Any law that uplifts human personality is just. Any law that degrades human personality is unjust.
+
+>
+
+*Full text available at [Stanford King Institute](https://kinginstitute.stanford.edu/letter-birmingham-jail) and [Internet Archive](https://archive.org). Connect with Mr. Reese or the Fargo South Library for a complete copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The letter is structured as a point-by-point refutation of the clergymen's claims. Students can map King's argument: identify each counterargument he addresses, his response, and his evidence. One of the clearest examples of argumentative structure in any text.

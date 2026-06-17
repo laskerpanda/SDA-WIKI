@@ -15,6 +15,38 @@
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Part 1, Chapter 1 — 'It was a bright cold day in April'
+> *This passage sets the dystopian scene of Airstrip One (formerly Britain), where posters featuring Big Brother’s face are ubiquitous and citizens live under constant surveillance.*
+>
+> It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions...
+>
+
+### Part 2, Chapter 5 — The Principles of Newspeak
+> *Syme explains the concept of doublethink and the reductionist nature of Newspeak aimed at limiting freedom of thought by controlling language.*
+>
+> 'Don't you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.'
+>
+
+### Part 3, Chapter 2 — Room 101
+> *In this harrowing scene, O'Brien reveals the true motive behind the Party's oppressive regime—power for its own sake.*
+>
+> The object of power is power... We know that no one ever seizes power with the intention of relinquishing it. Power is not a means; it is an end.'
+>
+
+### Appendix — The Principles of Newspeak
+> *This section provides an academic overview of Newspeak’s design, emphasizing its purpose to control and ultimately eradicate free thought by restricting language.*
+>
+> Newspeak was designed to meet the ideological needs of Ingsoc (English Socialism). Its vocabulary was deliberately reduced in size, with synonyms eliminated...
+>
+
+*Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [9-10.R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *1984* is one of the richest texts for literary analysis at this level: symbol (the telescreen, Room 101, the glass paperweight), extended metaphor (the Party's rewriting of history as memory-control), irony (Ministry of Truth lies; Ministry of Love tortures; Ministry of Peace makes war), and character development under systematic oppression.

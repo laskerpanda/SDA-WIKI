@@ -20,6 +20,29 @@ This text is dual-use in the most direct historical sense. As an ELA text, the p
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Act 1, Scene 1 — The Morning Routine
+>*The setting introduces the Younger family's crowded apartment, highlighting their living conditions as a symbol of social inequality.*
+>
+>As Lena Younger prepares breakfast in her small kitchen, she speaks to Ruth about how tired Walter is from his job and the strain it puts on their family. This dialogue sets up the physical constraints of their space and its symbolic weight in societal oppression.
+
+### Act 2, Scene 2 — Walter and the Dream
+>*Walter's speech reveals his aspirations for himself and his son, emphasizing the internal conflict between ambition and reality.*
+>
+>“I want so many things that they are driving me kind of crazy. I want colored Cadillac's, and I want night clubs, and I want to move into a fine house and have people say, ‘That’s Walter Lee Younger’s house’ when they see it.” This monologue captures Walter’s ambition amidst the struggle for economic freedom.
+
+### Act 3 — 'We have decided to move'
+>*The climax of the play where the family decides on a course of action that prioritizes their dignity.*
+>
+>When Lindner offers the Youngers money not to move into an all-white neighborhood, Walter refuses and proclaims, “You hear me? We don’t need you or your offer! . . . You just want us to be grateful and go away and leave you alone.” This moment is a pivotal declaration of the family’s determination to pursue their dreams with dignity.
+
+> *Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *A Raisin in the Sun* demonstrates several dramatic structures with unusual clarity. **Character foils:** Walter Lee and Beneatha are the play's central foil pair — Walter Lee's dream is economic (ownership, business, "making it" in capitalist terms); Beneatha's dream is professional and intellectual (medical school, identity, African heritage). They represent two competing visions of what Black liberation looks like in 1950s America, and the play does not fully resolve the tension. **Setting as character:** the apartment's smallness, its shared bathroom with neighbors, its single bedroom — these are not background detail. Hansberry uses the physical space to represent the social constraint the family lives under; the house in Clybourne Park represents freedom partly because it is larger. **Dramatic structure:** the play follows a clear five-act arc (complication, revelation, crisis, decision, departure) that rewards structural analysis.

@@ -18,6 +18,35 @@
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### 'The Veil' — The Islamic Revolution Changes Everything  
+>*Chapter 4: The veil is introduced as a mandatory requirement in Marji's school, leading to a moment of confusion and resistance.*
+
+>Marji stands outside her classroom door, watching her classmates. Some girls wear headscarves while others don't, creating an immediate divide among them. When the teacher enters, she instructs all students to cover their heads with scarves or veils. Marji feels lost as she tries to understand why such a simple item of clothing has suddenly become so significant. She decides not to follow the rule, but her parents later sit her down for a conversation about the importance of compliance and safety in these tumultuous times.
+
+> 
+
+### 'The Letter' — Marji's Uncle Anoosh  
+>*Chapter 9: In a letter to Marji, Anoosh recounts his experience as a political prisoner.*
+
+>Anoosh writes to Marji from prison, sharing stories of his detention under the Shah and how he continued to fight for freedom after the revolution. He describes being beaten and tortured but also finding hope in the solidarity among prisoners who shared their dreams and struggles. His letter serves as a bridge between generations, instilling in young Marji a deeper understanding of political activism and its consequences.
+
+> 
+
+### 'The Dowry' — Leaving Iran  
+>*Chapter 12: As Marji prepares to leave for Europe with her mother.*
+
+>The scene shifts to the airport where Marji's departure is bittersweet. She looks back at her family, especially her mother who collapses in grief as they board their flight. The emotional farewell highlights the weight of exile and the sacrifices made for a better future elsewhere. In this poignant moment, Marji reflects on the cost of leaving home.
+
+> 
+
+*Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — The graphic novel form creates unique literary analysis opportunities: Satrapi's visual style is deliberately simple (black and white, bold shapes) in contrast to the complexity of what she depicts. Students analyze how the visual choices — what is shown vs. described in text, how the same events appear differently in panels — create meaning that prose alone couldn't achieve. The child narrator vs. the adult author is a central character complexity.

@@ -20,6 +20,49 @@ Shakespeare's *Hamlet* is set in medieval Denmark but written for Elizabethan En
 
 ---
 
+## Read It
+
+*Public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/1524).*
+
+### Act I, Scene 2 — 'O that this too too solid flesh'
+> *In Hamlet's first soliloquy, he expresses his grief and suicidal thoughts following the death of his father and his mother's hasty remarriage.*
+>
+>O that this too too solid flesh would melt  
+Thaw and resolve itself into a dew!  
+Or that the Everlasting had not fix'd  
+His canon 'gainst self-slaughter!
+
+### Act II, Scene 2 — 'What a piece of work is a man'
+> *Hamlet delivers a speech to Rosencrantz and Guildenstern about human greatness and his own feelings of inadequacy.*
+>
+>What a piece of work is a man! How noble in reason!  
+How infinite in faculty! In form and moving how  
+express and admirable! In action how like an angel,  
+in apprehension how like a god!
+
+### Act III, Scene 1 — 'To be, or not to be'
+> *The famous soliloquy where Hamlet contemplates life and death.*
+>
+>To be, or not to be: that is the question:  
+Whether 'tis nobler in the mind to suffer  
+
+> The slings and arrows of outrageous fortune,  
+Or to take arms against a sea of troubles  
+And by opposing end them.
+
+### Act V, Scene 2 — 'The readiness is all'
+> *Hamlet's acceptance of death and his fate before the duel with Laertes.*
+>
+>Let be.  
+Since no man of aught he leaves knows what an'  
+'tis not so slaughterous bloody deed returns to hunt us  
+
+> In our own mirrors; even cups, dishes, spoons,  
+and knives have lost their edge of murderous intent.  
+The readiness is all.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Hamlet* provides rich material for literary analysis at multiple levels. **Soliloquy as interior argument:** the "To be or not to be" speech and the others are not simply self-expression — they are arguments Hamlet constructs and then refuses to resolve. Students analyze: What is he actually arguing? What prevents him from concluding? **Dramatic irony:** the audience knows Claudius is guilty; most characters do not. Every scene between Hamlet and Claudius operates under this knowledge. **Delay as character:** the most revealing question in the play is not what Hamlet should do but why he doesn't. Different critics have argued he delays because of moral scruple, because of melancholy, because of Oedipal attachment to his mother, because of genuine philosophical uncertainty. Students analyze the delay through the text.

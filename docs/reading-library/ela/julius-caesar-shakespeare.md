@@ -18,6 +18,60 @@
 
 ---
 
+## Read It
+
+*Public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/1522).*
+
+### Act I, Scene 2 — 'The Fault, Dear Brutus'
+> *Cassius persuading Brutus — 'The fault, dear Brutus, is not in our stars / But in ourselves that we are underlings'*
+>
+>Cassius: The fault, dear Brutus, is not in our stars
+>Hanging ourselves in their disdainful winks,
+>But in ourselves that we are underlings.
+>To whom do lions whine? Who'll go seek for leather
+>When he can find no hide to make him a pair of pumps?
+>
+> > *The fault, dear Brutus, is not in our stars / But in ourselves that we are underlings*
+
+### Act II, Scene 1 — Brutus Justifies the Conspiracy
+> *Brutus' soliloquy reasoning that Caesar must die for Rome's good — not because he has acted badly but because he might*
+>
+> > Brutus, though thou hast no reason,
+>To kill a man who is thy enemy,
+>And yet by thy own act and valour proved
+>A noble Roman.
+>
+> > *not because he has acted badly but because he might*
+
+### Act III, Scene 2 — Antony's Funeral Speech
+> *Antony's 'Friends, Romans, countrymen' speech — the key rhetorical turns*
+>
+> > Friends, Romans, countrymen, lend me your ears;
+>I come to bury Caesar, not to praise him.
+>The evil that men do lives after them,
+>The good is oft interred with their bones;
+>So let it be with Caesar. The noble Brutus
+>Hath told you Caesar was an ambitious man;
+>If it were so, it was a grievous fault,
+>And grievously hath Caesar answered it.
+>
+> > *the key rhetorical turns*
+
+### Act IV, Scene 3 — 'There is a tide in the affairs of men'
+> *Brutus on timing, opportunity, and the need to act at Philippi*
+>
+> > There is a tide in the affairs of men,
+>Which, taken at the flood, leads on to fortune;
+>Omitted, all the voyage of their life
+>Is bound in shallows and in miseries.
+>On such a full sea are we now afloat,
+>And we must take the current when it serves,
+>Or lose our ventures.
+>
+> > *timing, opportunity, and the need to act at Philippi*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Shakespeare constructs extraordinary character complexity through dramatic irony and self-deception. Brutus is honorable and wrong; Cassius is manipulative and not entirely wrong; Caesar is vain and genuinely dangerous; Antony is cynical and genuinely grieving. Students analyze how Shakespeare uses the same dramatic events to reveal different truths about each character's nature.

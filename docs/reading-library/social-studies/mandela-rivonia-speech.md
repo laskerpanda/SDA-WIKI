@@ -19,6 +19,28 @@ Mandela was sentenced to life imprisonment rather than death — a decision wide
 
 ---
 
+## Read It
+*Fair-use excerpts for educational use. [Full text at ANC Archives](https://www.anc.org.za/content/nelson-mandelas-statement-dock-rivonia-trial). Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Why He Fought — The Opening Statement
+> I am the first accused in this trial, and I want to say why I regard myself as a political rebel and not a common criminal.
+
+>
+
+### The Vision — A Democratic and Free Society
+> An ideal which I hope to live for and realize, but if needs be, an ideal for which I am prepared to die. It is an ideal that I have lived my life for, and I am prepared to sacrifice everything to achieve it.
+
+>
+
+### The Closing — 'An Ideal for Which I Am Prepared to Die'
+> During my lifetime I have dedicated myself to this struggle of the African people. I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities.
+
+>
+
+*Full text available at [ANC Archives](https://www.anc.org.za) and [Internet Archive](https://archive.org). Connect with Mr. Reese or the Fargo South Library for a complete copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The speech's argument is structured for a hostile audience (an apartheid court that has already convicted him) and a secondary audience (the world watching). Students analyze how Mandela's rhetorical choices — the calm, methodical tone; the specific evidence; the explicit statement of values — are calibrated for both audiences simultaneously. Compare directly to MLK's Letter from Birmingham Jail for the best cross-text R.9 analysis in the library.

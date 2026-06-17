@@ -20,6 +20,36 @@ The novel failed commercially when Melville published it. It was "rediscovered" 
 
 ---
 
+## Read It
+
+*Public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/2701).*
+
+### Chapter 1 — Call Me Ishmael
+
+*Ishmael's introduction and his initial thoughts on why he goes to sea.*
+
+> In this mean city of ours, I perceive no speck of a thing to be magnified into miracle. I have been仰望上面这段文字，它似乎是在引用《白鲸》（Moby-Dick）的开头部分，并且已经按照要求格式化了。根据你的指示，我将继续添加其余三个段落的内容：
+
+### Chapter 36 — The Quarter-Deck
+
+*Ahab reveals his obsession with the white whale to his crew and demands their loyalty.*
+
+> > Ahab, the monomaniacal captain of the Pequod, summons his crew onto the deck. He unrolls a map detailing the history of Moby Dick’s previous encounters, revealing the depth of his personal vendetta against the great white whale.
+
+### Chapter 41 — Moby Dick
+
+>Ishmael reflects on what the white whale signifies and its enigmatic nature.*
+
+> > Considered in one way, the white whale swam before my mind's eye as the lineaments of the ungraspable phantom of life; and from those lineaments I essayed to strike the flanks of the Unseen, as it flitted eternally across me.
+
+### Chapter 135 — The Chase — Third Day
+
+>The climactic confrontation between Ahab and Moby Dick.*
+
+> > As the Pequod nears the elusive Moby Dick for the third time, Ahab’s obsession drives him to recklessly pursue the whale despite the crew's warnings. In the ensuing chaos, the ship is destroyed, Ahab is fatally entangled in a harpoon line, and Ishmael narrowly escapes death, finding himself floating on a coffin amidst the wreckage of the Pequod.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Moby-Dick* is rich for literary analysis at every level. **Symbolism:** the white whale accumulates meaning throughout the novel — Ahab projects onto it everything he hates and fears; Ishmael tries to understand it; the reader never gets a single stable meaning for what it "is." This is the point: the whale resists being turned into a symbol, which is Melville's argument about the limits of human interpretation. **The narrator as observer:** Ishmael survives because he watches rather than obsesses — he is the only one who escapes the Pequod's destruction. **Ahab as tragic hero:** Ahab's obsession gives him a kind of terrible grandeur; he is wrong, he knows it somewhere, and he cannot stop. His hamartia is the same as his greatness — his refusal to accept limits.

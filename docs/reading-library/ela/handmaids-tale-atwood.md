@@ -18,6 +18,37 @@
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 1 — The Center
+
+> *Offred's description of the re-education center—the first establishment of Gilead's rules and their enforcement*
+>
+> I was blind, then. If you want to see something, you have to turn it around and around in your hands like this, until it looks familiar.
+>
+>
+
+### Chapter 6 — The Wall
+
+> *Offred seeing the executed bodies on the Wall—the system's public terror as social control*
+>
+> There are five of them now. A woman is there too, a dark-haired one with something green and knotted around her neck like seaweed; I think it was supposed to be camouflage.
+>
+>
+
+### Historical Notes — Professor Pieixoto's Lecture
+
+> *the epilogue framing device—scholars discussing Offred's account as a historical artifact—the question of whether the testimony is reliable*
+>
+> It's possible, but not necessarily likely. The problem is that we have no way of determining what parts of her story are personal fantasies, wish-fulfillment or paranoia.
+>
+
+> *Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Atwood's narrative choices are calculated. Offred is an unreliable narrator not because she lies but because she cannot know everything and because she edits her own story for the recorder she imagines finding her tapes. The oral testimony frame (later transcribed) creates a story-within-a-story that raises questions about whose voice survives history. Dystopian genre conventions (the controlled society, the surveillance apparatus, the official language) are all deployed precisely.

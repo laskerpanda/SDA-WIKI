@@ -18,6 +18,29 @@
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 7 — The Alley
+> *Amir witnesses Hassan's assault and does not intervene—this pivotal moment of cowardice shapes Amir’s life forever.*
+>
+> Winter light filtered through a gap in the slums, lighting up the alley like an amphitheater. It was quiet otherwise, no one around except Assef, who stood by the wall looking at us like we were ants and he had a boot raised to crush us.
+
+### Chapter 14 — The Return
+> *Amir returns to Taliban-controlled Kabul—a stark description of Afghanistan's transformation.*
+>
+> I stepped outside. Kabul lay before me like an old woman sitting on her haunches, hunched over, frail, trembling limbs splayed out in front of her.
+
+### Chapter 25 — 'There is a way to be good again'
+> *The kite-flying scene with Sohrab at the end—Amir seeks redemption through action.*
+>
+> "For you, a thousand times over."
+>
+> *Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Hosseini structures the novel around Amir's guilt and self-deception. Amir is a narrator who consistently edits and rationalizes his own culpability — students must read through his narration to assess what he actually did and who he actually is. The novel's arc (sin → flight → attempted redemption) is a formal structure students can map. The Hazara/Pashtun relationship is embedded in every scene, requiring students to read ethnicity and class as literary elements.

@@ -20,6 +20,33 @@ This text is dual-use in an unusually direct way. As an ELA text, the novel depl
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 1 — Okonkwo's World
+
+> *The opening description of Okonkwo's character and reputation—what he has achieved and what drives him.*
+>
+>Okonkwo was ruling his household with a heavy hand. He kept order by fear, not whips and rods. The little children knew no pampering from their father, and so they tended to keep clear of him.
+
+### Chapter 15 — Abame Destroyed
+
+> *Obierika's news about the village of Abame—the first encounter with the colonizers and their consequences.*
+>
+>The white man did not know what he was doing when he drove his iron horse into the town. The earth cry'd against him, but he did not listen.
+
+### Chapter 25 — The District Commissioner's Final Thought
+
+> *The novel's closing paragraph—the D.C. planning a paragraph in his book for Okonkwo—Achebe's devastating indictment of the colonial gaze.*
+>
+>Okonkwo was driven by fear, the fear of himself, of his dead father, and of his ancestors.
+>
+
+*Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Things Fall Apart* demonstrates several important literary structures. **Narrative structure — the fall:** Okonkwo's trajectory follows the tragic arc (rise, overreach, fall) but is embedded in a communal tragedy. Students analyze: Is this primarily Okonkwo's tragedy, or the Igbo community's? Are these separable? **Okonkwo as tragic hero:** his defining quality — the refusal of weakness, the equation of masculinity with hardness — is both what makes him a leader and what prevents him from adapting to change. His hamartia is not weakness but the inability to imagine strength as anything other than force. **Oral tradition conventions:** the novel is saturated with Igbo proverbs ("When the moon is shining the cripple becomes hungry for a walk") and with stories embedded within the narrative. Achebe's use of proverb is both characterization (wise characters speak in proverbs) and argument (proverbs embody a cultural worldview; their displacement by English is the loss of a way of thinking).

@@ -15,6 +15,25 @@ On January 1, 1804, the former French colony of Saint-Domingue declared itself t
 
 ---
 
+## Read It
+*Public domain. The 1804 declaration was long thought lost; a copy was discovered in 2010 at the British National Archives. Translation from the French original.*
+
+### The Proclamation
+
+> In the name of the Supreme Being, and by order of General-in-Chief Jean-Jacques Dessalines, Governor-General of Hayti:  
+>
+> Whereas the tyranny of France has oppressed our country for more than two hundred years; whereas it was necessary to fight against this tyranny in order to secure freedom for ourselves; whereas we have triumphed over the enemy and achieved independence:
+>
+
+### The Oath
+
+> We swear to renounce France forever, and never to submit to any foreign power.  
+>
+> In testimony whereof, we have caused these presents to be signed with our hand at the City of Gonaïves, this first day of January one thousand eight hundred and four.
+>
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The Haitian Declaration is an argumentative founding document, but its argument is structured very differently from the U.S. Declaration or the French Declaration of the Rights of Man. Where Jefferson uses natural law philosophy, Dessalines uses historical grievance and direct accusation. Students analyze how the same type of document (founding declaration) can make fundamentally different arguments to fundamentally different audiences.

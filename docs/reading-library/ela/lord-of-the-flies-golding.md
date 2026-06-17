@@ -20,6 +20,35 @@ This text is dual-use in a way that is unusually direct. As an ELA text, the all
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 2 — The Rules and the Conch  
+>*Ralph establishing the rules of the conch — the first attempt at democratic order*
+
+>Ralph held up the conch.
+>
+>The conch, Ralph announced, was a power given to him by the others. It had its own mysterious but undeniable prestige, which made Ralph more than a leader or even a prophet.
+
+### Chapter 8 — The Lord of the Flies Speaks  
+>*Simon's vision — the pig's head speaks, telling him that the beast is inside the boys*
+
+>“Fancy thinking the Beast was something you could hunt and kill!”
+>
+>The Lord of the Flies spoke in a terror-stricken croak. “I’m warning you face to face now, I’m going to have my fun.”
+
+### Chapter 12 — The Officer on the Beach  
+>*the rescue — the officer's incomprehension, Ralph's weeping, Golding's indictment of civilization*
+
+>The officer frowned at Ralph.
+>
+>Ralph’s voice broke. He sobbed.
+
+>Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Lord of the Flies* is one of the most extensively allegorical novels taught at the secondary level. **Allegory:** nearly every significant object and character represents an abstract idea. **Symbolism:** the conch (democratic authority and legitimate speech — it loses its power as the boys lose their civilization); Piggy's glasses (rational thought and science — stolen by Jack, who cannot produce fire through reason, only through force); the beast (the boys' own capacity for violence, projected outward onto the island so they don't have to acknowledge it is inside them); the pig's head on a stick, the Lord of the Flies (the title comes from a Hebrew word for "Beelzebub" — a name for the devil; Golding is arguing that evil is not external but internal). **Democratic vs. authoritarian leadership:** Ralph and Jack represent two models of leadership — one that requires consent and participation, one that operates through fear, ritual, and force. Students analyze how Golding constructs each model and what the novel argues about why the authoritarian one wins.

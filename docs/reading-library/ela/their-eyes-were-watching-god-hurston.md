@@ -20,6 +20,35 @@ This text is dual-use in ways that deepen with attention. As an ELA text, *Their
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 1 — Ships at a Distance
+> *the opening paragraph — 'Ships at a distance have every man's wish on board' — the distinction between men's and women's dreams*
+>
+> Ships at a distance have every man’s wish on board. For some they come in with the tide. For others they sail forever on the horizon, never out of sight, never landing.
+>
+> > *Janie watches the world around her and reflects on how people hold onto their hopes and dreams.*
+
+### Chapter 6 — The Porch
+> *Janie silenced by Joe at the store — the mule's funeral as social commentary, Janie's inner voice vs. her outer silence*
+>
+> "You know Ah’m uh woman brung up in de house uh Gawd. Don’t matter what you say to me."
+>
+> > *Joe's control over Janie is evident when he silences her at the store, highlighting the oppressive nature of his rule.*
+
+### Chapter 20 — The Return
+> *Janie returning to Eatonville, telling Pheoby her story — 'you got tuh go there tuh know there'*
+>
+> "De nigger dat come out here wid de sun will go in wid it. In a way yuh oughta be sorry for me but in udduh ways yuh oughta tell mahself dat you can’t never know uh thing till after yuh live it."
+>
+> > *Janie shares her experiences with Pheoby, emphasizing the importance of personal experience.*
+
+> Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Their Eyes Were Watching God* rewards literary analysis at multiple levels. **Dialect and voice as literary choice:** Hurston's use of Black Southern vernacular is deliberate and argued — she wrote about this choice in her essays, including "How It Feels to Be Colored Me." Students analyze specific passages in dialect and consider: What does this language do that standard English cannot? What would be lost in translation? This is one of the most powerful demonstrations available of how a novelist's language choices carry meaning. **Janie's character arc:** the novel tracks a specific developmental journey — Janie begins without voice (she cannot speak her own desires) and ends with it (she can tell her own story). Students trace this arc through the three marriages. **Frame narrative:** the novel's structure — Janie telling her story to Pheoby in the present — is drawn from oral storytelling traditions. Students analyze how this structure changes the reader's relationship to the story.

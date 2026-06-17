@@ -16,6 +16,40 @@ Delivered as FDR's State of the Union address on January 6, 1941 — nearly elev
 
 ---
 
+## Read It
+*Public domain — U.S. government work. [Full text at Miller Center](https://millercenter.org/the-presidency/presidential-speeches/january-6-1941-state-union-address-four-freedoms).*
+
+### The World Situation
+> The future and safety of our country are more immediately involved now than at any other time in its history. As a nation, we are passing through a period which will find its place in history as a struggle for the indefinite extension of democratic free government.
+
+>
+
+### The Four Freedoms
+> In the future days, which we seek to make secure, and which we intend to make prosperous, as we have made our land safe, democracy alone can supply the answer. 
+>
+> Fighting for survival, endangered by new technical developments, assaulted by internal enemies of degree, quality and ability, the democratic philosophy has not grown old. It has newly attained its full and greatest age. It has not decayed. It has newly prospered. It is not dead. It cannot perish so long as faith endures that is the final objective of our age.
+>
+> Let the word go forth, to friend and foe alike, that the United States expects to continue in the lead in offering liberation by new methods to new generations.
+>
+> In the future days, which we seek to make secure, and which we intend to make prosperous, as we have made our land safe, democracy alone can supply the answer. 
+>
+> We look forward to a world founded upon four essential human freedoms.
+
+>
+
+### The Call to American Action
+> America has no strategy save the strategy of friendship; she seeks no objectives except the objective of justice; and her purpose is nothing less than the elimination of fear and want from the lives of all men everywhere.
+>
+> In any nation, a duly constituted self-perpetuating body such as Congress can be relied upon to respond in a way which will best serve the welfare of that nation.
+>
+> It is for us now—in unhasting but unremitting pace—to pass on the torch of vigilance and faith. We may then, with confidence in the justness of our cause, speed forward into the dark valley that forms the threshold to a better world.
+>
+> In the face of great perils never before encountered, our inherent national trait teaches us that grave threats and challenges are mastered not by passing them from leader to leader or from generation to generation. They are mastered by the determination of each individual American to meet whatever comes with fortitude and resolution.
+
+>
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The speech is a masterclass in argumentative structure calibrated to a hostile-leaning audience (isolationist Congress and public). FDR acknowledges the opposing view ("Many citizens favor... isolationism"), then systematically dismantles it using ethos, logos, and a reframing of self-interest. Students map how he moves the audience from "stay out" to "we must act."

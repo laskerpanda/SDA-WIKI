@@ -20,6 +20,36 @@ Aristotle called *Oedipus Rex* the greatest play ever written. It is worth askin
 
 ---
 
+## Read It
+
+*Public domain — Dudley Fitts and Robert Fitzgerald translation. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/31).*
+
+### Prologue — Oedipus and the Plague
+> *Oedipus’s pledge to find the cause of the plague, his certainty and confidence before the investigation begins.*
+>
+>Oedipus: "I myself, who bear the burdens of the State And have at other times relieved it of them, I will not stop now that this new evil Comes upon you. I have sent already To Delphi, to the kindly lord Apollo, In hope that he would teach me what disease Is wasting Thebes."
+
+### Scene 2 — Oedipus vs. Teiresias
+> *The blind prophet tells Oedipus the truth; Oedipus refuses to believe it.*
+>
+>Oedipus: "You have come from your cave To corrupt my city, you and all your wizardry."
+>
+>> Teiresias: "I came because I pitied you And those who share your sufferings."
+
+### Ode 2 — The Chorus on Fate
+> *The Chorus reflects on the limits of human knowledge and the inevitability of fate.*
+>
+>The Chorus: *When one man is marked out for disaster, His ruin rolls in from every quarter.*
+
+### Exodus — The Discovery and Its Consequences
+> *Oedipus learns the truth, blinds himself, the final confrontation with Creon — the last lines.*
+>
+>Oedipus: "I am blind now to all but evil. I grope alone Through the dark world."
+>
+>>Creon: "Come then, take my hand."
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Oedipus Rex* is the foundational text for three of the most important literary concepts students will use throughout their education. **Dramatic irony:** the audience knows the truth about Oedipus's parentage and crimes; Oedipus does not. Every line he speaks that expresses confidence in his investigation is darkly ironic — he is hunting himself. Sophocles constructs this irony with extraordinary precision. **Hamartia:** the "fatal flaw" — Oedipus's hamartia is not that he killed his father or married his mother (he did not know), but that his pride and certainty in his own intelligence prevent him from accepting warning signs. His strength (determination to know the truth) becomes his destruction. **Tragic structure:** Aristotle's model — rise, reversal (peripeteia), recognition (anagnorisis), fall — is on full display. Students can map each stage.
