@@ -14,6 +14,44 @@ The Magna Carta ("Great Charter") is a royal charter of rights signed by King Jo
 
 ---
 
+## Read It
+
+*Public domain translation. [Full text at Yale Avalon Project](https://avalon.law.yale.edu/medieval/magframe.asp).*
+
+### Preamble
+
+> John, by the grace of God, King of England, Lord of Ireland, Duke of Normandy and Aquitaine, Count of Anjou, to the archbishops, bishops, abbots, earls, barons, justiciars, foresters, sheriffs, reeves, servants, and all bailiffs and faithful persons greeting. Know that, by the inspiration of God, for the health of our soul and of the souls of our ancestors and heirs, for the honor of God and the exaltation of Holy Church, and for the bettering of our realm, by the advice of our venerable fathers... we have granted to all free men of our kingdom, for us and our heirs in perpetuity, all the liberties written below, to be had and held by them and their heirs of us and our heirs in perpetuity.
+
+### On Feudal Rights and Taxation
+
+> **Clause 12.** No scutage or aid shall be levied in our kingdom except by the common counsel of our kingdom, except for ransoming our person, for making our eldest son a knight, and for once marrying our eldest daughter; and for these only a reasonable aid shall be levied.
+>
+> **Clause 14.** And to obtain the common counsel of the kingdom about the assessing of an aid (except in the three cases aforesaid) or of a scutage, we will cause to be summoned the archbishops, bishops, abbots, earls, and greater barons, individually by our letters; and furthermore we will cause to be summoned generally... all those who hold of us in chief.
+
+### On Justice and Due Process
+
+> **Clause 38.** In future no official shall place a man on trial upon his own unsupported statement, without producing credible witnesses to the truth of it.
+>
+> **Clause 39.** No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgment of his equals or by the law of the land.
+>
+> **Clause 40.** To no one will we sell, to no one deny or delay right or justice.
+
+### On the Church and Merchants
+
+> **Clause 1.** In the first place we have granted to God, and by this our present charter confirmed for us and our heirs in perpetuity, that the English church shall be free, and shall have its rights undiminished and its liberties unimpaired.
+>
+> **Clause 41.** All merchants may enter or leave England unharmed and without fear, and may stay or travel within it, by land or water, for purposes of trade, free from all illegal exactions, in accordance with ancient and lawful customs.
+
+### On the Limits of Royal Power
+
+> **Clause 61.** Since, moreover, for God and the amendment of our kingdom and for the better allaying of the quarrel that has arisen between us and our barons, we have granted all these concessions, desirous that they should enjoy them in complete and firm endurance for ever, we give and grant to them the underwritten security, namely, that the barons choose five and twenty barons of the kingdom, whomsoever they will, who shall be bound with all their might, to observe and hold, and cause to be observed, the peace and liberties we have granted and confirmed to them by this our present Charter.
+
+### The Church's Endorsement
+
+> Given under our hand — the above named and many others being witnesses — in the meadow which is called Runnymede, between Windsor and Staines, on the fifteenth day of June, in the seventeenth year of our reign.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The Magna Carta is an argumentative document: it makes specific legal claims about the rights of barons and free men against the king's power. Students can analyze the author's purpose (barons forcing concessions) vs. the king's stated intent.

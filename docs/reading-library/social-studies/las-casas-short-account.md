@@ -19,6 +19,42 @@ Bartolomé de las Casas was a Spanish priest who participated in the early conqu
 
 ---
 
+## Read It
+
+*Selections from the 1689 English translation of Las Casas' 1542 account. The archaic spelling and sentence structure are part of the primary source. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/20321).*
+
+*Content note: This text contains graphic descriptions of colonial violence. Las Casas wrote these passages deliberately to shock the Spanish king into action — the extremity of the language was a rhetorical strategy, not sensationalism.*
+
+### Introduction — The People and the Scale of Destruction
+
+> America was discovered and found out *Ann. Dom.* 1492, and the Year insuing inhabited by the *Spaniards*, and afterward a multitude of them travelled thither from *Spain* for the space of Nine and Forty Years. Their first attempt was on the *Spanish* Island, which indeed is a most fertile soil... And such a multitude of People inhabits these Countries, that it seems as if the Omnipotent God has Assembled and Convocated the major part of Mankind in this part of the World.
+>
+> Now this infinite multitude of Men are by the Creation of God innocently simple, altogether void of and averse to all manner of Craft, Subtlety and Malice, and most Obedient and Loyal Subjects to their Native Sovereigns; and behave themselves very patiently, submissively and quietly towards the *Spaniards*... so that finally they live without the least thirst after revenge, laying aside all litigiousness, Commotion and hatred.
+>
+> The *Spaniards* first assaulted the innocent Sheep, so qualified by the Almighty, as is premention'd, like most cruel Tygers, Wolves and Lions hunger-starv'd, studying nothing, for the space of Forty Years, after their first landing, but the Massacre of these Wretches... that of Three Millions of Persons, which lived in *Hispaniola* itself, there is at present but the inconsiderable remnant of scarce Three Hundred. Nay the Isle of *Cuba*... lies now uncultivated, like a Desert, and intomb'd in its own Ruins.
+>
+> As to the firm land, we are certainly satisfied, and assur'd, that the *Spaniards* by their barbarous and execrable Actions have absolutely depopulated Ten Kingdoms, of greater extent than all *Spain*... above Twelve Millions (computing Men, Women, and Children) have undeservedly perished; nor do I conceive that I should deviate from the Truth by saying that above Fifty Millions in all paid their last Debt to Nature.
+>
+> Now the ultimate end and scope that incited the *Spaniards* to endeavor the Extirpation and Desolation of this People, was Gold only; that thereby growing opulent in a short time, they might arrive at once at such Degrees and Dignities, as were no wayes consistent with their Persons.
+>
+> Whom they so despicably contemned, that they treated them (I speak of things which I was an Eye Witness of, without the least fallacy) not as Beasts, which I cordially wished they would, but as the most abject dung and filth of the Earth; and so sollicitous they were of their Life and Soul, that the above-mentioned number of People died without understanding the true Faith or Sacraments. And this also is as really true... that the *Spaniards* never received any injury from the *Indians*, but that they rather reverenced them as Persons descended from Heaven, until that they were compelled to take up Arms, provoked thereunto by repeated Injuries, violent Torments, and injust Butcheries.
+
+### Of the Island Hispaniola — Eyewitness Account
+
+> In this Isle, which, as we have said, the *Spaniards* first attempted, the bloody slaughter and destruction of Men first began: for they violently forced away Women and Children to make them Slaves... for the *Spaniards* did not only entertain them with Cuffs, Blows, and wicked Cudgelling, but laid violent hands also on the Governours of Cities; and this arriv'd at length to that height of Temerity and Impudence, that a certain Captain was so audacious as abuse the Consort of the most puissant King of the whole Isle. From which time they began to consider by what wayes and means they might expel the *Spaniards* out of their Countrey, and immediately took up Arms. But, good God, what Arms, do you imagin? Namely such, both Offensive and Defensive, as resemble Reeds wherewith Boys sport with one another, more than Manly Arms and Weapons.
+>
+> Which the *Spaniards* no sooner perceived, but they, mounted on generous Steeds, well weapon'd with Lances and Swords, begin to exercise their bloody Butcheries and Strategems, and overrunning their Cities and Towns, spar'd no Age, or Sex, nay not so much as Women with Child, but ripping up their Bellies, tore them alive in pieces. They laid Wagers among themselves, who should with a Sword at one blow cut, or divide a Man in two; or which of them should decollate or behead a Man, with the greatest dexterity; nay farther, which should sheath his Sword in the Bowels of a Man with the quickest dispatch and expedition.
+>
+> They snatcht young Babes from the Mothers Breasts, and then dasht out the brains of those innocents against the Rocks; others they cast into Rivers scoffing and jeering them, and call'd upon their Bodies when falling with derision, the true testimony of their Cruelty, to come to them, and inhumanely exposing others to their Merciless Swords, together with the Mothers that gave them Life.
+>
+> They erected certain Gibbets, large, but low made, so that their feet almost reacht the ground, every one of which was so order'd as to bear Thirteen Persons in Honour and Reverence (as they said blasphemously) of our Redeemer and his Twelve Apostles, under which they made a Fire to burn them to Ashes whilst hanging on them: But those they intended to preserve alive, they dismiss'd, their Hands half cut, and still hanging by the Skin, to carry their Letters missive to those that fly from us and ly sculking on the Mountains.
+>
+> I once saw Four or Five of their most Powerful Lords laid on these Gridirons, and thereon roasted, and not far off, Two or Three more over-spread with the same Commodity, Man's Flesh... I was an Eye-Witness of these and innumerable Number of other Cruelties.
+>
+> ...if at any time it hapned, (which was rarely) that the *Indians* irritated upon a just account destroy'd or took away the Life of any *Spaniard*, they promulgated and proclaim'd this Law among them, that One Hundred *Indians* should dye for every individual *Spaniard* that should be slain.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — The text is structured as a report to power: Las Casas is writing to the King with a specific persuasive goal (reform colonial policy). Students analyze his rhetorical choices — the detailed atrocity accounts as evidence, the appeals to Christian morality as the framework, the use of the King's self-interest (God will judge Spain for this) as leverage.

@@ -9,6 +9,60 @@
 
 ---
 
+## Read It
+
+*Key selections from Books I, II, and XII — James Legge translation, public domain. [Full text at Project Gutenberg](https://www.gutenberg.org/ebooks/4094).*
+
+### Book I — On Learning and Character
+
+> **I.1** The Master said, 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?'
+>
+> **I.2** The philosopher Yu said, 'They are few who, being filial and fraternal, are fond of offending against their superiors. There have been none, who, not liking to offend against their superiors, have been fond of stirring up confusion. The superior man bends his attention to what is radical. That being established, all practical courses naturally grow up. Filial piety and fraternal submission — are they not the root of all benevolent actions?'
+>
+> **I.3** The Master said, 'Fine words and an insinuating appearance are seldom associated with true virtue.'
+>
+> **I.4** The philosopher Tsang said, 'I daily examine myself on three points: whether, in transacting business for others, I may have been not faithful; whether, in intercourse with friends, I may have been not sincere; whether I may have not mastered and practised the instructions of my teacher.'
+>
+> **I.5** The Master said, 'To rule a country of a thousand chariots, there must be reverent attention to business, and sincerity; economy in expenditure, and love for men; and the employment of the people at the proper seasons.'
+>
+> **I.8** The Master said, 'If the scholar be not grave, he will not call forth any veneration, and his learning will not be solid. Hold faithfulness and sincerity as first principles. Have no friends not equal to yourself. When you have faults, do not fear to abandon them.'
+>
+> **I.15** Tsze-kung said, 'What do you pronounce concerning the poor man who yet does not flatter, and the rich man who is not proud?' The Master replied, 'They will do; but they are not equal to him, who, though poor, is yet cheerful, and to him, who, though rich, loves the rules of propriety.'
+>
+> **I.16** The Master said, 'I will not be afflicted at men's not knowing me; I will be afflicted that I do not know men.'
+
+### Book II — On Governance and Virtue
+
+> **II.1** The Master said, 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'
+>
+> **II.3** The Master said, 'If the people be led by laws, and uniformity sought to be given them by punishments, they will try to avoid the punishment, but have no sense of shame. If they be led by virtue, and uniformity sought to be given them by the rules of propriety, they will have the sense of shame, and moreover will become good.'
+>
+> **II.4** The Master said, 'At fifteen, I had my mind bent on learning. At thirty, I stood firm. At forty, I had no doubts. At fifty, I knew the decrees of Heaven. At sixty, my ear was an obedient organ for the reception of truth. At seventy, I could follow what my heart desired, without transgressing what was right.'
+>
+> **II.11** The Master said, 'If a man keeps cherishing his old knowledge, so as continually to be acquiring new, he may be a teacher of others.'
+>
+> **II.15** The Master said, 'Learning without thought is labour lost; thought without learning is perilous.'
+>
+> **II.17** The Master said, 'Yu, shall I teach you what knowledge is? When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it — this is knowledge.'
+>
+> **II.19** The Duke Ai asked, saying, 'What should be done in order to secure the submission of the people?' Confucius replied, 'Advance the upright and set aside the crooked, then the people will submit. Advance the crooked and set aside the upright, then the people will not submit.'
+>
+> **II.20** Chi K'ang asked how to cause the people to reverence their ruler, to be faithful to him, and to go on to nerve themselves to virtue. The Master said, 'Let him preside over them with gravity — then they will reverence him. Let him be filial and kind to all — then they will be faithful to him. Let him advance the good and teach the incompetent — then they will eagerly seek to be virtuous.'
+
+### Book XII — On Perfect Virtue and Just Government
+
+> **XII.1** Yen Yuan asked about perfect virtue. The Master said, 'To subdue one's self and return to propriety, is perfect virtue. If a man can for one day subdue himself and return to propriety, all under heaven will ascribe perfect virtue to him. Is the practice of perfect virtue from a man himself, or is it from others?' Yen Yuan said, 'I beg to ask the steps of that process.' The Master replied, 'Look not at what is contrary to propriety; listen not to what is contrary to propriety; speak not what is contrary to propriety; make no movement which is contrary to propriety.'
+>
+> **XII.2** Chung-kung asked about perfect virtue. The Master said, 'It is, when you go abroad, to behave to every one as if you were receiving a great guest; to employ the people as if you were assisting at a great sacrifice; not to do to others as you would not wish done to yourself; to have no murmuring against you in the country, and none in the family.'
+>
+> **XII.7** Tsze-kung asked about government. The Master said, 'The requisites of government are that there be sufficiency of food, sufficiency of military equipment, and the confidence of the people in their ruler.' Tsze-kung said, 'If it cannot be helped, and one of these must be dispensed with, which of the three should be foregone first?' 'The military equipment,' said the Master. Tsze-kung again asked, 'If it cannot be helped, and one of the remaining two must be dispensed with, which of them should be foregone?' The Master answered, 'Part with the food. From of old, death has been the lot of all men; but if the people have no faith in their rulers, there is no standing for the state.'
+>
+> **XII.9** The Duke Ai inquired of Yu Zo, saying, 'The year is one of scarcity, and the returns for expenditure are not sufficient — what is to be done?' Yu Zo replied, 'Why not simply tithe the people?' 'With two tenths,' said the duke, 'I find it not enough — how could I do with that system of one tenth?' Yu Zo answered, 'If the people have plenty, their prince will not be left to want alone. If the people are in want, their prince cannot enjoy plenty alone.'
+>
+> **XII.11** The Duke Ching, of Ch'i, asked Confucius about government. Confucius replied, 'There is government, when the prince is prince, and the minister is minister; when the father is father, and the son is son.' 'Good!' said the duke; 'if, indeed; the prince be not prince, the minister not minister, the father not father, and the son not son, although I have my revenue, can I enjoy it?'
+
+---
+
 ## What This Text Is About
 
 Confucius (551–479 BCE) was a Chinese philosopher, teacher, and political advisor who lived during the Spring and Autumn period — an era of fragmented Chinese states, constant warfare, and political instability. His teachings, compiled after his death by his students into the *Analects* (literally "edited conversations"), argue that good government rests not on law and punishment but on virtue, ritual, and the cultivation of character. If rulers and ministers embody virtue, subjects will follow. If they don't, no amount of law can create a stable society.
