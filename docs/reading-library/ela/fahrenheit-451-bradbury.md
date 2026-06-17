@@ -21,6 +21,54 @@ Ray Bradbury wrote *Fahrenheit 451* in 1953 — the same year Joseph McCarthy he
 
 ---
 
+## Read It
+
+*Fahrenheit 451* is copyrighted. Key passages below are for study and analysis. For the full novel, see access options below.
+
+### Part I — The Pleasure of Burning (Opening Lines)
+*Part One: "The Hearth and the Salamander"*
+
+> It was a pleasure to burn.
+>
+> It was a special pleasure to see things eaten, to see things blackened and changed. With the brass nozzle in his fists, with this great python spitting its venomous kerosene upon the world, the blood pounded in his head, and his hands were the hands of some amazing conductor playing all the symphonies of blazing and burning to bring down the tatters and charcoal ruins of history. With his symbolic helmet numbered 451 on his stolid head, and his eyes all orange flame with the thought of what came next, he flicked the igniter and the house jumped up in a gorging fire that burned the evening sky red and yellow and black.
+
+The novel's first paragraph establishes Montag's complicity before the plot begins. He is not a victim of the system — he loves it. Bradbury forces students to understand: Montag must change, and that change is the story. The pleasure of burning is also a pleasure of simplification — destroying what complicates.
+
+### Part I — Clarisse's Question
+*Part One — Montag meets Clarisse McClellan*
+
+> "Are you happy?" she said.
+>
+> "Am I—" He stopped. "Of course I'm happy. What does she think? I'm not?" And then he was quiet, because he knew that the answer to that question was no.
+
+This is the pivot of the novel. Clarisse is the character who asks Montag to look at himself. Seventeen years old, she notices things — rain, dandelions, the moon — that the rest of the world has given up noticing. Her question takes four words; it takes Montag the rest of the novel to answer it. Students analyze: what does it mean that a simple question about happiness produces this silence?
+
+### Part II — The Old Woman Stays with Her Books
+*Part One — Montag's last burning, before the change*
+
+> There must be something in books, things we can't imagine, to make a woman stay in a burning house; there must be something there. You don't stay for nothing.
+
+The old woman refuses to leave her house when the firemen come to burn it. She lights the match herself. Montag is shaken — this is the moment that breaks him. Students analyze: what does her choice reveal? Why does it affect Montag when the burning of books previously gave him pleasure? What has changed, and why does it matter that it is *her* choice to burn rather than his?
+
+### Part II — Faber's Three Things
+*Part Two: "The Sieve and the Sand" — Montag with Professor Faber*
+
+> Number one: Do you know why books such as this are so important? Because they have quality. And what does the word quality mean? To me it means texture. This book has pores. It has features. This book can go under the microscope. You'd find life under the glass, streaming past in infinite profusion. The more pores, the more truthfully recorded details of life per square inch you can get on a sheet of paper, the more 'literary' you are. That's my definition, anyway. Telling detail. Fresh detail. The good writers touch life often. The mediocre ones run a quick hand over her. The bad ones rape her and leave her for the flies.
+>
+> Number two: Leisure.
+>
+> Number three: The right to carry out actions based on what we learn from the interaction of the first two.
+
+Faber explains what books actually contain — not information, but texture, the "pores" of real life that can be examined closely. The three things he names (quality, leisure, the right to act on what you learn) are what the fireman system destroys. Students use this to write a W.4 argument: Is Faber right about what books are for? Does Beatty's counter-argument hold up against Faber's analysis?
+
+---
+
+**Get the full text:**
+- [Internet Archive — free digital lending](https://archive.org/details/fahrenheit45100brad) *(free account required)*
+- No account? Connect with **Mr. Reese** or the **Fargo South Library**.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *Fahrenheit 451* is dense with symbol: fire (both destroyer and purifier), the mechanical hound (technology as threat), mirrors (self-knowledge), the river (escape and rebirth), the books memorized by the outcasts (knowledge preserved in people rather than objects). Students trace one symbol through the novel and analyze how its meaning develops. The character of Clarisse is deliberately fragile — she disappears early — which is itself a structural and thematic choice.

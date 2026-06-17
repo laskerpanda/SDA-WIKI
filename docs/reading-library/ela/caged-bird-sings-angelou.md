@@ -18,6 +18,42 @@
 
 ---
 
+## Read It
+
+*I Know Why the Caged Bird Sings* is copyrighted. Key passages below are for study and analysis. For the full memoir, see access options at the bottom of this section.
+
+### Chapter 1 — The Opening Voice
+*Chapter 1*
+
+> "What you looking at me for?
+> I didn't come to stay..."
+>
+> I hadn't so much forgot as I couldn't bring myself to remember. Other things were more important. Like, what did I look like? Wasn't I the ugliest person anyone had ever seen? And wasn't I the youngest? And wasn't I supposed to be the one with a good mind?
+
+The memoir opens with Marguerite (Maya) in church, unable to finish a recitation, suddenly aware of her own body — too big, too dark, wrong somehow. Angelou opens with the interior experience of being a Black girl in the Jim Crow South who has absorbed her world's judgment of her before she can even articulate it. The humor and self-awareness are already present, but so is the pain underneath.
+
+### The Graduation — Donleavy's Speech and Its Aftermath
+*Chapter 23*
+
+> It was awful to be Negro and have no control over my life. It was brutal to be young and already trained to sit quietly and listen to charges brought against my color with no chance of defense. We should all be dead. I thought I should like to see us all dead, one on top of the other. A pyramid of flesh with the whitefolks on the bottom, as the broad base, then the Indians with their silly tomahawks and teepees and wigwams and treaties, the Negroes with their mops and recipes and cotton sacks and spirituals sticking out of their mouths. The Dutch children should all stumble in their wooden shoes and break their necks. The French should choke to death on the Louisiana Purchase (1803) while silkworms ate all the Chinese with their stupid pigtails. As a species, we were an abomination. All of us.
+
+Donleavy, the white politician, has arrived at the Black high school's graduation to praise the students — and in doing so, has revealed exactly where the system expects them to end up. Henry Reed, the valedictorian, responds by leading the audience in "Lift Every Voice and Sing." This passage captures the rage, despair, and then recovery through community that is the memoir's emotional arc. Students analyze: how does Angelou render the internal response to structural racism in this moment?
+
+### The Store — Community on a Saturday Night
+*Chapter 2*
+
+> The lamplight in the Store gave a yellow warmth... People who had toiled all week in somebody else's field or kitchen now claimed their Saturday night as their own. The men dressed in overalls and the women in starched dresses sat on the wooden chairs and benches. Some sat on the counter... In the soft summer light, they talked about the crops and the weather.
+
+Momma Henderson's general store is the hub of Black life in Stamps, Arkansas. This scene establishes what the community built for itself inside and alongside the humiliation of the Jim Crow system — the warmth, the belonging, the dignity that existed in the spaces whites didn't occupy. Students use this to understand US.6_12.4: what social structures did Black Americans create to sustain themselves under segregation?
+
+---
+
+**Get the full text:**
+- [Open Library — free digital borrowing](https://openlibrary.org/works/OL471229W) *(free account, borrow like a library)*
+- No account? Connect with **Mr. Reese** or the **Fargo South Library**.
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Angelou's prose is lyrical and precise. She uses poetic language in memoir — rhythm, imagery, metaphor — to render experience that purely factual language would flatten. Students analyze her voice: how does she choose what details to include, what to name explicitly, what to leave suggestive? The memoir form itself (looking back with adult wisdom at childhood events) creates a built-in double perspective students can analyze.
