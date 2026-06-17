@@ -19,6 +19,29 @@
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### September 4, 1957 — The First Day
+> *It was a day of terror and uncertainty as Melba Pattillo Beals approached Central High School, facing an angry mob and the National Guard who refused to let them in.*
+>
+> > *She describes the fear that gripped her and her fellow students as they were turned away by armed soldiers, marking the start of their battle for desegregation.*
+
+### October 1957 — Daily Survival
+> *Within the walls of Central High, Beals recounts the relentless harassment faced daily. Simple tasks became acts of defiance, like eating lunch in a cafeteria where hostility was constant.*
+>
+> > *Her narration captures the mundane yet cruel nature of the discrimination that she and other black students endured each day.*
+
+### Epilogue — What It Cost and What It Meant
+> *In her reflections at the end of "Warriors Don't Cry," Beals looks back on what they all went through to challenge segregation.*
+>
+> > *She emphasizes how this fight for integration was a necessary stand against injustice, despite the personal toll it took.*
+
+> *Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Beals is a complex narrator: she is simultaneously a frightened teenager and a deliberate historian writing decades later. Students analyze how her dual perspective shapes the memoir — what does the adult Beals understand that the fifteen-year-old couldn't? Where does retrospective meaning change or deepen the original diary entries?

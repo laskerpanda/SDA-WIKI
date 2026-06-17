@@ -84,10 +84,10 @@ This text is crucial for high school students to understand because it introduce
 
 ## See Also
 
-- [The Rights of Man](../other-texts/rights-of-man.md)
-- [Women’s Suffrage Movement](../movements/womens-suffrage.md)
-- [Age of Enlightenment](../eras/age-of-enlightenment.md)
-- [French Revolution](../eras/french-revolution.md)
+- [Declaration of the Rights of Man (1789)](social-studies/declaration-rights-man.md)
+- [Wollstonecraft — Vindication of the Rights of Woman](social-studies/wollstonecraft-vindication.md)
+- [Era 3 — Age of Revolutions](../standards/social-studies/world-history/era-3-revolutions.md)
+- [WH.6_12.4 Revolution Skinny](../skinnies/world-history/era-3/wh-6-12-4-revolution-social-economic-skinny.md)
 
 ---
 

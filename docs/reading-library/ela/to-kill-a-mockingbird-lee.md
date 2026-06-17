@@ -20,6 +20,35 @@ This text is dual-use in a way that is both straightforward and worth examining 
 
 ---
 
+## Read It
+
+*Fair-use excerpts for educational use. Connect with Mr. Reese or the Fargo South Library for the full text.*
+
+### Chapter 10 — 'It's a Sin to Kill a Mockingbird'
+> Atticus explains to Scout why mockingbirds must not be harmed: "Your father’s right," said Jem, "mockingbirds don’t do one thing but sing their hearts out for us. That’s why it’s a sin to kill a mockingbird."
+
+>Miss Maudie clarifies the metaphorical nature of Atticus's statement about mockingbirds and their role in society: "Mockingbirds don't do one thing but make music for people to enjoy. They don't eat up people's gardens, don't nest in corncribs, they don't do one thing but sing their hearts out for us."
+
+>
+
+### Chapter 20 — Atticus's Closing Argument
+> In his summation to the jury, Atticus emphasizes the importance of justice and equality: "But there is one way in this country in which all men are created equal—there is no way in this world to judge a man but by his conscience."
+
+>Atticus argues that courts are the great equalizers, the one place where all men are truly judged equally: "Our courts have their faults, as does any human institution, but in this country our courts are the great levelers, and in our courts all men are created equal."
+
+>
+
+### Chapter 31 — Boo's Gift
+> Scout walks Boo Radley home after he saves her from Bob Ewell. Standing on his porch, she sees the neighborhood from his perspective: "Atticus was right. One time he said you never really know a man until you stand in his shoes and walk around in them."
+
+>The moral of the novel is revealed through Scout's reflection as she stands on Boo Radley’s porch: "I began to think there must be some among them that never really understood—never really understood any of us."
+
+>
+
+*Full text available at [Internet Archive](https://archive.org) and [Open Library](https://openlibrary.org). Connect with Mr. Reese or the Fargo South Library for a physical copy.*
+
+---
+
 ## ELA Standards This Connects To
 
 - [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — *To Kill a Mockingbird* is one of the most teachable texts for point of view as a literary device. **Point of view — Scout as child narrator:** Scout's narration creates continuous dramatic irony: she reports events she does not understand, which means the reader and Scout have different relationships to the same information. This is carefully sustained throughout — Scout repeats things adults say without grasping their implications, describes the trial through the frame of what she sees in the courthouse balcony. Students analyze specific passages where Scout's limited understanding creates meaning the character cannot access. **Mockingbird symbolism:** Atticus explains that it is a sin to kill a mockingbird because they do nothing but make music — they only give. The mockingbird stands for innocence destroyed by a hostile world: Tom Robinson, Boo Radley, and in a sense Scout herself. Students trace the symbol through the text. **Atticus as moral exemplar:** Atticus is deliberately constructed as an ideal — students analyze what Lee is arguing about moral courage by constructing him this way.
