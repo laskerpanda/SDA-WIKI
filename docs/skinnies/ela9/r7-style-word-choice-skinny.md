@@ -105,6 +105,7 @@ To reach a 4.0, you must evaluate patterns of style across a text — not analyz
 - [R.2 Comprehension](./r2-comprehension-inference-skinny.md) — Close reading foundation for style analysis
 - [MLK — Letter from Birmingham Jail](../../reading-library/social-studies/mlk-letter-birmingham.md) — Best single text for R.7 practice
 - [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Common Sense + W.4 crosswalk available
+- [1984](../../reading-library/ela/orwell-1984.md)
 
 ---
 
@@ -119,4 +120,3 @@ To reach a 4.0, you must evaluate patterns of style across a text — not analyz
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
-- [1984](../../reading-library/ela/orwell-1984.md)

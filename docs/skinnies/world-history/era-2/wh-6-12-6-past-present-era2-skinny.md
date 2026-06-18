@@ -120,6 +120,8 @@ To reach a 4.0, you must evaluate the medieval legacies critically — not just 
 - [Magna Carta](../../../reading-library/social-studies/magna-carta.md) — Primary source: constitutional tradition
 - [W.4 Argument Writing](../../../standards/ela/writing-standards.md#9-10w4) — ELA crosswalk
 - [IR.1–5 Research Skills](../../../standards/ela/gr9-10-priority.md) — Research and source evaluation bundle
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)
+- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)
 
 ---
 
@@ -134,5 +136,3 @@ To reach a 4.0, you must evaluate the medieval legacies critically — not just 
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
-- [Luther](../../../reading-library/social-studies/luther-95-theses.md)
-- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)

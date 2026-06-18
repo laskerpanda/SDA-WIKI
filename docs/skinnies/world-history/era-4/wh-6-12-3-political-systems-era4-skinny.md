@@ -117,6 +117,7 @@ To reach a 4.0, you must evaluate competing political systems and their promises
 - [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Political resistance to unjust systems
 - [W.4 Argument Writing](../../../standards/ela/writing-standards.md#9-10w4) — ELA crosswalk
 - [R.9 Informational Text](../../../standards/ela/gr9-10-scales.md#9-10r9) — ELA crosswalk
+- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)
 
 ---
 
@@ -131,4 +132,3 @@ To reach a 4.0, you must evaluate competing political systems and their promises
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
-- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)

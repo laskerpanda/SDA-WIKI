@@ -117,6 +117,7 @@ To reach a 4.0, you must critically evaluate how Era 4 legacies are being addres
 - [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Civil rights movement legacy
 - [W.4 Argument Writing](../../../standards/ela/writing-standards.md#9-10w4) — ELA crosswalk
 - [IR.1–5 Research Skills](../../../standards/ela/gr9-10-priority.md) — Research and source evaluation
+- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)
 
 ---
 
@@ -131,4 +132,3 @@ To reach a 4.0, you must critically evaluate how Era 4 legacies are being addres
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
-- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)

@@ -100,6 +100,7 @@ To reach a 4.0, you must evaluate how the author develops the central idea — n
 - [R.9 Informational/Argumentative](./r9-informational-argumentative-skinny.md) — Argument analysis closely related to claim development
 - [W.4 Argument Writing](./w4-argument-writing-skinny.md) — Your writing needs a claim that develops — same skill in reverse
 - [MLK — Letter from Birmingham Jail](../../reading-library/social-studies/mlk-letter-birmingham.md) — Best single text for R.4 practice
+- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)
 
 ---
 
@@ -114,4 +115,3 @@ To reach a 4.0, you must evaluate how the author develops the central idea — n
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
-- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)

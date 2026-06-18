@@ -121,6 +121,7 @@ To reach a 4.0, you must evaluate competing ideologies of Era 4 — assessing no
 - [MLK — Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) — Religious ideology as resistance
 - [R.9 Informational Text](../../../standards/ela/gr9-10-scales.md#9-10r9) — ELA crosswalk
 - [R.8 Literary Elements](../../../standards/ela/gr9-10-scales.md#9-10r8) — ELA crosswalk for literary texts
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)
 
 ---
 
@@ -135,4 +136,3 @@ To reach a 4.0, you must evaluate competing ideologies of Era 4 — assessing no
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
-- [Luther](../../../reading-library/social-studies/luther-95-theses.md)

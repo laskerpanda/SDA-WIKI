@@ -149,6 +149,7 @@ Wiesel, Elie. *Night*. Hill and Wang, 1960. SDA Commons Wiki Reading Library, 20
 - [W.4 Argument Writing](./w4-argument-writing-skinny.md) — Research provides the evidence for argument
 - [R.9 Informational/Argumentative](./r9-informational-argumentative-skinny.md) — Source evaluation (IR.4) closely relates to R.9 bias analysis
 - [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Research crosswalk examples
+- [Haitian Declaration](../../reading-library/social-studies/haitian-declaration-independence.md)
 
 ---
 
@@ -163,4 +164,3 @@ Wiesel, Elie. *Night*. Hill and Wang, 1960. SDA Commons Wiki Reading Library, 20
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
-- [Haitian Declaration](../../reading-library/social-studies/haitian-declaration-independence.md)

@@ -122,6 +122,8 @@ To reach a 4.0, you must synthesize across religious/ideological traditions — 
 - [Medieval Political Skinny](./wh-6-12-3-medieval-political-skinny.md) — Companion WH.6_12.3 skinny for Era 2
 - [R.9 Informational Text](../../../standards/ela/gr9-10-scales.md#9-10r9) — Analyzing informational/argumentative texts
 - [W.4 Argument Writing](../../../standards/ela/writing-standards.md#9-10w4) — ELA crosswalk
+- [95 Theses](../../../reading-library/social-studies/luther-95-theses.md)
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)
 
 ---
 
@@ -136,5 +138,3 @@ To reach a 4.0, you must synthesize across religious/ideological traditions — 
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
-- [95 Theses](../../../reading-library/social-studies/luther-95-theses.md)
-- [Luther](../../../reading-library/social-studies/luther-95-theses.md)

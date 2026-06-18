@@ -103,6 +103,7 @@ To reach a 4.0, you must advance the seminar itself — asking the question that
 - [W.4 Argument Writing](./w4-argument-writing-skinny.md) — Discussion argument uses the same claim/evidence/reasoning structure as written argument
 - [R.9 Informational/Argumentative](./r9-informational-argumentative-skinny.md) — Analyzing others' arguments in text prepares you to analyze them in discussion
 - [W.6 Writing Process](./w6-writing-process-skinny.md) — Peer feedback in discussion is a form of the writing process
+- [Wollstonecraft](../../reading-library/social-studies/wollstonecraft-vindication.md)
 
 ---
 
@@ -117,4 +118,3 @@ To reach a 4.0, you must advance the seminar itself — asking the question that
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
-- [Wollstonecraft](../../reading-library/social-studies/wollstonecraft-vindication.md)
