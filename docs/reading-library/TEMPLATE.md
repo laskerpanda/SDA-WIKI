@@ -35,14 +35,14 @@
 
 ## ELA Standards This Connects To
 
-- [R.X](../../standards/ela/gr9-10-scales.md#9-10rx) — [Why this standard applies to this text]
-- [W.4](../../standards/ela/writing-standards.md#9-10w4) — [What argument or essay this text supports]
+- [R.X](../standards/ela/gr9-10-scales.md) — [Why this standard applies to this text]
+- [W.4](../standards/ela/writing-standards.md) — [What argument or essay this text supports]
 
 ---
 
 ## Social Studies Standards This Connects To
 
-- [WH.6_12.X](../../standards/social-studies/world-history/era-X-[name].md#wh6-12x) — [Why this connects]
+- WH.6_12.X — [Why this connects — link to the relevant era standards page in ../standards/social-studies/world-history/]
 
 ---
 
