@@ -119,3 +119,4 @@ All reading library texts with argumentative elements are R.9 practice texts:
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
+- [Magna Carta](../../reading-library/social-studies/magna-carta.md)

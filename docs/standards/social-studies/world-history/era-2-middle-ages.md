@@ -269,5 +269,14 @@ The essential question running through this era: **When does order protect peopl
 
 ---
 
+
+---
+
+## See Also
+
+- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)
+
+---
+
 *Era 2: Middle Ages and Renaissance — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 1 — Civilizations](era-1-civilizations.md) · [Era 3 — Revolutions](era-3-revolutions.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

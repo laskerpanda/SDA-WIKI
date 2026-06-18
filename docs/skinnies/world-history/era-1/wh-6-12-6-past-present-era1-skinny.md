@@ -138,3 +138,4 @@ To reach a 4.0, you must critically evaluate the connection: not just trace it, 
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
+- [Twelve Tables](../../../reading-library/social-studies/twelve-tables-rome.md)

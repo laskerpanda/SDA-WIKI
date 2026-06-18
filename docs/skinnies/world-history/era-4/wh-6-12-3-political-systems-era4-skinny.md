@@ -131,3 +131,4 @@ To reach a 4.0, you must evaluate competing political systems and their promises
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
+- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)

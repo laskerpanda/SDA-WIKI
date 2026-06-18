@@ -151,3 +151,13 @@ These episodes map most directly to the SDA studio sequence:
 | 41 | stub |
 | 42 | stub |
 | 2–8, 10–14, 16–22, 26–30, 32, 34–36, 39 | pending |
+
+
+---
+
+## See Also
+
+- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)
+- [Luther](../../reading-library/social-studies/luther-95-theses.md)
+
+---

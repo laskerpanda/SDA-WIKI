@@ -165,5 +165,14 @@
 
 ---
 
+
+---
+
+## See Also
+
+- [Dulce et Decorum Est](../../reading-library/social-studies/dulce-et-decorum-est.md)
+
+---
+
 *Era 4 Crosswalk — SDA Commons Wiki · South High School*
 *See also: [Era 4 Standards Page](../../standards/social-studies/world-history/era-4-global-war.md) · [Era 3 Crosswalk](era-3.md) · [Gr 10 Crosswalk](../../crosswalk/gr10/index.md)*

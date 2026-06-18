@@ -70,4 +70,13 @@ US.6_12.5 in Unit 7 is about compounding effects — one event making another po
 
 ---
 
+
+---
+
+## See Also
+
+- [Night](../../../reading-library/ela/night-wiesel.md)
+
+---
+
 *US.6_12.5 Unit 7 Skinny — SDA Commons · South High School*

@@ -117,3 +117,4 @@ To reach a 4.0, you must advance the seminar itself — asking the question that
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
+- [Wollstonecraft](../../reading-library/social-studies/wollstonecraft-vindication.md)

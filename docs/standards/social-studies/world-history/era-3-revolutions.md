@@ -271,5 +271,15 @@ The essential question running through this era: **When is revolution justified 
 
 ---
 
+
+---
+
+## See Also
+
+- [95 Theses](../../../reading-library/social-studies/luther-95-theses.md)
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)
+
+---
+
 *Era 3: Age of Revolutions — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 2 — Middle Ages](era-2-middle-ages.md) · [Era 4 — Global War](era-4-global-war.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

@@ -109,5 +109,14 @@ Each era has its own page with all six standards applied to that era's content, 
 
 ---
 
+
+---
+
+## See Also
+
+- [Magna Carta](../../../reading-library/social-studies/magna-carta.md)
+
+---
+
 *World History Standards Overview — SDA Commons Wiki*
 *See also: [USH Standards Overview](../us-history/standards-overview.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

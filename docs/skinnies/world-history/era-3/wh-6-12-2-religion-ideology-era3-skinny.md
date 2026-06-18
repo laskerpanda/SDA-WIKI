@@ -140,3 +140,5 @@ To reach a 4.0, you must evaluate competing ideologies of Era 3 and assess what 
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
+- [95 Theses](../../../reading-library/social-studies/luther-95-theses.md)
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)

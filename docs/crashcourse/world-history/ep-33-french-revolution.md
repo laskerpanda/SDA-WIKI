@@ -116,3 +116,13 @@ This connects to **WH.6_12.3** (analyzing effects of political systems on people
 ---
 
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*
+
+
+---
+
+## See Also
+
+- [Declaration of the Rights of Man](../../reading-library/social-studies/declaration-rights-man.md)
+- [Olympe de Gouges](../../reading-library/olympe-de-gouges-declaration-woman.md)
+
+---

@@ -63,5 +63,16 @@ The full ELA ↔ SS crosswalk table (all texts, all standards):
 
 ---
 
+
+---
+
+## See Also
+
+- [Night](../../reading-library/ela/night-wiesel.md)
+- [Fahrenheit 451](../../reading-library/ela/fahrenheit-451-bradbury.md)
+- [1984](../../reading-library/ela/orwell-1984.md)
+
+---
+
 *Grade 9 Crosswalk Index — SDA Commons Wiki · South High School*
 *See also: [WH Standards Overview](../../standards/social-studies/world-history/standards-overview.md) · [ELA 9-10 Scales](../../standards/ela/gr9-10-scales.md) · [Reading Library](../../reading-library/index.md)*

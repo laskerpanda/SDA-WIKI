@@ -68,5 +68,17 @@ The full arc: Hammurabi to Malala; Hammurabi's Code to the UN UDHR; Pericles' Fu
 
 ---
 
+
+---
+
+## See Also
+
+- [Hammurabi](../../../reading-library/social-studies/hammurabi-code.md)
+- [Pericles' Funeral Oration](../../../reading-library/social-studies/pericles-funeral-oration.md)
+- [Pericles](../../../reading-library/social-studies/pericles-funeral-oration.md)
+- [Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md)
+
+---
+
 *US.6_12.6 Unit 9 Skinny — SDA Commons · South High School*
 *This is the last skinny in the USH series. Well done getting here.*

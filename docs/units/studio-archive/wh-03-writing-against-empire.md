@@ -158,3 +158,5 @@ Students present their arguments and take questions from a panel (classmates, ad
 ---
 
 *Studio Packet · WH-03 · SDA Commons Wiki · South High School*
+- [Malala](../../reading-library/social-studies/malala-un-speech.md)
+- [Fahrenheit 451](../../reading-library/ela/fahrenheit-451-bradbury.md)

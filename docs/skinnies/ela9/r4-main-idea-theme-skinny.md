@@ -114,3 +114,4 @@ To reach a 4.0, you must evaluate how the author develops the central idea — n
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../AGENTS.md#skinny-anatomy)*
+- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)

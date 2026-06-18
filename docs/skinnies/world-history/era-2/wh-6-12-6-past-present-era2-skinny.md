@@ -134,3 +134,5 @@ To reach a 4.0, you must evaluate the medieval legacies critically — not just 
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)
+- [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md)

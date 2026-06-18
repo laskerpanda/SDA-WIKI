@@ -553,6 +553,17 @@ Processes: identify the difference between a quote, paraphrase, and summary; kno
 
 ---
 
+
+---
+
+## See Also
+
+- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)
+- [Letter from Birmingham Jail](../../reading-library/social-studies/mlk-letter-birmingham.md)
+- [Night](../../reading-library/ela/night-wiesel.md)
+
+---
+
 *ELA 9–10 Scales page — SDA Commons Wiki*
 *Source: NDSBL Educator Scales Updated 10.2023 · Maintained by Hermes*
 *See also: [Priority by Studio](gr9-10-priority.md) · [Writing Standards](writing-standards.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

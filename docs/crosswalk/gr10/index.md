@@ -81,5 +81,16 @@ The same standards from Grade 9 continue, with increased complexity expected:
 
 ---
 
+
+---
+
+## See Also
+
+- [Night](../../reading-library/ela/night-wiesel.md)
+- [Warriors Don't Cry](../../reading-library/ela/warriors-dont-cry.md)
+- [Persepolis](../../reading-library/ela/persepolis-satrapi.md)
+
+---
+
 *Grade 10 Crosswalk Index — SDA Commons Wiki · South High School*
 *See also: [USH Standards Overview](../../standards/social-studies/us-history/standards-overview.md) · [ELA 9-10 Scales](../../standards/ela/gr9-10-scales.md) · [Reading Library](../../reading-library/index.md)*

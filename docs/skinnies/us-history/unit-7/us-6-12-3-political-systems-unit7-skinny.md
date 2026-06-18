@@ -56,4 +56,13 @@ US.6_12.3 in Unit 7 is about institutional resilience — the system works, bare
 
 ---
 
+
+---
+
+## See Also
+
+- [Night](../../../reading-library/ela/night-wiesel.md)
+
+---
+
 *US.6_12.3 Unit 7 Skinny — SDA Commons · South High School*

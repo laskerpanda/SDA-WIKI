@@ -117,11 +117,15 @@ Processed entries are added to the appropriate subfolder and a git commit is mad
 
 ### Social Studies Primary Sources
 
-#### Era 1 — Ancient Civilizations (c. 1750 BCE – 500 CE)
+#### Era 1 — Ancient Civilizations (c. 3000 BCE – 500 CE)
 
 | Text | Author | Date | Standards |
 |------|--------|------|-----------|
+| [Egyptian Book of the Dead](social-studies/book-of-the-dead-egypt.md) | Ancient Egyptian scribes | c. 1550–50 BCE | WH.6_12.2 · WH.6_12.3 · WH.6_12.4 · R.9 |
 | [Hammurabi's Code](social-studies/hammurabi-code.md) | Hammurabi | c. 1750 BCE | WH.6_12.2 · WH.6_12.3 · R.9 |
+| [The Dhammapada](social-studies/dhammapada-buddhism.md) | Attributed to the Buddha | c. 3rd century BCE | WH.6_12.2 · WH.6_12.4 · R.4 · R.9 |
+| [The Twelve Tables of Rome](social-studies/twelve-tables-rome.md) | Roman Decemviri | c. 450 BCE | WH.6_12.2 · WH.6_12.3 · R.9 |
+| [Polybius — On the Roman Republic](social-studies/roman-republic-polybius.md) | Polybius | c. 150 BCE | WH.6_12.3 · WH.6_12.4 · R.9 · W.4 |
 | [The Analects](social-studies/analects-confucius.md) | Confucius | c. 500 BCE | WH.6_12.2 · WH.6_12.3 · R.4 · R.9 |
 | [Pericles' Funeral Oration](social-studies/pericles-funeral-oration.md) | Thucydides | 431 BCE | WH.6_12.3 · WH.6_12.4 · WH.6_12.6 · R.9 · W.4 · C.1 |
 | [The Melian Dialogue](social-studies/melian-dialogue.md) | Thucydides | 416 BCE | WH.6_12.3 · WH.6_12.5 · WH.6_12.6 · R.9 · W.4 · C.6 |
@@ -132,6 +136,8 @@ Processed entries are added to the appropriate subfolder and a git commit is mad
 
 | Text | Author | Date | Standards |
 |------|--------|------|-----------|
+| [Feudal Obligations](social-studies/feudal-obligations-primary-source.md) | Various | c. 900–1300 CE | WH.6_12.2 · WH.6_12.3 · WH.6_12.4 · R.9 |
+| [Pope Gregory VII / Emperor Henry IV](social-studies/pope-gregory-emperor-henry-correspondence.md) | Pope Gregory VII; Henry IV | 1075–1077 | WH.6_12.2 · WH.6_12.5 · R.9 · W.4 |
 | [Magna Carta](social-studies/magna-carta.md) | English barons / King John | 1215 | WH.6_12.2 · WH.6_12.3 · R.9 |
 | [Rihla (Travels)](social-studies/ibn-battuta-rihla.md) | Ibn Battuta | 1354 | WH.6_12.1 · WH.6_12.4 · R.9 · IR.4 |
 | [The 95 Theses](social-studies/luther-95-theses.md) | Martin Luther | 1517 | WH.6_12.2 · WH.6_12.5 · R.9 · W.4 |
@@ -143,11 +149,12 @@ Processed entries are added to the appropriate subfolder and a git commit is mad
 |------|--------|------|-----------|
 | [Common Sense](social-studies/common-sense-paine.md) | Thomas Paine | 1776 | WH.6_12.3 · WH.6_12.5 · R.9 · W.4 |
 | [Declaration of the Rights of Man](social-studies/declaration-rights-man.md) | National Assembly of France | 1789 | WH.6_12.3 · WH.6_12.5 · WH.6_12.6 · R.9 |
+| [Declaration of the Rights of Woman](olympe-de-gouges-declaration-woman.md) | Olympe de Gouges | 1791 | WH.6_12.3 · WH.6_12.6 · R.9 · W.4 |
 | [A Vindication of the Rights of Woman](social-studies/wollstonecraft-vindication.md) | Mary Wollstonecraft | 1792 | WH.6_12.3 · WH.6_12.6 · R.9 · W.4 |
 | [Haitian Declaration of Independence](social-studies/haitian-declaration-independence.md) | Dessalines / Boisrond-Tonnerre | 1804 | WH.6_12.3 · WH.6_12.5 · WH.6_12.6 · R.9 · W.4 |
-| ["The White Man's Burden" + H.T. Johnson response](social-studies/kipling-white-mans-burden.md) | Kipling / Johnson | 1899 | WH.6_12.4 · WH.6_12.5 · WH.6_12.6 · R.7 · R.9 · IR.4 |
 | [The Communist Manifesto](social-studies/communist-manifesto.md) | Marx & Engels | 1848 | WH.6_12.2 · WH.6_12.3 · WH.6_12.5 · R.9 · W.4 |
 | [Narrative of the Life of Frederick Douglass](social-studies/narrative-frederick-douglass.md) | Frederick Douglass | 1845 | WH.6_12.4 · WH.6_12.5 · US.6_12.2 · US.6_12.4 · R.8 · R.9 · W.4 |
+| ["The White Man's Burden" + H.T. Johnson response](social-studies/kipling-white-mans-burden.md) | Kipling / Johnson | 1899 | WH.6_12.4 · WH.6_12.5 · WH.6_12.6 · R.7 · R.9 · IR.4 |
 | [The Jungle](social-studies/jungle-sinclair.md) | Upton Sinclair | 1906 | US.6_12.1 · US.6_12.4 · R.8 · W.4 · IR.1–5 |
 | ["Dulce et Decorum Est"](social-studies/dulce-et-decorum-est.md) | Wilfred Owen | 1920 | WH.6_12.2 · WH.6_12.5 · R.4 · R.7 · R.8 |
 
@@ -157,6 +164,7 @@ Processed entries are added to the appropriate subfolder and a git commit is mad
 |------|--------|------|-----------|
 | [FDR — Four Freedoms Speech](social-studies/fdr-four-freedoms.md) | Franklin D. Roosevelt | 1941 | WH.6_12.2 · WH.6_12.3 · US.6_12.1 · US.6_12.2 · R.9 · W.4 · C.1 |
 | [UN Universal Declaration of Human Rights](social-studies/un-declaration-human-rights.md) | United Nations | 1948 | WH.6_12.3 · WH.6_12.6 · US.6_12.1 · US.6_12.4 · R.9 · IR.1–5 |
+| [Letter from Birmingham Jail](social-studies/mlk-letter-birmingham.md) | Martin Luther King Jr. | 1963 | WH.6_12.3 · WH.6_12.6 · US.6_12.2 · US.6_12.4 · R.9 · W.4 · C.1 |
 | [Rivonia Trial Speech](social-studies/mandela-rivonia-speech.md) | Nelson Mandela | 1964 | WH.6_12.3 · WH.6_12.6 · R.9 · W.4 · C.1 |
 | [UN Speech — "One Child, One Teacher"](social-studies/malala-un-speech.md) | Malala Yousafzai | 2013 | WH.6_12.2 · WH.6_12.6 · R.9 · W.4 · C.1 |
 
@@ -176,6 +184,7 @@ Processed entries are added to the appropriate subfolder and a git commit is mad
 | [Warriors Don't Cry](ela/warriors-dont-cry.md) | Beals | 1994 | R.8 · R.9 · W.4 | USH Civil Rights primary source (Little Rock 1957) |
 | [Persepolis](ela/persepolis-satrapi.md) | Satrapi | 2000 | R.8 · R.9 · W.4 | WH Era 4 Iranian Revolution primary source |
 | [1984](ela/orwell-1984.md) | Orwell | 1949 | R.8 · R.9 · W.4 | WH Era 4 totalitarianism / Cold War |
+| ["Politics and the English Language"](ela/orwell-politics-language.md) | Orwell | 1946 | R.4 · R.8 · W.4 | WH Era 4 — political language and propaganda |
 
 > **Dual-use note:** All ELA texts above carry both literary standards (R.8 literary analysis) and historical standards as primary sources for their era. See individual entries for full standard crosswalk.
 

@@ -72,4 +72,13 @@ Green covers America's longest war and the political scandal that destroyed a pr
 
 ---
 
+
+---
+
+## See Also
+
+- [Night](../../reading-library/ela/night-wiesel.md)
+
+---
+
 *CrashCourse US History Ep 12 — SDA Commons Wiki · South High School*

@@ -135,3 +135,4 @@ To reach a 4.0, you must evaluate competing ideologies of Era 4 — assessing no
 
 *Skinny v1.0 — SDA Commons Wiki · June 2026*
 *For the full anatomy of a skinny, see [Skinny Anatomy](../../../AGENTS.md#skinny-anatomy)*
+- [Luther](../../../reading-library/social-studies/luther-95-theses.md)

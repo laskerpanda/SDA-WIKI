@@ -160,3 +160,5 @@ Alternatively: a timed Socratic seminar using the essential question with at lea
 ---
 
 *Studio Packet · WH-05 · SDA Commons Wiki · South High School*
+- [Pericles' Funeral Oration](../../reading-library/social-studies/pericles-funeral-oration.md)
+- [Pericles](../../reading-library/social-studies/pericles-funeral-oration.md)

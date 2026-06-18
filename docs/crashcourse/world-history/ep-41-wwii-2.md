@@ -127,3 +127,12 @@ This connects to **WH.6_12.5** (historical analysis of causes and effects) and *
 ---
 
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*
+
+
+---
+
+## See Also
+
+- [Universal Declaration of Human Rights](../../reading-library/social-studies/un-declaration-human-rights.md)
+
+---
