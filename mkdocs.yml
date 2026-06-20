@@ -56,6 +56,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Student Workflow: commons/student-workflow.md
   - How SDA Works:
     - Student Guide: commons/how-to-sda/index.md
     - Exhibition Prep: commons/exhibition-prep.md

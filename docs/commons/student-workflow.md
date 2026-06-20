@@ -10,7 +10,7 @@ This page tells you what to actually do, week by week. Every studio follows the 
 
 | Phase | Week | What You're Doing | Document You Create | Resources to Pull |
 |-------|------|-------------------|--------------------|--------------------|
-| **Launch** | 1 | Read the EQ. Pick your inquiry angle. Fill out your Studio Contract. | [Studio Contract](https://docs.google.com/){target="_blank"} | Studio packet, skinnies |
+| **Launch** | 1 | Read the EQ. Pick your inquiry angle. Fill out your Studio Contract. | [Studio Contract PDF](../assets/downloads/sda-studio-contract.pdf) | Studio packet, skinnies |
 | **Dig** | 2 | Research. Primary + secondary sources. Build your source log. | [Source Log](../assets/downloads/sda-source-log.pdf) | Reading library, IR.1–5 skinnies |
 | **Build** | 3 | Make the thing. First draft of your deliverable. | Your deliverable (draft) | W.3 or W.4 skinny |
 | **Shape** | 4 | Peer review. Advisor conference. Revision plan. | Revision notes | Advisor, peers |
@@ -280,4 +280,4 @@ Maverick and Phoenix students can collaborate freely. Trailblazers confirm with 
 ---
 
 *Student Workflow · SDA Commons Wiki · South High School*
-*See also: [Home](../index.md) · [Reading Library](../reading-library/index.md) · [Skinnies](../skinnies/world-history/era-1/wh-6-12-1-geography-trade-era1-skinny.md) · [Studio Archive](../units/studio-archive/index.md)*
+*See also: [Home](../index.md) · [Reading Library](../reading-library/index.md) · [Skinnies](../skinnies/world-history/era-1/wh-6-12-1-science-tech-era1-skinny.md) · [Studio Archive](../units/studio-archive/index.md)*
