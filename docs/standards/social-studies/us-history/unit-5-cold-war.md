@@ -197,5 +197,17 @@ This unit covers:
 
 ---
 
+## Why This Is Relevant Today?
+
+The Cold War created the world most people alive today were born into: nuclear deterrence, the military-industrial complex, proxy wars fought in other people's countries, ideological competition framed as democracy vs. communism, mass surveillance of citizens justified by national security. Many of those structures didn't end when the Soviet Union did. Nuclear arsenals still exist. The logic of deterrence still governs international relations. The national security state built during the Cold War — intelligence agencies, surveillance capabilities, emergency powers — is still operating. And the foreign policy debates of the Cold War (when does the U.S. intervene? who counts as an ally? what human rights violations are acceptable in a partner?) are the same debates happening now with different countries involved. See [USH-02: The Literature of Fear](../../../units/studio-archive/ush-02-literature-of-fear.md) and [1984](../../../reading-library/ela/orwell-1984.md).
+
+---
+
+## Why This Is Relevant Today?
+
+Cold War infrastructure is still running: nuclear weapons in the quantities built for mutual deterrence, NATO alliances, intelligence agencies built for superpower competition, and proxy war patterns that shaped today's Middle East, Southeast Asia, and Africa. McCarthyism's lesson — that fear of an external enemy can justify suspending civil liberties and destroying lives — is directly relevant to post-9/11 surveillance debates, to the use of "communist" and "socialist" as political attacks, and to how "loyalty" gets defined in political crises. The nuclear deterrence logic — Mutually Assured Destruction as stability — requires both sides to believe the other will actually use the weapons, which means the stability depends on maintaining credible threats of civilizational destruction. And the Cold War produced the civil rights movement's most consequential decade: the U.S. needed to demonstrate democracy worked on the world stage, which gave activists leverage they used to force legal change. See [USH-02: The Literature of Fear](../../../units/studio-archive/ush-02-literature-of-fear.md) for the studio that works with the Cold War's cultural anxieties through dystopian literature.
+
+---
+
 *Unit 5: Cold War — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 4 — WWII](unit-4-wwii.md) · [Unit 6 — Civil Rights](unit-6-civil-rights.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

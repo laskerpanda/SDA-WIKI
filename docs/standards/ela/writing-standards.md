@@ -182,5 +182,11 @@ Writing is how people make their thinking visible and persuasive to others — i
 
 ---
 
+## Why This Is Relevant Today?
+
+Writing is how you make your thinking visible and how you make your thinking count. The writing standards in SDA — especially W.4 (argument with evidence) and W.3 (narrative) — are not separate from the historical and literary content; they're the mechanism for engaging with it. An argument essay about whether Hammurabi's legal code is just is simultaneously practicing W.4 AND building evidence for WH.6_12.2. A personal essay connecting your own experience to *Beloved* is simultaneously practicing W.3 AND engaging with the novel's central argument about memory and survival. The reason writing standards matter in the world outside school: every public argument you will encounter — in news, in politics, in professional life — is making a claim and using evidence to support it. The writing skills here are the skills for reading those arguments critically and for making your own. See [ELA 9-10 Scales](gr9-10-scales.md) for proficiency levels and [Priority by Studio](gr9-10-priority.md) for which standards are active when.
+
+---
+
 *Writing Standards Deep Dive — SDA Commons Wiki*
 *See also: [ELA 9-10 Scales](gr9-10-scales.md) · [Priority by Studio](gr9-10-priority.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

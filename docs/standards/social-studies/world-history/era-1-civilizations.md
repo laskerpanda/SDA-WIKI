@@ -268,11 +268,5 @@ The questions Era 1 raises — who should govern, what authority is legitimate, 
 
 ---
 
-## Why This Is Relevant Today?
-
-The questions Era 1 asks — who should govern? what gives a law its authority? how do societies organize themselves across wide distances? — are not ancient history problems. Every contemporary debate about democracy, judicial authority, constitutional legitimacy, and the relationship between religion and political power traces directly to the frameworks this era produced. Hammurabi's claim that law comes from the gods, Confucius's claim that good governance requires good character, Pericles' claim that those who are governed should have a voice in their governance: these are not three answers from 2,500 years ago — they are three answers that are still competing today. When you study Era 1, you're learning the vocabulary for debates that are happening right now. See [WH-01: Who Should Govern?](../../../units/studio-archive/wh-01-who-should-govern.md) and the [Era 1 Crosswalk](../../../crosswalk/gr9/era-1.md).
-
----
-
 *Era 1: Emergence of Civilizations — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 2 — Middle Ages](era-2-middle-ages.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

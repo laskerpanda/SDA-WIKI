@@ -188,5 +188,17 @@ This unit covers:
 
 ---
 
+## Why This Is Relevant Today?
+
+Unit 4 forces a question that does not have a clean answer: what values can a nation claim to hold while fighting for a "good cause" and still do deeply wrong things in pursuit of victory? The United States interned 120,000 Japanese Americans, firebombed civilian populations, and used atomic weapons against two cities — while simultaneously fighting a war against fascism and genocide. The moral complexity is not a reason to avoid the war or conclude it wasn't worth fighting; it's a reason to think carefully about what "fighting for the right side" actually means and what it authorizes. Every debate about drone strikes, civilian casualties, torture, and the standards of conduct for military action traces back to the questions Unit 4 raises. See [USH-04: The Cost of Victory](../../../units/studio-archive/ush-04-the-cost-of-victory.md) and [Night](../../../reading-library/ela/night-wiesel.md).
+
+---
+
+## Why This Is Relevant Today?
+
+Every contemporary debate about "just war," civilian casualties, drone strikes, and military necessity takes place in the framework Unit 4 built. The internment of Japanese Americans — upheld by the Supreme Court in *Korematsu* (1944) and finally repudiated in 2018 — is the clearest test case for what civil liberties protections are actually worth under national security pressure, and that repudiation came 74 years late. The Holocaust's "never again" pledge has been tested repeatedly since 1945 in Rwanda, Bosnia, Darfur, and the Uyghur detention system in Xinjiang, and the international community's responses reveal the gap between the pledge and the mechanisms for keeping it. The post-WWII international order — the UN, NATO, the Geneva Conventions — was built in direct response to WWII's catastrophes, and understanding why those institutions were built explains what is at stake when they are undermined. See [USH-04: The Cost of Victory](../../../units/studio-archive/ush-04-the-cost-of-victory.md) for the studio that asks what the "good war" actually cost.
+
+---
+
 *Unit 4: WWII — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 3 — Roaring 20s](unit-3-roaring-20s.md) · [Unit 5 — Cold War](unit-5-cold-war.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

@@ -284,11 +284,5 @@ The Middle Ages invented institutions that still structure modern life: universi
 
 ---
 
-## Why This Is Relevant Today?
-
-Era 2 covers the period when Europe was organized by two competing systems of authority — feudal lords and the Catholic Church — and when that system began to crack. The Black Death killed a third of Europe's population and destabilized both labor markets and religious authority in ways that took centuries to resolve. Trade networks connecting Europe, Africa, and Asia shifted power, spread ideas and disease, and created new classes of people who didn't fit the old hierarchies. These dynamics — the fragility of systems that seem permanent, the way disease reshapes politics, the tension between religious and secular authority, the disruptive power of trade — are not historical curiosities. They're the structures through which present-day institutions were built, and they're still in operation. See [WH-03: Writing Against Empire](../../../units/studio-archive/wh-03-writing-against-empire.md) and the [Era 2 Crosswalk](../../../crosswalk/gr9/era-2.md).
-
----
-
 *Era 2: Middle Ages and Renaissance — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 1 — Civilizations](era-1-civilizations.md) · [Era 3 — Revolutions](era-3-revolutions.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

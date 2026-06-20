@@ -205,5 +205,23 @@ The core argument of this unit: the civil rights movement was not a single, unif
 
 ---
 
+## Why This Is Relevant Today?
+
+The Civil Rights Movement was not a completed project — it was an ongoing negotiation between the promise of American democracy and the reality of American exclusion, and that negotiation is still happening. The gains of the 1950s and 60s — the Civil Rights Act, the Voting Rights Act, desegregation — were real, and they are still being contested. Voting rights protections are being rolled back in states. Fair housing enforcement gaps persist. The criminal justice system continues to show racial disparities in every stage from arrest through sentencing. The arguments activists made then — that formal legal equality is not enough if structural inequalities remain, that moral urgency requires direct action, that bystander silence is a form of complicity — are the arguments of current movements as well. This unit is not history; it's the foundation of current debates. See [MLK Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) and [USH-01: When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md).
+
+---
+
+## Why This Is Relevant Today?
+
+Every contemporary argument about voting rights, police accountability, affirmative action, and systemic racism is a direct continuation of debates that Unit 6 covers — many involving the same legal frameworks, the same tactics, and often the same geographic locations. The Civil Rights Movement's toolkit — nonviolent direct action, coalition building, litigation strategy, economic pressure — is still the most studied model for social movements globally; climate activists, disability rights organizers, and pro-democracy movements worldwide draw on it. MLK's Letter from Birmingham Jail argued that unjust laws have no moral authority — an argument that appears in every civil disobedience debate worldwide. The Voting Rights Act of 1965 has been systematically weakened by Supreme Court decisions in 2013 and 2021, and the debate about what "equal protection" actually requires is ongoing. See [USH-01: When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md) and the [Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) in the Reading Library.
+
+---
+
+## Why This Is Relevant Today?
+
+The Civil Rights movement is living history — the people who marched are still alive, the laws they won are still being contested, and the conditions they fought are not fully resolved. The Voting Rights Act of 1965 was gutted by the Supreme Court in 2013 (Shelby County v. Holder); the subsequent proliferation of voter restriction laws is a direct consequence. The fair housing gains of the 1960s have partially reversed due to discriminatory lending, zoning, and disinvestment that created the residential segregation that still structures American cities and school districts. The standards that apply here (social movements, cause and consequence, civil disobedience as a political strategy) are the standards for evaluating every subsequent social movement — for understanding what strategies work, what conditions are necessary, and what opposition looks like when it uses legal mechanisms rather than fire hoses. See [USH-01: When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md) for the studio that traces the reform thread from the Progressive Era through this movement.
+
+---
+
 *Unit 6: Civil Rights and Social Movements — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 5 — Cold War](unit-5-cold-war.md) · [Unit 7 — Vietnam](unit-7-vietnam.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

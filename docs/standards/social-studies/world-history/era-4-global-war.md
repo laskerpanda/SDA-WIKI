@@ -283,11 +283,5 @@ The entire international order students live in was built in Era 4: the United N
 
 ---
 
-## Why This Is Relevant Today?
-
-Era 4 covers the period that produced most of the institutions the modern world runs on: the United Nations, the Geneva Conventions, the Universal Declaration of Human Rights, the International Criminal Court. These were not inevitable; they were built in the aftermath of catastrophic failure — two world wars, the Holocaust, the atomic bomb — by people who decided the pre-war international system was inadequate and needed to be replaced. Those institutions are now being tested again: authoritarian governments challenging the rules-based international order, genocide happening while the international community debates whether to call it genocide, nuclear weapons in more hands than when the treaties were signed. Era 4 is not background — it's the origin story for the international system that is currently under stress. See [WH-05: The Cost of War](../../../units/studio-archive/wh-05-the-cost-of-war.md) and the [Era 4 Crosswalk](../../../crosswalk/gr9/era-4.md).
-
----
-
 *Era 4: Age of Global War and Globalization — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 3 — Revolutions](era-3-revolutions.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

@@ -570,6 +570,12 @@ The scales in this document describe what real growth in reading and writing act
 
 ---
 
+## Why This Is Relevant Today?
+
+The proficiency scales on this page describe a progression from "I can identify it" through "I can use it independently" to "I can transfer it to new situations I haven't seen before." That progression is not an academic abstraction — it's a description of the difference between having a skill and owning it. The ability to read an argument carefully enough to know whether it's making a valid claim (R.9 at 3.0–4.0) is not a school skill; it's the skill that determines whether you get manipulated by misinformation or whether you catch it. The ability to write a clear argument with evidence (W.4 at 3.0+) is the skill that gets you taken seriously in a job, in a legal dispute, in a civic argument. The scales exist so you can see exactly where you are in that progression — which means you can see what to do next. See [Writing Standards](writing-standards.md) for the deep dive on W standards, and [Priority by Studio](gr9-10-priority.md) for which standards are active in each studio.
+
+---
+
 *ELA 9–10 Scales page — SDA Commons Wiki*
 *Source: NDSBL Educator Scales Updated 10.2023 · Maintained by Hermes*
 *See also: [Priority by Studio](gr9-10-priority.md) · [Writing Standards](writing-standards.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

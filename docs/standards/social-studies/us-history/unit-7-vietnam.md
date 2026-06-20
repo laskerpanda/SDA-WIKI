@@ -187,5 +187,11 @@ This unit covers:
 
 ---
 
+## Why This Is Relevant Today?
+
+The standards in Unit 7 cover Vietnam and the Pentagon Papers — which means they're the standards for understanding how democratic governments manage information, control narrative, and respond when the official story is exposed as false. The Espionage Act used to prosecute Daniel Ellsberg for leaking the Pentagon Papers in 1971 was the same Act used to prosecute Chelsea Manning in 2010 and Edward Snowden in 2013. The press freedom questions raised by the Pentagon Papers publication — whether the government can suppress the publication of classified documents about an ongoing war — were directly re-litigated when Wikileaks published classified material in 2010–16. The pattern of government deception, whistleblower prosecution, and press freedom litigation that Unit 7 establishes is a recurring structure in American political history that has not stopped recurring. See [USH-05: What the Government Didn't Say](../../../units/studio-archive/ush-05-what-the-government-didnt-say.md) for the studio built around this unit.
+
+---
+
 *Unit 7: Vietnam War and Counterculture — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 6 — Civil Rights](unit-6-civil-rights.md) · [Unit 8 — 1970s & 1980s](unit-8-1970s-1980s.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

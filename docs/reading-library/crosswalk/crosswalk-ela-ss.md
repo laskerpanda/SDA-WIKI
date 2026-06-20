@@ -100,5 +100,7 @@ The crosswalk is built on a simple observation: the best historical texts are al
 
 ---
 
+---
+
 *ELA ↔ SS Crosswalk · SDA Commons Wiki · South High School*
 *See also: [Reading Library](../index.md) · [ELA 9-10 Scales](../../standards/ela/gr9-10-scales.md) · [WH Standards Overview](../../standards/social-studies/world-history/standards-overview.md)*

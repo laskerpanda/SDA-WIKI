@@ -287,11 +287,5 @@ Era 3's essential question — who are "the people" that revolutions claim to sp
 
 ---
 
-## Why This Is Relevant Today?
-
-Era 3 is where most of the foundational documents of the modern world were written: the Declaration of the Rights of Man, the Declaration of the Rights of Woman, the Haitian Declaration of Independence, the Communist Manifesto, the Narrative of Frederick Douglass. These documents are still live — they are still cited in legal arguments, quoted in protest movements, and debated in legislatures. The question at the center of Era 3 is: when a system is doing serious harm, what does it take to challenge it? The answer turns out to involve specific conditions — ideas that spread quickly, economic pressures that destabilize the old order, a crisis of legitimacy in the existing government — and those conditions are recognizable in present-day movements for racial justice, gender equality, labor rights, and democratic reform. See [WH-04: One Idea, 130 Years of War](../../../units/studio-archive/wh-04-reformation-and-revolution.md) and [WH-02: The Rights We Wrote Down](../../../units/studio-archive/wh-02-rights-chain.md).
-
----
-
 *Era 3: Age of Revolutions — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 2 — Middle Ages](era-2-middle-ages.md) · [Era 4 — Global War](era-4-global-war.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

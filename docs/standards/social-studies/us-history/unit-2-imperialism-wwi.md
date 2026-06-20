@@ -193,5 +193,11 @@ This unit covers:
 
 ---
 
+## Why This Is Relevant Today?
+
+American imperialism in Unit 2 raises a question that is still unresolved: what does the United States owe the people in countries where it has exercised military, economic, or political power? Puerto Rico, the Philippines, Hawaii, Cuba, Panama — the people of these places have been governed by or deeply shaped by American decisions they had no vote in. The overseas territories the U.S. acquired in the 1890s are still U.S. territories, and the people living there still have a different legal relationship to American democracy than people in the 50 states. WWI adds the parallel question: what are the unintended consequences of alliances, nationalism, and arms races? The 1914 war happened partly because interconnected agreements meant a local conflict could become a global one — a dynamic that has not disappeared. See [WH-05: The Cost of War](../../../units/studio-archive/wh-05-the-cost-of-war.md) and [Dulce et Decorum Est](../../../reading-library/social-studies/dulce-et-decorum-est.md).
+
+---
+
 *Unit 2: Imperialism and WWI — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 1 — Industrial Revolution](unit-1-industrial.md) · [Unit 3 — Roaring 20s](unit-3-roaring-20s.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

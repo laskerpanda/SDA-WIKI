@@ -152,5 +152,11 @@ Reading and writing are not school skills — they're the skills that determine 
 
 ---
 
+## Why This Is Relevant Today?
+
+The ELA standards in SDA are not arbitrary checkboxes — they are a map of specific intellectual moves that matter in the world outside school. Reading a difficult text closely and identifying its argument (R.9) is the skill you need when you're trying to figure out whether a news source is reliable, whether a legal document means what someone claims it means, or whether a political speech is making an honest case. Writing a structured argument with evidence (W.4) is what every professional, every citizen, and every person who wants to change anything needs to be able to do. The research process (IR.1–5) is how you find out what's actually true in a world full of confident misinformation. These aren't English class skills; they're power skills. The studio model at SDA puts them in the context of content you're actually investigating — which is the point. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for how ELA and SS standards work together.
+
+---
+
 *ELA Priority Standards page — SDA Commons Wiki*
 *See also: [ELA 9-10 Scales](gr9-10-scales.md) · [Writing Standards](writing-standards.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

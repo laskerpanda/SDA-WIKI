@@ -187,5 +187,11 @@ This unit covers:
 
 ---
 
+## Why This Is Relevant Today?
+
+The 1920s are remembered for prosperity and cultural explosion — jazz, the Harlem Renaissance, mass consumer culture, the automobile, the radio. They're less remembered for what caused the 1929 crash: financial speculation, income inequality, agricultural collapse, and an international system that had no mechanism for managing simultaneous economic failure in multiple countries at once. The Great Depression that followed put 25% of Americans out of work and forced the country to rethink the relationship between government and the economy in ways that are still contested. Every debate about government spending in a recession, about the "automatic stabilizers" built into the welfare state, about whether inequality is self-correcting or requires intervention — those arguments were first made and tested in the 1930s. See [USH-03: When the Floor Falls Out](../../../units/studio-archive/ush-03-when-the-floor-falls-out.md) and [The Great Gatsby](../../../reading-library/ela/great-gatsby-fitzgerald.md).
+
+---
+
 *Unit 3: Roaring 20s and Great Depression — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 2 — Imperialism & WWI](unit-2-imperialism-wwi.md) · [Unit 4 — WWII](unit-4-wwii.md) · [Primary Sources](../../../resources/primary-sources/index.md)*
