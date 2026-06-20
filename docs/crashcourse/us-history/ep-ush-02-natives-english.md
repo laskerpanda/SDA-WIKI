@@ -74,4 +74,10 @@ Write one sentence identifying Green's main argument, then find two pieces of sp
 
 ---
 
+## Why This Is Relevant Today?
+
+The legal and political questions raised in this episode — who owns land? what makes a treaty binding? what happens when the powerful ignore agreements they made? — are still live cases in U.S. federal courts. Native land rights, tribal sovereignty, and treaty rights to water and fishing grounds are active legal battles from the Dakotas to the Pacific Northwest. The history Green describes is not background context; it's the origin of claims still being contested today. The Standing Rock pipeline protests, the McGirt v. Oklahoma Supreme Court decision, and ongoing debates about federal recognition of tribes are all downstream of the colonial land relationships this episode introduces. For the full arc of that story, see the [Era 1 Crosswalk](../../crosswalk/gr9/era-1.md) and [WH-01: Who Should Govern?](../../units/studio-archive/wh-01-who-should-govern.md).
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

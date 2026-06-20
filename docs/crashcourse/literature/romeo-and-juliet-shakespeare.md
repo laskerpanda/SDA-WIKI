@@ -68,4 +68,10 @@ This connects to **R.8**: analyzing how Shakespeare uses poetic form and dramati
 
 ---
 
+## Why This Is Relevant Today?
+
+*Romeo and Juliet* is about what happens to individuals when they're trapped inside a conflict they didn't start and can't end — and that structure maps directly onto every contemporary situation in which young people bear the costs of adult choices. The feud between Montagues and Capulets is political, not personal: two factions compete for status and dominance in a city-state, and the price is paid by people who would choose differently if they could. Friar Lawrence's well-intentioned plan that kills everyone is a study in how interventions that make sense in theory create catastrophic outcomes in practice — a lesson relevant to every public policy debate. The play's ending doesn't resolve the feud through understanding or reconciliation but through exhaustion: the families stop fighting because they've destroyed everything they cared about. That's not a happy ending; it's a warning. See [WH-02: The Rights We Wrote Down](../../../units/studio-archive/wh-02-rights-chain.md) for the long arc of how written rules attempt to contain exactly this kind of factional violence.
+
+---
+
 *Entry created: 2026-06-16 · Status: stub · Transcript: pending*

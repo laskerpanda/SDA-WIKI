@@ -91,6 +91,12 @@ The repetition of the memory and the single line of Hassan's loyalty ("For you, 
 
 ---
 
+## Why This Is Relevant Today?
+
+*The Kite Runner* was published in 2003, two years after the U.S. invaded Afghanistan — and it gave millions of American readers a picture of Afghanistan as a place where people lived actual lives before the Taliban, the Soviet invasion, and the American intervention made it a foreign policy problem. That picture matters because policy debates about countries are almost always conducted in terms of strategic interests, threat assessments, and alliance calculations — not in terms of what it's like to be a person living there. The novel is also relevant because Afghanistan is still in the news: the U.S. withdrawal in 2021, the Taliban's return to power, the ban on girls' education, the collapse of the government the U.S. spent twenty years building — all of this happened to the country Hosseini spent the novel making human-scale. Reading *The Kite Runner* alongside the news about Afghanistan is not just an ELA exercise. It's a way of insisting that the people in the news are people.
+
+---
+
 ## See Also
 
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)

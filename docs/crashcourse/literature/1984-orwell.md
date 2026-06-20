@@ -68,4 +68,10 @@ This connects to **R.8**: analyzing how Orwell builds his dystopian world throug
 
 ---
 
+## Why This Is Relevant Today?
+
+Orwell wrote *1984* in 1948 as a warning about totalitarianism, but the surveillance infrastructure he imagined is now largely built — by governments, corporations, and platforms we voluntarily use. The NSA bulk data collection programs revealed by Snowden in 2013, China's social credit system, Meta's advertising targeting that infers political views from behavior patterns — all of them are instances of the panopticon Orwell described, except more efficient. The concepts Orwell coined — doublethink, Newspeak, the memory hole, Big Brother — have become standard vocabulary for political analysis because they describe real dynamics with unusual precision. The question the novel asks — what happens to human consciousness and freedom when surveillance is total and truth is controlled — is the exact question activists, technologists, and regulators are wrestling with right now. See [USH-05: What the Government Didn't Say](../../../units/studio-archive/ush-05-what-the-government-didnt-say.md) for the connection between government information control and contemporary media.
+
+---
+
 *Entry created: 2026-06-16 · Status: stub · Transcript: pending*

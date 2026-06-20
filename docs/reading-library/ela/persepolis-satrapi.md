@@ -118,6 +118,12 @@
 
 ---
 
+## Why This Is Relevant Today?
+
+*Persepolis* is banned in Iran. It depicts the country's people — Satrapi's family, her friends, the ordinary Iranians who lived through the Islamic Revolution — as fully human, politically complex, and frequently in disagreement with the government that claims to represent them. That distinction (a government vs. its people) is one the novel insists on, and it's relevant whenever Iran appears in the news as a foreign policy abstraction. The graphic memoir form is also significant: Satrapi chose it specifically because it allowed her to show what couldn't be photographed under the Islamic Republic's censorship — the interior life, the private conversations, the small acts of resistance that don't make the news. The novel's argument that art can show you something about a country that policy documents and news coverage cannot is a claim about the purpose of literature that is worth taking seriously as a general principle. *Persepolis* also bridges World History and US History: the Iranian Revolution it depicts was shaped in part by U.S. policy toward Iran, and the novel's account of that history from inside Iran is a perspective that rarely makes it into American textbooks.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

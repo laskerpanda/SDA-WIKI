@@ -102,6 +102,12 @@ The novel is copyrighted — do not reproduce extended passages. Focus on these 
 
 ---
 
+## Why This Is Relevant Today?
+
+*Their Eyes Were Watching God* is about a Black woman in the 1930s American South finding her own voice and defining her own life on her own terms — and how hard that is when every institution around you has already decided who you are. Janie's journey is not just about romantic love; it's about the difference between living inside someone else's story about you and finding your own. That question — how do you build an authentic self when the world keeps trying to assign you one? — is live for every person navigating identities they didn't choose. Hurston was also doing something politically significant that went unrecognized for decades: she was writing Black Southern life as fully human, complex, and worth literary attention at a time when the dominant literary tradition either ignored Black characters or depicted them as symbols. Richard Wright criticized the novel for not being angry enough about racism. Hurston's response (implicitly) was that Black joy, interiority, and full humanity are themselves a political act in a world that denies them. That debate is still happening.
+
+---
+
 ## See Also
 
 - [US History Unit 2 — The 1920s](../../standards/social-studies/us-history/unit-3-roaring-20s.md)

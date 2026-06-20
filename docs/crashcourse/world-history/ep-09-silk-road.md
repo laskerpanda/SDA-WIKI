@@ -100,4 +100,10 @@ After watching: In one sentence, what is Green's main argument? Find one specifi
 
 ---
 
+## Why This Is Relevant Today?
+
+The Silk Road wasn't primarily about silk — it was about ideas, religions, technologies, and diseases moving through connected trade networks faster than any single government could control. That description fits the internet. China's Belt and Road Initiative is explicitly modeled on the original Silk Road — infrastructure investment across Eurasia to create economic dependency and political influence — and debates about who controls the undersea cables that carry internet traffic have the same strategic logic as debates about who controlled the overland routes in the 13th century. The Black Death also traveled the Silk Road, which is a reminder that connected networks spread pathogens faster than isolated ones — a lesson epidemiologists applied during COVID-19. Understanding the Silk Road is understanding the template for globalization and all its consequences.
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

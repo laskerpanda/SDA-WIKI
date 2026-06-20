@@ -71,4 +71,10 @@ This episode covers WWI from the American angle — why the US stayed neutral un
 
 ---
 
+## Why This Is Relevant Today?
+
+American entry into WWI established patterns that have repeated in every subsequent war: the transformation of public opinion through propaganda campaigns, the suppression of dissent through wartime legislation (the Espionage Act and Sedition Act — both still on the books and used in prosecutions today), and the gap between stated war aims and actual geopolitical interests. The Espionage Act used to prosecute Daniel Ellsberg for leaking the Pentagon Papers was passed in 1917. The same Act was used in the prosecution of Edward Snowden and Chelsea Manning. Understanding the WWI-era origins of these laws matters for evaluating how they're being applied today and whether the suppression of dissent they enabled then is what their contemporary application is producing now.
+
+---
+
 *CrashCourse US History Ep 08 — SDA Commons Wiki · South High School*

@@ -69,4 +69,10 @@ This connects to **R.8**: identifying how an author develops a complex character
 
 ---
 
+## Why This Is Relevant Today?
+
+The *Odyssey* is 2,800 years old and it's the founding text of a narrative genre that hasn't stopped: the story of a person trying to get home after a war and what that return costs. Every war-veteran narrative, every refugee story, every displacement-and-belonging arc in contemporary literature descends from Odysseus. The homecoming problem — that you can survive everything the war threw at you and still be destroyed by what waiting does to the people you left — is a question that every conflict creates and never fully resolves. Odysseus's survival strategies (disguise, deception, strategic patience, selective truth-telling) are also worth examining as a model for how a person without conventional power navigates an environment controlled by those who have it — which is a useful frame for a lot of contemporary political experience. See the [Reading Library ELA ↔ SS Crosswalk](../../../reading-library/crosswalk/crosswalk-ela-ss.md) for how ancient literature connects to the World History standards that cover the same period.
+
+---
+
 *Entry created: 2026-06-16 · Status: stub · Transcript: pending*

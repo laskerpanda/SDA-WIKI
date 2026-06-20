@@ -100,4 +100,10 @@ At the same time, the letter is a primary source documenting:
 
 ---
 
+## Why This Is Relevant Today?
+
+MLK wrote the Letter from Birmingham Jail in the margins of a newspaper, on scraps of paper, in a jail cell, responding to white clergymen who told him to wait. It is arguably the most precisely argued document in American civil rights history — and it was written under maximum constraint with zero resources. Using it as a W.4 mentor text teaches students that argument is constructed under constraint, which is the condition most real-world writing happens in. The letter's central distinction between just and unjust laws — and its argument that individuals have a moral obligation to disobey unjust ones — is still the governing framework for every civil disobedience debate from climate protests to campus activism. For the full text and historical context, see [Letter from Birmingham Jail in the Reading Library](../../reading-library/social-studies/mlk-letter-birmingham.md); for the studio that engages most directly with the Civil Rights Movement, see [USH-01: When the System Fails](../../units/studio-archive/ush-01-when-the-system-fails.md).
+
+---
+
 *Reading Library Crosswalk · SDA Commons Wiki · South High School*

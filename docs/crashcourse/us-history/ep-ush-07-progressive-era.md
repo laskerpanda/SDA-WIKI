@@ -69,4 +69,10 @@ The Progressive Era (roughly 1890–1920) was America's first major attempt to u
 
 ---
 
+## Why This Is Relevant Today?
+
+The Progressive Era established the model of using federal regulation and investigative journalism to check corporate power — and every major regulatory agency in the United States traces its philosophical origins to this period. The FDA, FTC, FCC, NLRB, and EPA all exist because Progressive Era reformers argued that markets don't self-correct when the costs of corporate behavior fall on the public rather than on the corporation. Every contemporary debate about whether to regulate a new industry — social media, artificial intelligence, pharmaceutical pricing, platform monopolies — is a debate about whether the Progressive Era model still applies, what it got right, and where it fell short. The muckrakers also established that investigative journalism is a necessary check on power, which is why attacks on press freedom and media credibility are attacks on the Progressive Era's core institutional legacy.
+
+---
+
 *CrashCourse US History Ep 07 — SDA Commons Wiki · South High School*

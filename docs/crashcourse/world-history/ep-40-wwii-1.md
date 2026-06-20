@@ -125,4 +125,10 @@ This connects to **WH.6_12.5** (causes and effects) and **9-10.R.9** (evaluating
 
 ---
 
+## Why This Is Relevant Today?
+
+The conditions Green describes for fascism's rise — economic crisis, national humiliation, weak democratic institutions, a scapegoated minority, a charismatic leader who promises to restore national greatness — aren't unique to 1930s Europe. Political scientists use precisely these factors as indicators of "democratic backsliding," and they track them in contemporary democracies worldwide. The question this episode forces is not "could that happen again?" (it can and does) but "how does it happen from the inside?" — because Wiesel's account in [Night](../../reading-library/ela/night-wiesel.md) shows that ordinary people experiencing totalitarianism don't experience it as a sudden catastrophe. They experience it as a series of steps, each of which seemed manageable until it wasn't. Green's episode is best understood as the political and structural context for Wiesel's personal account — watch them together if you can. For the institutional and normative question ("what holds democracy together?"), see [USH-06: When the Rules Don't Apply](../../units/studio-archive/ush-06-when-the-rules-dont-apply.md).
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

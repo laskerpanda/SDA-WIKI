@@ -97,4 +97,10 @@ This connects to **WH.6_12.4**: analyzing how economic development (agriculture)
 
 ---
 
+## Why This Is Relevant Today?
+
+The Agricultural Revolution produced surplus, which produced hierarchy, which produced civilization, which produced the world we live in — including its inequalities. Industrial agriculture, factory farming, and vertical farming are all attempts to solve the same problem that drove the original shift from foraging to farming: how do you feed more people from limited land? The episode's central provocation — that early farmers had worse nutrition, more disease, and shorter lives than the foragers they replaced, yet agriculture spread everywhere — is a useful frame for every debate about whether technological progress actually makes people's lives better. Once a society is on a path that requires surplus production to sustain its population, the costs of getting off that path may exceed the costs of staying on it even when it's not ideal. That's not ancient history — it's the situation of industrial agriculture today.
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

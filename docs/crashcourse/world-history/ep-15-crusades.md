@@ -118,4 +118,10 @@ This connects to **WH.6_12.5** (analyzing causes and effects using multiple sour
 
 ---
 
+## Why This Is Relevant Today?
+
+The Crusades are still being invoked — by jihadist groups recruiting against Western military presence in Muslim-majority countries, by politicians who use the word "crusade" to describe military campaigns (intentionally or carelessly), and by historians trying to explain the deep roots of conflict between the Christian West and the Islamic world. Understanding what the Crusades actually were — complicated, violent, motivated by a mix of religious conviction, political calculation, and land hunger — is necessary for evaluating how they're used rhetorically today. The episode helps students see the difference between what happened and what various modern actors claim happened, which is one of the core skills of historical thinking.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

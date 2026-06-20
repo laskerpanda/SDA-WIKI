@@ -102,6 +102,12 @@ The novel is copyrighted — do not reproduce extended passages. Focus on these 
 
 ---
 
+## Why This Is Relevant Today?
+
+*To Kill a Mockingbird* is the most-taught novel in American schools, and it is more complicated than it's often presented. Atticus Finch is a good man who defends Tom Robinson knowing he will lose, and he loses — the jury convicts despite the evidence, and Tom Robinson dies. The novel is not a story about how the legal system works when a good lawyer shows up; it's a story about the limits of individual virtue inside a systematically unjust system. That distinction matters today: debates about "good cops" vs. systemic racism, "good employers" vs. structural economic inequality, individual character vs. institutional design all turn on exactly the question the novel raises. The criticism that the novel centers a white savior rather than Tom Robinson's perspective is also worth taking seriously — it's an argument about whose story gets told and from whose point of view, which is the central question in every debate about representation in literature and media.
+
+---
+
 ## See Also
 
 - [US History Unit 5 — The Depression](../../standards/social-studies/us-history/unit-6-civil-rights.md)

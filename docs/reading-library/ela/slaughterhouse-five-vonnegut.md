@@ -100,6 +100,12 @@ The novel is copyrighted — do not reproduce extended passages. Focus on these 
 
 ---
 
+## Why This Is Relevant Today?
+
+Vonnegut was a POW in Dresden when the Allied firebombing killed somewhere between 22,000 and 25,000 people — mostly civilians — in February 1945. He spent 23 years trying to write about it before finding the form of *Slaughterhouse-Five*, and the book's fractured, time-unstuck structure is itself the argument: trauma doesn't organize itself chronologically, and writing about atrocity in a straight narrative would be a lie about what atrocity feels like from the inside. The novel is relevant today for several reasons. The question it raises — what is the honest way to represent mass civilian death? — is asked every time a journalist decides how to photograph a war, every time a filmmaker decides how graphic to make a combat scene, every time a government decides what casualty numbers to release. Billy Pilgrim's PTSD (before the term existed) is also a portrait of what war does to the people who fight it that is still more honest than most official accounts. And Vonnegut's dark humor — "So it goes" — is a model for how to process horror without either sanitizing it or being destroyed by it.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

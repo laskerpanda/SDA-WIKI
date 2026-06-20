@@ -68,4 +68,10 @@ This connects to **R.8**: analyzing how an author's language choices develop cha
 
 ---
 
+## Why This Is Relevant Today?
+
+Hurston published *Their Eyes Were Watching God* in 1937, was dismissed by the Black literary establishment for not being political enough, and was rediscovered by Alice Walker in the 1970s as one of the most important American novels ever written. The debate over the novel — is Janie's personal journey toward selfhood and love political enough, or should Black literature focus on struggle and resistance? — is still a live debate about what Black art is supposed to do and for whom. The novel's depiction of an all-Black community in Eatonville, Florida (a real place, the first incorporated all-Black municipality in the U.S.) is also a record of something that rarely gets documented: Black life as it was lived outside the frame of white gaze, white violence, and white judgment. That documentation is itself a political act, and what it documents is largely gone. See [USH-01: When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md) and the [MLK Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) for related context.
+
+---
+
 *Entry created: 2026-06-16 · Status: stub · Transcript: pending*

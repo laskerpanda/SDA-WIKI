@@ -120,4 +120,10 @@ This connects to **WH.6_12.5** (causes and effects analysis) and **9-10.R.9** (e
 
 ---
 
+## Why This Is Relevant Today?
+
+The alliance system that turned a regional assassination into a world war is a structural problem that hasn't been solved — it's been rebuilt. NATO's Article 5 (an attack on one is an attack on all) is a direct descendant of the 1914 alliance logic: the commitment that makes the alliance credible is also the commitment that makes a small conflict capable of pulling everyone in. Nuclear deterrence adds another layer: the weapons are designed to make war too costly to start, but the same design makes any conflict that starts enormously dangerous to stop. Green's episode also raises the question of decision-making speed: in 1914, mobilization orders moved faster than diplomatic communication, and leaders found themselves locked into sequences they couldn't reverse. That gap between military momentum and political decision-making is, if anything, larger today — modern weapons can escalate a conflict in hours. And the question of who fights empires' wars — colonial troops, working-class conscripts, populations with no say in the decision — is still the question being asked about every war. See also [WH-05: The Cost of War](../../units/studio-archive/wh-05-the-cost-of-war.md) for how the consequences of WWI played out in literature and politics.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

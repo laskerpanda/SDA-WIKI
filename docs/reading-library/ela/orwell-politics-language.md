@@ -89,6 +89,12 @@ George Orwell argues that political language is often deliberately vague and ugl
 
 ---
 
+## Why This Is Relevant Today?
+
+Orwell published "Politics and the English Language" in 1946, and it reads like it was written about the current news cycle. His central argument — that bad politics and bad writing reinforce each other, that vague, abstract, euphemistic language is used to make unacceptable things acceptable — is a user manual for analyzing political speech in any era. "Collateral damage" instead of "civilian deaths." "Enhanced interrogation" instead of "torture." "Undocumented" vs. "illegal." "Urban unrest" instead of "uprising." Every euphemism debate, every argument about what to call something and why the name matters, is an Orwell argument. His six rules for clear writing — including "never use a long word where a short one will do" and "if it is possible to cut a word out, always cut it out" — are still the best concise writing advice available. Media literacy education, political rhetoric courses, and journalism ethics programs all draw on this essay. It's short enough to read in one class period and useful enough to return to every time you encounter political language that feels designed to prevent thought.
+
+---
+
 ## See Also
 
 - [1984 — Orwell](orwell-1984.md)

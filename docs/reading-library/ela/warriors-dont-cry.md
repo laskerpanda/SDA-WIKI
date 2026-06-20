@@ -121,6 +121,12 @@ This memoir contains detailed descriptions of racial violence, targeted harassme
 
 ---
 
+## Why This Is Relevant Today?
+
+Melba Beals was fifteen years old when she integrated Little Rock Central High School in 1957. The federal government sent the 101st Airborne Division to enforce integration — and then, a few weeks later, withdrew them, leaving the nine students to manage on their own. *Warriors Don't Cry* is a firsthand account of what it actually cost nine young people to do something that adults with power had decided needed to be done, and then left them to do alone. That pattern — young people being placed at the front lines of social change that adults support in principle but don't want to risk personally — appears in every era. Climate activists like Greta Thunberg, student survivors of school shootings advocating for gun control, and undocumented students advocating for DACA are all examples of young people doing work that adult institutions support rhetorically but don't sustain practically. The memoir is also a counter to the sanitized version of the Civil Rights movement that treats integration as inevitable and painless.
+
+---
+
 ## See Also
 
 - [Unit 6 — Civil Rights](../../standards/social-studies/us-history/unit-6-civil-rights.md)

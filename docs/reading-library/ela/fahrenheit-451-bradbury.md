@@ -147,6 +147,12 @@ Faber explains what books actually contain — not information, but texture, the
 
 ---
 
+## Why This Is Relevant Today?
+
+Bradbury's most important prediction in *Fahrenheit 451* wasn't that books would be burned — it was that people would stop reading them voluntarily, distracted by an entertainment environment designed to keep them stimulated and incurious. Captain Beatty's explanation of why books were banned is chilling precisely because it doesn't require government censorship: people just stopped wanting complexity, stopped tolerating the discomfort of ideas that challenged them, and the book-burning followed naturally. The contemporary version of this is the attention economy: the algorithmic design of social media, streaming, and gaming to maximize engagement by giving people exactly what they want to see, rewarding outrage and simplicity, making sustained attention to difficult material feel like a sacrifice rather than a normal part of life. Bradbury wasn't predicting book burning — he was predicting TikTok. The novel is also relevant to every debate about censorship: the most effective censorship doesn't require a bonfire, just a sufficiently entertaining alternative.
+
+---
+
 ## See Also
 
 - [Unit 5 — Cold War](../../standards/social-studies/us-history/unit-5-cold-war.md)

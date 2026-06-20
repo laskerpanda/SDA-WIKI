@@ -96,6 +96,12 @@ This is the thesis of Orwell's argument about language and control: if you elimi
 
 ---
 
+## Why This Is Relevant Today?
+
+*1984* sold more copies in January 2017 than in any month since its publication in 1949. People reach for it whenever political language starts to feel disconnected from reality, when official statements contradict documented evidence, when the term "alternative facts" enters the news cycle. Orwell's specific predictions about the mechanisms of a surveillance state — the telescreen that watches you, the memory hole that destroys inconvenient records, the Ministry of Truth that rewrites history, the Two Minutes Hate that channels grievance into loyalty — are not literal descriptions of contemporary life. They are conceptual tools for analyzing tendencies that exist in every political system. The surveillance infrastructure built after 9/11, the algorithmic curation of what you see online, the use of social media to generate outrage and loyalty simultaneously — these are not *1984*, but Orwell's framework helps you see what they are. The novel is also a warning about language: when political speech is designed to make thought impossible rather than to convey meaning, democracy cannot function. That warning is relevant in any era when political language is used to obscure rather than illuminate.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

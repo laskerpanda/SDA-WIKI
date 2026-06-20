@@ -73,4 +73,10 @@ While CrashCourse World History covers WWII's global scope (see ep-40 and ep-41)
 
 ---
 
+## Why This Is Relevant Today?
+
+The WWII home front established what industrial democracy looks like under total war mobilization — and also what civil liberties look like when national security is used to justify suspending them. Japanese American internment was ruled constitutional by the Supreme Court in 1944 (Korematsu v. United States) — a decision not formally overturned until 2018. The military remained racially segregated through a war fought against racial ideology. These contradictions between stated values and actual wartime practice are not historical accidents; they're what happens when security fears override constitutional protections. Every subsequent debate about civil liberties in wartime — detention without trial, surveillance programs, travel bans — engages with the same tension the home front experience revealed.
+
+---
+
 *CrashCourse US History Ep 10 — SDA Commons Wiki · South High School*

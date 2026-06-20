@@ -102,6 +102,12 @@ The novel is copyrighted — do not reproduce extended passages. Focus on these 
 
 ---
 
+## Why This Is Relevant Today?
+
+*Lord of the Flies* is often read as a claim about human nature: remove civilization, and people become violent. But that reading is more complicated than it first appears. The boys don't become violent randomly — they follow a specific social dynamic: a charismatic leader who provides security by identifying an enemy, a scapegoat, and rituals that create group identity through exclusion and violence. That dynamic doesn't require the absence of civilization; it appears in organizations, political movements, and institutions that have plenty of rules. The novel is relevant to every debate about what holds social order together and what happens when it breaks down — but also to debates about how authoritarian movements build loyalty, how in-group/out-group dynamics work, and what the conditions are that make ordinary people participate in harming others. It's also worth knowing that Golding wrote it in 1954, shortly after WWII, specifically as a response to the optimistic children's adventure story tradition (*Coral Island*) that assumed British boys naturally embodied civilization. The Holocaust had just demonstrated that civilization was more fragile than that tradition assumed.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

@@ -72,12 +72,9 @@ Green covers America's longest war and the political scandal that destroyed a pr
 
 ---
 
+## Why This Is Relevant Today?
 
----
-
-## See Also
-
-- [Night](../../reading-library/ela/night-wiesel.md)
+Vietnam and Watergate together produced the collapse of institutional trust that defines American political culture today. The public's default assumption that government officials are not telling the truth, that official statements should be verified rather than believed, and that powerful people routinely abuse their positions — all of that dates to the 1970s and has never fully recovered. The question of whether the institutions that exposed Nixon (the press, the Senate, the special prosecutor, the Supreme Court) would hold in a future crisis has been tested repeatedly since Watergate. Understanding what those institutions actually did in 1972–74, and what conditions made them work, is necessary for evaluating whether they're adequate now and what it would take to strengthen them.
 
 ---
 

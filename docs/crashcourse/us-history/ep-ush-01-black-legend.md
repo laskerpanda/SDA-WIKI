@@ -85,4 +85,10 @@ This connects to **9-10.R.9a** (analyzing author's purpose and possible biases; 
 
 ---
 
+## Why This Is Relevant Today?
+
+The Black Legend is not just a 16th-century story — it's the blueprint for how nations still frame their rivals today. When one country calls another "barbaric" to justify military or economic pressure, it is using the same rhetorical move English colonizers used to discredit Spain. Modern foreign policy debates are full of this: the language of human rights used selectively, accusations of atrocities deployed against rivals while the accuser's own record goes unexamined. Las Casas — who documented Spanish violence to demand the Church intervene — also shows the other move: using the powerful institution's own standards against it. If you want to go deeper on Las Casas and the question of who gets to tell the story, see the [Las Casas reading library entry](../../reading-library/social-studies/las-casas-short-account.md) and [WH-03: Writing Against Empire](../../units/studio-archive/wh-03-writing-against-empire.md).
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

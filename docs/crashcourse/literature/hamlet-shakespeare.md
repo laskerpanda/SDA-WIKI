@@ -68,4 +68,10 @@ This connects to **R.8**: analyzing how a playwright's structural and language c
 
 ---
 
+## Why This Is Relevant Today?
+
+*Hamlet* is 400 years old and the questions it raises about action, conscience, and moral certainty have not been answered. Every generation of students reading *Hamlet* is also a generation living through situations where the right course of action is genuinely uncertain — where institutions are corrupt, information is unreliable, and acting decisively might make things worse. The play is regularly read as a meditation on political paralysis, and that reading is currently very available: what does a person with values do when the system they're part of is corrupt but dismantling it might cause more harm? The question of political succession and legitimacy — the state of Denmark resting on who can legitimately hold power — is a question contemporary democracies are actively re-litigating. See [WH-03: Writing Against Empire](../../../units/studio-archive/wh-03-writing-against-empire.md) for how people challenge powerful systems — the contrast with Hamlet's paralysis is instructive.
+
+---
+
 *Entry created: 2026-06-16 · Status: stub · Transcript: pending*

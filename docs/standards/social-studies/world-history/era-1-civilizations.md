@@ -262,5 +262,17 @@ The essential question running through this era: **What does it take to build a 
 
 ---
 
+## Why This Is Relevant Today?
+
+The questions Era 1 raises — who should govern, what authority is legitimate, what a civilization owes its people — are being argued in every democracy today. Hammurabi's Code asked who the law was actually for; that question is at the center of criminal justice reform debates right now. Confucian meritocracy is the basis of civil service systems across East Asia and has influenced debates about college admissions and credentialism in the U.S. Greek democracy and the Athenian empire exist side by side in the same texts — the same tension between self-governance at home and coercion abroad that characterizes every modern great power. The world religions that emerged in Era 1 — Hinduism, Buddhism, Judaism, Christianity, Islam — are not historical artifacts; they shape the political worldviews of billions of people and drive conflicts from the Middle East to South Asia to American school board meetings. Nothing in Era 1 is settled. See [WH-01: Who Should Govern?](../../../units/studio-archive/wh-01-who-should-govern.md) for the studio that works most directly with these questions.
+
+---
+
+## Why This Is Relevant Today?
+
+The questions Era 1 asks — who should govern? what gives a law its authority? how do societies organize themselves across wide distances? — are not ancient history problems. Every contemporary debate about democracy, judicial authority, constitutional legitimacy, and the relationship between religion and political power traces directly to the frameworks this era produced. Hammurabi's claim that law comes from the gods, Confucius's claim that good governance requires good character, Pericles' claim that those who are governed should have a voice in their governance: these are not three answers from 2,500 years ago — they are three answers that are still competing today. When you study Era 1, you're learning the vocabulary for debates that are happening right now. See [WH-01: Who Should Govern?](../../../units/studio-archive/wh-01-who-should-govern.md) and the [Era 1 Crosswalk](../../../crosswalk/gr9/era-1.md).
+
+---
+
 *Era 1: Emergence of Civilizations — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 2 — Middle Ages](era-2-middle-ages.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

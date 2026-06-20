@@ -79,4 +79,10 @@ After watching: In 2 sentences, state Green's main argument. Then identify one m
 
 ---
 
+## Why This Is Relevant Today?
+
+The Seven Years' War is the clearest historical example of a pattern that repeats: winning a war creates problems that cost more than the war itself. Britain's victory left it with massive debt and a new challenge — how to pay for governing a much larger empire. The answer (taxing the colonies) produced a revolution. This dynamic — military victory producing political crisis — is one historians call "imperial overextension," and it appears in every era of powerful nations' history. The costs of long wars, the challenge of governing territories far from the capital, and the political backlash when those costs are passed down to people who had no say in the decision are all contemporary debates. See [USH-07: The Unipolar Moment](../../units/studio-archive/ush-07-unipolar-moment.md) for how this plays out in the post-Cold War era.
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

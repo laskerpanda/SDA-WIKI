@@ -106,6 +106,12 @@ The novel's frame — future historians analyzing Gilead — raises the question
 
 ---
 
+## Why This Is Relevant Today?
+
+Margaret Atwood has said repeatedly that every element of Gilead's oppression is drawn from documented historical or contemporary practice — nothing was invented. The removal of women's financial independence (Saudi Arabia until recently), state-controlled reproduction (Romania under Ceaușescu), the use of religious justification for political control (Iran, Afghanistan under the Taliban), the gradual normalization of emergency measures that become permanent (every authoritarian transition in modern history) — all of it has happened. The novel has never gone out of print since 1985, and its sales spike whenever women's rights or democratic institutions come under visible pressure. The handmaid's red robes have become the symbol for women's rights protests in multiple countries. Atwood's argument — that democratic backsliding happens gradually, through the erosion of norms rather than sudden coup — is the argument that political scientists studying democratic decline have been making for the last decade. The novel is a thought experiment, but its premises are derived from reality.
+
+---
+
 ## See Also
 
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)

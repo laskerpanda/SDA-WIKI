@@ -277,5 +277,17 @@ The essential questions running through this era: **How do governments control i
 
 ---
 
+## Why This Is Relevant Today?
+
+The entire international order students live in was built in Era 4: the United Nations, the Universal Declaration of Human Rights, NATO, the Geneva Conventions, nuclear deterrence. Those institutions are now being tested in ways they haven't faced since their founding — by great-power competition, by weapons that move faster than diplomacy, by countries withdrawing from international agreements, by genocides that the UN Security Council can't respond to because permanent members have veto power. The Holocaust's "never again" pledge has been tested repeatedly since 1945 — in Rwanda, Bosnia, Darfur, and ongoing — and the international community's responses (or failures) are still being argued. The question Era 4 raises — what do we build after catastrophe to make sure it doesn't happen again? — is exactly the question students will face as the post-WWII order strains under 21st-century pressures. See [WH-05: The Cost of War](../../../units/studio-archive/wh-05-the-cost-of-war.md) and the [Universal Declaration of Human Rights](../../../reading-library/social-studies/un-declaration-human-rights.md) in the Reading Library.
+
+---
+
+## Why This Is Relevant Today?
+
+Era 4 covers the period that produced most of the institutions the modern world runs on: the United Nations, the Geneva Conventions, the Universal Declaration of Human Rights, the International Criminal Court. These were not inevitable; they were built in the aftermath of catastrophic failure — two world wars, the Holocaust, the atomic bomb — by people who decided the pre-war international system was inadequate and needed to be replaced. Those institutions are now being tested again: authoritarian governments challenging the rules-based international order, genocide happening while the international community debates whether to call it genocide, nuclear weapons in more hands than when the treaties were signed. Era 4 is not background — it's the origin story for the international system that is currently under stress. See [WH-05: The Cost of War](../../../units/studio-archive/wh-05-the-cost-of-war.md) and the [Era 4 Crosswalk](../../../crosswalk/gr9/era-4.md).
+
+---
+
 *Era 4: Age of Global War and Globalization — SDA Commons Wiki*
 *See also: [WH Standards Overview](standards-overview.md) · [Era 3 — Revolutions](era-3-revolutions.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

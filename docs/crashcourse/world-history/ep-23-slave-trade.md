@@ -119,4 +119,10 @@ This connects to **WH.6_12.5** (causes and effects, primary source analysis) and
 
 ---
 
+## Why This Is Relevant Today?
+
+The transatlantic slave trade is the direct ancestor of the racial wealth gap that shapes American life today. The wealth built on enslaved labor — in cotton, tobacco, sugar, and the financial systems that insured and financed slave trading — capitalized the Industrial Revolution. The legal and social structures built to maintain slavery didn't disappear when it ended; they were reconstructed in new forms (Black Codes, Jim Crow, redlining, mass incarceration). Understanding the scale, mechanics, and economic logic of the slave trade is necessary context for any serious engagement with debates about racial wealth gaps, reparations, housing segregation, and the persistence of racial disparities in health, education, and the criminal justice system. The numbers in this episode are not historical curiosities. They are the foundation of the present.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

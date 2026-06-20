@@ -78,4 +78,10 @@ After watching: Which of these three groups do you think gets the most distorted
 
 ---
 
+## Why This Is Relevant Today?
+
+The Quakers in this episode aren't just a historical footnote — they established the model for principled civic dissent in America. Conscientious objection, prison reform, anti-slavery activism, and the refusal to participate in war on moral grounds: all of these were Quaker positions before they became broader American debates. New Amsterdam's experiment in commercial religious tolerance — welcome everyone who will trade, whatever they believe — is the other model that keeps reappearing in arguments about pluralism and diversity. Both questions are live: Should religious belief exempt individuals from laws that apply to everyone else? What should government neutrality on religion actually look like? See [WH-02: The Rights We Wrote Down](../../units/studio-archive/wh-02-rights-chain.md) for how these arguments evolved into constitutional language.
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

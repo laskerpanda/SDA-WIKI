@@ -104,6 +104,12 @@ Angelou's metaphors are precise and startling. Students analyze how this sentenc
 
 ---
 
+## Why This Is Relevant Today?
+
+Maya Angelou's memoir is one of the most frequently challenged and banned books in American schools — which is itself information about why it matters. The challenges are almost always about the sexual violence Angelou describes, but the pattern of banning books that center the experience of Black women is worth examining. The memoir is relevant today as a model of how to turn personal trauma into art, how to survive institutional and interpersonal violence without being defined by it, and how to build a voice and a self under conditions designed to prevent both. Angelou's specific experience — growing up Black and female in the American South in the 1930s and 1940s — is historical, but the patterns she describes (sexual violence, institutional racism, the specific double bind of Black womanhood in a racist and sexist society) are not. The book is also a model of what literary memoir can do that journalism, history, and statistics cannot: make an individual experience feel lived-from-the-inside.
+
+---
+
 ## See Also
 
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)

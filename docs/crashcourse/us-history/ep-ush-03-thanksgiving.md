@@ -75,4 +75,10 @@ After watching: Write one sentence — **Is it harmful to teach historical myths
 
 ---
 
+## Why This Is Relevant Today?
+
+The story of Thanksgiving is one of the clearest examples of how national myths get built and maintained — and what gets left out of them. The Wampanoag perspective on the 1621 harvest has been documented and available for decades; the myth persists not because nobody knows better, but because the simplified story serves a function. That function — producing national unity through a shared founding story — is the same reason historical myths are defended even after they're debunked. Debates about how American history should be taught in schools, which stories count as "divisive," and who gets to define what patriotism looks like are all downstream of this episode's central question: who decides which stories a nation tells about itself? See [WH-04: One Idea, 130 Years of War](../../units/studio-archive/wh-04-reformation-and-revolution.md) for how documents and narratives shape collective memory.
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*

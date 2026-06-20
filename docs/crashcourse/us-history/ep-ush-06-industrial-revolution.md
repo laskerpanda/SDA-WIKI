@@ -70,4 +70,10 @@ Use these while watching:
 
 ---
 
+## Why This Is Relevant Today?
+
+The debates this episode documents — about whether extreme wealth concentration is an acceptable outcome of a free market, what workers are owed by the companies that profit from their labor, and what government's role should be in regulating the economy — are not resolved. Gig workers fighting for benefits, Amazon warehouse employees organizing unions, debates about minimum wage and corporate tax rates, and arguments about billionaire philanthropy vs. democratic redistribution are all continuations of the same arguments being made in the 1890s. Carnegie and Rockefeller believed they were building something great for America; the workers whose labor built their empires believed something different. That argument is still going. For the literary dimension, see [The Jungle](../../reading-library/social-studies/jungle-sinclair.md) and [USH-01: When the System Fails](../../units/studio-archive/ush-01-when-the-system-fails.md).
+
+---
+
 *CrashCourse US History Ep 06 — SDA Commons Wiki · South High School*

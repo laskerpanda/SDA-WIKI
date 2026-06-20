@@ -69,4 +69,10 @@ John Green covers the crash of 1929 and the decade of Depression that followed �
 
 ---
 
+## Why This Is Relevant Today?
+
+The Great Depression established the argument — still contested — that government has an obligation to intervene when markets fail everyone at once. The New Deal programs built in response are still operating: Social Security, unemployment insurance, the FDIC, the SEC, the minimum wage. Every debate about the appropriate role of government in the economy is an argument about whether FDR's response was the right model and whether its provisions should be expanded, preserved, or reduced. The 2008 financial crisis and the COVID-19 economic shock were both responses to the same question: are we going to use the Depression playbook? Understanding what the Depression actually was — not just a stock market crash but a collapse of the entire economic system that lasted a decade — is necessary for evaluating those responses and the debates about their adequacy.
+
+---
+
 *CrashCourse US History Ep 09 — SDA Commons Wiki · South High School*

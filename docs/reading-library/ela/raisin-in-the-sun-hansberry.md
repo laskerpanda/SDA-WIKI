@@ -98,6 +98,12 @@ The play is copyrighted — do not reproduce extended passages. Focus on these k
 
 ---
 
+## Why This Is Relevant Today?
+
+*A Raisin in the Sun* premiered in 1959, three years before the Fair Housing Act existed and in a city where banks, real estate companies, and neighborhood associations collaborated to keep Black families out of white neighborhoods. The practice was called redlining — the systematic denial of mortgages and insurance to residents of Black neighborhoods, combined with racial covenants that prevented Black families from buying homes in white ones. Those policies were outlawed but not reversed: the wealth gap they created (homeownership is the primary way American families build wealth) persists today. The neighborhood the Youngers are trying to move into — and the white homeowner's association trying to buy them out — is not a historical artifact. Housing segregation in American cities is nearly as severe today as it was when Hansberry wrote the play. The specific argument Walter Lee and Mama have — about dignity, economic pragmatism, assimilation, and what the family owes itself — is also still being had in every community navigating the tension between economic survival and cultural identity.
+
+---
+
 ## See Also
 
 - [US History Unit 6 — Civil Rights](../../standards/social-studies/us-history/unit-6-civil-rights.md)

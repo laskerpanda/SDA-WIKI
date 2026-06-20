@@ -94,5 +94,11 @@ Both standards get credit in Headrush. The student has one Demo, two standards s
 
 ---
 
+## Why This Is Relevant Today?
+
+The crosswalk is built on a simple observation: the best historical texts are also works of rhetoric, and analyzing them as arguments (ELA R.9) is exactly the same skill as analyzing them as historical evidence (WH.6_12.2–5). A student who can explain how Paine constructs his argument in *Common Sense* — what evidence he uses, what assumptions he makes, what counterarguments he dismisses — has simultaneously done the ELA work and the history work. This isn't a shortcut; it's a recognition that real-world thinking doesn't divide neatly into subject-area boxes. The most civic skill there is — evaluating whether a text's reasoning actually supports its claims — applies whether you're reading a primary source in history class or a news article on your phone. For the studio that uses crosswalk texts most directly, see [WH-04: One Idea, 130 Years of War](../../units/studio-archive/wh-04-reformation-and-revolution.md).
+
+---
+
 *ELA ↔ SS Crosswalk · SDA Commons Wiki · South High School*
 *See also: [Reading Library](../index.md) · [ELA 9-10 Scales](../../standards/ela/gr9-10-scales.md) · [WH Standards Overview](../../standards/social-studies/world-history/standards-overview.md)*

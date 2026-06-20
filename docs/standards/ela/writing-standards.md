@@ -176,5 +176,11 @@ Each writing standard has dedicated skinnies you can pull when you hit a gap:
 
 ---
 
+## Why This Is Relevant Today?
+
+Writing is how people make their thinking visible and persuasive to others — it is not primarily a school task. W.4 (argument), W.3 (narrative), and W.6 (research) cover the three reasons anyone actually writes: to persuade, to make meaning of experience, and to synthesize information from multiple sources. The most powerful writers in history — Paine, MLK, Orwell, Douglass — were effective precisely because they mastered these modes. Every studio in the SDA model requires writing in one of these modes because demonstration of learning means being able to say what you understand and why it matters, to an audience that hasn't been inside your head all week. These standards describe not grammar rules but what effective writing does at different levels of sophistication — and that difference is real, measurable, and learnable. For examples of mentor texts that show these standards in action, see [Common Sense as a W.4 Mentor Text](../../reading-library/crosswalk/common-sense-w4-crosswalk.md) and the [Letter from Birmingham Jail W.4 Crosswalk](../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md).
+
+---
+
 *Writing Standards Deep Dive — SDA Commons Wiki*
 *See also: [ELA 9-10 Scales](gr9-10-scales.md) · [Priority by Studio](gr9-10-priority.md) · [Crosswalk Ela Ss](/standards/ela/crosswalk-ela-ss.md)*

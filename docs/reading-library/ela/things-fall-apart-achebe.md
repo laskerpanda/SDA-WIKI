@@ -101,6 +101,12 @@ The novel is copyrighted — do not reproduce extended passages. Focus on these 
 
 ---
 
+## Why This Is Relevant Today?
+
+Chinua Achebe wrote *Things Fall Apart* explicitly as a response to Conrad's *Heart of Darkness* — to show Africa not as a backdrop for a European character's moral journey but as a place where people lived complex, fully human lives before colonialism arrived and after it departed. The novel's title comes from Yeats, and the irony is deliberate: the "things" falling apart are not African civilization (which was already there) but the colonial imposition that couldn't be sustained. The novel is relevant today because the aftermath of colonialism — political instability, artificial borders, economic dependency, the cultural damage of being told for generations that your language and traditions are inferior — is the context for understanding most of sub-Saharan Africa's contemporary political landscape. It's also relevant because the question of whose literature belongs in the canon, who gets to tell stories about which places, and whether the Western literary tradition's representation of Africa as dark and chaotic is still shaping how people think about the continent is an ongoing argument in literary studies and journalism.
+
+---
+
 ## See Also
 
 - [Era 3 — Imperialism and Colonialism](../../standards/social-studies/world-history/era-3-revolutions.md)

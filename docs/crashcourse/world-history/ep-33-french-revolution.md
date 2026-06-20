@@ -115,6 +115,12 @@ This connects to **WH.6_12.3** (analyzing effects of political systems on people
 
 ---
 
+## Why This Is Relevant Today?
+
+The French Revolution produced a template that has repeated itself across two centuries: popular uprising → declaration of universal rights → radicalization and factional infighting → state terror justified as necessary → conservative reaction → strongman who "restores order" while keeping the revolution's rhetoric. You can trace that arc through the Russian Revolution, the Iranian Revolution, and many others. Green's observation that the French Revolution invented our political vocabulary — "left" and "right" come from where delegates sat in the National Assembly — is a reminder that we're still arguing in the categories the Revolution created. Every time someone invokes "liberty, equality, fraternity" to justify a crackdown, or asks who the revolution is actually for when it arrives, they're repeating 1789's central argument. If you want to see how the revolution's promises played out elsewhere, compare this episode to [ep-31: The Haitian Revolution](ep-31-haitian-revolution.md) — the most radical test of whether those promises were universal.
+
+---
+
 *Entry created: 2026-06-10 · Status: stub · Transcript: pending*
 
 

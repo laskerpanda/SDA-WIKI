@@ -84,4 +84,10 @@ When using *Common Sense* for SS, the question is: **How did this document contr
 
 ---
 
+## Why This Is Relevant Today?
+
+*Common Sense* is the most influential pamphlet in American history — Paine published it in January 1776 and within months the colonial position shifted from "reform" to "independence." Paine was not a politician or a general; he was a writer, and what he wrote changed what people believed was possible. That is the argument for what good W.4 writing actually does: it doesn't just describe the world, it changes the world by changing minds. Using *Common Sense* as a mentor text means learning from one of history's most effective arguers — studying the specific choices (direct address, plain language, emotional appeal grounded in evidence) that made his argument land. For the full historical text, see [Common Sense in the Reading Library](../../reading-library/social-studies/common-sense-paine.md); for the studio that uses it most heavily, see [WH-04: One Idea, 130 Years of War](../../units/studio-archive/wh-04-reformation-and-revolution.md).
+
+---
+
 *Reading Library Crosswalk · SDA Commons Wiki · South High School*

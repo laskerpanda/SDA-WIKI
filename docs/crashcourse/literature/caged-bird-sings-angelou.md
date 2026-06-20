@@ -68,4 +68,10 @@ This connects to **R.8**: analyzing how structure, metaphor, and character work 
 
 ---
 
+## Why This Is Relevant Today?
+
+Angelou's memoir is one of the most frequently banned books in American schools — and the reasons given for banning it (sexual content, language, anti-white sentiment) reveal exactly what the book is about: the refusal to look clearly at what racism, sexual violence, and poverty do to a young Black woman's sense of self and possibility. Every year that school districts debate whether to include or remove it, they're re-enacting the book's central dynamic: adults in power deciding what young people are allowed to know about reality. The title itself, borrowed from Paul Laurence Dunbar's poem "Sympathy," asks whether the bird sings despite its cage, because of it, or as a form of survival — which is a question about how oppressed people create joy and beauty under conditions not of their choosing. That question remains urgently contemporary. See [USH-01: When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md) and the reading library's [MLK Letter from Birmingham Jail](../../../reading-library/social-studies/mlk-letter-birmingham.md) for related threads.
+
+---
+
 *Entry created: 2026-06-16 · Status: stub · Transcript: pending*

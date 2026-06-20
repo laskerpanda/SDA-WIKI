@@ -201,5 +201,11 @@ This unit covers:
 
 ---
 
+## Why This Is Relevant Today?
+
+The Gilded Age described in Unit 1 — massive wealth concentration, industrial monopolies, dangerous working conditions, child labor — is not ancient history. The debates about antitrust law, labor organizing rights, and the regulatory state that emerged from the Progressive Era are being argued again today: tech monopolies, gig economy workers without benefits, minimum wage fights, and union organizing at Amazon and Starbucks. *The Jungle*'s exposé of meatpacking conditions directly produced the FDA — and debates about food safety regulation, OSHA enforcement, and corporate liability continue. The income inequality ratio between the wealthiest and everyone else in the 2020s is comparable to Gilded Age levels, which is why the history of how the Progressive Era responded — and what it didn't fix — matters right now. See [USH-01: When the System Fails](../../../units/studio-archive/ush-01-when-the-system-fails.md) for the studio that works most directly with this unit.
+
+---
+
 *Unit 1: Industrial Revolution — SDA Commons Wiki*
 *See also: [USH Standards Overview](standards-overview.md) · [Unit 2 — Imperialism & WWI](unit-2-imperialism-wwi.md) · [Primary Sources](../../../resources/primary-sources/index.md)*

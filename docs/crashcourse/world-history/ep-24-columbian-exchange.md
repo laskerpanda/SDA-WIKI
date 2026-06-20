@@ -116,4 +116,10 @@ This connects to **WH.6_12.4** (economic and social development shaping individu
 
 ---
 
+## Why This Is Relevant Today?
+
+The Columbian Exchange is the most consequential ecological event since the ice age, and it is still happening. The potato that came from the Americas to Europe fed the Industrial Revolution's workforce. The corn that came from the Americas now feeds more humans than any other crop on earth. The diseases that went the other way killed an estimated 90% of Indigenous populations in the Americas — the largest demographic collapse in human history. The contemporary version of this exchange is ongoing: invasive species spread along global trade routes, COVID-19 traveled the modern Columbian Exchange routes, and debates about GMOs and food security are debates about who controls the crops that came from this exchange. 1492 did not end — it is the beginning of the world most people reading this were born into.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

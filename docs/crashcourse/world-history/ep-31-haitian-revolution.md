@@ -120,4 +120,10 @@ This connects to **WH.6_12.3** (effects of political systems on people) and **9-
 
 ---
 
+## Why This Is Relevant Today?
+
+The Haitian Revolution is the most radical revolution in modern history — the only successful revolution by enslaved people, who took the Enlightenment's claims about universal liberty seriously enough to apply them without exception. The world's response proved what the revolutionary powers actually meant: France demanded reparations for the "lost property" (enslaved people who had freed themselves), and Haiti paid that debt until 1947. The United States didn't recognize Haitian independence until 1862. Haiti's ongoing economic and political challenges cannot be understood without the two-century context of isolation, debt, and foreign intervention that followed its independence. The Haitian Revolution is also the most complete test of whether the ideals of the Enlightenment were ever meant to be universal — and the answer it produced is still relevant to every debate about who universal rights actually apply to.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

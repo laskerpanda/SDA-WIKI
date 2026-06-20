@@ -116,4 +116,10 @@ This connects to **WH.6_12.2** (ideologies shaping political and cultural develo
 
 ---
 
+## Why This Is Relevant Today?
+
+The Reformation's most important lesson for today is not theological — it's about what happens when a new communications technology (the printing press) combines with existing social divisions to produce change that no one fully anticipated or controlled. Luther didn't intend to start 130 years of religious war; he intended to reform the church. Social media is the second media revolution with the same structure: new technology, existing divisions, change faster than institutions can manage. Every debate about misinformation, platform authority, and who decides what counts as true online has the same basic shape as the debate Luther started. The episode also shows how quickly a local controversy can become a continental crisis when the infrastructure for rapid information spread suddenly exists.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

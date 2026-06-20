@@ -119,4 +119,10 @@ This connects to **WH.6_12.5** (evaluating arguments from multiple perspectives)
 
 ---
 
+## Why This Is Relevant Today?
+
+Almost every major conflict in the Middle East, Africa, and South Asia unfolds inside borders drawn by European colonial powers at conferences where the people living there were not invited. The Berlin Conference of 1884–85 divided Africa into 50+ countries by drawing straight lines through ethnic, linguistic, and political communities — and those lines became the borders of independent states after decolonization. The wars those borders produce aren't "ancient tribal hatreds"; they're the predictable result of 19th-century administrative decisions made for European convenience. The "drain theory" — the argument that colonialism systematically transferred wealth from colonized to colonizing nations — is still being debated in economics and international development, with direct implications for arguments about debt relief, reparations, and foreign aid. And neo-imperialism arguments — that wealthy nations exert colonial-style control over poorer nations through debt, trade terms, and military presence rather than formal occupation — are central to contemporary international relations debates. For more on how imperialism's legacy shapes the texts in this course, see [WH-03: Writing Against Empire](../../units/studio-archive/wh-03-writing-against-empire.md).
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*

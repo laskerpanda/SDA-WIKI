@@ -72,4 +72,10 @@ John Green covers the Civil Rights Movement from the legal strategy of the NAACP
 
 ---
 
+## Why This Is Relevant Today?
+
+The Civil Rights movement is living history: the people who were there are still alive, the legal gains are still being contested, and the underlying conditions the movement addressed have not been fully resolved. Voting rights, affirmative action, school integration, police reform, and the racial wealth gap are not historical questions — they are policy debates happening in legislatures and courtrooms right now. The movement is also the most thoroughly studied case in American history of how social change actually happens: what combination of legal strategy, direct action, political pressure, media coverage, and coalition-building is required to move institutions that have strong incentives not to move. That model is studied and applied by every subsequent social movement.
+
+---
+
 *CrashCourse US History Ep 11 — SDA Commons Wiki · South High School*

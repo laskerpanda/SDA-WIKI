@@ -126,6 +126,12 @@ This connects to **WH.6_12.5** (historical analysis of causes and effects) and *
 
 ---
 
+## Why This Is Relevant Today?
+
+The postwar international order Green describes — the United Nations, NATO, the Bretton Woods institutions, the Universal Declaration of Human Rights, nuclear deterrence — is the order we still live in, and it is under more stress now than at any point since its creation. The UN was designed to prevent great-power war by giving great powers a veto; that same veto now prevents the UN from responding to great-power aggression. NATO was designed around the assumption that the U.S. would lead it; that assumption is now contested. The nuclear deterrence logic — Mutually Assured Destruction as stability — requires both sides to believe the other will actually use the weapons, which means the stability depends on maintaining credible threats of civilizational destruction. The [Universal Declaration of Human Rights](../../reading-library/social-studies/un-declaration-human-rights.md) was adopted in 1948 as the world's answer to what had just happened — and every subsequent debate about genocide, refugee rights, and international law tests whether that answer was sufficient. The postwar order isn't background history; it's the architecture of the world students are inheriting.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*
 
 

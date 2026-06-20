@@ -127,4 +127,10 @@ This connects to **WH.6_12.2** (ideologies shaping political development) and **
 
 ---
 
+## Why This Is Relevant Today?
+
+The Cold War ended in 1991, but most of its infrastructure did not. Nuclear weapons still exist in the quantities built for mutual deterrence — the U.S. and Russia together hold over 90% of the world's roughly 12,000 warheads. NATO still exists and has expanded eastward. The proxy war pattern — great powers fighting each other through smaller states — continues in contemporary conflicts. The intelligence agencies, surveillance systems, and intervention doctrines built for Cold War competition didn't disappear; they were repurposed. And the ideological framing — that the world is divided between systems that are fundamentally incompatible, and that the competition between them will eventually be decided — has returned in debates about U.S.-China competition. Green's episode is the foundation for [USH-07: The Unipolar Moment](../../units/studio-archive/ush-07-unipolar-moment.md), which asks what the U.S. did with its power after "winning" — and whether the Cold War's end was really an ending at all.
+
+---
+
 *Entry created: 2026-06-12 · Status: stub · Transcript: pending*
