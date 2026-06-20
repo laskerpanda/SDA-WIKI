@@ -1,29 +1,5 @@
 # Studio Archive
 
-
----
-
-## See Also
-
-- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)
-- [Pericles](../../reading-library/social-studies/pericles-funeral-oration.md)
-- [Melian Dialogue](../../reading-library/social-studies/melian-dialogue.md)
-- [Ibn Battuta](../../reading-library/social-studies/ibn-battuta-rihla.md)
-- [95 Theses](../../reading-library/social-studies/luther-95-theses.md)
-- [Luther](../../reading-library/social-studies/luther-95-theses.md)
-- [Las Casas](../../reading-library/social-studies/las-casas-short-account.md)
-- [Common Sense](../../reading-library/social-studies/common-sense-paine.md)
-- [Communist Manifesto](../../reading-library/social-studies/communist-manifesto.md)
-- [The Jungle](../../reading-library/social-studies/jungle-sinclair.md)
-- [Malala](../../reading-library/social-studies/malala-un-speech.md)
-- [Night](../../reading-library/ela/night-wiesel.md)
-- [Fahrenheit 451](../../reading-library/ela/fahrenheit-451-bradbury.md)
-- [1984](../../reading-library/ela/orwell-1984.md)
-- [Warriors Don't Cry](../../reading-library/ela/warriors-dont-cry.md)
-- [Persepolis](../../reading-library/ela/persepolis-satrapi.md)
-
----
-
 **SDA Commons Wiki · South High School**
 
 Pre-packaged studio packets for SDA six-week cycles. Each packet is a complete, ready-to-run studio with: essential question, active standards, reading list, inquiry angle menu, six-week arc, demonstration of learning options, deliverable ideas, scale tasks, and exhibition format.
@@ -104,5 +80,27 @@ When new studio packets are developed, add them to this index and to the relevan
 
 ---
 
+## See Also
+
+- [Hammurabi](../../reading-library/social-studies/hammurabi-code.md)
+- [Pericles](../../reading-library/social-studies/pericles-funeral-oration.md)
+- [Melian Dialogue](../../reading-library/social-studies/melian-dialogue.md)
+- [Ibn Battuta](../../reading-library/social-studies/ibn-battuta-rihla.md)
+- [95 Theses / Luther](../../reading-library/social-studies/luther-95-theses.md)
+- [Las Casas](../../reading-library/social-studies/las-casas-short-account.md)
+- [Common Sense](../../reading-library/social-studies/common-sense-paine.md)
+- [Communist Manifesto](../../reading-library/social-studies/communist-manifesto.md)
+- [The Jungle](../../reading-library/social-studies/jungle-sinclair.md)
+- [Malala](../../reading-library/social-studies/malala-un-speech.md)
+- [Night](../../reading-library/ela/night-wiesel.md)
+- [Fahrenheit 451](../../reading-library/ela/fahrenheit-451-bradbury.md)
+- [1984](../../reading-library/ela/orwell-1984.md)
+- [Warriors Don't Cry](../../reading-library/ela/warriors-dont-cry.md)
+- [Persepolis](../../reading-library/ela/persepolis-satrapi.md)
+- [Reading Library](../../reading-library/index.md)
+- [Skinny Library](../../skinnies/)
+- [How to SDA](../../commons/how-to-sda/index.md)
+
+---
+
 *Studio Archive · SDA Commons Wiki · South High School*
-*See also: [Reading Library](../../reading-library/index.md) · [Skinny Library](../../skinnies/) · [How to SDA](../../commons/how-to-sda/index.md)*
