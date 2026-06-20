@@ -218,6 +218,12 @@ These first two verses set up the entire logic of the *Dhammapada*: what happens
 
 ---
 
+## Why This Is Relevant Today?
+
+The Dhammapada's core teaching — that suffering comes from craving, and that freedom comes from training the mind — is now the philosophical basis of a multi-billion dollar wellness industry. Mindfulness meditation, apps like Headspace and Calm, secular mindfulness in schools and corporations — all of these draw on Buddhist frameworks originally articulated in texts like the Dhammapada. Buddhism is the fastest-growing religion in the Western world, and its influence extends far beyond formal conversion: Buddhist ideas about impermanence, compassion, and the relationship between mind and suffering have shaped Western psychology, therapy, and how people think about mental health. Reading the Dhammapada lets you see where those ideas came from, what they originally meant, and what gets preserved or lost when a 2,500-year-old spiritual tradition gets turned into a productivity app.
+
+---
+
 ## See Also
 
 - [The Egyptian Book of the Dead](./book-of-the-dead-egypt.md) — Parallel ancient moral code; comparison of Egyptian and Buddhist ethics

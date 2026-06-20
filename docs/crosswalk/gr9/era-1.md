@@ -8,94 +8,6 @@
 
 ---
 
-## Standards Active This Era
-
-| Subject | Standard | Focus |
-|---------|----------|-------|
-| **World History** | [WH.6_12.1](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-121) | Science & technology achievements of ancient world |
-| **World History** | [WH.6_12.2](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-122) | How early belief systems shaped civilization |
-| **World History** | [WH.6_12.3](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-123) | Effects of Greek, Roman, and early political systems |
-| **World History** | [WH.6_12.4](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-124) | Social, cultural, and economic development |
-| **World History** | [WH.6_12.5](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-125) | Causes and effects using primary sources |
-| **World History** | [WH.6_12.6](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-126) | Ancient foundations connecting to the present |
-| **ELA — Reading** | [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) | Analyzing argumentative structure in ancient texts |
-| **ELA — Reading** | [R.2](../../standards/ela/gr9-10-scales.md#9-10r2) | Comprehension and inference in complex primary sources |
-| **ELA — Reading** | [R.4](../../standards/ela/gr9-10-scales.md#9-10r4) | Main idea development in historical argument |
-| **ELA — Writing** | [W.4](../../standards/ela/writing-standards.md) | Argument writing — "Who should govern?" |
-| **ELA — Writing** | [W.3](../../standards/ela/writing-standards.md) | Explanatory writing — "How did belief shape empire?" |
-
-**Strongest crosswalk pairing this era:** WH.6_12.3 + R.9 + W.4 — ancient political texts are argumentative by nature (Hammurabi, Pericles, Melian Dialogue). A student can analyze the argument structure (R.9), write their own position on political authority (W.4), and simultaneously demonstrate WH.6_12.3 content knowledge. One Demo, two standards.
-
----
-
-## Reading Library — Era 1 Texts
-
-| Text | WH Standard | ELA Crosswalk | Link |
-|------|------------|---------------|------|
-| Hammurabi's Code (c. 1754 BCE) | WH.6_12.2–3 | R.9 — analyze a law code as argument; W.4 — governance | [Open](../../reading-library/social-studies/hammurabi-code.md) |
-| Analects of Confucius (c. 500 BCE) | WH.6_12.2 | R.9 — ideology and political authority | [Open](../../reading-library/social-studies/analects-confucius.md) |
-| Pericles' Funeral Oration (431 BCE) | WH.6_12.3 | R.9 — political argument; W.4 — democracy as argument | [Open](../../reading-library/social-studies/pericles-funeral-oration.md) |
-| Melian Dialogue (Thucydides, 416 BCE) | WH.6_12.3 | R.9 — power argument; W.4 — rebuttal writing | [Open](../../reading-library/social-studies/melian-dialogue.md) |
-| *The Odyssey* — Homer (c. 800 BCE) | WH.6_12.3 | R.8 — epic conventions, author's craft; W.4 — heroism argument | [Open](../../reading-library/ela/odyssey-homer.md) |
-| *Oedipus Rex* — Sophocles (c. 429 BCE) | WH.6_12.3 | R.8 — dramatic irony, tragic structure; W.4 — fate vs. responsibility | [Open](../../reading-library/ela/oedipus-rex-sophocles.md) |
-| *Julius Caesar* — Shakespeare (44 BCE / 1599) | WH.6_12.3 + WH.6_12.5 | R.9 — funeral speech rhetoric; R.8 — character complexity; W.4 | [Open](../../reading-library/ela/julius-caesar-shakespeare.md) |
-
-**Highest-leverage crosswalk text this era:** **Hammurabi's Code** — short, dense, analytically rich. The code *is* an argument about governance. Perfect for R.9 (analyze claims and evidence) + WH.6_12.3 (political systems) in one Demo.
-
----
-
-## CrashCourse Episodes — Era 1
-
-| Episode | Topic | Standard | Link |
-|---------|-------|----------|------|
-| Ep 01 | The Agricultural Revolution | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-01-agricultural-revolution.md) |
-| Ep 09 | The Silk Road and Ancient Trade | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-09-silk-road.md) |
-
-*Additional Era 1 episodes are indexed at [WH Episode Index](../../crashcourse/world-history/index.md).*
-
-## CrashCourse Literature — Era 1
-
-| Work | Focus | Standard | Link |
-|------|-------|----------|------|
-| *The Odyssey* | Epic structure, heroism, Greek values — ancient civilization through one story | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/odyssey-homer.md) |
-| *Oedipus Rex* | Tragic structure, fate vs. free will, Athenian political thought | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/oedipus-rex-sophocles.md) |
-| *Julius Caesar* | Roman Republic collapse, funeral speeches, political manipulation | WH.6_12.3 + WH.6_12.5 + R.9 | [Episode guide](../../crashcourse/literature/julius-caesar-shakespeare.md) |
-
----
-
-## Skinnies to Pull This Era
-
-### World History Skinnies — Era 1
-| Standard | Skinny | When to Pull |
-|----------|--------|-------------|
-| WH.6_12.1 | [Ancient Science & Technology](../../skinnies/world-history/era-1/wh-6-12-1-science-tech-era1-skinny.md) | If your inquiry angle involves inventions, engineering, or medicine |
-| WH.6_12.2 | [Early Belief Systems](../../skinnies/world-history/era-1/wh-6-12-2-belief-systems-skinny.md) | Religion, ideology, or governance through belief |
-| WH.6_12.3 | [Political Systems Era 1](../../skinnies/world-history/era-1/wh-6-12-3-political-systems-era1-skinny.md) | Government, law, democracy, empire |
-| WH.6_12.4 | [Social & Cultural Development](../../skinnies/world-history/era-1/wh-6-12-4-social-cultural-era1-skinny.md) | Trade, agriculture, daily life, social structure |
-| WH.6_12.5 | [Causes & Effects — Ancient World](../../skinnies/world-history/era-1/wh-6-12-5-causes-effects-era1-skinny.md) | Cause/effect analysis; primary source evaluation |
-| WH.6_12.6 | [Ancient Foundations to Present](../../skinnies/world-history/era-1/wh-6-12-6-past-present-era1-skinny.md) | Connecting ancient history to today |
-
-### ELA Skinnies — Strongest Pulls for Era 1
-| Standard | Skinny | When to Pull |
-|----------|--------|-------------|
-| R.9 | [Informational & Argumentative Text Analysis](../../skinnies/ela9/r9-informational-argumentative-skinny.md) | Analyzing Hammurabi, Pericles, or any ancient political text |
-| R.2 | [Comprehension & Inference](../../skinnies/ela9/r2-comprehension-inference-skinny.md) | When ancient language is dense or translation is hard |
-| R.4 | [Main Idea & Theme](../../skinnies/ela9/r4-main-idea-theme-skinny.md) | Identifying the central claim in a historical text |
-| W.4 | [Argument Writing](../../skinnies/ela9/w4-argument-writing-skinny.md) | Writing a position on governance, power, or justice |
-| W.3 | [Explanatory Writing](../../skinnies/ela9/w3-explanatory-writing-skinny.md) | Explaining how belief systems shaped a civilization |
-| IR.1–5 | [Research Bundle](../../skinnies/ela9/ir1-5-research-bundle-skinny.md) | Source log, citations, research question — every Studio |
-
----
-
-## Studio Packets Available
-
-| Code | Essential Question | Standards |
-|------|-------------------|-----------|
-| [WH-01](../../units/studio-archive/wh-01-who-should-govern.md) | Who should govern, and what gives them the right? | WH.6_12.3 + W.4 |
-| [WH-06](../../units/studio-archive/wh-06-connected-world.md) | What connects the world — and who decides who counts as part of it? | WH.6_12.4 + W.3 |
-
----
-
 ## Project Ideas — Era 1
 
 These are proposed Studio inquiry angles. Any can be adapted for your own inquiry question.
@@ -153,6 +65,100 @@ These are proposed Studio inquiry angles. Any can be adapted for your own inquir
 **Suggested Demo Mode:** Written Assessment or Portfolio Annotation
 **Possible deliverables:** Analysis essay · Comparative chart + written reflection · Podcast
 **The argument:** Students read selected laws from Hammurabi's Code and identify the values embedded in them (property, family, class), then connect to a modern law that reveals contemporary values. Direct WH.6_12.6 (past to present) entry point.
+
+---
+
+## Studio Packets Available
+
+| Code | Essential Question | Standards |
+|------|-------------------|-----------|
+| [WH-01](../../units/studio-archive/wh-01-who-should-govern.md) | Who should govern, and what gives them the right? | WH.6_12.3 + W.4 |
+| [WH-06](../../units/studio-archive/wh-06-connected-world.md) | What connects the world — and who decides who counts as part of it? | WH.6_12.4 + W.3 |
+
+---
+
+## Reading Library — Era 1 Texts
+
+| Text | WH Standard | ELA Crosswalk | Link |
+|------|------------|---------------|------|
+| Hammurabi's Code (c. 1754 BCE) | WH.6_12.2–3 | R.9 — analyze a law code as argument; W.4 — governance | [Open](../../reading-library/social-studies/hammurabi-code.md) |
+| Analects of Confucius (c. 500 BCE) | WH.6_12.2 | R.9 — ideology and political authority | [Open](../../reading-library/social-studies/analects-confucius.md) |
+| Pericles' Funeral Oration (431 BCE) | WH.6_12.3 | R.9 — political argument; W.4 — democracy as argument | [Open](../../reading-library/social-studies/pericles-funeral-oration.md) |
+| Melian Dialogue (Thucydides, 416 BCE) | WH.6_12.3 | R.9 — power argument; W.4 — rebuttal writing | [Open](../../reading-library/social-studies/melian-dialogue.md) |
+| *The Odyssey* — Homer (c. 800 BCE) | WH.6_12.3 | R.8 — epic conventions, author's craft; W.4 — heroism argument | [Open](../../reading-library/ela/odyssey-homer.md) |
+| *Oedipus Rex* — Sophocles (c. 429 BCE) | WH.6_12.3 | R.8 — dramatic irony, tragic structure; W.4 — fate vs. responsibility | [Open](../../reading-library/ela/oedipus-rex-sophocles.md) |
+| *Julius Caesar* — Shakespeare (44 BCE / 1599) | WH.6_12.3 + WH.6_12.5 | R.9 — funeral speech rhetoric; R.8 — character complexity; W.4 | [Open](../../reading-library/ela/julius-caesar-shakespeare.md) |
+
+**Highest-leverage crosswalk text this era:** **Hammurabi's Code** — short, dense, analytically rich. The code *is* an argument about governance. Perfect for R.9 (analyze claims and evidence) + WH.6_12.3 (political systems) in one Demo.
+
+---
+
+## Skinnies to Pull This Era
+
+### World History Skinnies — Era 1
+| Standard | Skinny | When to Pull |
+|----------|--------|-------------|
+| WH.6_12.1 | [Ancient Science & Technology](../../skinnies/world-history/era-1/wh-6-12-1-science-tech-era1-skinny.md) | If your inquiry angle involves inventions, engineering, or medicine |
+| WH.6_12.2 | [Early Belief Systems](../../skinnies/world-history/era-1/wh-6-12-2-belief-systems-skinny.md) | Religion, ideology, or governance through belief |
+| WH.6_12.3 | [Political Systems Era 1](../../skinnies/world-history/era-1/wh-6-12-3-political-systems-era1-skinny.md) | Government, law, democracy, empire |
+| WH.6_12.4 | [Social & Cultural Development](../../skinnies/world-history/era-1/wh-6-12-4-social-cultural-era1-skinny.md) | Trade, agriculture, daily life, social structure |
+| WH.6_12.5 | [Causes & Effects — Ancient World](../../skinnies/world-history/era-1/wh-6-12-5-causes-effects-era1-skinny.md) | Cause/effect analysis; primary source evaluation |
+| WH.6_12.6 | [Ancient Foundations to Present](../../skinnies/world-history/era-1/wh-6-12-6-past-present-era1-skinny.md) | Connecting ancient history to today |
+
+### ELA Skinnies — Strongest Pulls for Era 1
+| Standard | Skinny | When to Pull |
+|----------|--------|-------------|
+| R.9 | [Informational & Argumentative Text Analysis](../../skinnies/ela9/r9-informational-argumentative-skinny.md) | Analyzing Hammurabi, Pericles, or any ancient political text |
+| R.2 | [Comprehension & Inference](../../skinnies/ela9/r2-comprehension-inference-skinny.md) | When ancient language is dense or translation is hard |
+| R.4 | [Main Idea & Theme](../../skinnies/ela9/r4-main-idea-theme-skinny.md) | Identifying the central claim in a historical text |
+| W.4 | [Argument Writing](../../skinnies/ela9/w4-argument-writing-skinny.md) | Writing a position on governance, power, or justice |
+| W.3 | [Explanatory Writing](../../skinnies/ela9/w3-explanatory-writing-skinny.md) | Explaining how belief systems shaped a civilization |
+| IR.1–5 | [Research Bundle](../../skinnies/ela9/ir1-5-research-bundle-skinny.md) | Source log, citations, research question — every Studio |
+
+---
+
+## CrashCourse Episodes — Era 1
+
+| Episode | Topic | Standard | Link |
+|---------|-------|----------|------|
+| Ep 01 | The Agricultural Revolution | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-01-agricultural-revolution.md) |
+| Ep 09 | The Silk Road and Ancient Trade | WH.6_12.4 | [Watch guide](../../crashcourse/world-history/ep-09-silk-road.md) |
+
+*Additional Era 1 episodes are indexed at [WH Episode Index](../../crashcourse/world-history/index.md).*
+
+## CrashCourse Literature — Era 1
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *The Odyssey* | Epic structure, heroism, Greek values — ancient civilization through one story | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/odyssey-homer.md) |
+| *Oedipus Rex* | Tragic structure, fate vs. free will, Athenian political thought | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/oedipus-rex-sophocles.md) |
+| *Julius Caesar* | Roman Republic collapse, funeral speeches, political manipulation | WH.6_12.3 + WH.6_12.5 + R.9 | [Episode guide](../../crashcourse/literature/julius-caesar-shakespeare.md) |
+
+---
+
+## Standards Active This Era
+
+| Subject | Standard | Focus |
+|---------|----------|-------|
+| **World History** | [WH.6_12.1](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-121) | Science & technology achievements of ancient world |
+| **World History** | [WH.6_12.2](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-122) | How early belief systems shaped civilization |
+| **World History** | [WH.6_12.3](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-123) | Effects of Greek, Roman, and early political systems |
+| **World History** | [WH.6_12.4](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-124) | Social, cultural, and economic development |
+| **World History** | [WH.6_12.5](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-125) | Causes and effects using primary sources |
+| **World History** | [WH.6_12.6](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-126) | Ancient foundations connecting to the present |
+| **ELA — Reading** | [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) | Analyzing argumentative structure in ancient texts |
+| **ELA — Reading** | [R.2](../../standards/ela/gr9-10-scales.md#9-10r2) | Comprehension and inference in complex primary sources |
+| **ELA — Reading** | [R.4](../../standards/ela/gr9-10-scales.md#9-10r4) | Main idea development in historical argument |
+| **ELA — Writing** | [W.4](../../standards/ela/writing-standards.md) | Argument writing — "Who should govern?" |
+| **ELA — Writing** | [W.3](../../standards/ela/writing-standards.md) | Explanatory writing — "How did belief shape empire?" |
+
+**Strongest crosswalk pairing this era:** WH.6_12.3 + R.9 + W.4 — ancient political texts are argumentative by nature (Hammurabi, Pericles, Melian Dialogue). A student can analyze the argument structure (R.9), write their own position on political authority (W.4), and simultaneously demonstrate WH.6_12.3 content knowledge. One Demo, two standards.
+
+---
+
+## Why This Is Relevant Today?
+
+The questions ancient civilizations asked — who should hold power, what makes a law just, whose life counts — are not settled. They're the same arguments happening in courtrooms, legislatures, and social media feeds right now. When the U.S. Supreme Court debates equal protection under the law, it's arguing with Hammurabi. When a democracy asks whether it has the right to intervene militarily in a weaker country, it's arguing with Thucydides. When a government claims that order requires inequality, it's making Hammurabi's argument. Every Era 1 text was written by someone trying to answer an urgent question about power and justice — and none of those questions have been fully answered yet. If you want to follow this thread into the present, start with [WH-01: Who Should Govern?](../../units/studio-archive/wh-01-who-should-govern.md) or the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md).
 
 ---
 

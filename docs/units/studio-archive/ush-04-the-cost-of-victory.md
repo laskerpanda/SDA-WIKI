@@ -154,6 +154,12 @@ See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.
 
 ---
 
+## Why This Is Relevant Today?
+
+The question at the center of this studio — what does a country fighting for the right cause get to do in pursuit of victory? — is asked every time a democratic nation goes to war. The atomic bombs killed somewhere between 130,000 and 226,000 people, most of them civilians, and stopped a war. The internment of Japanese Americans was a direct violation of constitutional rights, carried out by the president who gave the Four Freedoms speech. These weren't anomalies — they were the pattern. And that pattern keeps repeating: enhanced interrogation (torture), drone strikes with civilian casualties, indefinite detention without trial — each justified as necessary to win a war that is, of course, on the right side of history. Elie Wiesel's *Night* is the most important counter to this logic: it records what happens when a nation decides that some lives are acceptable losses. The Holocaust was not an accident or an anomaly — it was the product of exactly the kind of reasoning this studio examines. If you want to follow the thread to Vietnam and beyond, [USH-05: What the Government Didn't Say](ush-05-what-the-government-didnt-say.md) asks what happened when Americans found out the government was applying the same logic to them.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Panel discussion or Socratic seminar.

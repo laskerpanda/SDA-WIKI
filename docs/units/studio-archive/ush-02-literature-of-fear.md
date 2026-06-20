@@ -155,6 +155,12 @@ One Demo of Learning can satisfy both an ELA and an SS standard if your Studio C
 
 ---
 
+## Why This Is Relevant Today?
+
+Orwell and Bradbury wrote their dystopias as warnings, not predictions — but the warning has never been more directly applicable. The surveillance infrastructure that Orwell imagined — a government that can watch everything, knows what you search, tracks where you go, reads your messages — exists and is operated by both governments and corporations. The algorithmic selection of what you see on social media is a form of what Bradbury described: not book-burning, but something more efficient — making sure you never encounter the book in the first place. And the Cold War fear this studio is about — what happens to a society that organizes itself around existential terror? — maps directly onto current debates about national security, surveillance, and the trade-off between freedom and safety. *1984* and *Fahrenheit 451* are not cautionary tales about the past. They're diagnostic tools for the present. If you want to connect the Cold War context to what came after, [USH-05: What the Government Didn't Say](ush-05-what-the-government-didnt-say.md) covers Vietnam and the Pentagon Papers — the moment when Cold War fear became Cold War deception.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Symposium or documentary screening + discussion.

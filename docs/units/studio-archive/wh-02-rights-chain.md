@@ -156,6 +156,12 @@ These documents trace a single lineage of rights-claiming across 3,700 years. Yo
 
 ---
 
+## Why This Is Relevant Today?
+
+The rights chain this studio traces — from Hammurabi to Pericles to Magna Carta to the Enlightenment to the UDHR to Malala — is not finished. Every link in that chain was contested at the time, and every link is still contested now. The Magna Carta's argument that rulers must follow laws is the foundation of every constitutionalism debate happening in any country today. Wollstonecraft's argument that women have the same rational capacity as men — which seemed radical in 1792 — is still being contested in countries where women cannot vote, drive, or travel without permission. The UN Declaration of Human Rights was adopted in 1948 and has no enforcement mechanism; the gap between what it says and what governments do is a live political question every day. When students look at debates about refugee rights, indigenous rights, LGBTQ rights, or disability rights, they are looking at the current edge of this chain — arguments about who the rights humans wrote down actually apply to. Malala isn't historical — she's still alive, still working, and the question she's arguing (does every child have a right to education regardless of gender?) is still unsettled in dozens of countries.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Symposium with rotating presentations.

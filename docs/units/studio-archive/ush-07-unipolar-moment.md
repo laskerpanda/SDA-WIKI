@@ -154,6 +154,12 @@ See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.
 
 ---
 
+## Why This Is Relevant Today?
+
+The "unipolar moment" is over. China has become a peer competitor. Russia has invaded Ukraine. The U.S. is redefining its alliances, renegotiating its trade relationships, and debating how much it owes the countries it has been involved with militarily. The wars in Afghanistan and Iraq — begun in response to 9/11 — formally ended, but their consequences didn't. The Afghan government the U.S. spent 20 years and trillions of dollars building collapsed in days when U.S. troops withdrew. The Iraq War produced the conditions that created ISIS. The PATRIOT Act surveillance infrastructure built after 9/11 is still operating. And the question *The Kite Runner* and *Persepolis* ask — what does it actually mean to live in a country that a more powerful country has made decisions about? — is the perspective most Americans never have to consider, and that residents of dozens of countries cannot escape. Understanding the unipolar moment is not just understanding recent history — it's understanding the world you're inheriting, the alliances that are fraying, the resentments that are accumulating, and the consequences of decisions that were made before most of this year's students were born. See [USH-05: What the Government Didn't Say](ush-05-what-the-government-didnt-say.md) for the Vietnam parallel — the last time the U.S. fought a war it couldn't win.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Community showcase or documentary screening.

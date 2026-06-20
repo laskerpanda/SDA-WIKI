@@ -148,6 +148,12 @@ See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.
 
 ---
 
+## Why This Is Relevant Today?
+
+The Great Depression is the last time the American economy failed so completely that it collapsed the basic assumptions most people had about how economic life worked. The debates it produced — What does the government owe people when the economy fails them? How much should the government regulate markets to prevent the next crash? What's the right balance between economic freedom and economic security? — have never been settled. They're the debates behind every argument about the minimum wage, unemployment insurance, Social Security, Medicare, and the Affordable Care Act. The 2008 financial crisis — banks failing, homeowners losing their houses, unemployment spiking — was the closest the U.S. has come to repeating 1929, and the response (bail out the banks, stimulus packages, expanded unemployment) was a direct application of the New Deal framework. The COVID-19 economic shock produced the same arguments again. If you want to understand why Americans argue so bitterly about the government's role in the economy, the Great Depression is where to look. See [USH-01: When the System Fails](ush-01-when-the-system-fails.md) for the earlier reform tradition this studio builds on.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Gallery walk or formal presentation.

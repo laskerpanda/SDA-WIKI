@@ -152,6 +152,12 @@ See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.
 
 ---
 
+## Why This Is Relevant Today?
+
+The reform tradition this studio traces — from Progressive Era muckrakers to Civil Rights activists — is still the main model for how people in a democracy try to fix broken institutions. Upton Sinclair's *The Jungle* exposed conditions in meatpacking plants and led directly to the Pure Food and Drug Act. That model (expose the specific harm, build the public case, force legislative response) is what every investigative journalist, nonprofit advocacy organization, and social movement still uses. The Civil Rights Act of 1964 passed because people like Melba Beals put their bodies on the line at Little Rock, and because MLK made an argument so powerful that dismissing it required publicly defending the indefensible. Labor rights, environmental regulation, consumer protection, disability rights, LGBTQ rights — every expansion of rights and every institutional reform in American history used the same basic playbook this studio studies. And every one of those gains is subject to rollback, which is why understanding how they were won matters. If you want to follow the thread into more recent history, [USH-06: When the Rules Don't Apply](ush-06-when-the-rules-dont-apply.md) asks what happens when accountability mechanisms fail.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Town hall or panel discussion.

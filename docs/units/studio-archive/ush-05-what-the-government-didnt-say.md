@@ -151,6 +151,12 @@ A single Demo of Learning can satisfy both an ELA and an SS standard if your Stu
 
 ---
 
+## Why This Is Relevant Today?
+
+The Pentagon Papers revealed that the U.S. government had been lying to the public about Vietnam for years — and the public's response was to stop trusting the government. That loss of trust never fully recovered. It's the baseline for American political culture today: the assumption that the government isn't telling you everything, that official statements are managed, and that you need to check what you're being told. Edward Snowden revealed in 2013 that the NSA was collecting phone records and internet data on virtually every American — a surveillance program that had been kept secret from the public and misrepresented to Congress. Chelsea Manning leaked evidence of civilian casualties in Iraq that the military had classified. The question Ellsberg asked — when is leaking classified information justified? — is still being argued in federal courts. And the media freedom question — can the government stop a newspaper from publishing information it claims is dangerous? — that the Supreme Court decided with the Pentagon Papers is still the live question every time a government tries to prevent a story from being published. Orwell's framework ("political language is designed to make lies sound truthful") is not a historical observation — it's a user manual for analyzing what you hear from official sources right now.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Socratic seminar or structured debate.

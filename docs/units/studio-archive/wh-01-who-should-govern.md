@@ -165,6 +165,12 @@ You go beyond what the texts directly say:
 
 ---
 
+## Why This Is Relevant Today?
+
+The question "who should govern, and what gives them the right?" is being asked and answered right now in every democracy on earth — including this one. Autocrats who claim they govern better than democracies, politicians who argue that national security justifies suspending normal rules, voters who choose strongmen over checks and balances — they're all giving Hammurabi's answer: order matters more than equality. The argument Pericles made — that everyone who has a stake in a decision should have a voice in it — is the argument behind every debate about voting rights, gerrymandering, and who gets to participate in democracy. Thucydides recorded the Athenian argument to Melos ("the strong do what they can, the weak suffer what they must") in 416 BCE — and you can find the same argument in every debate about international relations today. Nothing in this studio is settled. If you want to follow the thread into the present, [WH-02: The Rights We Wrote Down](wh-02-rights-chain.md) is the direct continuation — it picks up where Hammurabi left off and traces the argument forward 3,000 years.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Gallery walk or Socratic seminar.

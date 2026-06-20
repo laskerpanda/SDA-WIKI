@@ -151,6 +151,12 @@ See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.
 
 ---
 
+## Why This Is Relevant Today?
+
+The question of who pays the cost of war — and who gets to tell the story — has never been more contested. When governments talk about military action, they talk about strategic objectives, national interests, and acceptable casualties. Wilfred Owen talked about what it felt like to watch someone drown in their own lungs from a mustard gas attack. Both are true, and the gap between them is where the real argument about war lives. In every conflict right now — Ukraine, Gaza, Sudan, Myanmar — there are official accounts and there are the accounts of people who live where the bombs fall. The question of whose story counts, whose losses get named, and who gets to define what the war was for is not an abstract question — it's the question every journalist, every filmmaker, and every person sharing a video on social media is navigating in real time. *Night* was written so that the Holocaust would never be told only in numbers. *Persepolis* was drawn so that Iran would not be only a foreign policy abstraction. That impulse — to make sure power doesn't get to be the only narrator — is what this studio is about, and it's as urgent now as it was in 1914 or 1939.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Gallery reading + discussion.

@@ -143,6 +143,12 @@ A single Demo of Learning can satisfy both an ELA and a WH standard if your Stud
 
 ---
 
+## Why This Is Relevant Today?
+
+The world Ibn Battuta traveled — a network of trade routes, shared languages, common religious practices, and cosmopolitan cities where scholars from different traditions compared notes — looks more like the internet than it looks like the nation-state world we're used to. And the questions his journey raises are the questions globalization raises: Who controls the routes? Who decides who gets to cross borders? Whose culture travels freely and whose gets stopped? The Silk Road connected China, Central Asia, the Arab world, and Europe in a network that no single power controlled. Today's equivalent — global shipping lanes, undersea internet cables, trade agreements — is also a network that multiple powers are competing to control, and the competition has exactly the same logic as the competition that killed the Silk Road. The UN Declaration of Human Rights' argument that all people have equal dignity regardless of where they were born is an argument about who "counts" as part of the connected world — and it is contested as much now as it was in 1948. If you're interested in how the connected world works today, [USH-07: The Unipolar Moment](ush-07-unipolar-moment.md) covers the moment when the U.S. tried to run that network alone.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Visual gallery walk or map presentation.

@@ -150,6 +150,12 @@ A single Demo of Learning can satisfy both an ELA and a WH standard if your Stud
 
 ---
 
+## Why This Is Relevant Today?
+
+Empire didn't end when colonial flags came down. Economic dominance, military presence, cultural influence, and political dependency are all forms of power that the countries that built formal empires still exercise — and the debate about whether that constitutes a continuation of imperialism is very much alive. Las Casas' question — does a powerful country have the right to impose its systems on a weaker one, even if those systems are "better"? — is asked about U.S. foreign policy, Chinese infrastructure investment in Africa, and Russian influence in former Soviet states right now. Kipling's argument (the "white man's burden" is to civilize the world) didn't disappear when formal colonialism ended; it resurfaced in the "nation-building" arguments used to justify the Iraq and Afghanistan wars. And the tradition Las Casas, Douglass, and the counter-poets of imperialism represent — writing against power from inside the system that benefits from it — is what investigative journalists, human rights advocates, and whistleblowers do today. If you're interested in where empire shows up in the present, [USH-07: The Unipolar Moment](ush-07-unipolar-moment.md) picks up this thread in the American context.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Panel discussion or structured debate.

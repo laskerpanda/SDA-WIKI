@@ -149,6 +149,12 @@ See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.
 
 ---
 
+## Why This Is Relevant Today?
+
+The question at the center of this studio — can one document or one idea actually change the world? — is the question behind every social movement, every declaration, every manifesto written since Luther nailed his theses to a church door. The answer this era gives is: yes, but not in the way the author intended, and not without violence, and not without creating new problems alongside the ones it solved. The Protestant Reformation was supposed to reform the church; it created 130 years of religious war. The American Revolution was supposed to secure liberty; it preserved slavery for 80 more years. The Communist Manifesto was supposed to liberate the working class; it became the justification for regimes that killed millions. These aren't reasons to dismiss the ideas — they're reasons to take seriously the question of how ideas actually travel from a document to a changed world. That question is live right now in every debate about whether writing a law, signing a treaty, or passing a resolution actually does anything. If you're working in [WH-02](wh-02-rights-chain.md) alongside this studio, the two studios are in direct conversation.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Symposium presentation + Q&A.

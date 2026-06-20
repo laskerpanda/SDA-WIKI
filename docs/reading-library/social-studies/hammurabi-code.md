@@ -121,6 +121,12 @@ This passage directly shows the tiered justice system of Babylonian society: the
 
 ---
 
+## Why This Is Relevant Today?
+
+Hammurabi's Code is 3,700 years old, and the argument it makes is still being made. When courts impose different sentences for the same crime depending on who committed it and who was harmed, that's Hammurabi's tiered justice system operating in modern law. The debate about bail reform, mandatory minimums, and whether the American criminal justice system applies its rules equally is directly about the question Hammurabi's Code raises: Who is the law actually designed to protect? The code's prologue — Hammurabi claiming divine authority to make justice real for the weak — is also the template for every government that claims its authority comes from a higher source than the people it governs. If you want to follow the thread into the present, the [Era 1 Crosswalk](../../crosswalk/gr9/era-1.md) maps the connections between this text and today's arguments about power and law.
+
+---
+
 ## See Also
 
 - [Era 1 — Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

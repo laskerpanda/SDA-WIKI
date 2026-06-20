@@ -154,6 +154,12 @@ One Demo of Learning can satisfy both an ELA and an SS standard if your Studio C
 
 ---
 
+## Why This Is Relevant Today?
+
+Watergate established that no one — not even the president — is above the law. Iran-Contra suggested that established accountability mechanisms can be worked around. The decades since have tested the Watergate principle repeatedly, and the results are mixed. The question of whether democratic accountability systems are strong enough to hold powerful people responsible is more contested now than it has been since Nixon resigned. Margaret Atwood wrote *The Handmaid's Tale* in 1985 as a warning about how democracies slide into authoritarianism — not through sudden coups but through gradual erosion, one institution at a time. The novel has never been out of print, and its sales spike every time democratic institutions come under pressure. Orwell's "Politics and the English Language" is not an essay about 1946 — it's a diagnostic tool for analyzing political speech in any era. The pattern it describes (vague language used to make unacceptable things acceptable, euphemisms that allow politicians to claim they didn't say what they clearly meant) is the dominant mode of political communication today. If you want to connect this studio to the present, the accountability questions it raises are the same ones asked about every major political scandal since Watergate.
+
+---
+
 ## Exhibition Format
 
 **Suggested format:** Town hall or panel presentation.

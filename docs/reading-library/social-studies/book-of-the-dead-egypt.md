@@ -178,6 +178,12 @@ This is the dead person speaking directly to their own heart before it is weighe
 
 ---
 
+## Why This Is Relevant Today?
+
+Every culture in history has had to answer the same questions the Egyptian Book of the Dead tries to answer: What happens when we die? Does how we live determine what comes after? What do we owe the dead? Ancient Egypt's answer — that the deceased's heart would be weighed against a feather representing truth and justice — is an early version of the idea that character matters more than social status. The Book of the Dead's emphasis on *Ma'at* (truth, justice, balance) as the measure of a life connects to every contemporary debate about fairness, accountability, and what it means to live well. It's also a reminder that questions modern people treat as belonging to religion or philosophy are ancient — humanity has been wrestling with mortality, meaning, and justice for as long as we have writing.
+
+---
+
 ## See Also
 
 - [The Code of Hammurabi](./hammurabi-code.md) — Parallel ancient legal/moral system; compare what each society considered a punishable act

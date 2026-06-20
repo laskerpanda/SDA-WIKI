@@ -8,92 +8,6 @@
 
 ---
 
-## Standards Active This Era
-
-| Subject | Standard | Focus |
-|---------|----------|-------|
-| **World History** | [WH.6_12.1](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-121) | Medieval science, technology, and Islamic Golden Age |
-| **World History** | [WH.6_12.2](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-122) | Religion and ideology — Islam, Christianity, feudal church |
-| **World History** | [WH.6_12.3](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-123) | Medieval political systems — feudalism, Magna Carta, Ottoman Empire |
-| **World History** | [WH.6_12.4](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-124) | Trade, cultural exchange, and social development |
-| **World History** | [WH.6_12.5](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-125) | Causes and effects — Crusades, Black Death, fall of Constantinople |
-| **World History** | [WH.6_12.6](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-126) | Medieval foundations connecting to the present |
-| **ELA — Reading** | [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) | Analyzing argumentative structure in medieval texts |
-| **ELA — Reading** | [R.2](../../standards/ela/gr9-10-scales.md#9-10r2) | Comprehension and inference in complex historical documents |
-| **ELA — Writing** | [W.4](../../standards/ela/writing-standards.md) | Argument writing — authority, obedience, religious power |
-| **ELA — Writing** | [W.3](../../standards/ela/writing-standards.md) | Explanatory writing — how medieval systems worked |
-
-**Strongest crosswalk pairing this era:** WH.6_12.3 + R.9 + W.4 — the Magna Carta is one of the clearest argument texts in world history. A student can analyze its claims (R.9), argue whether limiting government power is always justified (W.4), and demonstrate WH.6_12.3 political systems knowledge simultaneously.
-
----
-
-## Reading Library — Era 2 Texts
-
-| Text | WH Standard | ELA Crosswalk | Link |
-|------|------------|---------------|------|
-| Magna Carta (1215) | WH.6_12.3 | R.9 — argument; W.4 — limits on government | [Open](../../reading-library/social-studies/magna-carta.md) |
-| Ibn Battuta — Rihla (1355) | WH.6_12.4 | R.2 — comprehension of travel narrative; W.3 — explain trade networks | [Open](../../reading-library/social-studies/ibn-battuta-rihla.md) |
-| Martin Luther — 95 Theses (1517) | WH.6_12.2 | R.9 — analyze a reform argument; W.4 — argument for institutional change | [Open](../../reading-library/social-studies/luther-95-theses.md) |
-| Las Casas — Short Account (1542) | WH.6_12.4–5 | R.9 — eyewitness argument; W.4 — moral argument | [Open](../../reading-library/social-studies/las-casas-short-account.md) |
-| *Romeo and Juliet* — Shakespeare (c. 1597) | WH.6_12.3 + WH.6_12.4 | R.8 — dramatic structure, honor culture; W.4 — who is responsible? | [Open](../../reading-library/ela/romeo-and-juliet-shakespeare.md) |
-| *Hamlet* — Shakespeare (c. 1600) | WH.6_12.3 + WH.6_12.2 | R.8 — soliloquy, dramatic irony; R.9 — embedded argument; W.4 | [Open](../../reading-library/ela/hamlet-shakespeare.md) |
-
-**Highest-leverage crosswalk text this era:** **Magna Carta** — compact, dense with argument, and directly tied to WH.6_12.3. Excellent for R.9 analysis (what is the barons' argument? what evidence do they give?) and W.4 writing ("Should there be limits on government authority?").
-
----
-
-## CrashCourse Episodes — Era 2
-
-| Episode | Topic | Standard | Link |
-|---------|-------|----------|------|
-| Ep 15 | The Crusades — Pilgrimage or Holy War? | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-15-crusades.md) |
-| Ep 25 | The Protestant Reformation | WH.6_12.2 | [Watch guide](../../crashcourse/world-history/ep-25-reformation.md) |
-
-*Additional Era 2 episodes are indexed at [WH Episode Index](../../crashcourse/world-history/index.md).*
-
-## CrashCourse Literature — Era 2
-
-| Work | Focus | Standard | Link |
-|------|-------|----------|------|
-| *Romeo and Juliet* | Honor culture, noble family power, Renaissance Italy — the political embedded in the personal | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/romeo-and-juliet-shakespeare.md) |
-| *Hamlet* | Succession, legitimacy, Elizabethan political anxiety — when institutions fail to prevent injustice | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/hamlet-shakespeare.md) |
-
----
-
-## Skinnies to Pull This Era
-
-### World History Skinnies — Era 2
-| Standard | Skinny | When to Pull |
-|----------|--------|-------------|
-| WH.6_12.1 | [Science & Tech Era 2](../../skinnies/world-history/era-2/wh-6-12-1-science-tech-era2-skinny.md) | Islamic Golden Age, medieval innovation |
-| WH.6_12.2 | [Religion & Ideology Era 2](../../skinnies/world-history/era-2/wh-6-12-2-religion-ideology-era2-skinny.md) | Church power, Islam, Reformation seeds |
-| WH.6_12.3 | [Medieval Political Systems](../../skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md) | Feudalism, Magna Carta, Ottoman governance |
-| WH.6_12.4 | [Social & Cultural Era 2](../../skinnies/world-history/era-2/wh-6-12-4-social-cultural-era2-skinny.md) | Trade networks, daily life, cultural exchange |
-| WH.6_12.5 | [Causes & Effects Era 2](../../skinnies/world-history/era-2/wh-6-12-5-causes-effects-era2-skinny.md) | Crusades causes, Black Death effects, fall of Rome |
-| WH.6_12.6 | [Past to Present Era 2](../../skinnies/world-history/era-2/wh-6-12-6-past-present-era2-skinny.md) | Medieval → modern connections |
-
-### ELA Skinnies — Strongest Pulls for Era 2
-| Standard | Skinny | When to Pull |
-|----------|--------|-------------|
-| R.9 | [Informational & Argumentative](../../skinnies/ela9/r9-informational-argumentative-skinny.md) | Analyzing Magna Carta, Luther, Las Casas |
-| R.2 | [Comprehension & Inference](../../skinnies/ela9/r2-comprehension-inference-skinny.md) | When Ibn Battuta or Las Casas language is dense |
-| W.4 | [Argument Writing](../../skinnies/ela9/w4-argument-writing-skinny.md) | Arguing about governance, religious authority, or colonial violence |
-| W.3 | [Explanatory Writing](../../skinnies/ela9/w3-explanatory-writing-skinny.md) | Explaining trade networks, feudal hierarchy, or Reformation causes |
-| IR.1–5 | [Research Bundle](../../skinnies/ela9/ir1-5-research-bundle-skinny.md) | Source log, citations, research question — every Studio |
-
----
-
-## Studio Packets Available
-
-| Code | Essential Question | Standards |
-|------|-------------------|-----------|
-| [WH-03](../../units/studio-archive/wh-03-writing-against-empire.md) | When a powerful system is doing harm, what does it take to challenge it? | WH.6_12.4–5 + R.9 + W.4 |
-| [WH-04](../../units/studio-archive/wh-04-reformation-and-revolution.md) | Can one document change the world — and if so, how? | WH.6_12.5 + W.3 |
-| [WH-06](../../units/studio-archive/wh-06-connected-world.md) | What connects the world — and who decides who counts? | WH.6_12.4 + W.3 |
-| [WH-02](../../units/studio-archive/wh-02-rights-chain.md) | When people write down their rights, what changes — and what doesn't? | WH.6_12.5 + W.4 |
-
----
-
 ## Project Ideas — Era 2
 
 ---
@@ -139,6 +53,98 @@
 **Suggested Demo Mode:** Extended Writing or Verbal Conversation
 **Possible deliverables:** Essay · Podcast · Annotated primary source analysis
 **The argument:** Las Casas witnessed Spanish colonial violence and wrote about it explicitly to change policy. Students analyze his argumentative strategy (R.9 — who is he writing to? what is his evidence? what does he want the reader to do?) and write their own argument about whether witnessing and documenting harm is a moral obligation. WH.6_12.4–5 + W.4.
+
+---
+
+## Studio Packets Available
+
+| Code | Essential Question | Standards |
+|------|-------------------|-----------|
+| [WH-03](../../units/studio-archive/wh-03-writing-against-empire.md) | When a powerful system is doing harm, what does it take to challenge it? | WH.6_12.4–5 + R.9 + W.4 |
+| [WH-04](../../units/studio-archive/wh-04-reformation-and-revolution.md) | Can one document change the world — and if so, how? | WH.6_12.5 + W.3 |
+| [WH-06](../../units/studio-archive/wh-06-connected-world.md) | What connects the world — and who decides who counts? | WH.6_12.4 + W.3 |
+| [WH-02](../../units/studio-archive/wh-02-rights-chain.md) | When people write down their rights, what changes — and what doesn't? | WH.6_12.5 + W.4 |
+
+---
+
+## Reading Library — Era 2 Texts
+
+| Text | WH Standard | ELA Crosswalk | Link |
+|------|------------|---------------|------|
+| Magna Carta (1215) | WH.6_12.3 | R.9 — argument; W.4 — limits on government | [Open](../../reading-library/social-studies/magna-carta.md) |
+| Ibn Battuta — Rihla (1355) | WH.6_12.4 | R.2 — comprehension of travel narrative; W.3 — explain trade networks | [Open](../../reading-library/social-studies/ibn-battuta-rihla.md) |
+| Martin Luther — 95 Theses (1517) | WH.6_12.2 | R.9 — analyze a reform argument; W.4 — argument for institutional change | [Open](../../reading-library/social-studies/luther-95-theses.md) |
+| Las Casas — Short Account (1542) | WH.6_12.4–5 | R.9 — eyewitness argument; W.4 — moral argument | [Open](../../reading-library/social-studies/las-casas-short-account.md) |
+| *Romeo and Juliet* — Shakespeare (c. 1597) | WH.6_12.3 + WH.6_12.4 | R.8 — dramatic structure, honor culture; W.4 — who is responsible? | [Open](../../reading-library/ela/romeo-and-juliet-shakespeare.md) |
+| *Hamlet* — Shakespeare (c. 1600) | WH.6_12.3 + WH.6_12.2 | R.8 — soliloquy, dramatic irony; R.9 — embedded argument; W.4 | [Open](../../reading-library/ela/hamlet-shakespeare.md) |
+
+**Highest-leverage crosswalk text this era:** **Magna Carta** — compact, dense with argument, and directly tied to WH.6_12.3. Excellent for R.9 analysis (what is the barons' argument? what evidence do they give?) and W.4 writing ("Should there be limits on government authority?").
+
+---
+
+## Skinnies to Pull This Era
+
+### World History Skinnies — Era 2
+| Standard | Skinny | When to Pull |
+|----------|--------|-------------|
+| WH.6_12.1 | [Science & Tech Era 2](../../skinnies/world-history/era-2/wh-6-12-1-science-tech-era2-skinny.md) | Islamic Golden Age, medieval innovation |
+| WH.6_12.2 | [Religion & Ideology Era 2](../../skinnies/world-history/era-2/wh-6-12-2-religion-ideology-era2-skinny.md) | Church power, Islam, Reformation seeds |
+| WH.6_12.3 | [Medieval Political Systems](../../skinnies/world-history/era-2/wh-6-12-3-medieval-political-skinny.md) | Feudalism, Magna Carta, Ottoman governance |
+| WH.6_12.4 | [Social & Cultural Era 2](../../skinnies/world-history/era-2/wh-6-12-4-social-cultural-era2-skinny.md) | Trade networks, daily life, cultural exchange |
+| WH.6_12.5 | [Causes & Effects Era 2](../../skinnies/world-history/era-2/wh-6-12-5-causes-effects-era2-skinny.md) | Crusades causes, Black Death effects, fall of Rome |
+| WH.6_12.6 | [Past to Present Era 2](../../skinnies/world-history/era-2/wh-6-12-6-past-present-era2-skinny.md) | Medieval → modern connections |
+
+### ELA Skinnies — Strongest Pulls for Era 2
+| Standard | Skinny | When to Pull |
+|----------|--------|-------------|
+| R.9 | [Informational & Argumentative](../../skinnies/ela9/r9-informational-argumentative-skinny.md) | Analyzing Magna Carta, Luther, Las Casas |
+| R.2 | [Comprehension & Inference](../../skinnies/ela9/r2-comprehension-inference-skinny.md) | When Ibn Battuta or Las Casas language is dense |
+| W.4 | [Argument Writing](../../skinnies/ela9/w4-argument-writing-skinny.md) | Arguing about governance, religious authority, or colonial violence |
+| W.3 | [Explanatory Writing](../../skinnies/ela9/w3-explanatory-writing-skinny.md) | Explaining trade networks, feudal hierarchy, or Reformation causes |
+| IR.1–5 | [Research Bundle](../../skinnies/ela9/ir1-5-research-bundle-skinny.md) | Source log, citations, research question — every Studio |
+
+---
+
+## CrashCourse Episodes — Era 2
+
+| Episode | Topic | Standard | Link |
+|---------|-------|----------|------|
+| Ep 15 | The Crusades — Pilgrimage or Holy War? | WH.6_12.5 | [Watch guide](../../crashcourse/world-history/ep-15-crusades.md) |
+| Ep 25 | The Protestant Reformation | WH.6_12.2 | [Watch guide](../../crashcourse/world-history/ep-25-reformation.md) |
+
+*Additional Era 2 episodes are indexed at [WH Episode Index](../../crashcourse/world-history/index.md).*
+
+## CrashCourse Literature — Era 2
+
+| Work | Focus | Standard | Link |
+|------|-------|----------|------|
+| *Romeo and Juliet* | Honor culture, noble family power, Renaissance Italy — the political embedded in the personal | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/romeo-and-juliet-shakespeare.md) |
+| *Hamlet* | Succession, legitimacy, Elizabethan political anxiety — when institutions fail to prevent injustice | WH.6_12.3 + R.8 | [Episode guide](../../crashcourse/literature/hamlet-shakespeare.md) |
+
+---
+
+## Standards Active This Era
+
+| Subject | Standard | Focus |
+|---------|----------|-------|
+| **World History** | [WH.6_12.1](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-121) | Medieval science, technology, and Islamic Golden Age |
+| **World History** | [WH.6_12.2](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-122) | Religion and ideology — Islam, Christianity, feudal church |
+| **World History** | [WH.6_12.3](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-123) | Medieval political systems — feudalism, Magna Carta, Ottoman Empire |
+| **World History** | [WH.6_12.4](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-124) | Trade, cultural exchange, and social development |
+| **World History** | [WH.6_12.5](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-125) | Causes and effects — Crusades, Black Death, fall of Constantinople |
+| **World History** | [WH.6_12.6](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-126) | Medieval foundations connecting to the present |
+| **ELA — Reading** | [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) | Analyzing argumentative structure in medieval texts |
+| **ELA — Reading** | [R.2](../../standards/ela/gr9-10-scales.md#9-10r2) | Comprehension and inference in complex historical documents |
+| **ELA — Writing** | [W.4](../../standards/ela/writing-standards.md) | Argument writing — authority, obedience, religious power |
+| **ELA — Writing** | [W.3](../../standards/ela/writing-standards.md) | Explanatory writing — how medieval systems worked |
+
+**Strongest crosswalk pairing this era:** WH.6_12.3 + R.9 + W.4 — the Magna Carta is one of the clearest argument texts in world history. A student can analyze its claims (R.9), argue whether limiting government power is always justified (W.4), and demonstrate WH.6_12.3 political systems knowledge simultaneously.
+
+---
+
+## Why This Is Relevant Today?
+
+The Middle Ages built the systems that still govern modern life — and then shook them to pieces. The Magna Carta's argument that rulers must follow laws, not just make them, is the foundation of every constitution in the world. The Crusades introduced a template for religiously justified violence that didn't end in 1291. The Islamic Golden Age preserved the mathematics, medicine, and philosophy that made the European Renaissance possible — and then was written out of the story when Europe told it back. The Black Death killed one-third of Europe and rewired labor markets, social hierarchy, and the relationship between people and institutions in ways that took centuries to settle. If you want to understand why international law exists, why church and state are separate, or why questions about religious authority in government keep coming back — this era is where to look. Start with [WH-04: One Idea, 130 Years of War](../../units/studio-archive/wh-04-reformation-and-revolution.md) or [WH-06: The Connected World](../../units/studio-archive/wh-06-connected-world.md) to see how this era's ideas played out.
 
 ---
 
