@@ -90,6 +90,12 @@ This passage is the heart of King's argument against "wait." It demonstrates how
 
 ---
 
+## Why This Is Relevant Today?
+
+MLK wrote the "Letter from Birmingham Jail" in response to eight white Alabama clergymen who agreed that segregation was wrong but argued that the protesters were moving too fast, using the wrong tactics, and creating unnecessary tension. That argument — you're right about the problem but wrong about the approach, you're moving too fast, wait for a better moment — is made against every social movement, in every era, about every cause. MLK's reply is the most complete and convincing rebuttal to that argument ever written: he explains why "wait" has always meant "never," why tension is sometimes necessary for justice, why the charge of extremism is not a refutation, and why the people calling for patience bear responsibility for the conditions that created the movement. The letter is also a masterpiece of persuasion aimed at an audience that disagrees: MLK doesn't dismiss the clergymen, he meets them where they are and argues through their own stated values. Every debate about the pace and tactics of social change — Black Lives Matter, climate activism, immigration, disability rights — is still being conducted in the terms this letter established.
+
+---
+
 ## See Also
 
 - [Unit 6 — Civil Rights](../../standards/social-studies/us-history/unit-6-civil-rights.md)

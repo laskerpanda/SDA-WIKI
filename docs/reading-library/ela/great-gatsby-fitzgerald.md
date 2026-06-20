@@ -104,6 +104,12 @@ The novel's deepest argument is about the American Dream itself — whether the 
 
 ---
 
+## Why This Is Relevant Today?
+
+*The Great Gatsby* is the novel about the American Dream and why it doesn't work the way the mythology says it does. Gatsby reinvents himself completely, acquires vast wealth, and still can't get what he actually wants — because what he wants is acceptance from people who will never fully accept him, and because the source of his wealth (organized crime) can't be legitimized no matter how many parties he throws. Fitzgerald wrote this in 1925, during the last great era of extreme wealth inequality before the Depression reset the distribution. The United States is back at those levels of inequality now, and the same questions apply: Is the American Dream available to everyone, or only to those who already have access? Does the story of self-made success obscure how much of what looks like individual achievement is actually inherited position? And what is the actual relationship between old money and new money — between families that have been wealthy for generations and people who made it recently? Gatsby's tragedy is that he believed the story. The novel's staying power is that a lot of people still do.
+
+---
+
 ## See Also
 
 - [US History Unit 2 — The 1920s](../../standards/social-studies/us-history/unit-3-roaring-20s.md)

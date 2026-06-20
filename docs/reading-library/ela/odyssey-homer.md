@@ -132,6 +132,12 @@ the truth of all he has said; the bed with its secret...
 
 ---
 
+## Why This Is Relevant Today?
+
+The *Odyssey* is 2,800 years old and every culture in the world tells a version of it — departure, trials, return — because the pattern maps onto something real about how life works. The returning veteran who finds the world has moved on without him, the person who has been away so long they don't know who they are anymore, the question of what loyalty means across a long separation: these are not ancient problems. American veterans returning from Afghanistan and Iraq frequently describe an "Odyssey problem" — coming home to find that home is no longer what they left, that they've changed in ways the people at home can't see, and that the journey back to ordinary life is its own kind of odyssey. The poem's other thread — Penelope's twenty-year wait, using wit and deception to hold power while being technically powerless — is also a contemporary story about how people without formal power navigate systems that constrain them. Homer's world is gone. His characters aren't.
+
+---
+
 ## See Also
 
 - [Era 1 — Ancient Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

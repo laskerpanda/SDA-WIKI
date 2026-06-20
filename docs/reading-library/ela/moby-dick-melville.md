@@ -109,6 +109,12 @@ The novel failed commercially when Melville published it. It was "rediscovered" 
 
 ---
 
+## Why This Is Relevant Today?
+
+*Moby Dick* is about obsession, but it's also about what happens when everyone on a ship — a contained community with no exit — follows a leader whose obsession becomes disconnected from any reasonable goal. Ahab doesn't hide what he's doing; he tells the crew they're hunting one whale for revenge, and most of them follow him anyway. The novel is a study in how charisma, authority, and the dynamics of a captive group override individual judgment. That pattern appears in every organizational failure where people knew something was wrong and kept going — corporate cultures that pursue a failing strategy, military units that follow illegal orders, institutions that protect leaders who are harming people. Ishmael survives because he never fully surrenders his perspective. The novel also has a lot to say about the American relationship to nature: the whale industry that Melville documented was hunting sperm whales to near-extinction for lamp oil, which was replaced by petroleum, which created a different set of environmental problems. The extractive logic is the same.
+
+---
+
 ## See Also
 
 - [US History Unit 1 — Industrial Era](../../standards/social-studies/us-history/unit-1-industrial.md)

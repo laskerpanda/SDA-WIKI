@@ -139,6 +139,12 @@ Published in 1845, when Douglass was 27 years old and had been free for seven ye
 
 ---
 
+## Why This Is Relevant Today?
+
+Douglass published his *Narrative* in 1845 knowing it would reveal his identity and make him a fugitive again — because he calculated that the power of the testimony outweighed the personal risk. That calculation — that making people understand what was actually happening was worth the cost — is the same calculation every whistleblower, human rights witness, and journalist making a dangerous story public makes today. Douglass's method is also still being used: educate yourself in the language and tools of the oppressor, then use those tools to make an argument the oppressor can't dismiss without discrediting their own stated values. He became one of the most powerful writers and orators in America, and he used that position to make an argument about freedom and equality in the vocabulary of freedom and equality that America claimed to believe in. The ongoing debate about the legacy of slavery — reparations, the teaching of history, the persistence of racial wealth gaps — is the debate about whether the argument Douglass made has been answered. It hasn't.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolution and Industrialization](../../standards/social-studies/world-history/era-3-revolutions.md)

@@ -141,6 +141,12 @@ This is the oldest political science text in the reading library that is still d
 
 ---
 
+## Why This Is Relevant Today?
+
+The Athenian argument to the Melians — "the strong do what they can, the weak suffer what they must" — is the argument of every great power that has invaded a smaller country, imposed a trade deal, or threatened sanctions to force compliance. Thucydides records it openly because the Athenians didn't bother with euphemisms. Modern great powers usually wrap the same argument in the language of democracy, security, or rules-based order — which is exactly what Orwell described in "Politics and the English Language" 2,400 years later. The Melian Dialogue is relevant whenever a more powerful country tells a weaker one what it must accept, whenever permanent members of the UN Security Council veto resolutions about their own actions, or whenever international law is described as what the powerful choose to enforce. The Melians argued for neutrality and international norms. The Athenians destroyed them anyway. That outcome matters too — it tells you something about what norms without enforcement actually are.
+
+---
+
 ## See Also
 
 - [Era 1 — Ancient Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

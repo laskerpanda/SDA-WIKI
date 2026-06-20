@@ -99,6 +99,12 @@ The first passage states the argument precisely: not power over others, but self
 
 ---
 
+## Why This Is Relevant Today?
+
+Wollstonecraft's core argument — that women appear inferior to men not because they are, but because they've been denied the education and opportunity that would develop their capacities — is the founding argument of every subsequent debate about gender equality in education, employment, and public life. Her target was Rousseau, who argued that women should be educated to please men rather than to think for themselves. The contemporary version of that argument (that gender gaps in certain fields reflect natural differences rather than socialization and opportunity) is still made, still contested, and still requires exactly the kind of evidence-based rebuttal Wollstonecraft provided. Her argument that rational capacity is the basis of citizenship, and that if women have rational capacity they have the same claim to rights as men, is the logic used in every legal challenge to gender-based discrimination since. *A Vindication of the Rights of Woman* is 230 years old. The argument it makes hasn't been fully settled yet.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolutions](../../standards/social-studies/world-history/era-3-revolutions.md)

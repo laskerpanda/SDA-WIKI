@@ -134,6 +134,12 @@ The readiness is all.
 
 ---
 
+## Why This Is Relevant Today?
+
+Hamlet's central problem — he knows something terrible has been done, he has reason to believe who did it, but the person who did it is in power and he can't prove it without risking everything — is not a Renaissance problem. It's the situation of every person who witnesses institutional wrongdoing by someone with authority over them: the employee who sees the boss committing fraud, the soldier who witnesses a war crime by a superior officer, the student who sees a teacher abuse a peer. What do you do when the system is corrupted by the person you'd need to report to? Hamlet's paralysis is often read as weakness, but it's also an accurate description of the options available to someone in his position. The play's other thread — the performance of madness as a survival strategy, the question of whether Hamlet's behavior is calculated or genuine — is also still resonant in every context where someone navigates a dangerous environment by making themselves hard to read.
+
+---
+
 ## See Also
 
 - [Era 2 — Renaissance and Reformation](../../standards/social-studies/world-history/era-2-middle-ages.md)

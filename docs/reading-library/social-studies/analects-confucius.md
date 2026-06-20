@@ -146,6 +146,12 @@ Confucius (551–479 BCE) was a Chinese philosopher, teacher, and political advi
 
 ---
 
+## Why This Is Relevant Today?
+
+Confucianism is undergoing a political revival. The Chinese government has heavily promoted Confucian values — social harmony, respect for authority, the family as a model for the state — as an alternative framework to Western liberal democracy, funding Confucius Institutes on university campuses globally as part of that project. This makes the Analects more politically significant than they've been in decades, but also more contested: Is contemporary state Confucianism a genuine philosophical tradition, or a legitimating ideology for authoritarian governance? Beyond China, Confucian ideas about education as moral formation (not just credentialing), about the reciprocal obligations between leaders and the people they lead, and about social harmony as a value alongside individual rights genuinely challenge Western liberal assumptions — and are worth engaging seriously on their own terms. The Analects also have something to say about the current crisis in civic trust: Confucius argued that legitimacy depends on the ruler being worthy of loyalty, and that government loses the "mandate of heaven" when it stops serving the people. That's a live argument in any political system.
+
+---
+
 ## See Also
 
 - [Era 1 — Ancient Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

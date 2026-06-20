@@ -96,6 +96,12 @@ This is the structural and thematic center of the book. The anaphoric repetition
 
 ---
 
+## Why This Is Relevant Today?
+
+Elie Wiesel wrote *Night* because he believed that if enough people understood exactly what happened — not as statistics but as lived experience — it could never happen again. That belief is being tested. Genocide has happened repeatedly since 1945: Cambodia, Bosnia, Rwanda, Darfur, the Uyghur detention camps in China. In each case, the world had the information before the killing reached its worst, and in each case the response was inadequate. *Night* matters today not as a completed historical lesson but as an ongoing argument: Wiesel's "never again" was a promise, and the question of whether it's been kept is not rhetorical. The Holocaust is also the central case in the argument about whether understanding evil prevents it — and the evidence on that question is genuinely mixed. Reading *Night* is not sufficient to prevent genocide, but Wiesel's argument was that it is necessary — that a world that could look clearly at what was done to his people and still do nothing would be making a different and worse choice than one that never knew.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

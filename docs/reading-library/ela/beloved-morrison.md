@@ -114,6 +114,12 @@ The novel requires students to sit with the scene in the woodshed — Morrison d
 
 ---
 
+## Why This Is Relevant Today?
+
+*Beloved* is about the specific, unresolved trauma of American slavery — how it haunts not just survivors but their children, their communities, and the national memory. Morrison's central argument is that you cannot heal what you refuse to remember. Sethe cannot move forward until she confronts what she did and why, and the community cannot heal until it stops trying to protect itself from the ghost of what happened. That argument applies to every conversation about racial injustice, historical trauma, and collective memory: the question of whether acknowledging the full truth of what happened is necessary for any real reconciliation, or whether moving forward requires setting the past aside. *Beloved* says the past doesn't cooperate with being set aside — it comes back as a ghost and disrupts everything until it's dealt with. The debate about reparations, about teaching the history of slavery in schools, about monuments and memorials — all of it is an argument about whether Sethe's choice (confront the ghost) or Denver's initial choice (pretend it isn't there) is the right model.
+
+---
+
 ## See Also
 
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)

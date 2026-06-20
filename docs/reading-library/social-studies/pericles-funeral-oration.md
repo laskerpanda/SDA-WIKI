@@ -107,6 +107,12 @@ The question this pair forces: **Is the Funeral Oration a description of what At
 
 ---
 
+## Why This Is Relevant Today?
+
+Pericles' Funeral Oration is the most eloquent argument ever made for why democracy is worth defending — and it was delivered while Athens was making the decisions that would eventually destroy it. The speech asks what makes a political community worth belonging to: military strength? economic prosperity? Or something about how the city treats its people, what freedoms it protects, what kind of life it makes possible? Those questions are live in every democracy right now. When people argue about whether a country lives up to its ideals, what civic participation requires, what citizens owe their community alongside what the community owes them, or whether freedom is worth its obligations — they're in the argument Pericles started. The speech is also an example of political rhetoric at its best: not manipulation but genuine persuasion, making the case for a way of life on its merits. Which makes it useful to read alongside speeches that are the opposite — and to ask what the difference is.
+
+---
+
 ## See Also
 
 - [Era 1 — Ancient Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

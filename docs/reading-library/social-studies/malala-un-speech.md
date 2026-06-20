@@ -117,6 +117,12 @@ After watching: What did her delivery add to the text? Where did the spoken vers
 
 ---
 
+## Why This Is Relevant Today?
+
+Malala Yousafzai was shot by the Taliban in 2012 for advocating for girls' education. Her UN speech, given less than a year later, is the most-watched speech in UN history. It's relevant today for several reasons. The Taliban returned to power in Afghanistan in 2021 and immediately banned girls from secondary school and universities — the same policy they enforced before 2001 and that Malala was shot for opposing. The debate about whether the international community has an obligation to intervene to protect girls' education access is ongoing and unresolved. The speech itself is also a model of rhetoric: a fifteen-year-old survivor speaking to the most powerful international body in the world about why education is not just a nice idea but a fundamental right. Her specific position — survivor, teenager, girl from a country most of the audience had only encountered through foreign policy — gives her argument a moral authority that the same argument from a government official or NGO spokesperson could not have. That's worth analyzing: not just what she argues, but why she is the one who had to say it.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

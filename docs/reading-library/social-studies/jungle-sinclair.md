@@ -134,6 +134,12 @@
 
 ---
 
+## Why This Is Relevant Today?
+
+Sinclair's *The Jungle* led directly to the Pure Food and Drug Act and the Meat Inspection Act of 1906 — two of the first major pieces of consumer protection legislation in American history. The model it established (investigative journalism exposes specific harm, public outrage builds, legislation follows) is still the primary mechanism for consumer and worker protection in the United States. Every food safety recall, every workplace safety investigation, every pharmaceutical liability case uses legal and regulatory frameworks that exist because of what Sinclair wrote. And the conditions he described — dangerous workplaces, unregulated food production, exploitation of immigrant workers — are not historical curiosities. They recur wherever regulation is weak or unenforced: in meatpacking plants that became COVID hotspots in 2020, in warehouses where workers are injured at above-average rates, in factories overseas that supply American companies. The question *The Jungle* raised — who is responsible for protecting workers when employers won't? — is still the argument behind every labor regulation debate.
+
+---
+
 ## See Also
 
 - [Unit 1 — Industrial Revolution and Progressive Era](../../standards/social-studies/us-history/unit-1-industrial.md)

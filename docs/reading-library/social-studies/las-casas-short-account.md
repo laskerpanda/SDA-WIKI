@@ -119,6 +119,12 @@ This is not a reason to dismiss his condemnation of indigenous slavery — the c
 
 ---
 
+## Why This Is Relevant Today?
+
+Las Casas wrote his account of Spanish atrocities in the Americas as a deliberate act of witness — the same act Elie Wiesel performed in *Night*, the same act journalists perform when they document war crimes today. His argument was simple: these are people, they are being killed, and the people doing the killing know it. The debate that followed — do Indigenous people have natural rights? Does a colonial power's legal claim override local sovereignty? Can conquest be just? — is not resolved. The legacy of Spanish colonization shapes every country in Latin America, and debates about what is owed to descendants of colonized peoples are among the most contested political questions in the hemisphere today. Las Casas is also the first major example of a person using their access to power to document what power was doing — the model for human rights reporting, war crimes documentation, and investigative journalism. The atrocities he documented exist in the historical record because he wrote them down. The ones he didn't are harder to prove.
+
+---
+
 ## See Also
 
 - [Era 2 — Middle Ages](../../standards/social-studies/world-history/era-2-middle-ages.md)

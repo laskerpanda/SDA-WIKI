@@ -125,6 +125,12 @@ Each document in the chain is in the SDA Reading Library. Use all four for IR.1�
 
 ---
 
+## Why This Is Relevant Today?
+
+FDR's Four Freedoms — freedom of speech, freedom of worship, freedom from want, freedom from fear — are relevant today because three of them remain contested. Freedom of speech is contested in every debate about social media content moderation and disinformation. Freedom from want (the idea that people have a right to basic material security) is the philosophical foundation of every argument about the social safety net: Social Security, Medicare, unemployment insurance, SNAP, Medicaid. FDR was arguing in 1941 that freedom from poverty and freedom from fear are as real as freedom of speech — and that a democracy that doesn't secure them isn't fully free. That argument is still contested: the debate about whether economic security is a right or a personal responsibility is one of the most fundamental divides in American politics. Freedom from fear — as FDR framed it, freedom from the threat of aggressive international violence — is also live in every debate about nuclear deterrence, arms control, and the conditions under which the use of force is legitimate.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

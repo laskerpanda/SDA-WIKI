@@ -165,6 +165,12 @@ This is the sentence that made European kings afraid of excommunication for the 
 
 ---
 
+## Why This Is Relevant Today?
+
+The Investiture Controversy was about who gets to appoint bishops — but the underlying question was: when religious authority and political authority conflict, which one wins? That question never went away. In the U.S., debates about whether religious institutions must follow civil rights laws (in hiring, in healthcare delivery, in adoption services) are the Gregory vs. Henry dispute in modern form. In countries where religious law and state law coexist — Iran's constitutional structure, Saudi Arabia's governance, Israel's rabbinic courts — the medieval question is a live constitutional issue. The concept of "two swords" — that spiritual and temporal power are separate domains that must somehow cooperate — is the ancestor of the separation of church and state, which is itself a contested principle everywhere religion and politics intersect. This correspondence shows that the church-state question is not a modern invention: it was fought, produced real political consequences, and generated compromises before the Reformation even began.
+
+---
+
 ## See Also
 
 - [The Magna Carta](./magna-carta.md) — Another case of powerful men limiting a king's authority; compare the mechanisms

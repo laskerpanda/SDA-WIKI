@@ -125,6 +125,12 @@ Students should engage with the Manifesto critically, not as gospel or as propag
 
 ---
 
+## Why This Is Relevant Today?
+
+Marx and Engels predicted in 1848 that capitalism would produce accelerating inequality, periodic crises, and eventually its own destruction through class conflict. The inequality part is difficult to dispute: wealth concentration in the United States and globally is at levels not seen since the Gilded Age. The periodic crises part produced the Great Depression, the 2008 financial crisis, and the COVID-19 economic shock. Whether the rest of the prediction is accurate is one of the central contested questions in contemporary politics. Arguments about minimum wage, union rights, gig economy classification, wealth taxes, and the role of government in the economy are all, at root, arguments about the relationship between capital and labor that Marx analyzed. You don't have to accept his conclusions to find his analysis useful: the *Manifesto*'s description of how capitalism works — commodification of labor, global expansion, displacement of traditional structures — reads like a description of the gig economy written in 1848.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolution and Industrialization](../../standards/social-studies/world-history/era-3-revolutions.md)

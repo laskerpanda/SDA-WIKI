@@ -150,6 +150,12 @@ Luther's theses reached across Europe within months of being written — somethi
 
 ---
 
+## Why This Is Relevant Today?
+
+Luther nailed his theses to a church door in 1517, and within weeks they had spread across Germany — because the printing press made mass reproduction and distribution possible for the first time in history. Historians call this the first media revolution: a new technology changed who could speak publicly, who could be heard, and at what scale, faster than institutions could adapt. Social media is the second media revolution with the same structure: new technology changes who can speak publicly, who can be heard, and at what scale — faster than institutions can adapt. Every argument about misinformation, algorithmic amplification, institutional authority, and who decides what counts as true online is a version of the argument Luther's theses started. Luther challenged the church's authority to be the sole interpreter of scripture; critics of social media platforms challenge their authority to decide what speech is acceptable. The Reformation didn't just change religion — it changed how authority works in a world where information travels faster than institutions can control it. We have not fully adapted to that change yet.
+
+---
+
 ## See Also
 
 - [Era 2 — Middle Ages](../../standards/social-studies/world-history/era-2-middle-ages.md)

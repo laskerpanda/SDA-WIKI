@@ -251,6 +251,12 @@ This law reveals both the extreme power of Roman fathers (they could legally sel
 
 ---
 
+## Why This Is Relevant Today?
+
+The Twelve Tables were created because ordinary Romans demanded that the laws be written down and posted publicly — before that, patrician magistrates could apply the law however they chose because only they knew what it said. That demand (make the rules visible to the people they govern) is the foundation of due process, the rule of law, and the legal right to know what you're accused of. When people argue about mandatory sentencing guidelines, judicial transparency, or the right to see the government data collected about you, they're making the same argument the plebs made in 450 BCE. The Twelve Tables also established that law should be fixed and predictable — not whatever the magistrate feels like today — which is still the argument in every debate about judicial discretion vs. mandatory minimums. Ignorance of the law is no excuse, as every law student learns — but that principle only makes sense when the law is publicly posted.
+
+---
+
 ## See Also
 
 - [The Code of Hammurabi](./hammurabi-code.md) — Earlier written law code; compare to the Twelve Tables

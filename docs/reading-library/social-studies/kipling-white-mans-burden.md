@@ -274,6 +274,12 @@ With heavy-crownt, cold-edged thanks.
 
 ---
 
+## Why This Is Relevant Today?
+
+"The White Man's Burden" was published in 1899 to encourage the United States to take up imperial governance of the Philippines — and it is the clearest statement of the ideology used to justify colonialism as humanitarian work. The colonized peoples are described as "half-devil and half-child," in need of the civilizing order that only European governance can provide. That framing — we are here to help, they need what we have, our presence is a gift — didn't end with formal colonialism. It appears in "nation-building" arguments, in international development discourse, in humanitarian intervention rationales, and in the implicit assumptions of foreign aid programs. H.T. Johnson's counter-poem, written the same year, is a reminder that the people being described as half-devils had their own voice and their own analysis of what was actually happening. Reading both together is a lesson in who gets to tell the story, and what changes when the people being described tell it themselves.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolution and Industrialization](../../standards/social-studies/world-history/era-3-revolutions.md)

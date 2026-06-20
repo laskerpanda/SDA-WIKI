@@ -108,6 +108,12 @@ Aristotle called *Oedipus Rex* the greatest play ever written. It is worth askin
 
 ---
 
+## Why This Is Relevant Today?
+
+*Oedipus Rex* is the original story about a person who does everything right — investigates, follows the evidence, refuses to stop when warned — and ends up proving the thing he was trying to disprove. Sophocles is asking whether it's possible to escape the consequences of who you are or where you come from, and whether knowledge is always better than ignorance. Those questions don't resolve. The play's investigation structure (Oedipus pursuing truth until it destroys him) maps onto every story about whistleblowers, investigators, and journalists who uncover something that ruins their own position in the process. It also maps onto every argument about genetic determinism, fate vs. agency, and whether knowing your diagnosis is always better than not knowing. The concept of "tragic flaw" — hamartia — that Aristotle derived from Oedipus is still the framework therapists, writers, and coaches use to describe how someone's greatest strength becomes their greatest weakness under pressure.
+
+---
+
 ## See Also
 
 - [Era 1 — Ancient Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

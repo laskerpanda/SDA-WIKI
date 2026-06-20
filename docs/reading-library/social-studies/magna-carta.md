@@ -98,6 +98,12 @@ This is the core due process clause. It is the direct ancestor of the 5th and 14
 
 ---
 
+## Why This Is Relevant Today?
+
+Habeas corpus — the right not to be imprisoned without being told why and given a chance to contest it — is Magna Carta. Due process — the right to a fair legal procedure before the government can take your life, liberty, or property — is Magna Carta. The argument that executive power has limits, that rulers must follow the law they make, that there are things a government simply cannot do regardless of how powerful it is — all Magna Carta. When the U.S. government detained people at Guantanamo Bay without charges, the legal battle was explicitly about habeas corpus. When presidents claim emergency powers that bypass Congress, the question is explicitly about the limits on executive authority. When courts strike down government actions as unconstitutional, they're enforcing the same principle: the ruler is under the law, not above it. Magna Carta's 1215 barons were not fighting for abstract principles — they were stopping a king who kept changing the rules to suit himself. The same fight happens every generation.
+
+---
+
 ## See Also
 
 - [Era 2 — Middle Ages](../../standards/social-studies/world-history/era-2-middle-ages.md)

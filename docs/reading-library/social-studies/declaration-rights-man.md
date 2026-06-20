@@ -109,6 +109,12 @@ Article 3 ends divine right monarchy as a legitimate political theory. Article 4
 
 ---
 
+## Why This Is Relevant Today?
+
+The Declaration of the Rights of Man and of the Citizen proclaimed universal rights — and then defined "citizen" in ways that excluded women, enslaved people, Jews, and colonized peoples. That gap between "universal" and the actual scope of who counted was the political work of the next two centuries, and it is not finished. Every argument about who deserves citizenship, who the law protects, and whose rights are taken seriously at the border is an argument about where the line gets drawn on "universal." The Declaration is also the source of the concept that rights are inherent to persons, not granted by rulers — which is the philosophical foundation of every human rights framework since. When the Universal Declaration of Human Rights was written in 1948, it was explicitly building on this tradition. And when governments today argue that their sovereignty gives them the right to treat their own citizens however they choose, they're arguing against this tradition. The debate between state sovereignty and universal human rights is still the central tension in international law.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolutions](../../standards/social-studies/world-history/era-3-revolutions.md)

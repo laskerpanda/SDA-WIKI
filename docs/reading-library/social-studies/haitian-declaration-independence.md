@@ -98,6 +98,12 @@ This text pairs directly with others already in the library:
 
 ---
 
+## Why This Is Relevant Today?
+
+Haiti's Declaration of Independence in 1804 was the first successful revolution by enslaved people in history, and the world's response was to isolate and punish the new nation for having the audacity to win. France demanded reparations — payment for the "value" of the enslaved people who had freed themselves and the colony they had built — and Haiti was still paying that debt until 1947. The U.S. didn't recognize Haitian independence until 1862, when the Confederacy had left Congress and the slaveholders' objection to a free Black republic was temporarily removed. Haiti's subsequent history — poverty, political instability, foreign intervention — cannot be understood without understanding what was done to it in the decades after independence. The question of reparations for slavery is partly a question about Haiti: a country that has been paying reparations for emancipation for nearly two centuries while the world calls its poverty a product of its own failures. The Haitian Declaration is also the only founding document in history written explicitly to justify revolution against slavery.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolution and Industrialization](../../standards/social-studies/world-history/era-3-revolutions.md)

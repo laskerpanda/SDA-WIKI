@@ -147,6 +147,12 @@
 
 ---
 
+## Why This Is Relevant Today?
+
+*Julius Caesar* is about what happens after you remove a leader who is becoming a tyrant: someone else immediately fills the vacuum, using the same tools — rhetorical manipulation, popular grievance, military loyalty — in ways the conspirators didn't anticipate. The play is not pro-Caesar and not pro-Brutus; it's a study in how political violence plays out in practice rather than theory, and why the gap between political intention and political outcome is almost always larger than the actors expect. Antony's funeral speech — how he turns the crowd from mourning to rage in three minutes by pretending to do the opposite — is still the model for political demagoguery: repeat your opponent's virtues until the audience hears only your contempt, use the props of sincerity to convey resentment, give the crowd permission to feel what it already wants to feel. Every political speech class, every media literacy curriculum, and every analysis of how politicians move public opinion starts with this scene.
+
+---
+
 ## See Also
 
 - [Era 1 — Ancient Civilizations](../../standards/social-studies/world-history/era-1-civilizations.md)

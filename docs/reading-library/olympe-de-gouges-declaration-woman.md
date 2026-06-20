@@ -82,6 +82,12 @@ This text is crucial for high school students to understand because it introduce
 
 ---
 
+## Why This Is Relevant Today?
+
+Olympe de Gouges wrote her Declaration of the Rights of Woman in 1791 by simply taking the Declaration of the Rights of Man and replacing "man" with "woman" — to show that the logic of universal rights either applies to everyone or it isn't universal. She was guillotined two years later. The argument she made — that if rights are truly inherent to persons, denying them to women is a logical contradiction — has been made by every feminist movement since, in every country where women have fought for rights they were told they didn't deserve. The specific rights she demanded (to vote, to own property, to speak publicly, to participate in government) are still contested in parts of the world today, and the argument that women's equality threatens the natural social order is still made. Her fate is also instructive: she challenged a revolutionary government that proclaimed universal freedom and was executed for doing so. The gap between a movement's stated values and who it actually includes is never closed automatically.
+
+---
+
 ## See Also
 
 - [Declaration of the Rights of Man (1789)](social-studies/declaration-rights-man.md)

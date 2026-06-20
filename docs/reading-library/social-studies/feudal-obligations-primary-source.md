@@ -132,6 +132,12 @@ This is the most important line in the collection: "he holds his land at the wil
 
 ---
 
+## Why This Is Relevant Today?
+
+Feudal obligations look strange from the outside — a web of personal loyalty, labor, and protection binding peasants to lords and lords to kings. But the underlying structure (you provide labor and loyalty; in exchange you receive security and a share of the surplus) is recognizable in every employment contract ever written. The gig economy has made this comparison sharper: when platform workers argue they're employees rather than independent contractors, they're arguing about the nature of the obligation between a person who does the work and the entity that controls the conditions. Uber, DoorDash, and Amazon Mechanical Turk have all been described as "digital feudalism" — not as a metaphor but as an analysis of power asymmetry. Feudalism was also the first major system built to manage agricultural surplus at scale, which means understanding it helps explain why land ownership, inheritance rights, and the right to tax became the central conflicts of the Middle Ages — and why versions of those conflicts (property rights, wealth concentration, estate taxes) remain live political debates today.
+
+---
+
 ## See Also
 
 - [Pope Gregory VII and Emperor Henry IV](./pope-gregory-emperor-henry-correspondence.md) — The Investiture Controversy: when church and feudal lord competed for authority

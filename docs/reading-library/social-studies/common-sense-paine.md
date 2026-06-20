@@ -104,6 +104,12 @@ The first passage shows Paine's Enlightenment framework: government is a concess
 
 ---
 
+## Why This Is Relevant Today?
+
+*Common Sense* sold 500,000 copies in a population of 2.5 million — proportionally, it would be the best-selling book in American history if published today. Paine achieved this not with academic argument but by making a simple, direct case in plain language that anyone could follow: monarchy is a bad idea, hereditary rule is absurd, and the colonies have nothing to lose by declaring independence. That combination — a clear argument, accessible language, and mass distribution — is the template for every successful political persuasion campaign since. The pamphlet's structure (here's the problem, here's the case against the status quo, here's what we should do instead) is also the structure of every editorial, petition, and social media thread trying to move people to action. Paine also showed that political arguments don't have to be written for elites to be taken seriously — he wrote for the public, and the public responded. That model of democratic persuasion is always relevant.
+
+---
+
 ## See Also
 
 - [Era 3 — Revolutions](../../standards/social-studies/world-history/era-3-revolutions.md)

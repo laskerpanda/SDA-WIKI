@@ -110,6 +110,12 @@ Both traveled in the 14th century; both left famous accounts. They saw different
 
 ---
 
+## Why This Is Relevant Today?
+
+Ibn Battuta traveled 75,000 miles across three continents in the 14th century — more than any traveler before him — and was welcomed in Muslim courts from Mali to China because the Islamic world of his era shared a common language, legal framework, and intellectual culture that cut across political borders. That cosmopolitan Muslim world — diverse, intellectually alive, and in many ways more connected than the fragmented European kingdoms of the same period — challenges the Western assumption that the "Middle Ages" were universally dark and backward. The *Rihla* is relevant today for several reasons: the societies Ibn Battuta described are ancestral to countries that Western foreign policy often treats as monolithic; his account is a useful counter to that flattening. The *Rihla* also raises questions about who gets to travel freely and who doesn't — Ibn Battuta moved through borders that no longer exist in a world organized around different assumptions about belonging. In a world where passport privilege determines how far you can go and how you're treated when you arrive, his freedom of movement is worth reflecting on.
+
+---
+
 ## See Also
 
 - [Era 2 — Middle Ages](../../standards/social-studies/world-history/era-2-middle-ages.md)

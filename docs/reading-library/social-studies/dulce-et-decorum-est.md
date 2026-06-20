@@ -142,6 +142,12 @@ This poem is a primary source for understanding how WWI was experienced by comba
 
 ---
 
+## Why This Is Relevant Today?
+
+Owen wrote "Dulce et Decorum Est" to counter the propaganda being used to recruit young men into a war that was killing them in industrial quantities — the Latin phrase "it is sweet and fitting to die for one's country" is the lie he is calling out. The poem matters today because the gap between how war is depicted in political speech, recruitment materials, and patriotic narrative versus what soldiers actually experience is still the same gap. Veterans' suicide rates, PTSD rates, and the long-term physical and psychological costs of service are poorly represented in the rhetoric used to justify sending people to war. Owen is not anti-soldier — he is pro-honesty about what you are asking soldiers to do and what it costs them. Every debate about military intervention, veteran care, the use of war as a foreign policy tool, and the moral obligations of a society to the people it sends into combat runs through the question Owen raised: are we being told the truth about what this costs?
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

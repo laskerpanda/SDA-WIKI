@@ -110,6 +110,12 @@ Both men were imprisoned for resistance to racial systems. Both addressed their 
 
 ---
 
+## Why This Is Relevant Today?
+
+Mandela gave the Rivonia Trial speech expecting to be sentenced to death. He used it to state, clearly and without apology, why he had done what he had done and what he believed — not to appeal for mercy but to put his reasoning on the record. That choice — to use the moment of greatest vulnerability to make the fullest statement of your values — is one model for how to act under pressure that every political prisoner and every person facing institutional punishment for principled action has to consider. The speech is also relevant because the question it raises — what is owed to a society after a regime built on systematic injustice ends? — has never been more live. South Africa's Truth and Reconciliation Commission was one attempt to answer it: not criminal prosecution but public acknowledgment of what happened and by whom. That model has been applied (or debated) in post-conflict societies ever since, including in debates about accountability for past injustices in the United States. Mandela's willingness to accept reconciliation without demanding punishment is also contested — it is both the reason the transition to democracy was peaceful and the reason structural inequality in South Africa remained largely unchanged.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

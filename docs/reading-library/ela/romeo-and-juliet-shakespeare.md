@@ -144,6 +144,12 @@ Than this of Juliet and her Romeo.
 
 ---
 
+## Why This Is Relevant Today?
+
+*Romeo and Juliet* is not primarily a love story — it's a story about what inherited conflict costs people who didn't choose it. Romeo and Juliet don't hate each other's families; they were born into a feud they had no part in starting and die because neither family could stop it in time. That pattern — young people destroyed by conflicts the older generation won't resolve — is recognizable in every context where inherited enmity outlasts its original cause: gang violence, political sectarianism, ethnic conflict, family feuds. Shakespeare also shows how quickly escalation happens once it starts: Mercutio's death, then Tybalt's, then the plan that goes wrong — each step following logically from the last, none of them necessary. The play is a tragedy not because of fate but because of choices that could have been made differently at every step. That's still how most tragedies work.
+
+---
+
 ## See Also
 
 - [Era 2 — Renaissance and Reformation](../../standards/social-studies/world-history/era-2-middle-ages.md)

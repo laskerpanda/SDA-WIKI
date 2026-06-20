@@ -143,6 +143,12 @@ The UDHR is the culmination of a chain of rights documents traceable through the
 
 ---
 
+## Why This Is Relevant Today?
+
+The Universal Declaration of Human Rights was adopted in 1948 and has no enforcement mechanism. That gap — between what the Declaration says and what governments do — is a live political question every day. When refugees are turned back at borders, when political prisoners are held without trial, when journalists are jailed for reporting, when ethnic minorities are persecuted by their own governments — in each case, the human rights framework created by the UDHR is the vocabulary used to condemn the action, and the lack of enforcement is why the condemnation often changes nothing. The Declaration is also the source of the framework that every human rights organization, international court, and humanitarian intervention uses to justify its actions. Understanding the UDHR means understanding where the language of international human rights law comes from, why it has the authority it has, and why it has the limits it has. Article 25 (the right to a standard of living adequate for health and wellbeing, including food, housing, and medical care) is also the foundation of every argument about economic rights — and is one of the most contested articles in the document.
+
+---
+
 ## See Also
 
 - [Era 4 — Global War](../../standards/social-studies/world-history/era-4-global-war.md)

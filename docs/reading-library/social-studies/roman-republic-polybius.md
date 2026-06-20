@@ -116,6 +116,12 @@ This is Polybius's core argument: mutual dependence and mutual checking creates 
 
 ---
 
+## Why This Is Relevant Today?
+
+Polybius argued that Rome's mixed constitution — elements of monarchy (consuls), aristocracy (Senate), and democracy (assemblies) — created a stable system where no single faction could dominate permanently. This is the direct ancestor of the U.S. Constitution's separation of powers: the Founders read Polybius, and when James Madison wrote about checks and balances in *The Federalist Papers*, he was using Polybius's framework. Every debate about whether one branch of government has accumulated too much power, whether constitutional design is adequate for modern challenges, or whether American democracy is functioning as intended is a debate Polybius started. He also described how republics decay — each element tends toward its corrupt form (monarchy becomes tyranny, aristocracy becomes oligarchy, democracy becomes mob rule) — and that cycle is what political scientists still use to analyze democratic backsliding today. Reading Polybius alongside contemporary political news is not a metaphor. It's a diagnostic tool.
+
+---
+
 ## See Also
 
 - [The Twelve Tables of Rome](./twelve-tables-rome.md) — Rome's written law code; compare the legal and political structures
