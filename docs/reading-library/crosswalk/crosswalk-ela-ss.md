@@ -42,11 +42,19 @@ A crosswalk text lets a studio session count toward both the ELA and SS standard
 | *The Jungle* (Sinclair, selections) | US.6_12.5 + Unit 1 | R.8 (literary narrative) · W.3 | Written Assessment · Portfolio Annotation |
 | Ida Tarbell, Standard Oil exposé | US.6_12.4 + Unit 2 | R.9 (investigative journalism structure) | Written Assessment |
 | Langston Hughes, poetry selections | US.6_12.3 + Unit 3 | R.8 (literary elements, tone) | Verbal Conversation · Visual/Creative |
-| FDR, "Four Freedoms" speech | US.6_12.4 + Unit 5 | R.9 (argument, rhetoric) | Written Assessment |
+| *The Great Gatsby* (Fitzgerald) | US.6_12.4 + Unit 3 | R.8 (literary elements — symbol, character, setting as historical argument) | Extended Writing · Portfolio Annotation |
+| FDR, "Four Freedoms" speech | US.6_12.1 + Units 4–5 | R.9 (argument, rhetoric) | Written Assessment |
+| *Night* (Wiesel) | US.6_12.2 + Unit 4 | R.8 (memoir as testimony; literary witness) · W.3 | Verbal Conversation · Portfolio Annotation |
+| *Slaughterhouse-Five* (Vonnegut) | US.6_12.2 + Unit 4 | R.8 (satire, nonlinear narrative, civilian cost of war) | Extended Writing · Multimedia |
 | MLK, "Letter from Birmingham Jail" | US.6_12.3-4 + Unit 6 | R.9 · W.4 (argument mentor text) | Extended Writing · Verbal Conversation |
 | James Baldwin, essays | US.6_12.3 + Unit 6 | R.9 · W.4 (essay structure) | Extended Writing |
-| Pentagon Papers (selections) | US.6_12.4 + Unit 7 | R.9 (evaluating source credibility) | Portfolio Annotation |
+| *Fahrenheit 451* (Bradbury) | US.6_12.3 + Unit 7 | R.8 (dystopian world-building, censorship as theme) | Extended Writing · Multimedia |
+| Pentagon Papers (selections) | US.6_12.3 + Unit 7 | R.9 (evaluating source credibility; what documents claim vs. conceal) | Portfolio Annotation |
 | Philip Caputo, *A Rumor of War* | US.6_12.3 + Unit 7 | R.8 (memoir, point of view) | Verbal Conversation |
+| *The Handmaid's Tale* (Atwood) | US.6_12.5 + Unit 8 | R.8 (dystopian fiction as political argument; cultural artifact of its era) · W.4 | Extended Writing · Multimedia |
+| *The Kite Runner* (Hosseini) | US.6_12.2 + Unit 9 | R.8 (personal narrative as perspective on political history) | Verbal Conversation · Extended Writing |
+| *Persepolis* (Satrapi) | US.6_12.2 + Unit 9 | R.8 (graphic memoir; visual language as argument and testimony) | Visual/Creative · Extended Writing |
+| Malala Yousafzai, UN Speech | US.6_12.6 + Unit 9 | R.9 (argument structure; how speaker's position shapes rhetorical power) | Written Assessment · Multimedia |
 | Contemporary 9/11 journalism | US.6_12.6 + Unit 9 | R.9 (media analysis) · IR.4 (credibility) | Written Assessment · Multimedia |
 
 ---

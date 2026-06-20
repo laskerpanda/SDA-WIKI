@@ -34,6 +34,22 @@ This studio spans 60 years of American history — the Progressive Era to the Ci
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every text in this studio was written to change something — which means analyzing the writing (ELA) and analyzing the historical argument (SS) are the same work.
+
+- **MLK, "Letter from Birmingham Jail"** — This is the #1 highest-leverage crosswalk text in the entire library. Analyzing its argument structure for **R.9** and using it as a W.4 mentor text is the same as building **US.6_12.3-4 + Unit 6** evidence about Civil Rights strategy and the argument for urgent nonviolent action. There's a dedicated crosswalk resource: [Letter from Birmingham + W.4 Crosswalk](../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md). One text, multiple standards, with the ELA and SS questions identical.
+
+- ***The Jungle* (Sinclair)** — Reading it for **R.8** (how does Sinclair use literary narrative — scene, character, detail — to make his argument?) simultaneously builds **US.6_12.5 + Unit 1** evidence about the Progressive Era and the role of muckraking journalism in reform. It's in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md).
+
+- ***Warriors Don't Cry* (Beals)** — Literary analysis of the memoir for **R.8** (how does Beals use personal narrative, detail, and scene to function as historical testimony?) is directly building **US.6_12.2 + Unit 6** evidence about the Civil Rights movement and what nine students had to do in person to accomplish what years of legal victories hadn't.
+
+A single Demo of Learning can satisfy both an ELA and a USH standard if your Studio Contract names both. Talk to Reese in Week 1 if you want to use a crosswalk approach.
+
+See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -161,8 +177,9 @@ Students present their reform analysis to a mixed audience (classmates, advisor,
 - [Warriors Don't Cry — Full Entry](../../reading-library/ela/warriors-dont-cry.md)
 - [MLK Letter — Full Entry](../../reading-library/social-studies/mlk-letter-birmingham.md)
 - [The Jungle — Full Entry](../../reading-library/social-studies/jungle-sinclair.md)
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
+- [Letter from Birmingham + W.4 Crosswalk](../../reading-library/crosswalk/letter-birmingham-w4-crosswalk.md)
 
 ---
 
 *Studio Packet · USH-01 · SDA Commons Wiki · South High School*
-- [Luther](../../reading-library/social-studies/luther-95-theses.md)

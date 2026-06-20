@@ -37,6 +37,11 @@ Go to your studio packet. The EQ is at the top.
 | [WH-06 — The Connected World](../units/studio-archive/wh-06-connected-world.md) | What connects the world — and who decides who counts as part of it? |
 | [USH-01 — When the System Fails](../units/studio-archive/ush-01-when-the-system-fails.md) | When an institution fails the people it's supposed to serve, what does it take to fix it — and who has to do the work? |
 | [USH-02 — Literature of Fear](../units/studio-archive/ush-02-literature-of-fear.md) | What does a society's fiction reveal about its fears — and whose fears count? |
+| [USH-03 — When the Floor Falls Out](../units/studio-archive/ush-03-when-the-floor-falls-out.md) | When the economy collapses and millions of people lose everything, what does the government owe them — and what does it cost to find out? |
+| [USH-04 — The Cost of Victory](../units/studio-archive/ush-04-the-cost-of-victory.md) | When a nation believes it is fighting on the right side of history, how does it decide which of its own values it can sacrifice — and who pays the price? |
+| [USH-05 — What the Government Didn't Say](../units/studio-archive/ush-05-what-the-government-didnt-say.md) | When a government lies to its people about a war, and those lies get exposed — what changes, what doesn't, and who pays for the gap? |
+| [USH-06 — When the Rules Don't Apply](../units/studio-archive/ush-06-when-the-rules-dont-apply.md) | When people in power break the rules they're supposed to enforce, what — if anything — holds them accountable? |
+| [USH-07 — The Unipolar Moment](../units/studio-archive/ush-07-unipolar-moment.md) | After winning the Cold War, the United States had more power than any nation in history. What did it do with that power — and who decided? |
 
 **What is an inquiry angle?**
 The EQ is shared. Your angle is yours. Three students can all be in WH-01 and investigate three completely different civilizations. Your angle is the specific question *you* will investigate within the EQ.

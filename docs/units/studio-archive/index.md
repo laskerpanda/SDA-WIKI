@@ -59,6 +59,11 @@ Packets are starting points, not scripts. Students propose their own inquiry ang
 |--------|-------------------|---------------|-----------|
 | [USH-01: When the System Fails](./ush-01-when-the-system-fails.md) | When an institution fails the people it's supposed to serve, what does it take to fix it? | Units 1–2, 6 | The Jungle, Warriors Don't Cry, MLK Letter |
 | [USH-02: The Literature of Fear](./ush-02-literature-of-fear.md) | What does a society's fiction reveal about its fears — and whose fears count? | Unit 5 + WH Era 4 | Fahrenheit 451, 1984, Persepolis |
+| [USH-03: When the Floor Falls Out](./ush-03-when-the-floor-falls-out.md) | When the economy collapses and millions lose everything, what does the government owe them? | Unit 3 | The Great Gatsby, FDR Four Freedoms |
+| [USH-04: The Cost of Victory](./ush-04-the-cost-of-victory.md) | When a nation believes it is fighting on the right side of history, which of its own values can it sacrifice? | Unit 4 | Night, FDR Four Freedoms, Slaughterhouse-Five |
+| [USH-05: What the Government Didn't Say](./ush-05-what-the-government-didnt-say.md) | When a government lies about a war and gets caught — what changes, what doesn't, who pays? | Unit 7 | Fahrenheit 451, 1984, Politics and the English Language |
+| [USH-06: When the Rules Don't Apply](./ush-06-when-the-rules-dont-apply.md) | When people in power break the rules they're supposed to enforce, what holds them accountable? | Unit 8 | The Handmaid's Tale, Politics and the English Language |
+| [USH-07: The Unipolar Moment](./ush-07-unipolar-moment.md) | After winning the Cold War, the U.S. had more power than any nation in history. What did it do with it? | Unit 9 | The Kite Runner, Persepolis, Malala's UN Speech |
 
 ---
 
@@ -79,8 +84,13 @@ Packets are starting points, not scripts. Students propose their own inquiry ang
 
 | Cycle | Studio | Rationale |
 |-------|--------|-----------|
-| 1 | USH-01: When the System Fails | Establishes USH foundation; connects to WH Rights Chain |
-| 2 | USH-02: The Literature of Fear | Cold War + literary analysis; deepens R.8 |
+| 1 | USH-01: When the System Fails | Establishes USH foundation; Progressive Era → Civil Rights reform thread |
+| 2 | USH-03: When the Floor Falls Out | Depression/New Deal; R.8 literary analysis + W.4 argument |
+| 3 | USH-04: The Cost of Victory | WWII; moral complexity of a "just war"; R.8 memoir analysis |
+| 4 | USH-02: The Literature of Fear | Cold War + dystopian lit; deepens R.8 and connects USH to literature |
+| 5 | USH-05: What the Government Didn't Say | Vietnam/Pentagon Papers; government deception; R.9 + Orwell |
+| 6 | USH-06: When the Rules Don't Apply | Watergate/Reagan; accountability; R.9 + dystopian lit |
+| 7 | USH-07: The Unipolar Moment | Post-Cold War/9/11; superpower responsibility; R.8 global memoir |
 
 ---
 

@@ -33,6 +33,20 @@ This studio examines what "writing against power" looks like, sounds like, and c
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every text in this studio is a rhetorical act — someone writing to challenge a powerful system. Analyzing *how* they make that argument (ELA: R.9) is the same as analyzing *what* they were challenging and why (SS: WH.6_12.4-5).
+
+- **Las Casas, *A Short Account of the Destruction of the Indies*** — Reading it for **R.9** (how does Las Casas construct his argument for stopping the conquest? who is his audience? what does he include and leave out?) simultaneously builds **WH.6_12.4-5 + Era 2–3** evidence (colonialism, the role of the Church, how indigenous peoples were treated and described). One text, two standards.
+
+- **Kipling, "The White Man's Burden"** — Analyzing Kipling's argument for **R.9** (what is he actually arguing? what assumptions does he make that he doesn't state?) is directly building **WH.6_12.4-5 + Era 3** evidence about the ideology of imperialism. The ELA question *IS* the SS question: What argument is imperialism making about itself?
+
+- **Narrative of Frederick Douglass** (if used) — R.8 literary analysis (how does Douglass use memoir, narrative, and scene to make his argument?) connects directly to **WH.6_12.4-5 + Era 3** (resistance to colonial/slavery systems; the abolitionist movement as a counter-argument to imperial ideology).
+
+A single Demo of Learning can satisfy both an ELA and a WH standard if your Studio Contract names both. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -154,9 +168,8 @@ Students present their arguments and take questions from a panel (classmates, ad
 - [Era 3 Standards Overview](../../standards/social-studies/world-history/era-3-revolutions.md)
 - [Studio WH-02: The Rights We Wrote Down](./wh-02-rights-chain.md) — This studio's texts often overlap; consider sequencing WH-03 after WH-02
 - [IR.1–5 Research Bundle Skinny](../../skinnies/ela9/ir1-5-research-bundle-skinny.md)
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 
 *Studio Packet · WH-03 · SDA Commons Wiki · South High School*
-- [Malala](../../reading-library/social-studies/malala-un-speech.md)
-- [Fahrenheit 451](../../reading-library/ela/fahrenheit-451-bradbury.md)

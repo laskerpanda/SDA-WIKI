@@ -32,6 +32,18 @@ This studio builds WH.6_12.1 (technology and trade) and WH.6_12.4 (cultural cont
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+The primary source in this studio is Ibn Battuta's *Rihla* — a travel memoir. That makes it a natural crosswalk text: analyzing it as a piece of writing (ELA) is the same as analyzing it as historical evidence (SS).
+
+- **Ibn Battuta's *Rihla*** — Reading it for **R.9** (what is Ibn Battuta's implicit argument about the Islamic world and its connections? what does he choose to describe, what does he leave out, and what does that reveal about his perspective and purpose?) simultaneously builds **WH.6_12.4 + Era 2** evidence (cultural contact, exchange, and how trade networks operated across the connected world). You can't separate the literary analysis from the historical analysis — understanding *how* he writes helps you understand *what* he reveals.
+
+- **UN Declaration of Human Rights** (if used as extension) — R.9 analysis (what claims does the UDHR make? what does it assume about universal values?) connects to **WH.6_12.6 + Era 4** (how do the trade and cultural connections of Era 2 eventually contribute to a shared international framework?). Short text, strong crosswalk.
+
+A single Demo of Learning can satisfy both an ELA and a WH standard if your Studio Contract names both and your analysis addresses both dimensions. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -149,6 +161,7 @@ Students display their maps, visual essays, or research exhibits. Audience circu
 - [Ibn Battuta — Full Entry](../../reading-library/social-studies/ibn-battuta-rihla.md)
 - [Analects of Confucius — Full Entry](../../reading-library/social-studies/analects-confucius.md)
 - [Studio WH-01: Who Should Govern?](./wh-01-who-should-govern.md) — Confucius is a shared text; these studios can be sequenced or taught simultaneously
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 

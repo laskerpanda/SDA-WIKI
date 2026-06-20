@@ -36,6 +36,16 @@ This studio puts two questions side by side: *What was the dream the 1920s were 
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+*The Great Gatsby* is a dual-use text for this studio. When you analyze it for **R.8** — how Fitzgerald uses symbol, character, and setting to make an argument about the American Dream — you are also building evidence for **US.6_12.4 + Unit 3**, because the novel is a direct window into how 1920s Americans understood prosperity and the gap between the dream and the reality. One Demo of Learning can satisfy both standards at once if your Studio Contract lists both and your analysis addresses both dimensions: the literary technique AND its historical meaning.
+
+The same goes for the FDR Four Freedoms speech (extension): analyzing FDR's argument for **R.9** simultaneously builds **US.6_12.4 + Unit 3** evidence about how the New Deal philosophy extended into WWII mobilization.
+
+See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -117,7 +127,7 @@ This studio puts two questions side by side: *What was the dream the 1920s were 
 - Analyze Fitzgerald's use of at least two literary elements (symbol, character, setting, narrative structure) to make an argument about the American Dream
 - Connect the novel's themes to the actual historical context of the 1920s: what did Fitzgerald see that his contemporaries were ignoring?
 - Evaluate the New Deal: who did it help, who did it exclude, and what does that pattern reveal about how American reform works?
-- Construct an argument about government's obligation in economic crisis — with a clear claim, specific historical evidence, and acknowledgment of the strongest counterargument
+- Build an argument about what the government owes its citizens in a crisis — with a clear claim, specific historical evidence, and acknowledgment of the strongest counterargument
 
 ### 4.0 — Transfer
 - OR: Argue that *The Great Gatsby* is (or isn't) still a relevant critique of American economic culture — using evidence from both the novel and contemporary America
@@ -157,6 +167,7 @@ Students display or present their deliverable to classmates, advisor, and invite
 - [FDR's Four Freedoms — Full Entry](../../reading-library/social-studies/fdr-four-freedoms.md)
 - [The Jungle — Full Entry](../../reading-library/social-studies/jungle-sinclair.md)
 - [USH-01 — When the System Fails](ush-01-when-the-system-fails.md) *(Progressive Era thread)*
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 

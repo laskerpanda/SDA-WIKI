@@ -33,6 +33,22 @@ This studio investigates the mechanics of how written documents trigger historic
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every primary document in this studio does double duty across ELA and Social Studies:
+
+- **Luther's 95 Theses** — When you analyze it for **R.9** (argumentative structure: what claims is Luther making, and how does he build his case?), you're simultaneously building evidence for **WH.6_12.2-5 + Era 2** (how ideological challenges triggered political and religious change). One document, one Demo, two standards. Luther is also a case study in how R.9 analysis reveals what a document actually says vs. what readers heard — and the gap between those two things is the entire SS argument.
+
+- ***Common Sense* (Paine)** — This is the #2 highest-leverage crosswalk text in the reading library. Reading it for **R.9** (argument structure, rhetorical choices, how Paine constructs his case) simultaneously satisfies **WH.6_12.4-5 + Era 3** (causes and effects of the Atlantic Revolutions; why *Common Sense* didn't just describe revolution but helped create it). It has its own dedicated crosswalk entry because it's also the best **W.4 mentor text** in the library — the structure Paine uses is exactly what a strong argument essay looks like. See the [Common Sense + W.4 Crosswalk](../../reading-library/crosswalk/common-sense-w4-crosswalk.md) for the full breakdown.
+
+- **The Communist Manifesto (selections)** — Literary analysis for **R.9** (how Marx and Engels build a causal argument — their evidence, their structure, what they assume vs. what they prove) connects directly to **WH.6_12.5 + Era 3** (causes and effects: what did the Manifesto predict, and what actually happened — and what does the gap between those two things reveal?). The *Manifesto* is the clearest case in this studio where close reading (ELA) *is* the historical analysis (SS).
+
+A single Demo of Learning can satisfy both an ELA and an SS standard if your Studio Contract names both and your analysis addresses both dimensions. Talk to Reese in Week 1 if you want to use a crosswalk approach.
+
+See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -151,6 +167,8 @@ Each student presents their causal chain analysis (5–7 minutes), then takes qu
 - [Era 3 Standards Overview](../../reading-library/social-studies/declaration-rights-man.md)
 - [Studio WH-02: The Rights We Wrote Down](./wh-02-rights-chain.md) — The rights documents on that list are also candidates for the causal-chain analysis here
 - [W.3 Explanatory Writing Skinny](../../skinnies/ela9/w3-explanatory-writing-skinny.md)
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Full map of dual-use texts across all studios
+- [Common Sense + W.4 Crosswalk](../../reading-library/crosswalk/common-sense-w4-crosswalk.md) — Paine as W.4 mentor text and WH.6_12.4 Revolution cause
 
 ---
 

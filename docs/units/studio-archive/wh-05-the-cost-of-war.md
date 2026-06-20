@@ -33,6 +33,22 @@ This studio builds WH.6_12.2 (ideology and propaganda) and WH.6_12.5 (war and it
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every text in this studio does double duty across ELA and Social Studies standards:
+
+- **"Dulce et Decorum Est" (Owen)** — When you analyze it for **R.7** (how word choice, syntax, and rhythm create meaning) or **R.8** (imagery, irony, and tone as carriers of argument), you're simultaneously building **WH.6_12.2-5 + Era 3** evidence — because Owen's poem is a direct counter-argument to the propaganda that sent his generation to die. Analyzing how the poem works as a text is analyzing how WWI ideology was challenged.
+
+- ***Night* (Wiesel)** — R.8 literary analysis (how Wiesel uses memoir structure, witness, and narrative detail to function as testimony) simultaneously satisfies **WH.6_12.2-6 + Era 4** (ideology, genocide, and the human cost of WWII). *Night* is one of the highest-leverage dual-use texts in the reading library — it appears in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) and also in [USH-04: The Cost of Victory](ush-04-the-cost-of-victory.md), where it serves the US History angle. If you've analyzed *Night* through a USH lens, this studio gives you the WH Era 4 angle instead — and the comparison of how you read it differently each time is itself a strong 4.0 move.
+
+- ***Persepolis* (Satrapi)** — R.8 analysis (how Satrapi uses graphic memoir format — panel composition, visual language, personal narrative — as argument and testimony) connects to **WH.6_12.2 + Era 4** (ideology and lived experience under political upheaval). *Persepolis* also bridges to USH: it appears in [USH-07: The Unipolar Moment](ush-07-unipolar-moment.md) with a U.S.–Iran angle. Analyzing it here gives you the WH foundation that makes that later studio go deeper.
+
+A single Demo of Learning can satisfy both an ELA and an SS standard if your Studio Contract names both and your analysis addresses both dimensions. Talk to Reese in Week 1 if you want to use a crosswalk approach.
+
+See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Genre | Why It's Here |
@@ -156,9 +172,11 @@ Alternatively: a timed Socratic seminar using the essential question with at lea
 - [R.8 Literary Elements Skinny](../../skinnies/ela9/r8-literary-elements-skinny.md)
 - [Dulce et Decorum Est — Full Entry](../../reading-library/social-studies/dulce-et-decorum-est.md)
 - [Night — Full Entry](../../reading-library/ela/night-wiesel.md)
+- [Pericles' Funeral Oration — Full Entry](../../reading-library/social-studies/pericles-funeral-oration.md)
+- [USH-04 — The Cost of Victory](ush-04-the-cost-of-victory.md) *(Night from the US History angle — WWII)*
+- [USH-07 — The Unipolar Moment](ush-07-unipolar-moment.md) *(Persepolis from the USH angle — U.S.–Iran relations)*
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 
 *Studio Packet · WH-05 · SDA Commons Wiki · South High School*
-- [Pericles' Funeral Oration](../../reading-library/social-studies/pericles-funeral-oration.md)
-- [Pericles](../../reading-library/social-studies/pericles-funeral-oration.md)

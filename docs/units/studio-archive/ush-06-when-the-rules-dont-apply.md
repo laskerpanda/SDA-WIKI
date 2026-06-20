@@ -38,6 +38,20 @@ This studio asks why one president was removed and another wasn't — and what t
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every text in this studio connects ELA and SS standards simultaneously:
+
+- ***The Handmaid's Tale* (Atwood)** — When you analyze it for **R.8** (how Atwood builds her dystopia through character, setting, and narrative structure), you're also building **US.6_12.5 + Unit 8** evidence — because the novel is a direct cultural response to the Reagan era's political climate and is itself a primary artifact of that period. A literary analysis that asks *what is Atwood warning about, and why did she write this in 1985?* is both an ELA and a Social Studies argument.
+
+- **"Politics and the English Language" (Orwell)** — Applying Orwell's essay to Nixon's or Reagan's speeches for **R.9** simultaneously satisfies **US.6_12.1 + Unit 8** (primary source analysis). The essay is an analytical tool and the speeches are the primary sources — using both together in one Demo addresses both standards at once. It appears in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) as a high-leverage dual-use text.
+
+- ***1984* (Orwell, extension)** — If you use *1984* as your literary lens, **R.8** analysis connects to **WH.6_12.2-3 + Era 4** AND **US.6_12.1 + Unit 8** — it bridges World History and US History. Students who analyzed *1984* in [USH-02](ush-02-literature-of-fear.md) or [USH-05](ush-05-what-the-government-didnt-say.md) should go deeper here rather than repeating prior analysis.
+
+One Demo of Learning can satisfy both an ELA and an SS standard if your Studio Contract names both. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -118,11 +132,11 @@ This studio asks why one president was removed and another wasn't — and what t
 ### 3.0 — Target
 - Analyze how Atwood depicts the mechanisms of accountability failure in *The Handmaid's Tale* — what specific institutions and rights does Gilead eliminate, and in what order?
 - Apply Orwell's framework to at least one primary source from the Nixon or Reagan era: identify specific language strategies and explain what they do
-- Construct an argument about democratic accountability using both Watergate and Iran-Contra — with a clear claim, evidence from both cases, and honest engagement with the tension between them
+- Build an argument about accountability in American democracy using both Watergate and Iran-Contra — with a clear claim, evidence from both cases, and honest engagement with the tension between them
 - Explain what changed (and what didn't) in how accountability worked between Watergate and Iran-Contra
 
 ### 4.0 — Transfer
-- OR: Construct a framework for the conditions required for democratic accountability to function — based on Watergate, Iran-Contra, and *The Handmaid's Tale* — and test it against at least one more recent example
+- OR: Build a framework for what needs to be in place for accountability to actually work in a democracy — based on Watergate, Iran-Contra, and *The Handmaid's Tale* — and test it against at least one more recent example
 - OR: Argue whether the American system of checks and balances has been strengthened or weakened since Watergate — using specific evidence from the decades since
 - OR: Use Atwood's Gilead as a model and Orwell's "Politics and the English Language" as an analytical tool to analyze how a contemporary political movement or government uses language in ways Orwell would recognize
 
@@ -160,6 +174,7 @@ Students present their analysis of the studio's central question to an audience 
 - [1984 — Full Entry](../../reading-library/ela/orwell-1984.md)
 - [USH-05 — What the Government Didn't Say](ush-05-what-the-government-didnt-say.md) *(Vietnam / Pentagon Papers — the preceding studio)*
 - [USH-07 — The Unipolar Moment](ush-07-unipolar-moment.md) *(Post-Cold War — the following studio)*
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 

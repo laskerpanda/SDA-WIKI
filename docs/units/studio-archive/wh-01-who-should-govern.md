@@ -33,6 +33,22 @@ This studio uses ancient primary sources to develop R.9 (reading for argument) a
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every text in this studio is a primary source AND an argument — which means analyzing it for ELA and analyzing it for Social Studies are the same activity.
+
+- **Hammurabi's Code** — Reading it to analyze how Hammurabi constructs his argument for law-based governance (**R.9**) simultaneously builds evidence for **WH.6_12.2-3 + Era 1** (governance structures and political philosophy). It's listed in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) as one of the highest-leverage short primary sources in the library.
+
+- **Pericles' Funeral Oration** — R.9 analysis (how does Pericles construct his argument for democracy?) is the same as WH.6_12.2-3 + Era 1 analysis (what does Athenian democracy actually claim for itself?). One close read, two standards.
+
+- **The Melian Dialogue** — Analyzing it for **R.9** (what is each side's argument? what assumptions does each make?) is directly building **WH.6_12.3 + Era 1** evidence about what happens when governance frameworks break down and only power remains.
+
+A single Demo of Learning can satisfy both an ELA and a WH standard if your Studio Contract names both. Talk to Reese in Week 1 if you want to use a crosswalk approach.
+
+See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of how texts serve both subject areas across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -169,6 +185,7 @@ For the Socratic seminar: A structured discussion using the essential question a
 - [R.9 Skinny](../../skinnies/ela9/r9-informational-argumentative-skinny.md)
 - [W.4 Skinny](../../skinnies/ela9/w4-argument-writing-skinny.md)
 - [C.6 Skinny](../../skinnies/ela9/c6-discussion-debate-skinny.md)
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 

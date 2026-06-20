@@ -36,6 +36,22 @@ This studio builds the WH.6_12.2+6 (ideology and legacy) and US.6_12.2 (rights a
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+USH-02 sits at the hinge point between two courses: it spans **World History Era 4** and **US History Unit 5** at the same time. That means every major text in this studio can do triple duty — ELA literary analysis, World History, and US History — often in a single Demo of Learning. Here's how:
+
+- ***1984* (Orwell)** — R.8 literary analysis (dystopian world-building, surveillance, doublethink as literary theme) simultaneously satisfies **WH.6_12.2-3 + Era 4** (ideology and political systems — specifically how totalitarianism works) AND **US.6_12.2 + Unit 5** (multiple perspectives on the Cold War and communist/capitalist ideological conflict). *1984* bridges World History and US History — it's one of the few texts in the library that does triple duty. If you use it here, make that connection explicit in your Demo: name both courses and both standards in your Studio Contract.
+
+- ***Fahrenheit 451* (Bradbury)** — R.8 analysis (how Bradbury constructs his dystopia, what the book burning represents as a literary symbol) connects directly to **US.6_12.3 + Unit 7** (cause and effect: Cold War fear culture, McCarthyism, and government information control — *Fahrenheit 451* is Bradbury's direct response to the Red Scare and book-banning). It also connects to **US.6_12.2 + Unit 5** (the cultural atmosphere of the Cold War). In other words, analyzing the literary symbol is also analyzing the historical cause. It appears in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) table.
+
+- ***Persepolis* (Satrapi)** — R.8 analysis (graphic memoir format; how Satrapi uses visual language and personal narrative as political argument) simultaneously satisfies **WH.6_12.2-3 + Era 4** (the Iranian Revolution as a case study in Cold War-era ideological conflict) AND **US.6_12.2 + Unit 9** (multiple perspectives — the Iranian perspective on the U.S.-Iran relationship). *Persepolis* is one of the few texts that bridges World History, US History Unit 5, AND US History Unit 9. Students who use it here have a head start for [USH-07: The Unipolar Moment](ush-07-unipolar-moment.md).
+
+The bridge to notice: USH-02 is the studio most explicitly positioned at the hinge point between World History and US History. If you're enrolled in both courses, this is your highest-leverage studio for earning credit in both at once.
+
+One Demo of Learning can satisfy both an ELA and an SS standard if your Studio Contract names both — you don't have to do two separate projects. Talk to Reese in Week 1 to set this up. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map of dual-use texts across all studios.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -161,6 +177,9 @@ Final question for every presenter: "What contemporary cultural product encodes 
 - [1984 — Full Entry](../../reading-library/ela/orwell-1984.md)
 - [Persepolis — Full Entry](../../reading-library/ela/persepolis-satrapi.md)
 - [Studio WH-05: The Cost of War](./wh-05-the-cost-of-war.md) — overlapping Era 4 context
+- [USH-05 — What the Government Didn't Say](ush-05-what-the-government-didnt-say.md) *(Fahrenheit 451 + 1984 reappear — Vietnam angle)*
+- [USH-07 — The Unipolar Moment](ush-07-unipolar-moment.md) *(Persepolis reappears — US foreign policy angle)*
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) — Full map of dual-use texts across all studios
 
 ---
 

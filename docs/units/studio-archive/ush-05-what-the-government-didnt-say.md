@@ -35,6 +35,20 @@ The counterculture's music, protests, and politics were a response to exactly th
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Every text in this studio does double duty:
+
+- **"Politics and the English Language" (Orwell)** — Reading it for **R.9** (how Orwell analyzes argument and political language) also builds **US.6_12.3 + Unit 7** evidence, because you're applying his framework directly to government documents about Vietnam. The essay is an analytical tool AND historical evidence at the same time. It's in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) as a high-leverage dual-use text.
+
+- ***1984* (Orwell)** — Analyzing it for **R.8** (dystopian world-building, theme, literary elements) connects directly to **WH.6_12.2-3 + Era 4** AND **US.6_12.3 + Unit 7** — it's the literary lens for understanding government information control across both courses. *1984* also appears in [USH-02: Literature of Fear](ush-02-literature-of-fear.md) and [USH-06: When the Rules Don't Apply](ush-06-when-the-rules-dont-apply.md), so if you've used it before you're building on prior analysis.
+
+- ***Fahrenheit 451* (Bradbury)** — R.8 literary analysis + **US.6_12.3 + Unit 7** (how societies manage truth during the Cold War era). Also used in [USH-02: Literature of Fear](ush-02-literature-of-fear.md) — if you worked with it there, use this studio to go deeper.
+
+A single Demo of Learning can satisfy both an ELA and an SS standard if your Studio Contract names both. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -82,7 +96,7 @@ The counterculture's music, protests, and politics were a response to exactly th
 | Mode | Prompt for This Studio |
 |------|----------------------|
 | **1 — Written Assessment** | In 500–700 words: Apply Orwell's framework from "Politics and the English Language" to one specific government document or statement about Vietnam (Gulf of Tonkin Resolution, LBJ Vietnam briefing, Nixon's statements about Ellsberg). What does it say? What does it avoid? What is it designed to make the listener feel? |
-| **2 — Extended Writing** | Argument essay (700–1,000 words): Does a democratic government have the right to withhold information from its citizens about a war being fought in their name? Use the Pentagon Papers as your primary case, with Orwell's framework as your analytical lens. |
+| **2 — Extended Writing** | Argument essay (700–1,000 words): Does a government fighting a war have the right to keep secrets from its own citizens? Use the Pentagon Papers as your primary case and Orwell's essay as your analytical tool. |
 | **3 — Verbal Conversation** | Advisor conference: Walk through the studio's timeline. What did the government claim about Vietnam? What did the Pentagon Papers reveal? What changed when those lies became public — and what didn't? How do *Fahrenheit 451* or *1984* help you understand the mechanics of what the government was doing? |
 | **4 — Visual/Creative** | Timeline comparison exhibit: Map what the government said about Vietnam publicly (press briefings, body counts, congressional testimony) against what the Pentagon Papers revealed they privately knew. Annotate: For each gap, what Orwellian mechanism does it represent? |
 | **5 — Multimedia/Performance** | Documentary or recorded presentation: "The Government Didn't Say" — using the Pentagon Papers, anti-war music, and Orwell to explain to a general audience what institutional deception looks like in a democracy, and what it costs. Must demonstrate US.6_12.3 and R.9 evidence. |
@@ -115,7 +129,7 @@ The counterculture's music, protests, and politics were a response to exactly th
 ### 3.0 — Target
 - Analyze how Bradbury (*Fahrenheit 451*) or Orwell (*1984*) depicts the mechanisms of truth suppression — what specifically do these societies do to control what people know?
 - Apply Orwell's framework from "Politics and the English Language" to at least one specific Vietnam-era government document or statement: What does the language do? What does it avoid?
-- Construct an argument about democratic accountability during wartime — with a clear claim, Vietnam evidence, and honest engagement with the strongest counterargument (the government's right to keep military secrets)
+- Build an argument about what democratic accountability means during wartime — with a clear claim, Vietnam evidence, and honest engagement with the strongest counterargument (the government's right to keep military secrets)
 - Explain the cause-and-effect chain from Gulf of Tonkin to the Pentagon Papers to the collapse of institutional trust
 
 ### 4.0 — Transfer
@@ -156,6 +170,8 @@ The class divides into two groups: those arguing the government's wartime decept
 - [1984 — Full Entry](../../reading-library/ela/orwell-1984.md)
 - [Politics and the English Language — Full Entry](../../reading-library/ela/orwell-politics-language.md)
 - [USH-06 — When the Rules Don't Apply](ush-06-when-the-rules-dont-apply.md) *(Watergate — the direct sequel to this studio)*
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
+- [USH-02 — Literature of Fear](ush-02-literature-of-fear.md) *(companion studio — same dystopian texts, Cold War angle)*
 
 ---
 

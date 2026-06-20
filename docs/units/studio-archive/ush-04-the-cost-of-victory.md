@@ -36,6 +36,22 @@ This studio takes the "Good War" seriously — and asks the hardest question you
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+Several texts in this studio do double duty across ELA and Social Studies standards:
+
+- ***Night* (Wiesel)** — When you analyze it for **R.8** (how Wiesel uses narrative structure and detail to function as testimony), you are simultaneously building evidence for **US.6_12.2 + Unit 4** (multiple perspectives on the Holocaust) and **WH.6_12.2-6 + Era 4** (if you're connecting to the World History thread). *Night* appears in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) as one of the highest-leverage dual-use texts in the library.
+
+- **FDR's Four Freedoms** — Analyzing it for **R.9** (argument structure, rhetorical choices) also satisfies **US.6_12.1 + Unit 4** (primary source analysis). One speech, two standards.
+
+- ***Slaughterhouse-Five* (Vonnegut)** — Literary analysis for **R.8** (how Vonnegut uses satire and nonlinear narrative) connects directly to **US.6_12.2 + Unit 4** (multiple perspectives on the Allied bombing campaigns and civilian cost of WWII).
+
+A single Demo of Learning can satisfy both an ELA and an SS standard at once if your Studio Contract names both and your analysis addresses both. Talk to Reese in Week 1 if you want to use a crosswalk approach.
+
+See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map.
+
+---
+
 ## Reading List
 
 | Text | Why It's Here |
@@ -115,7 +131,7 @@ This studio takes the "Good War" seriously — and asks the hardest question you
 
 ### 3.0 — Target
 - Analyze *Night* for literary elements: how does Wiesel use narrative structure, detail, and witness to function as testimony rather than historical account?
-- Construct an argument about the atomic bomb decision: take a clear position, present your strongest evidence, and engage honestly with the counterargument
+- Build a clear argument about the atomic bomb decision: take a position, present your strongest evidence, and engage honestly with the counterargument
 - Connect the gap between FDR's stated values (Four Freedoms) and American actions during the war (internment, segregated military) to the studio's essential question about what nations justify in the name of victory
 - Evaluate a specific WWII decision from multiple perspectives — naming who benefited and who paid
 
@@ -163,6 +179,7 @@ Students present their analysis of the studio's central moral question to a pane
 - [FDR's Four Freedoms — Full Entry](../../reading-library/social-studies/fdr-four-freedoms.md)
 - [Slaughterhouse-Five — Full Entry](../../reading-library/ela/slaughterhouse-five-vonnegut.md)
 - [USH-03 — When the Floor Falls Out](ush-03-when-the-floor-falls-out.md) *(Depression/New Deal — the preceding studio)*
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
 
 ---
 

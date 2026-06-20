@@ -33,6 +33,22 @@ This studio traces a single thread across all four WH eras: the recurring human 
 
 ---
 
+## ELA ↔ SS Crosswalk
+
+This studio is built for crosswalk — analyzing how rights arguments are constructed *is* both the ELA skill and the SS content at the same time.
+
+- ***Common Sense* (Paine)** — It's one of the highest-leverage dual-use texts in the library. Analyzing Paine's argument structure for **R.9** and **W.4** (it's a masterclass in persuasive writing) simultaneously satisfies **WH.6_12.4-5 + Era 3**. There's a dedicated crosswalk entry for it: [Common Sense + W.4 Crosswalk](../../reading-library/crosswalk/common-sense-w4-crosswalk.md).
+
+- **Wollstonecraft, *A Vindication of the Rights of Woman*** — R.9 analysis (how does Wollstonecraft construct her argument? who is her audience? what does she assume?) is identical to WH.6_12.4 + Era 3 analysis (how did Enlightenment ideas about rights extend — and fail to extend — to women?). It's in the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md).
+
+- **UN Declaration of Human Rights** — Analyzing it for **R.9** (what claims does it make? what evidence or reasoning does it provide? what does it assume?) also satisfies **WH.6_12.6 + Era 4** (historical continuity: how does the rights tradition culminate here?). In the crosswalk table.
+
+- **The rights chain as a whole** — A Demo of Learning that traces how rights language evolves from Hammurabi to the UN Declaration is both a W.4 argument (ELA) and a WH.6_12.6 analysis of historical continuity (SS). One demo, two standards.
+
+A single Demo of Learning can satisfy both an ELA and a WH standard if your Studio Contract names both. See the [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md) for the full map.
+
+---
+
 ## The Rights Chain
 
 These documents trace a single lineage of rights-claiming across 3,700 years. You don't need to use all of them — choose at least three that span at least two eras.
@@ -160,6 +176,8 @@ Alternatively: a gallery walk if deliverables are visual/designed artifacts.
 - [Era 4 Standards Overview](../../standards/social-studies/world-history/era-4-global-war.md)
 - [UN UDHR — Full Entry](../../reading-library/social-studies/un-declaration-human-rights.md)
 - [Haitian Declaration — Full Entry](../../reading-library/social-studies/haitian-declaration-independence.md)
+- [ELA ↔ SS Crosswalk](../../reading-library/crosswalk/crosswalk-ela-ss.md)
+- [Common Sense + W.4 Crosswalk](../../reading-library/crosswalk/common-sense-w4-crosswalk.md)
 
 ---
 
