@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate the conditions that enabled or suppressed tech
 ## CrashCourse Connection
 
 **Video:** The Silk Road — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
-**Additional:** *Islam, the Quran, and the Five Pillars — CrashCourse WH #13 — coming soon in reading library*
-**Additional:** *The Dark Ages — CrashCourse WH #14 — coming soon in reading library*
+**Also:** Islam, the Quran & the Five Pillars — CrashCourse WH #13 · [Episode in reading library](../../../crashcourse/world-history/ep-13-islam-five-pillars.md)
+**Also:** The Dark Ages — CrashCourse WH #14 · [Episode in reading library](../../../crashcourse/world-history/ep-14-dark-ages.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[03:30]:** The role of Islamic merchants and scholars in transmitting goods AND ideas. *Why it matters:* The Silk Road wasn't just about trade — it was an information highway. Understanding this changes how you see the "origin" of any medieval technology.

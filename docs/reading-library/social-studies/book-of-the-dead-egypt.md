@@ -9,6 +9,10 @@
 
 ## What This Text Is About
 
+
+![Weighing of the Heart — Papyrus of Ani](https://commons.wikimedia.org/wiki/Special:FilePath/BD_Weighing_of_the_Heart.jpg?width=400)
+*The Weighing of the Heart from the Papyrus of Ani (c. 1275 BCE). British Museum. The deceased's heart is weighed against the feather of Ma'at.*
+
 The *Book of the Dead* is a collection of spells, prayers, and instructions written on papyrus scrolls and placed in tombs to guide the dead through the Egyptian afterlife. The most important section — the Negative Confession and the Weighing of the Heart — reveals what ancient Egyptians believed about justice, morality, and what a good life looked like. It is one of the oldest moral codes in human history, predating the Ten Commandments by centuries.
 
 ---

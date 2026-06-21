@@ -62,7 +62,11 @@ To reach a 4.0, you must evaluate competing interpretations of causation and ass
 
 ## CrashCourse Connection
 
-**Video:** — Era 4 CrashCourse World History episodes — coming soon in reading library
+**Video:** World War I — CrashCourse WH #38 · [Episode in reading library](../../../crashcourse/world-history/ep-38-wwi.md)
+**Also:** WWII Part 1 — CrashCourse WH #40 · [Episode in reading library](../../../crashcourse/world-history/ep-40-wwii-1.md)
+**Also:** WWII Part 2 — CrashCourse WH #41 · [Episode in reading library](../../../crashcourse/world-history/ep-41-wwii-2.md)
+**Also:** China's Revolutions — CrashCourse WH #39 · [Episode in reading library](../../../crashcourse/world-history/ep-39-china-revolutions.md)
+**Also:** The Cold War — CrashCourse WH #42 · [Episode in reading library](../../../crashcourse/world-history/ep-42-cold-war.md)
 **Watch Prompt (general):** For any Era 4 event described, classify its causes: immediate or underlying? Local or global? Economic, political, or ideological? Classify its effects: short-term or long-term? Expected or unintended? Track which primary sources the presenter uses — and which they don't.
 
 ---

@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/ush-04-timeline.svg)
+*US History Unit Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **When a nation believes it is fighting on the right side of history, how does it decide which of its own values it can sacrifice — and who pays the price of that decision?**

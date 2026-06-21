@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Martin Luther by Lucas Cranach the Elder, 1528](https://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg?width=320)
+*Martin Luther (1483–1546) as painted by Lucas Cranach the Elder in 1528, the year after the Diet of Speyer.*
+
 On October 31, 1517, a German Augustinian friar named Martin Luther reportedly nailed a list of 95 arguments (in Latin) to the door of the Castle Church in Wittenberg, Germany — a customary academic way to invite scholarly debate. Within weeks, the document had been translated into German and printed on the newly widespread printing press, and within months it was circulating across Europe. The 95 Theses challenged the Catholic Church's sale of indulgences — payments to the Church said to reduce a person's time in Purgatory — and by implication challenged the Church's authority to define the terms of salvation. Luther did not intend to split the Western Church. He split the Western Church.
 
 **What the theses actually argue:** The document is a point-by-point academic disputation, not a manifesto. Luther's arguments range from narrow theological points (What does Scripture say about Purgatory?) to broad ecclesiological ones (Does the Pope have authority over Purgatory at all?) to practical economic ones (If the Pope is wealthy, why does he not simply pay to build St. Peter's Basilica himself rather than taking money from the poor?). The final theses end with the argument that a Christian who has genuine repentance of sins has no need of an indulgence — because they already have everything an indulgence claims to offer.

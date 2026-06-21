@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/wh-01-timeline.svg)
+*World History Era Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **Who should govern, and what gives them the right?**

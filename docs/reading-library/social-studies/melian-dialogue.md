@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Thucydides — Pushkin Museum](https://commons.wikimedia.org/wiki/Special:FilePath/Thucydides_pushkin02.jpg?width=320)
+*Thucydides (c. 460–400 BCE), historian of the Peloponnesian War and author of the Melian Dialogue.*
+
 In 416 BCE — fifteen years after Pericles delivered his celebrated Funeral Oration praising Athenian justice and openness — Athenian military commanders arrived at the small neutral island of Melos with a stark ultimatum: submit to Athenian rule or be destroyed. The Melians refused. Thucydides records the negotiation between the Athenian envoys and the Melian leaders as a formal dialogue — the most famous political negotiation in ancient literature.
 
 The Athenians make no appeal to justice, rights, or morality. They argue only from power: "The strong do what they can; the weak suffer what they must." The Melians appeal to justice, the gods, hope, and the self-interest of other Greek city-states. The Athenians dismiss every appeal. When the Melians still refuse to submit, Athens besieges the island, kills all the men, and enslaves the women and children.

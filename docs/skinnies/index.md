@@ -2,7 +2,11 @@
 
 **South High School · Self-Directed Academy**
 
-Skinnies are short, focused mini-lessons. Pull one when you hit a knowledge or skill gap mid-Studio. They are not assigned — you use them when you need them.
+Skinnies are short, focused reference sheets — one for each standard and era. Each one breaks down what the standard looks like at score levels 1.0 through 4.0, in plain language specific to that content.
+
+**Mr. Reese may assign skinnies as part of your studio plan.** He uses them to make sure your studio demonstrates the full standard — not just the parts that come easily — and to confirm that crosswalk studios cover both the ELA and Social Studies sides completely. Think of your assigned skinnies as the specific expectations your studio is being held to.
+
+You'll also pull skinnies on your own when filling out Part 5 (Proficiency Targets) of your Studio Contract, or whenever you hit a knowledge or skill gap mid-studio and need to know exactly what the standard is asking for.
 
 ---
 

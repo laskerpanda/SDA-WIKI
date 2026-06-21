@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/wh-04-timeline.svg)
+*World History Era Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **Can one document change the world — and if so, how?**

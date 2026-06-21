@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="110" viewBox="0 0 680 110">
+  <rect width="680" height="110" fill="#0d0b08"/>
+  <rect x="2.0" y="36" width="71.55555555555556" height="38" fill="none" stroke="#4a9e3f" stroke-width="2" rx="2"/>
+  <rect x="2.0" y="36" width="71.55555555555556" height="38" fill="#4a9e3f" opacity="0.15" rx="2"/>
+  <text x="37.77777777777778" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#4a9e3f" font-weight="bold" letter-spacing="1">Unit 1</text>
+  <text x="37.77777777777778" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#e8d5a3">Gilded Age</text>
+  <text x="37.77777777777778" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#4a9e3f">1870–1900</text>
+  <rect x="77.55555555555556" y="36" width="71.55555555555556" height="38" fill="none" stroke="#4a9e3f" stroke-width="2" rx="2"/>
+  <rect x="77.55555555555556" y="36" width="71.55555555555556" height="38" fill="#4a9e3f" opacity="0.15" rx="2"/>
+  <text x="113.33333333333334" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#4a9e3f" font-weight="bold" letter-spacing="1">Unit 2</text>
+  <text x="113.33333333333334" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#e8d5a3">Progressive</text>
+  <text x="113.33333333333334" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#4a9e3f">1900–20</text>
+  <rect x="153.11111111111111" y="36" width="71.55555555555556" height="38" fill="#2a2520" stroke="#2d5a27" stroke-width="1" rx="2"/>
+  <text x="188.88888888888889" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Unit 3</text>
+  <text x="188.88888888888889" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">Depression</text>
+  <text x="188.88888888888889" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#a89060">1920–40</text>
+  <rect x="228.66666666666669" y="36" width="71.55555555555556" height="38" fill="#2a2520" stroke="#2d5a27" stroke-width="1" rx="2"/>
+  <text x="264.44444444444446" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Unit 4</text>
+  <text x="264.44444444444446" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">WWII</text>
+  <text x="264.44444444444446" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#a89060">1940–45</text>
+  <rect x="304.22222222222223" y="36" width="71.55555555555556" height="38" fill="#2a2520" stroke="#2d5a27" stroke-width="1" rx="2"/>
+  <text x="340.0" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Unit 5</text>
+  <text x="340.0" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">Cold War</text>
+  <text x="340.0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#a89060">1945–60</text>
+  <rect x="379.77777777777777" y="36" width="71.55555555555556" height="38" fill="none" stroke="#4a9e3f" stroke-width="2" rx="2"/>
+  <rect x="379.77777777777777" y="36" width="71.55555555555556" height="38" fill="#4a9e3f" opacity="0.15" rx="2"/>
+  <text x="415.55555555555554" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#4a9e3f" font-weight="bold" letter-spacing="1">Unit 6</text>
+  <text x="415.55555555555554" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#e8d5a3">Civil Rights</text>
+  <text x="415.55555555555554" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#4a9e3f">1950–75</text>
+  <rect x="455.33333333333337" y="36" width="71.55555555555556" height="38" fill="#2a2520" stroke="#2d5a27" stroke-width="1" rx="2"/>
+  <text x="491.11111111111114" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Unit 7</text>
+  <text x="491.11111111111114" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">Vietnam</text>
+  <text x="491.11111111111114" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#a89060">1964–75</text>
+  <rect x="530.8888888888889" y="36" width="71.55555555555556" height="38" fill="#2a2520" stroke="#2d5a27" stroke-width="1" rx="2"/>
+  <text x="566.6666666666667" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Unit 8</text>
+  <text x="566.6666666666667" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">Watergate</text>
+  <text x="566.6666666666667" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#a89060">1972–89</text>
+  <rect x="606.4444444444445" y="36" width="71.55555555555556" height="38" fill="#2a2520" stroke="#2d5a27" stroke-width="1" rx="2"/>
+  <text x="642.2222222222223" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Unit 9</text>
+  <text x="642.2222222222223" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">Unipolar</text>
+  <text x="642.2222222222223" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#a89060">1990–2001</text>
+  <line x1="75.55555555555556" y1="36" x2="75.55555555555556" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="151.11111111111111" y1="36" x2="151.11111111111111" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="226.66666666666669" y1="36" x2="226.66666666666669" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="302.22222222222223" y1="36" x2="302.22222222222223" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="377.77777777777777" y1="36" x2="377.77777777777777" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="453.33333333333337" y1="36" x2="453.33333333333337" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="528.8888888888889" y1="36" x2="528.8888888888889" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="604.4444444444445" y1="36" x2="604.4444444444445" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <text x="340.0" y="20" text-anchor="middle" font-family="Georgia,serif" font-size="10" fill="#2d5a27" letter-spacing="2">USH-01 — When the System Fails</text>
+  <text x="340.0" y="106" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">SDA Commons — South High School</text>
+</svg>

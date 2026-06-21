@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/ush-07-timeline.svg)
+*US History Unit Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **After winning the Cold War, the United States had more power than any nation in history. What did it do with that power — and who decided?**

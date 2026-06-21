@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/ush-02-timeline.svg)
+*US History Unit Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **What does a society's fiction reveal about its fears — and whose fears count?**

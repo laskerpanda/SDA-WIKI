@@ -84,28 +84,36 @@ WHO WILL SCORE MY DEMO:
 □ Reviewed by Reese
 
 ───────────────────────────────────────────────────────────────────
-PART 4 — PROFICIENCY TARGETS (What Each Score Means for THIS Studio)
+PART 4 — SKINNIES TO INVESTIGATE
 ───────────────────────────────────────────────────────────────────
 
-Fill in what each score level looks like for YOUR specific demo.
-Use the standard's skinny as a reference.
+Which skinnies are most relevant to your standard and demo mode?
+List them here — you will use them to fill out Part 5.
+Find every skinny at the SDA Commons → Skinnies.
 
-SCORE 1.0 — With help, I can:
-[What partial understanding looks like]
-
-SCORE 2.0 — On my own, I can:
-[Basic knowledge and skills — the vocabulary, processes, definitions]
-
-SCORE 3.0 — On my own, I can:
-[The standard itself — what the NDSBL expects at grade level]
-
-SCORE 4.0 — Beyond the standard, I can:
-[Transfer, synthesis, or independent application to new situations]
-
-TARGET SCORE FOR THIS STUDIO: _______
+1. _______________________________________________
+2. _______________________________________________
+3. _______________________________________________
 
 ───────────────────────────────────────────────────────────────────
-PART 5 — DELIVERABLE (Week 6 Studios Only)
+PART 5 — PROFICIENCY TARGETS (What Each Score Means for THIS Studio)
+───────────────────────────────────────────────────────────────────
+
+Use the skinnies you listed above. Translate each score level
+into what it means for YOUR specific demo.
+
+SCORE 1.0 — With help, I can: ________________________________
+
+SCORE 2.0 — On my own, I can: ________________________________
+
+SCORE 3.0 — On my own, I can: ________________________________
+
+SCORE 4.0 — Beyond the standard, I can: _______________________
+
+MY TARGET SCORE FOR THIS STUDIO: _______
+
+───────────────────────────────────────────────────────────────────
+PART 6 — DELIVERABLE (Week 6 Studios Only)
 ───────────────────────────────────────────────────────────────────
 
 □ This is a Week 6 studio (Deliverable required)
@@ -126,46 +134,44 @@ WHERE IT WILL BE EXHIBITED:
 □ Other: _____________________________________________________
 
 ───────────────────────────────────────────────────────────────────
-PART 6 — TIMELINE
+PART 7 — YOUR TIMELINE
 ───────────────────────────────────────────────────────────────────
 
-WEEK 1: Research / Immerse
+WEEK 1 — Launch:
   Checkpoint: _______________________________________________
 
-WEEK 2: Research / Analyze
+WEEK 2 — Dig:
   Checkpoint: _______________________________________________
 
-WEEK 3: Create / Draft
+WEEK 3 — Build:
   Checkpoint: _______________________________________________
 
-WEEK 4: Create / Revise
+WEEK 4 — Shape:
   Checkpoint: _______________________________________________
 
-WEEK 5: Present Prep / Polish
+WEEK 5 — Finish:
   Checkpoint: _______________________________________________
 
-WEEK 6: Demo of Learning + (if applicable) Deliverable
+WEEK 6 — Publish:
   Demo date: _______________________________________________
   Deliverable exhibition: ___________________________________
 
 ───────────────────────────────────────────────────────────────────
-PART 7 — RESOURCES
+PART 8 — RESOURCES
 ───────────────────────────────────────────────────────────────────
 
-SKINNIES I PLAN TO USE:
-- [                                   ](/skinnies/___________________________________.md)
-- [                                   ](/skinnies/___________________________________.md)
-
-READING LIBRARY TEXTS:
+READING LIBRARY TEXTS I PLAN TO USE:
+- [                              ](/reading-library/______________________________.md)
 - [                              ](/reading-library/______________________________.md)
 - [                              ](/reading-library/______________________________.md)
 
-OTHER SOURCES (list at least one you've found yourself):
+OTHER SOURCES (at least one you've found yourself):
+-
 -
 -
 
 ───────────────────────────────────────────────────────────────────
-PART 8 — AGREEMENT
+PART 9 — AGREEMENT
 ───────────────────────────────────────────────────────────────────
 
 By signing below, I confirm:

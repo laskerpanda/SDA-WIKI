@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Nelson Mandela, 2012](https://commons.wikimedia.org/wiki/Special:FilePath/Nelson_Mandela_at_the_launch_of_the_Africa_Progress_Panel_2012.jpg?width=320)
+*Nelson Mandela (1918–2013) at the Africa Progress Panel, 2012. He gave the Rivonia Trial speech in 1964 and served 27 years in prison.*
+
 On April 20, 1964, Nelson Mandela stood in a South African courtroom facing the death penalty for sabotage and conspiracy to overthrow the apartheid government. Rather than defend himself with legal arguments, he chose to make a four-hour speech from the dock — a direct address to the court, to South Africa, and to the world. He explained his political history, defended the African National Congress's turn to sabotage after years of nonviolent resistance were met with state violence, described the conditions of Black South Africans under apartheid in precise and devastating detail, and ended with the sentence that became one of the most famous in the history of resistance literature:
 
 *"I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die."*

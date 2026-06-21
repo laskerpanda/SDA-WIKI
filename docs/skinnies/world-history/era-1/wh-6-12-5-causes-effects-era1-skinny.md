@@ -65,7 +65,7 @@ To reach a 4.0, you must evaluate the *quality* of your sources (not just cite t
 
 **Video:** The Agricultural Revolution — CrashCourse World History #1 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
 **Also:** The Silk Road and Ancient Trade — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
-**Additional:** *Fall of the Roman Empire in the 15th Century — CrashCourse WH #12 — coming soon in reading library*
+**Also:** Fall of Rome — CrashCourse WH #12 · [Episode in reading library](../../../crashcourse/world-history/ep-12-fall-of-rome.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[07:30]:** Disease spreading along trade routes. *Why it matters:* The Antonine Plague and later the Black Death both spread along the Silk Road — trade that created prosperity also enabled catastrophic disease transmission.

@@ -63,10 +63,11 @@ To reach a 4.0, you must evaluate the long-term consequences of Era 4 technologi
 
 ## CrashCourse Connection
 
-**Video:** — Era 4 CrashCourse World History episodes — coming soon in reading library
-**Additional:** *WWI — CrashCourse WH #36 — coming soon*
-**Additional:** *WWII — CrashCourse WH #38, 39 — coming soon*
-**Additional:** *The Cold War — CrashCourse WH #37 — coming soon*
+**Video:** World War I — CrashCourse WH #38 · [Episode in reading library](../../../crashcourse/world-history/ep-38-wwi.md)
+**Also:** WWII Part 1 — CrashCourse WH #40 · [Episode in reading library](../../../crashcourse/world-history/ep-40-wwii-1.md)
+**Also:** WWII Part 2 — CrashCourse WH #41 · [Episode in reading library](../../../crashcourse/world-history/ep-41-wwii-2.md)
+**Also:** China's Revolutions — CrashCourse WH #39 · [Episode in reading library](../../../crashcourse/world-history/ep-39-china-revolutions.md)
+**Also:** The Cold War — CrashCourse WH #42 · [Episode in reading library](../../../crashcourse/world-history/ep-42-cold-war.md)
 
 **Watch Prompt (general):** For any Era 4 technology mentioned, ask: (1) What political or military context funded its development? (2) What was the intended use vs. the actual use? (3) Who benefited from it, and who bore its costs? (4) Is it still with us today?
 

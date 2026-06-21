@@ -9,6 +9,10 @@
 
 ## What This Text Is About
 
+
+![Ashoka Pillar at Vaishali](https://commons.wikimedia.org/wiki/Special:FilePath/Ashoka_Pillar_at_Vaishali.jpg?width=320)
+*Emperor Ashoka's pillar (3rd century BCE), inscribing Buddhist teachings in public stone — the same tradition that preserved the Dhammapada.*
+
 The *Dhammapada* is a collection of 423 sayings attributed to the Buddha, organized into 26 short chapters. Written in the Pali language around the 3rd century BCE, it is one of the most widely read texts in all of Buddhism and one of the most translated books in world literature. The name means roughly "the path of the Dhamma" — Dhamma being the Buddhist word for truth, law, and the proper way of living. Where Hammurabi's Code tells you what the state will do to you if you sin, the *Dhammapada* tells you what will happen inside you.
 
 ---

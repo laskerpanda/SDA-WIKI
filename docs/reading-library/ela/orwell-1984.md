@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![George Orwell](https://commons.wikimedia.org/wiki/Special:FilePath/George_Orwell_press_photo.jpg?width=320)
+*George Orwell (1903–1950). This press photograph was taken around 1943, six years before Nineteen Eighty-Four was published.*
+
 *1984* is a dystopian novel set in a totalitarian superstate called Oceania, where the Party controls all information, language, history, and thought. The protagonist Winston Smith works at the Ministry of Truth rewriting historical records to match the Party's current version of events. Orwell wrote it in 1948 (published 1949) as a warning about Stalinist totalitarianism and the mechanics of political control — surveillance, propaganda, the destruction of language as a means of controlling thought. It remains the defining literary portrait of authoritarianism.
 
 ---

@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Lorraine Hansberry](https://commons.wikimedia.org/wiki/Special:FilePath/Lorraine_Hansberry_NYWTS.jpg?width=320)
+*Lorraine Hansberry (1930–1965), playwright and author of A Raisin in the Sun (1959). Photo: New York World-Telegram and Sun.*
+
 The Younger family — grandmother Lena, her son Walter Lee, his wife Ruth, their son Travis, and Walter Lee's sister Beneatha — live crowded into a small apartment on Chicago's South Side in the late 1950s. They are waiting for a $10,000 life insurance check from the death of Lena's husband, Walter Senior. The play is about what the family does with this money — and what each character believes the money represents. Walter Lee wants to invest in a liquor store. Beneatha wants to go to medical school. Lena wants to buy a house. The house she buys is in Clybourne Park, a white neighborhood whose residents' association sends a representative to pay the family not to move in.
 
 Hansberry was the first Black playwright produced on Broadway. She wrote *A Raisin in the Sun* from direct personal experience: her own father, Carl Hansberry, had fought a legal battle — Hansberry v. Lee, which went to the Supreme Court in 1940 — against Chicago's restrictive housing covenants that prevented Black families from buying homes in white neighborhoods. The Younger family's choice is the choice her family made. The title comes from Langston Hughes's poem "Harlem" (1951): "What happens to a dream deferred? / Does it dry up / like a raisin in the sun?" — the question the play poses and refuses to simply answer.

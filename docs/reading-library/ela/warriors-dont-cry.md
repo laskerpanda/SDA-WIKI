@@ -13,6 +13,10 @@
 
 ## What This Text Is About
 
+
+![Little Rock Central High School, 1957](https://commons.wikimedia.org/wiki/Special:FilePath/Little_Rock_Central_High_School_integration_protest.jpg?width=400)
+*Integration protest outside Little Rock Central High School, 1957 — the year Melba Pattillo Beals was one of the Little Rock Nine.*
+
 *Warriors Don't Cry* is the memoir of Melba Pattillo Beals, one of the nine Black students who integrated Little Rock Central High School in September 1957. The "Little Rock Nine" were legally entitled to attend Central High following the Supreme Court's 1954 *Brown v. Board of Education* ruling — but faced a mob of hundreds of white protesters, the Arkansas National Guard (deployed by Governor Faubus to block them), and, when President Eisenhower finally intervened, a year of daily physical and psychological terror inside the school even with federal troops present. Beals wrote the memoir decades later using the diary she kept as a fifteen-year-old. It is simultaneously a coming-of-age story, a war narrative, and a primary source document of one of the defining confrontations of the Civil Rights Movement.
 
 **This text is a primary source for history.** Beals was there. Her diary entries are first-hand accounts of events documented in historical records. The memoir should be used both as a literary text (character, voice, memoir form) and as a historical document (what integration actually looked and felt like on the ground).

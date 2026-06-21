@@ -10,6 +10,10 @@
 
 ## What This Text Is About
 
+
+![Martin Luther King Jr.](https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Luther_King%2C_Jr..jpg?width=320)
+*Martin Luther King Jr. (1929–1968). This photograph was taken in 1964, the year he received the Nobel Peace Prize.*
+
 Written on April 16, 1963, from a Birmingham, Alabama jail cell, this letter is Dr. King's direct response to "A Call for Unity" — a public statement by eight white Alabama clergymen who called civil rights demonstrations "unwise and untimely." King dismantles their arguments one by one, defends the legitimacy of nonviolent direct action, explains why "wait" is never acceptable when injustice is ongoing, and articulates the moral philosophy behind the civil rights movement. It is both a masterwork of argumentative writing and one of the most important documents in American history.
 
 ---

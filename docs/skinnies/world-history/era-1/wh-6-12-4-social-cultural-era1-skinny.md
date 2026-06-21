@@ -65,7 +65,7 @@ To reach a 4.0, you must synthesize across civilizations or time periods, evalua
 
 **Video:** The Silk Road and Ancient Trade — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
 **Also:** The Agricultural Revolution — CrashCourse World History #1 · [Episode in reading library](../../../crashcourse/world-history/ep-01-agricultural-revolution.md)
-**Additional:** *Alexander the Great and the Situation — CrashCourse WH #8 — coming soon in reading library*
+**Also:** Alexander the Great — CrashCourse WH #8 · [Episode in reading library](../../../crashcourse/world-history/ep-08-alexander-the-great.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[02:00]:** What actually traveled on the Silk Road — not just silk. *Why it matters:* Cultural diffusion is the mechanism by which social and economic development spreads across civilizations.

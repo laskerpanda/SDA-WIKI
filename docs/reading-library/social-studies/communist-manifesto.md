@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Karl Marx](https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_001.jpg?width=320)
+*Karl Marx (1818–1883), co-author of the Communist Manifesto (1848). This photograph was taken in 1875.*
+
 Published in February 1848 — weeks before revolutions broke out across Europe — *The Communist Manifesto* is a short political pamphlet by German philosophers Karl Marx and Friedrich Engels, written as the founding document of the Communist League. It diagnoses capitalism as a system that concentrates wealth, alienates workers from their labor, and inevitably produces class conflict. It argues that history is the history of class struggle, that the industrial working class (the proletariat) is the agent of historical change, and that the overthrow of capitalism and the establishment of collective ownership of production is both historically inevitable and morally necessary.
 
 **Why this text belongs in the reading library:** The Communist Manifesto directly shaped the ideologies behind the Russian Revolution (1917), the Chinese Revolution (1949), the Cuban Revolution (1959), and dozens of 20th-century independence and liberation movements. It also shaped every major anti-communist political movement of the same period — the New Deal, McCarthyism, NATO, the Cold War — as a reaction to what it proposed. You cannot understand the 20th century without understanding this document. It is also one of the most rhetorically effective political arguments ever written, and one of the most-banned books in American history.

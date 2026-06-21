@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Odysseus and the Sirens — Attic red-figure stamnos](https://commons.wikimedia.org/wiki/Special:FilePath/Odysseus_Sirens_BM_E440_n2.jpg?width=400)
+*Odysseus tied to the mast as the ship passes the Sirens. Attic red-figure stamnos, c. 480 BCE. British Museum.*
+
 The *Odyssey* is the foundational Western epic — the story of Odysseus (Ulysses in Latin), king of Ithaca, and his ten-year journey home after the fall of Troy. He fights monsters, outwits gods, resists temptation, loses his entire crew, and eventually returns to reclaim his household from suitors who have invaded his home and are consuming his wealth while pursuing his wife Penelope. The poem is structured around a simple question — will Odysseus make it home? — but it is really a meditation on intelligence, loyalty, hospitality, and what it means to be human in a world governed by forces larger than you.
 
 This text is dual-use in a way few others are. As an ELA text, the *Odyssey* is the template for virtually every adventure narrative in Western literature — the hero who leaves home, faces trials, and returns transformed. Every hero's journey, from Star Wars to The Hunger Games, descends from this structure. Students reading the *Odyssey* are reading the source code of Western storytelling. As a Social Studies text, it is a primary source for ancient Greek values: what Greeks believed about hospitality (*xenia*), the relationship between mortals and gods, loyalty and cunning as heroic virtues, and the political structure of the heroic age — small kingdoms ruled by warrior-kings whose legitimacy rested on personal prowess rather than institutional authority.

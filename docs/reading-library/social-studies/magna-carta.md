@@ -10,6 +10,10 @@
 
 ## What This Text Is About
 
+
+![Magna Carta, 1215 — British Library](https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_-_Cotton_MS_Augustus_II_106.jpg?width=400)
+*Magna Carta (1215), Cotton MS Augustus II.106. One of four surviving originals. British Library.*
+
 The Magna Carta ("Great Charter") is a royal charter of rights signed by King John of England in June 1215 under pressure from rebellious barons. It was the first document to formally limit the power of the English king, establishing that even the monarch was subject to the rule of law. It introduced concepts like due process and protection from arbitrary imprisonment that became foundational to modern democratic systems — including the U.S. Constitution.
 
 ---

@@ -65,6 +65,10 @@
 
 ## What This Text Is About
 
+
+![Confucius](https://commons.wikimedia.org/wiki/Special:FilePath/Konfuzius-1770.jpg?width=320)
+*Portrait of Confucius (551–479 BCE), traditionally attributed to Wu Daozi, Tang dynasty copy.*
+
 Confucius (551–479 BCE) was a Chinese philosopher, teacher, and political advisor who lived during the Spring and Autumn period — an era of fragmented Chinese states, constant warfare, and political instability. His teachings, compiled after his death by his students into the *Analects* (literally "edited conversations"), argue that good government rests not on law and punishment but on virtue, ritual, and the cultivation of character. If rulers and ministers embody virtue, subjects will follow. If they don't, no amount of law can create a stable society.
 
 **Why this text belongs in the reading library:** The *Analects* represent one of the most influential political philosophies in human history — shaping Chinese governance for over 2,000 years, influencing Japanese, Korean, and Vietnamese political culture, and producing a conception of the relationship between individual character and political order that is fundamentally different from the Greek, Roman, and Abrahamic traditions that dominate Western curricula. Reading it alongside Hammurabi's Code and Pericles' Funeral Oration — all responding to the same basic question (how do you make a society work?) — reveals how differently the ancient world answered that question.

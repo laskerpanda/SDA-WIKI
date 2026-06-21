@@ -63,8 +63,8 @@ To reach a 4.0, you must critically evaluate how Era 3 legacies are interpreted 
 ## CrashCourse Connection
 
 **Video:** The French Revolution — CrashCourse World History #33 · [Episode in reading library](../../../crashcourse/world-history/ep-33-french-revolution.md)
-**Additional:** *Imperialism — CrashCourse WH #35 — coming soon in reading library*
-**Additional:** *The Industrial Revolution — CrashCourse WH #32 — coming soon in reading library*
+**Also:** Imperialism — CrashCourse WH #37 · [Episode in reading library](../../../crashcourse/world-history/ep-37-imperialism.md)
+**Also:** The Industrial Revolution — CrashCourse WH #35 · [Episode in reading library](../../../crashcourse/world-history/ep-35-industrial-revolution.md)
 
 **Key Timestamps (French Revolution ep):**
 - **[14:00]:** The Revolution's long legacy — what it left behind ideologically. *Why it matters:* The French Revolution is the source of the "left vs. right" political spectrum (from the seating positions in the revolutionary assembly) still used today.

@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate how multiple forces (plague, trade, religious 
 ## CrashCourse Connection
 
 **Video:** The Silk Road — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
-**Additional:** *The Black Death — CrashCourse WH #28 — coming soon in reading library*
-**Additional:** *The Renaissance: Was it a Thing? — CrashCourse WH #22 — coming soon in reading library*
+**Also:** The Black Death & Printing Press — CrashCourse WH #28 · [Episode in reading library](../../../crashcourse/world-history/ep-28-black-death-printing-press.md)
+**Also:** The Renaissance — CrashCourse WH #22 · [Episode in reading library](../../../crashcourse/world-history/ep-22-the-renaissance.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[07:30]:** Disease spreading along trade routes — the mechanism by which plague traveled from Central Asia to Europe. *Why it matters:* The Black Death came WITH the Silk Road's economic benefits — you can't have global trade without global disease transmission. This is a recurring theme in history.

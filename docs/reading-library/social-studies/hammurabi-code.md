@@ -10,6 +10,10 @@
 
 ## What This Text Is About
 
+
+![Stele of Hammurabi — Louvre](https://commons.wikimedia.org/wiki/Special:FilePath/P1050763_Louvre_code_Hammurabi_face_rwk.JPG?width=320)
+*The Stele of Hammurabi (c. 1754 BCE), carved in diorite, now in the Louvre. 282 laws inscribed in cuneiform.*
+
 The Code of Hammurabi is one of the oldest written legal codes in recorded history, carved into an 8-foot stone stele around 1754 BCE in ancient Babylon. It contains 282 laws governing everything from trade and wages to family life, slavery, and punishment — organized around the principle that the strong shall not oppress the weak.
 
 ---

@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate the medieval legacies critically — not just 
 ## CrashCourse Connection
 
 **Video:** The Silk Road — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
-**Additional:** *The Renaissance: Was it a Thing? — CrashCourse WH #22 — coming soon in reading library*
-**Additional:** *The Printing Press — CrashCourse WH #28 — coming soon in reading library*
+**Also:** The Renaissance — CrashCourse WH #22 · [Episode in reading library](../../../crashcourse/world-history/ep-22-the-renaissance.md)
+**Also:** The Black Death & Printing Press — CrashCourse WH #28 · [Episode in reading library](../../../crashcourse/world-history/ep-28-black-death-printing-press.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[11:30]:** The long-term consequences of trade network disruption. *Why it matters:* The fall of the Silk Road's eastern terminus (Constantinople, 1453) is still with us — it motivated European exploration, which motivated colonialism, which shaped the modern world.

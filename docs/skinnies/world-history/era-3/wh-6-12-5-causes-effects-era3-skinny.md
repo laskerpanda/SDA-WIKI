@@ -63,8 +63,8 @@ To reach a 4.0, you must evaluate competing interpretations of causation and ass
 ## CrashCourse Connection
 
 **Video:** The French Revolution — CrashCourse World History #33 · [Episode in reading library](../../../crashcourse/world-history/ep-33-french-revolution.md)
-**Additional:** *The Atlantic Slave Trade — CrashCourse WH #24 — coming soon in reading library*
-**Additional:** *The Columbian Exchange — CrashCourse WH #23 — coming soon in reading library*
+**Also:** Atlantic Slave Trade — CrashCourse WH #23 · [Episode in reading library](../../../crashcourse/world-history/ep-23-slave-trade.md)
+**Also:** Columbian Exchange — CrashCourse WH #24 · [Episode in reading library](../../../crashcourse/world-history/ep-24-columbian-exchange.md)
 
 **Key Timestamps (French Revolution ep):**
 - **[03:00]:** The multiple causes of the French Revolution. *Why it matters:* The episode models good causal analysis — not just "Enlightenment ideas" but also fiscal crisis, food shortage, and political exclusion. Follow this model.

@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate the costs of technological progress — who pa
 ## CrashCourse Connection
 
 **Video:** The French Revolution — CrashCourse World History #33 · [Episode in reading library](../../../crashcourse/world-history/ep-33-french-revolution.md)
-**Additional:** *The Industrial Revolution — CrashCourse WH #32 — coming soon in reading library*
-**Additional:** *Galileo and the Science Wars — CrashCourse WH #22 — coming soon in reading library*
+**Also:** The Industrial Revolution — CrashCourse WH #35 · [Episode in reading library](../../../crashcourse/world-history/ep-35-industrial-revolution.md)
+**Also:** The Renaissance (incl. Scientific Revolution context) — CrashCourse WH #22 · [Episode in reading library](../../../crashcourse/world-history/ep-22-the-renaissance.md)
 
 **Key Timestamps (French Revolution ep):**
 - **[02:00]:** The role of Enlightenment ideas in the Revolution. *Why it matters:* The Scientific Revolution produced the Enlightenment — the belief that reason, not tradition, should guide human affairs. The French Revolution was in part an attempt to apply scientific/rational thinking to political organization.

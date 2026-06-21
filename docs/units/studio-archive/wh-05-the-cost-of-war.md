@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/wh-05-timeline.svg)
+*World History Era Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **Who pays the cost of war — and who gets to tell the story?**

@@ -62,7 +62,11 @@ To reach a 4.0, you must evaluate the systems that produced these social and eco
 
 ## CrashCourse Connection
 
-**Video:** — Era 4 CrashCourse World History episodes — coming soon in reading library
+**Video:** World War I — CrashCourse WH #38 · [Episode in reading library](../../../crashcourse/world-history/ep-38-wwi.md)
+**Also:** WWII Part 1 — CrashCourse WH #40 · [Episode in reading library](../../../crashcourse/world-history/ep-40-wwii-1.md)
+**Also:** WWII Part 2 — CrashCourse WH #41 · [Episode in reading library](../../../crashcourse/world-history/ep-41-wwii-2.md)
+**Also:** China's Revolutions — CrashCourse WH #39 · [Episode in reading library](../../../crashcourse/world-history/ep-39-china-revolutions.md)
+**Also:** The Cold War — CrashCourse WH #42 · [Episode in reading library](../../../crashcourse/world-history/ep-42-cold-war.md)
 **Watch Prompt (general):** For each social or economic development mentioned, track: (1) What problem was this development responding to? (2) Who benefited from it? (3) Who was left out or harmed? (4) What individual lives does this development explain or transform?
 
 ---

@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/ush-03-timeline.svg)
+*US History Unit Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **When the economy collapses and millions of people lose everything, what does the government owe them — and what does it cost to find out?**

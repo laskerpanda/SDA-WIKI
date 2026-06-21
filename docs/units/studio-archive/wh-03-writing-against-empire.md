@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/wh-03-timeline.svg)
+*World History Era Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **When a powerful system is doing harm, what does it take to challenge it — and what does it cost?**

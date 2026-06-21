@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/ush-01-timeline.svg)
+*US History Unit Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **When an institution fails the people it's supposed to serve, what does it take to fix it — and who has to do the work?**

@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Frederick Douglass](https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Douglass.jpg?width=320)
+*Frederick Douglass (c. 1818–1895), photographed c. 1879. Douglass was the most photographed American of the 19th century — he controlled his own image deliberately.*
+
 Published in 1845, when Douglass was 27 years old and had been free for seven years, *Narrative of the Life of Frederick Douglass* is the autobiography of a man born into slavery in Maryland who taught himself to read, escaped to the North, and became the most influential Black abolitionist leader in American history. The book describes his childhood under slavery — the deliberate suppression of his literacy, the violence he witnessed and experienced, the psychology of enslaved and enslaver — and his growing determination to be free. It was published as direct abolitionist argument: Douglass wanted readers to understand that enslaved people were fully human, fully capable of reason and feeling, and that slavery was a system that required dehumanization to function.
 
 **A note on the text:** Douglass wrote this memoir knowing it would be used as evidence against him — publishing it identified him and made him legally vulnerable to re-enslavement. His willingness to stake his freedom on its publication is itself part of the argument.

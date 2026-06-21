@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Bartolomé de las Casas](https://commons.wikimedia.org/wiki/Special:FilePath/Fray_Bartolom%C3%A9_de_las_Casas.jpg?width=320)
+*Bartolomé de las Casas (1484–1566), Spanish friar and early human rights advocate, whose accounts of colonial atrocity are this text.*
+
 Bartolomé de las Casas was a Spanish priest who participated in the early conquest of the Caribbean and Cuba, witnessed what the Spanish were doing to indigenous populations, renounced his own encomienda (slave-labor grant), became a Dominican friar, and spent the rest of his life arguing that the conquest was a moral atrocity and a sin against God. *A Short Account of the Destruction of the Indies* (1542) is his direct report to the Spanish Crown — written to persuade King Charles V to reform colonial policy — describing what he witnessed: the systematic massacre, enslavement, and destruction of indigenous peoples across the Caribbean, Mexico, and Central America.
 
 **Why this text is uniquely valuable:** Las Casas was a Spaniard, a Christian priest, and an initial participant in the conquest. His denunciation comes from inside the system, using the system's own values (Christian morality, Spanish honor, the soul's salvation) to condemn it. This is the [Luther](./luther-95-theses.md) argument applied to colonial violence: attacking an institution using the institution's own moral premises. It is also the direct predecessor of the [Kipling/Johnson](./kipling-white-mans-burden.md) debate — centuries before that debate happened.

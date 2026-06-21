@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Elie Wiesel](https://commons.wikimedia.org/wiki/Special:FilePath/Elie_Wiesel.jpg?width=320)
+*Elie Wiesel (1928–2016), Holocaust survivor and author of Night. Nobel Peace Prize, 1986.*
+
 *Night* is a memoir by Holocaust survivor Elie Wiesel documenting his experiences in the Nazi concentration camps of Auschwitz and Buchenwald from 1944 to 1945. Wiesel was fifteen years old when his family was deported from Sighet, Romania. The book traces the systematic destruction of Jewish life, his father's death, and his own spiritual crisis — a wrestling with faith, silence, and God's presence or absence in the face of genocide. It is one of the most widely read Holocaust memoirs in the world.
 
 ---

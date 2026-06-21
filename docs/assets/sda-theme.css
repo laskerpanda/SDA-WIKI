@@ -1,251 +1,582 @@
-/* SDA Commons — Phil Wiki Color Scheme */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+/* SDA Commons — Potions Master Aesthetic · Dark + Light Mode */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Cinzel+Decorative:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
-:root {
-  --bg: #0b0d0c;
-  --surface: #111413;
-  --surface2: #171a18;
-  --border: #1e2420;
-  --border2: #263029;
-  --text: #c8c8c0;
-  --muted: #4a5450;
-  --muted2: #6a7a75;
-  --green: #3a6b47;
-  --green2: #4d8a5e;
-  --green3: #2a4f35;
-  --gold: #7a6a3a;
-  --gold2: #9a8a4a;
-  --red: #6b3a3a;
-}
-
-/* Base */
-body,
+/* ── DARK MODE (slate) ──────────────────────────────────────────────────── */
 [data-md-color-scheme="slate"] {
-  --md-default-bg-color: #0b0d0c;
-  --md-default-fg-color: #c8c8c0;
-  --md-primary-fg-color: #3a6b47;
-  --md-primary-bg-color: #0b0d0c;
-  --md-accent-fg-color: #4d8a5e;
-  --md-typeset-color: #c8c8c0;
-  --md-typeset-a-color: #4d8a5e;
-  --md-code-bg-color: #111413;
-  --md-code-fg-color: #c8c8c0;
-  font-family: 'Playfair Display', serif;
+  --md-default-bg-color:        #0d0b08;
+  --md-default-fg-color:        #e8d5a3;
+  --md-default-fg-color--light: #a89060;
+  --md-default-fg-color--lighter: #7a6040;
+  --md-primary-fg-color:        #c8860a;
+  --md-primary-bg-color:        #1a1510;
+  --md-primary-fg-color--light: #a89060;
+  --md-accent-fg-color:         #c8860a;
+  --md-accent-bg-color:         rgba(200,134,10,.12);
+  --md-typeset-color:           #e8d5a3;
+  --md-typeset-a-color:         #c8860a;
+  --md-code-bg-color:           #2a2520;
+  --md-code-fg-color:           #e8d5a3;
+  --md-footer-bg-color:         #1a1510;
+  --md-footer-fg-color:         #a89060;
+  --sda-ink:        #0d0b08;
+  --sda-parchment:  #1a1510;
+  --sda-amber:      #c8860a;
+  --sda-amber-dim:  #7a4f06;
+  --sda-cream:      #e8d5a3;
+  --sda-cream-dim:  #a89060;
+  --sda-stone:      #2a2520;
+  --sda-stone-lt:   #3a3028;
+  --sda-green:      #4a9e3f;
+  --sda-border:     rgba(200,134,10,.18);
+  --sda-h-color:    #c8860a;
+  --sda-body-color: #e8d5a3;
+  --sda-muted:      #a89060;
+  --sda-bg:         #0d0b08;
+  --sda-surface:    #1a1510;
+  --sda-nav-active: #c8860a;
 }
 
-/* Header */
+/* ── LIGHT MODE (default) ───────────────────────────────────────────────── */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color:        #fdf9f0;
+  --md-default-fg-color:        #1a1510;
+  --md-default-fg-color--light: #4a3820;
+  --md-default-fg-color--lighter: #7a6040;
+  --md-primary-fg-color:        #e8d5a3;
+  --md-primary-bg-color:        #2a2520;
+  --md-primary-fg-color--light: #a89060;
+  --md-accent-fg-color:         #c8860a;
+  --md-accent-bg-color:         rgba(200,134,10,.1);
+  --md-typeset-color:           #1a1510;
+  --md-typeset-a-color:         #7a4f06;
+  --md-code-bg-color:           #ede0c4;
+  --md-code-fg-color:           #1a1510;
+  --md-footer-bg-color:         #2a2520;
+  --md-footer-fg-color:         #a89060;
+  --sda-ink:        #fdf9f0;
+  --sda-parchment:  #f0e6cc;
+  --sda-amber:      #7a4f06;
+  --sda-amber-dim:  #5a3800;
+  --sda-cream:      #1a1510;
+  --sda-cream-dim:  #4a3820;
+  --sda-stone:      #ede0c4;
+  --sda-stone-lt:   #f5ecd8;
+  --sda-green:      #2d6e22;
+  --sda-border:     rgba(122,79,6,.2);
+  --sda-h-color:    #7a4f06;
+  --sda-body-color: #1a1510;
+  --sda-muted:      #5a4830;
+  --sda-bg:         #fdf9f0;
+  --sda-surface:    #f0e6cc;
+  --sda-nav-active: #c8860a;
+}
+
+/* ── GLOBAL BASE ────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  font-family: 'Crimson Text', Georgia, serif !important;
+  background-color: var(--sda-bg) !important;
+}
+
+/* ── HEADER ─────────────────────────────────────────────────────────────── */
 .md-header {
-  background-color: #111413 !important;
-  border-bottom: 1px solid #1e2420;
+  background-color: var(--sda-surface) !important;
+  border-bottom: 1px solid var(--sda-border) !important;
+  box-shadow: 0 1px 8px rgba(0,0,0,.35) !important;
 }
 
 .md-header__title {
-  font-family: 'Playfair Display', serif;
-  font-size: 0.95rem;
-  color: #c8c8c0;
-  letter-spacing: 0.01em;
+  font-family: 'Cinzel Decorative', cursive !important;
+  font-size: 0.82rem !important;
+  letter-spacing: 0.06em !important;
+  color: var(--sda-amber) !important;
 }
 
-/* Navigation */
+.md-header__button {
+  color: var(--sda-amber) !important;
+}
+
+/* palette toggle icon */
+.md-header__button.md-icon[for="__palette"] {
+  color: var(--sda-amber) !important;
+  opacity: .8;
+}
+.md-header__button.md-icon[for="__palette"]:hover {
+  opacity: 1;
+}
+
+/* ── TOP TABS ───────────────────────────────────────────────────────────── */
+.md-tabs {
+  background-color: var(--sda-surface) !important;
+  border-bottom: 1px solid var(--sda-border) !important;
+}
+
+.md-tabs__link {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.08em !important;
+  color: var(--sda-muted) !important;
+  opacity: 1 !important;
+  transition: color .2s !important;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+  color: var(--sda-amber) !important;
+}
+
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__item:hover .md-tabs__link {
+  color: var(--sda-amber) !important;
+}
+
+/* ── SIDEBAR & NAVIGATION ───────────────────────────────────────────────── */
+.md-sidebar {
+  background-color: var(--sda-surface) !important;
+}
+
+.md-sidebar__scrollwrap {
+  background-color: var(--sda-surface) !important;
+}
+
 .md-nav {
-  background-color: #111413;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.72rem;
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 0.9rem !important;
+  background-color: var(--sda-surface) !important;
 }
 
 .md-nav__title {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.58rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: #4a5450;
-  background-color: #111413;
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.65rem !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+  color: var(--sda-amber) !important;
+  background-color: var(--sda-surface) !important;
+  border-bottom: 1px solid var(--sda-border) !important;
+  padding: 0.8rem 0.6rem 0.5rem !important;
 }
 
 .md-nav__link {
-  color: #6a7a75 !important;
-  font-size: 0.72rem;
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 0.88rem !important;
+  color: var(--sda-muted) !important;
+  transition: color .2s !important;
 }
 
 .md-nav__link:hover,
 .md-nav__link:focus {
-  color: #c8c8c0 !important;
+  color: var(--sda-amber) !important;
 }
 
-.md-nav__link--active {
-  color: #4d8a5e !important;
-  border-left: 2px solid #3a6b47;
+.md-nav__link--active,
+.md-nav__link--passed {
+  color: var(--sda-nav-active) !important;
 }
 
-/* Sidebar */
-.md-sidebar {
-  background-color: #111413;
-  border-right: 1px solid #1e2420;
+.md-nav__item--active > .md-nav__link {
+  color: var(--sda-amber) !important;
+  font-style: italic;
 }
 
-/* Main content */
+/* nested nav indent lines */
+.md-nav--secondary .md-nav__link {
+  font-size: 0.83rem !important;
+  color: var(--sda-muted) !important;
+}
+
+/* ── MAIN CONTENT AREA ──────────────────────────────────────────────────── */
 .md-main {
-  background-color: #0b0d0c;
+  background-color: var(--sda-bg) !important;
 }
 
 .md-content {
-  background-color: #0b0d0c;
+  background-color: var(--sda-bg) !important;
   max-width: 860px;
 }
 
-/* Typography */
+.md-content__inner {
+  background-color: var(--sda-bg) !important;
+}
+
+/* ── TYPOGRAPHY ─────────────────────────────────────────────────────────── */
+.md-typeset {
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 1.05rem !important;
+  line-height: 1.78 !important;
+  color: var(--sda-body-color) !important;
+}
+
 .md-typeset h1 {
-  font-family: 'Playfair Display', serif;
-  font-weight: 700;
-  color: #c8c8c0;
-  border-bottom: 1px solid #1e2420;
-  padding-bottom: 0.5rem;
+  font-family: 'Cinzel Decorative', cursive !important;
+  font-size: clamp(1.3rem, 2.4vw, 1.9rem) !important;
+  font-weight: 700 !important;
+  color: var(--sda-h-color) !important;
+  border-bottom: 1px solid var(--sda-border) !important;
+  padding-bottom: 0.5rem !important;
+  margin-bottom: 1.2rem !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.3 !important;
 }
 
 .md-typeset h2 {
-  font-family: 'Playfair Display', serif;
-  font-weight: 600;
-  color: #c8c8c0;
-  border-bottom: 1px solid #1e2420;
+  font-family: 'Cinzel Decorative', cursive !important;
+  font-size: clamp(1.05rem, 1.8vw, 1.4rem) !important;
+  font-weight: 400 !important;
+  color: var(--sda-h-color) !important;
+  border-bottom: 1px solid var(--sda-border) !important;
+  padding-bottom: 0.3rem !important;
+  margin-top: 2rem !important;
+  letter-spacing: 0.01em !important;
+  line-height: 1.35 !important;
 }
 
-.md-typeset h3,
+.md-typeset h3 {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  color: var(--sda-h-color) !important;
+  letter-spacing: 0.06em !important;
+  margin-top: 1.6rem !important;
+}
+
 .md-typeset h4 {
-  font-family: 'Playfair Display', serif;
-  font-weight: 500;
-  color: #9a8a4a;
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.88rem !important;
+  font-weight: 400 !important;
+  color: var(--sda-muted) !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
 }
 
 .md-typeset p,
 .md-typeset li {
-  font-family: 'Playfair Display', serif;
-  color: #c8c8c0;
-  line-height: 1.7;
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 1.05rem !important;
+  color: var(--sda-body-color) !important;
+  line-height: 1.78 !important;
 }
 
+.md-typeset strong {
+  color: var(--sda-cream) !important;
+  font-weight: 600 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset strong {
+  color: #1a1510 !important;
+}
+
+.md-typeset em {
+  font-family: 'IM Fell English', serif !important;
+  color: var(--sda-muted) !important;
+}
+
+/* ── LINKS ──────────────────────────────────────────────────────────────── */
 .md-typeset a {
-  color: #4d8a5e;
-  text-decoration: none;
+  color: var(--sda-amber) !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid transparent !important;
+  transition: border-color .2s, color .2s !important;
 }
 
 .md-typeset a:hover {
-  color: #9a8a4a;
-  text-decoration: underline;
+  color: var(--sda-amber) !important;
+  border-bottom-color: var(--sda-amber) !important;
 }
 
-/* Code blocks */
+/* ── BLOCKQUOTES ────────────────────────────────────────────────────────── */
+.md-typeset blockquote {
+  font-family: 'IM Fell English', serif !important;
+  font-style: italic !important;
+  font-size: 1.05rem !important;
+  color: var(--sda-muted) !important;
+  border-left: 3px solid var(--sda-amber) !important;
+  background-color: rgba(200,134,10,.04) !important;
+  padding: 0.9rem 1.2rem !important;
+  margin: 1.2rem 0 !important;
+}
+
+/* ── CODE ───────────────────────────────────────────────────────────────── */
 .md-typeset code {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.8rem;
-  background-color: #111413;
-  color: #c8c8c0;
-  border: 1px solid #1e2420;
-  border-radius: 3px;
-  padding: 0.1em 0.3em;
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-size: 0.82rem !important;
+  background-color: var(--sda-stone) !important;
+  color: var(--sda-amber) !important;
+  border-radius: 3px !important;
+  padding: 0.12em 0.35em !important;
+  border: 1px solid var(--sda-border) !important;
 }
 
 .md-typeset pre {
-  background-color: #111413 !important;
-  border: 1px solid #1e2420;
-  border-radius: 4px;
+  background-color: var(--sda-stone) !important;
+  border: 1px solid var(--sda-border) !important;
+  border-radius: 4px !important;
 }
 
-.md-typeset pre code {
-  border: none;
-  padding: 0;
+.md-typeset pre > code {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  font-size: 0.83rem !important;
+  color: var(--sda-body-color) !important;
 }
 
-/* Tables */
+/* highlight active line color */
+.md-typeset .highlight .hll {
+  background-color: rgba(200,134,10,.1) !important;
+}
+
+/* ── TABLES ─────────────────────────────────────────────────────────────── */
 .md-typeset table {
-  border-collapse: collapse;
-  width: 100%;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.78rem;
+  border-collapse: collapse !important;
+  width: 100% !important;
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 0.97rem !important;
 }
 
 .md-typeset table th {
-  background-color: #111413;
-  color: #4d8a5e;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.65rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  border-bottom: 1px solid #263029;
-  padding: 0.5rem 0.75rem;
+  background-color: var(--sda-stone) !important;
+  color: var(--sda-amber) !important;
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  border-bottom: 1px solid var(--sda-border) !important;
+  padding: 0.5rem 0.8rem !important;
 }
 
 .md-typeset table td {
-  border-bottom: 1px solid #1e2420;
-  color: #c8c8c0;
-  padding: 0.45rem 0.75rem;
+  border-bottom: 1px solid var(--sda-border) !important;
+  color: var(--sda-body-color) !important;
+  padding: 0.45rem 0.8rem !important;
+  line-height: 1.65 !important;
 }
 
 .md-typeset table tr:hover td {
-  background-color: #111413;
+  background-color: rgba(200,134,10,.04) !important;
 }
 
-/* Search */
+/* ── ADMONITIONS ────────────────────────────────────────────────────────── */
+.md-typeset .admonition {
+  background-color: var(--sda-stone) !important;
+  border-left: 4px solid var(--sda-amber) !important;
+  border-radius: 3px !important;
+  font-family: 'Crimson Text', Georgia, serif !important;
+}
+
+.md-typeset .admonition-title {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.8rem !important;
+  letter-spacing: 0.08em !important;
+  background-color: rgba(200,134,10,.1) !important;
+  color: var(--sda-amber) !important;
+}
+
+.md-typeset .admonition p,
+.md-typeset .admonition li {
+  color: var(--sda-body-color) !important;
+}
+
+/* warning admonition */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-left-color: #c04040 !important;
+}
+.md-typeset .admonition.warning .admonition-title {
+  background-color: rgba(192,64,64,.1) !important;
+  color: #c04040 !important;
+}
+
+/* note / info */
+.md-typeset .admonition.note,
+.md-typeset .admonition.info,
+.md-typeset details.note {
+  border-left-color: var(--sda-green) !important;
+}
+.md-typeset .admonition.note .admonition-title,
+.md-typeset .admonition.info .admonition-title {
+  background-color: rgba(74,158,63,.1) !important;
+  color: var(--sda-green) !important;
+}
+
+/* ── SEARCH ─────────────────────────────────────────────────────────────── */
 .md-search__input {
-  background-color: #111413;
-  color: #c8c8c0;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.8rem;
-  border: 1px solid #263029;
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 0.95rem !important;
+  background-color: var(--sda-stone) !important;
+  color: var(--sda-body-color) !important;
+  border: 1px solid var(--sda-border) !important;
+  border-radius: 3px !important;
+}
+
+.md-search__input::placeholder {
+  color: var(--sda-muted) !important;
 }
 
 .md-search__output {
-  background-color: #111413;
-  border: 1px solid #263029;
+  background-color: var(--sda-surface) !important;
+  border: 1px solid var(--sda-border) !important;
 }
 
-/* TOC */
+.md-search-result__meta {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.72rem !important;
+  letter-spacing: 0.06em !important;
+  color: var(--sda-muted) !important;
+  background-color: var(--sda-stone) !important;
+}
+
+.md-search-result__article {
+  background-color: var(--sda-surface) !important;
+}
+
+.md-search-result__title {
+  font-family: 'Cinzel Decorative', cursive !important;
+  font-size: 0.85rem !important;
+  color: var(--sda-h-color) !important;
+}
+
+.md-search-result__teaser {
+  font-family: 'Crimson Text', Georgia, serif !important;
+  color: var(--sda-muted) !important;
+}
+
+/* ── TOC ────────────────────────────────────────────────────────────────── */
 .md-nav--secondary .md-nav__link {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.68rem;
-  color: #4a5450 !important;
+  font-family: 'Crimson Text', Georgia, serif !important;
+  font-size: 0.83rem !important;
+  color: var(--sda-muted) !important;
 }
 
-.md-nav--secondary .md-nav__link:hover {
-  color: #c8c8c0 !important;
+.md-nav--secondary .md-nav__link:hover,
+.md-nav--secondary .md-nav__link--active {
+  color: var(--sda-amber) !important;
 }
 
-/* Footer */
+/* ── FOOTER ─────────────────────────────────────────────────────────────── */
 .md-footer {
-  background-color: #111413;
-  border-top: 1px solid #1e2420;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.7rem;
-  color: #4a5450;
+  background-color: var(--sda-surface) !important;
+  border-top: 1px solid var(--sda-border) !important;
 }
 
-/* Blockquotes */
-.md-typeset blockquote {
-  border-left: 3px solid #3a6b47;
-  background-color: #111413;
-  padding: 0.75rem 1rem;
-  color: #9a8a4a;
-  font-style: italic;
+.md-footer-meta {
+  background-color: var(--sda-stone) !important;
 }
 
-/* Admonitions */
-.md-typeset .admonition {
-  background-color: #111413;
-  border-left: 4px solid #3a6b47;
+.md-footer__title {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.8rem !important;
+  letter-spacing: 0.06em !important;
+  color: var(--sda-amber) !important;
 }
 
-/* Tabs */
-.md-tabs {
-  background-color: #111413;
-  border-bottom: 1px solid #1e2420;
+.md-footer__direction {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.65rem !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  color: var(--sda-muted) !important;
 }
 
-.md-tabs__link {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.72rem;
-  color: #6a7a75;
+.md-footer-copyright {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.7rem !important;
+  letter-spacing: 0.06em !important;
+  color: var(--sda-muted) !important;
 }
 
-.md-tabs__link--active,
-.md-tabs__link:hover {
-  color: #4d8a5e;
+/* ── BACK TO TOP ────────────────────────────────────────────────────────── */
+.md-top {
+  background-color: var(--sda-amber) !important;
+  color: var(--sda-ink) !important;
+  font-family: 'IM Fell English SC', serif !important;
+}
+
+/* ── TAG PILLS (if used) ────────────────────────────────────────────────── */
+.md-tag {
+  font-family: 'IM Fell English SC', serif !important;
+  font-size: 0.7rem !important;
+  letter-spacing: 0.06em !important;
+  background-color: var(--sda-stone) !important;
+  color: var(--sda-amber) !important;
+  border: 1px solid var(--sda-border) !important;
+}
+
+/* ── SCROLLBAR (dark mode only) ─────────────────────────────────────────── */
+[data-md-color-scheme="slate"] ::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+[data-md-color-scheme="slate"] ::-webkit-scrollbar-track {
+  background: #1a1510;
+}
+[data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb {
+  background: #3a3028;
+  border-radius: 3px;
+}
+[data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb:hover {
+  background: #c8860a;
+}
+
+/* ── LIGHT MODE OVERRIDES ───────────────────────────────────────────────── */
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: #2a2520 !important;
+  border-bottom-color: rgba(200,134,10,.25) !important;
+}
+
+[data-md-color-scheme="default"] .md-sidebar,
+[data-md-color-scheme="default"] .md-sidebar__scrollwrap,
+[data-md-color-scheme="default"] .md-nav {
+  background-color: #f0e6cc !important;
+}
+
+[data-md-color-scheme="default"] .md-nav__title {
+  background-color: #f0e6cc !important;
+  color: #7a4f06 !important;
+}
+
+[data-md-color-scheme="default"] .md-main,
+[data-md-color-scheme="default"] .md-content,
+[data-md-color-scheme="default"] .md-content__inner {
+  background-color: #fdf9f0 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset blockquote {
+  background-color: rgba(122,79,6,.05) !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset table th {
+  background-color: #ede0c4 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset .admonition {
+  background-color: #ede0c4 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset code {
+  background-color: #ede0c4 !important;
+  color: #5a3800 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset pre {
+  background-color: #ede0c4 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset pre > code {
+  color: #1a1510 !important;
+}
+
+[data-md-color-scheme="default"] .md-search__input {
+  background-color: #ede0c4 !important;
+  color: #1a1510 !important;
+}
+
+[data-md-color-scheme="default"] .md-footer,
+[data-md-color-scheme="default"] .md-footer-meta {
+  background-color: #2a2520 !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset strong {
+  color: #1a1510 !important;
 }

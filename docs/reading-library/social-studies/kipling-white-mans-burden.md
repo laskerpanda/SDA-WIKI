@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Rudyard Kipling](https://commons.wikimedia.org/wiki/Special:FilePath/Rudyard_Kipling.jpg?width=320)
+*Rudyard Kipling (1865–1936), author of "The White Man's Burden" (1899). Nobel Prize in Literature, 1907.*
+
 **These two poems are always taught together.** They were written within months of each other, in direct response to each other, and cannot be fully understood apart.
 
 **Kipling's poem** was published in February 1899, addressed specifically to the United States, urging it to colonize the Philippines following the Spanish-American War. Kipling argues that colonizing "lesser" peoples is both a duty and a sacrifice — "the White Man's burden" — because the colonized are "half-devil and half-child" who must be civilized whether they want to be or not. The poem was widely used as propaganda for both British and American imperial expansion.

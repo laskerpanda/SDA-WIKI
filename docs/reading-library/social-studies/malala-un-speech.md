@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Malala Yousafzai, 2013](https://commons.wikimedia.org/wiki/Special:FilePath/Malala_Yousafzai_-_pictured_in_2013.jpg?width=320)
+*Malala Yousafzai (b. 1997), photographed in 2013 — the same year she gave her UN speech. Nobel Peace Prize, 2014.*
+
 On July 12, 2013 — her 16th birthday — Malala Yousafzai addressed the United Nations Youth Assembly in New York. Nine months earlier, on October 9, 2012, a Taliban gunman had boarded her school bus in Pakistan's Swat Valley and shot her in the head at point-blank range. She survived. The Taliban had targeted her because she had been speaking publicly about girls' right to education since age 11, writing an anonymous diary for the BBC, and speaking to journalists despite Taliban threats.
 
 The speech is short (about 1,200 words), formally structured, and extraordinarily controlled for a 16-year-old who had been nearly killed ten months before. She does not ask for sympathy. She argues that education is the tool that defeats extremism, that girls' education specifically is the most threatened and most powerful form of education, and that it is not the bullets of terrorists but books and pens that will change the world. She has since been awarded the Nobel Peace Prize (2014), the youngest recipient in history.

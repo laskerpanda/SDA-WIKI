@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate competing interpretations of causation — his
 ## CrashCourse Connection
 
 **Video:** The Silk Road — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
-**Additional:** *The Mongols — CrashCourse WH #17 — coming soon in reading library*
-**Additional:** *The Black Death — CrashCourse WH #28 — coming soon in reading library*
+**Also:** The Mongols — CrashCourse WH #17 · [Episode in reading library](../../../crashcourse/world-history/ep-17-mongols.md)
+**Also:** The Black Death & Printing Press — CrashCourse WH #28 · [Episode in reading library](../../../crashcourse/world-history/ep-28-black-death-printing-press.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[07:30]:** Disease traveling along trade routes. *Why it matters:* This is the direct cause-and-effect chain for the Black Death — you cannot understand the pandemic without understanding the trade network that transmitted it.

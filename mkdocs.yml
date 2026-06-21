@@ -7,12 +7,19 @@ site_dir: ../sda-wiki-site
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: custom
-    accent: custom
-  font:
-    text: Playfair Display
-    code: IBM Plex Mono
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  font: false
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -56,47 +63,56 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Student Workflow: commons/student-workflow.md
   - How SDA Works:
     - Student Guide: commons/how-to-sda/index.md
+    - Build a Studio:
+      - Overview: build-a-studio/index.md
+      - Design Your Studio: build-a-studio/design.md
+      - Your Contract & Approval: build-a-studio/contract.md
+      - When You're Done: build-a-studio/when-youre-done.md
+    - Studio Journal: commons/studio-journal.md
+    - Standards Tracker: commons/standards-tracker.md
     - Exhibition Prep: commons/exhibition-prep.md
     - How to Use the Reading Library: commons/how-to-use-reading-library.md
     - FAQ: commons/faq.md
     - Studio Contract: commons/studio-contract-template.md
-    - Studio Packets:
-      - Overview: units/studio-archive/index.md
-      - World History:
-        - WH-01 Who Should Govern: units/studio-archive/wh-01-who-should-govern.md
-        - WH-02 Rights Chain: units/studio-archive/wh-02-rights-chain.md
-        - WH-03 Writing Against Empire: units/studio-archive/wh-03-writing-against-empire.md
-        - WH-04 Reformation & Revolution: units/studio-archive/wh-04-reformation-and-revolution.md
-        - WH-05 The Cost of War: units/studio-archive/wh-05-the-cost-of-war.md
-        - WH-06 Connected World: units/studio-archive/wh-06-connected-world.md
-      - US History:
-        - USH-01 When the System Fails: units/studio-archive/ush-01-when-the-system-fails.md
-        - USH-02 Literature of Fear: units/studio-archive/ush-02-literature-of-fear.md
-        - USH-03 When the Floor Falls Out: units/studio-archive/ush-03-when-the-floor-falls-out.md
-        - USH-04 The Cost of Victory: units/studio-archive/ush-04-the-cost-of-victory.md
-        - USH-05 What the Government Didn't Say: units/studio-archive/ush-05-what-the-government-didnt-say.md
-        - USH-06 When the Rules Don't Apply: units/studio-archive/ush-06-when-the-rules-dont-apply.md
-        - USH-07 The Unipolar Moment: units/studio-archive/ush-07-unipolar-moment.md
+    - Before August: before-august/index.md
     - Resource Bank:
       - Overview: resources/index.md
       - Primary Sources: resources/primary-sources/index.md
       - FPS Framers: resources/fps-framers/index.md
       - Ingest System: resources/ingest.md
       - Studio Onboarding Form: resources/studio-onboarding-appsscript.md
-  - Gr 9 ELA & SS Crosswalk:
-    - Overview: crosswalk/gr9/index.md
-    - Era 1 — Civilizations: crosswalk/gr9/era-1.md
-    - Era 2 — Middle Ages: crosswalk/gr9/era-2.md
-    - Era 3 — Age of Revolutions: crosswalk/gr9/era-3.md
-    - Era 4 — Global War: crosswalk/gr9/era-4.md
-  - Gr 10 ELA & SS Crosswalk:
-    - Overview: crosswalk/gr10/index.md
-    - Units 1–3 — Industrial to Depression: crosswalk/gr10/units-1-3.md
-    - Units 4–6 — WWII, Cold War, Civil Rights: crosswalk/gr10/units-4-6.md
-    - Units 7–9 — Vietnam to Present: crosswalk/gr10/units-7-9.md
+  - Student Workflow: commons/student-workflow.md
+  - Studios:
+    - Overview: units/studio-archive/index.md
+    - World History:
+      - WH-01 Who Should Govern: units/studio-archive/wh-01-who-should-govern.md
+      - WH-02 Rights Chain: units/studio-archive/wh-02-rights-chain.md
+      - WH-03 Writing Against Empire: units/studio-archive/wh-03-writing-against-empire.md
+      - WH-04 Reformation & Revolution: units/studio-archive/wh-04-reformation-and-revolution.md
+      - WH-05 The Cost of War: units/studio-archive/wh-05-the-cost-of-war.md
+      - WH-06 Connected World: units/studio-archive/wh-06-connected-world.md
+    - US History:
+      - USH-01 When the System Fails: units/studio-archive/ush-01-when-the-system-fails.md
+      - USH-02 Literature of Fear: units/studio-archive/ush-02-literature-of-fear.md
+      - USH-03 When the Floor Falls Out: units/studio-archive/ush-03-when-the-floor-falls-out.md
+      - USH-04 The Cost of Victory: units/studio-archive/ush-04-the-cost-of-victory.md
+      - USH-05 What the Government Didn't Say: units/studio-archive/ush-05-what-the-government-didnt-say.md
+      - USH-06 When the Rules Don't Apply: units/studio-archive/ush-06-when-the-rules-dont-apply.md
+      - USH-07 The Unipolar Moment: units/studio-archive/ush-07-unipolar-moment.md
+  - Crosswalk:
+    - Grade 9 — ELA & World History:
+      - Overview: crosswalk/gr9/index.md
+      - Era 1 — Civilizations: crosswalk/gr9/era-1.md
+      - Era 2 — Middle Ages: crosswalk/gr9/era-2.md
+      - Era 3 — Age of Revolutions: crosswalk/gr9/era-3.md
+      - Era 4 — Global War: crosswalk/gr9/era-4.md
+    - Grade 10 — ELA & US History:
+      - Overview: crosswalk/gr10/index.md
+      - Units 1–3 — Industrial to Depression: crosswalk/gr10/units-1-3.md
+      - Units 4–6 — WWII, Cold War, Civil Rights: crosswalk/gr10/units-4-6.md
+      - Units 7–9 — Vietnam to Present: crosswalk/gr10/units-7-9.md
   - Standards:
     - ELA Gr 9-10:
       - Gr 9-10 Scales: standards/ela/gr9-10-scales.md
@@ -232,15 +248,29 @@ nav:
       - World History:
         - Index: crashcourse/world-history/index.md
         - Ep 01 — Agricultural Revolution: crashcourse/world-history/ep-01-agricultural-revolution.md
+        - Ep 03 — Mesopotamia: crashcourse/world-history/ep-03-mesopotamia.md
+        - Ep 08 — Alexander the Great: crashcourse/world-history/ep-08-alexander-the-great.md
         - Ep 09 — The Silk Road: crashcourse/world-history/ep-09-silk-road.md
+        - Ep 12 — Fall of Rome: crashcourse/world-history/ep-12-fall-of-rome.md
+        - Ep 13 — Islam, Quran & Five Pillars: crashcourse/world-history/ep-13-islam-five-pillars.md
+        - Ep 14 — The Dark Ages: crashcourse/world-history/ep-14-dark-ages.md
         - Ep 15 — The Crusades: crashcourse/world-history/ep-15-crusades.md
+        - Ep 17 — The Mongols: crashcourse/world-history/ep-17-mongols.md
+        - Ep 22 — The Renaissance: crashcourse/world-history/ep-22-the-renaissance.md
         - Ep 23 — Atlantic Slave Trade: crashcourse/world-history/ep-23-slave-trade.md
         - Ep 24 — Columbian Exchange: crashcourse/world-history/ep-24-columbian-exchange.md
         - Ep 25 — Protestant Reformation: crashcourse/world-history/ep-25-reformation.md
+        - Ep 28 — Black Death & Printing Press: crashcourse/world-history/ep-28-black-death-printing-press.md
+        - Ep 30 — The Enlightenment: crashcourse/world-history/ep-30-the-enlightenment.md
         - Ep 31 — Haitian Revolution: crashcourse/world-history/ep-31-haitian-revolution.md
+        - Ep 32 — Tea, Taxes & American Revolution: crashcourse/world-history/ep-32-tea-taxes-american-revolution.md
         - Ep 33 — French Revolution: crashcourse/world-history/ep-33-french-revolution.md
+        - Ep 34 — Napoleon Bonaparte: crashcourse/world-history/ep-34-napoleon.md
+        - Ep 35 — The Industrial Revolution: crashcourse/world-history/ep-35-industrial-revolution.md
+        - Ep 36 — Coal, Steam & Industry: crashcourse/world-history/ep-36-coal-steam-industrial-revolution.md
         - Ep 37 — Imperialism: crashcourse/world-history/ep-37-imperialism.md
         - Ep 38 — World War I: crashcourse/world-history/ep-38-wwi.md
+        - Ep 39 — China's Revolutions: crashcourse/world-history/ep-39-china-revolutions.md
         - Ep 40 — WWII Part 1: crashcourse/world-history/ep-40-wwii-1.md
         - Ep 41 — WWII Part 2: crashcourse/world-history/ep-41-wwii-2.md
         - Ep 42 — The Cold War: crashcourse/world-history/ep-42-cold-war.md
@@ -279,6 +309,7 @@ nav:
         - The Kite Runner: crashcourse/literature/kite-runner-hosseini.md
         - Beloved: crashcourse/literature/beloved-morrison.md
         - Moby Dick: crashcourse/literature/moby-dick-melville.md
+  - Map: map/index.md
   - Reading Library:
     - Index: reading-library/index.md
     - Social Studies — Era 1:

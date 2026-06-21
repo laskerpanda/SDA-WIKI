@@ -11,6 +11,10 @@
 
 ## What This Text Is About
 
+
+![Pericles — marble bust, Vatican Museums](https://commons.wikimedia.org/wiki/Special:FilePath/Pericles_Pio-Clementino_Inv269.jpg?width=320)
+*Roman copy of a Greek original, c. 430 BCE. Pericles (494–429 BCE) led Athens at its democratic peak.*
+
 In the winter of 431 BCE, during the first year of the Peloponnesian War between Athens and Sparta, the Athenian general and statesman Pericles delivered a funeral oration honoring the first soldiers killed in the war. The speech — recorded (and likely shaped) by the historian Thucydides — is not primarily about the dead soldiers. It is a defense of Athenian democracy itself: what it is, why it is worth dying for, and what makes Athens different from Sparta and every other city-state. It is the earliest and arguably greatest argument for democracy as a form of government in Western history. Abraham Lincoln knew it well when he wrote the Gettysburg Address. It is also, read alongside the Melian Dialogue, part of a devastating two-text portrait of what Athenian democracy looked like from the inside versus what it did to others.
 
 ---

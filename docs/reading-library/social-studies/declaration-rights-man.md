@@ -10,6 +10,10 @@
 
 ## What This Text Is About
 
+
+![Declaration of the Rights of Man and Citizen, 1789](https://commons.wikimedia.org/wiki/Special:FilePath/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?width=400)
+*Displayed at the Assemblée Nationale. Adopted by the National Constituent Assembly of France, August 26, 1789.*
+
 The Declaration of the Rights of Man and Citizen was adopted by France's National Constituent Assembly on August 26, 1789, during the early phase of the French Revolution. It declared that all men are born free and equal in rights, that sovereignty belongs to the nation (not the king), and that government exists only to protect natural rights. It drew directly from Enlightenment philosophy and the American Declaration of Independence — but went further in applying these principles to a monarchy already in crisis.
 
 ---

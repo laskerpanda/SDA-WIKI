@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="110" viewBox="0 0 680 110">
+  <rect width="680" height="110" fill="#0d0b08"/>
+  <rect x="2.0" y="36" width="166.0" height="38" fill="#2a2520" stroke="#7a4f06" stroke-width="1" rx="2"/>
+  <text x="85.0" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Era 1</text>
+  <text x="85.0" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#3a3028">Civilizations</text>
+  <text x="85.0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#a89060">3000 BCE–500 CE</text>
+  <rect x="172.0" y="36" width="166.0" height="38" fill="none" stroke="#c8860a" stroke-width="2" rx="2"/>
+  <rect x="172.0" y="36" width="166.0" height="38" fill="#c8860a" opacity="0.15" rx="2"/>
+  <text x="255.0" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#c8860a" font-weight="bold" letter-spacing="1">Era 2</text>
+  <text x="255.0" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#e8d5a3">Medieval World</text>
+  <text x="255.0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#c8860a">500– 1500 CE</text>
+  <rect x="342.0" y="36" width="166.0" height="38" fill="none" stroke="#c8860a" stroke-width="2" rx="2"/>
+  <rect x="342.0" y="36" width="166.0" height="38" fill="#c8860a" opacity="0.15" rx="2"/>
+  <text x="425.0" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#c8860a" font-weight="bold" letter-spacing="1">Era 3</text>
+  <text x="425.0" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#e8d5a3">Revolutions</text>
+  <text x="425.0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#c8860a">1500– 1900</text>
+  <rect x="512.0" y="36" width="166.0" height="38" fill="#2a2520" stroke="#7a4f06" stroke-width="1" rx="2"/>
+  <text x="595.0" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#a89060" font-weight="normal" letter-spacing="1">Era 4</text>
+  <text x="595.0" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#3a3028">Global War</text>
+  <text x="595.0" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#a89060">1900–Present</text>
+  <line x1="170.0" y1="36" x2="170.0" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="340.0" y1="36" x2="340.0" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <line x1="510.0" y1="36" x2="510.0" y2="74" stroke="#0d0b08" stroke-width="2"/>
+  <text x="340.0" y="20" text-anchor="middle" font-family="Georgia,serif" font-size="10" fill="#7a4f06" letter-spacing="2">WH-03 — Writing Against Empire</text>
+  <text x="340.0" y="106" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#3a3028">SDA Commons — South High School</text>
+</svg>

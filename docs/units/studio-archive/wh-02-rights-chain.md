@@ -7,6 +7,9 @@
 
 ---
 
+![Era Timeline](../../assets/images/studios/wh-02-timeline.svg)
+*World History Era Timeline — highlighted segment(s) indicate this studio's historical period.*
+
 ## The Essential Question
 
 **When people write down their rights, what changes — and what doesn't?**

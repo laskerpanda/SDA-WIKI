@@ -62,7 +62,9 @@ To reach a 4.0, you must evaluate competing political systems and their promises
 
 ## CrashCourse Connection
 
-**Video:** — Era 4 CrashCourse World History episodes — coming soon in reading library
+**Video:** China's Revolutions — CrashCourse WH #39 · [Episode in reading library](../../../crashcourse/world-history/ep-39-china-revolutions.md)
+**Also:** World War I — CrashCourse WH #38 · [Episode in reading library](../../../crashcourse/world-history/ep-38-wwi.md)
+**Also:** The Cold War — CrashCourse WH #42 · [Episode in reading library](../../../crashcourse/world-history/ep-42-cold-war.md)
 **Watch Prompt (general):** For any political system described, ask: (1) Who held power? (2) How did they maintain it? (3) What were the effects on ordinary people at different positions within the system? (4) How did people resist? (5) What replaced it, and was the replacement better for most people?
 
 ---

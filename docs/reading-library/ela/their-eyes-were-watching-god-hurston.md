@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Zora Neale Hurston, 1938](https://commons.wikimedia.org/wiki/Special:FilePath/Zora_Neale_Hurston_1938.jpg?width=320)
+*Zora Neale Hurston (1891–1960), photographed by Carl Van Vechten in 1938, the year after Their Eyes Were Watching God was published.*
+
 *Their Eyes Were Watching God* follows Janie Crawford, a Black woman in early 20th-century Florida, across three marriages and her search for a life and voice of her own. The novel opens with Janie returning to Eatonville, Florida — a real, historically Black-governed town — after an absence that the community regards with scandal. She tells her story to her friend Pheoby, and the novel is structured as that telling. Janie's journey takes her from a marriage arranged by her grandmother (who wants security above all), to a prosperous but emotionally stifling second marriage to the mayor of Eatonville, to a third marriage with Tea Cake — a younger man with no money and great joy — that ends in tragedy and genuine love.
 
 Hurston was a trained anthropologist who grew up in Eatonville and studied under Franz Boas, the founder of American cultural anthropology. She collected Black folklore across the South, and *Their Eyes Were Watching God* is saturated with that folklore — in the dialect of its characters, in its narrative structures, and in its insistence that Black Southern vernacular speech is not broken English but a living, creative, philosophically rich language in its own right. This is not incidental to the novel — it is its central argument.

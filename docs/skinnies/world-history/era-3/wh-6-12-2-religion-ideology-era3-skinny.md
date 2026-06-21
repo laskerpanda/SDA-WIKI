@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate competing ideologies of Era 3 and assess what 
 ## CrashCourse Connection
 
 **Video:** The French Revolution — CrashCourse World History #33 · [Episode in reading library](../../../crashcourse/world-history/ep-33-french-revolution.md)
-**Additional:** *Luther and the Protestant Reformation — CrashCourse WH #37 — coming soon in reading library*
-**Additional:** *The Enlightenment — CrashCourse WH #40 — coming soon in reading library*
+**Also:** Protestant Reformation — CrashCourse WH #25 · [Episode in reading library](../../../crashcourse/world-history/ep-25-reformation.md)
+**Also:** The Enlightenment — CrashCourse WH #30 · [Episode in reading library](../../../crashcourse/world-history/ep-30-the-enlightenment.md)
 
 **Key Timestamps (French Revolution ep):**
 - **[04:30]:** The role of Enlightenment ideology in the Revolution. *Why it matters:* Rousseau, Voltaire, and Montesquieu are cited as direct influences on the revolutionaries. This is your evidence for how ideology drove political action.

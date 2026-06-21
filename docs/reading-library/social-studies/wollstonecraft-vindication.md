@@ -44,6 +44,10 @@
 
 ## What This Text Is About
 
+
+![Mary Wollstonecraft by John Opie, c. 1797](https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg?width=320)
+*Mary Wollstonecraft (1759–1797), author of A Vindication of the Rights of Woman (1792). Portrait by John Opie.*
+
 *A Vindication of the Rights of Woman* is one of the earliest and most forceful arguments for women's equality, written by Mary Wollstonecraft in 1792. Wollstonecraft argued that women are not naturally inferior to men — they appear so only because they are denied education and treated as ornamental objects rather than rational citizens. She wrote directly in response to the Declaration of the Rights of Man, which proclaimed universal rights while explicitly excluding women from political participation. The book is both a philosophical argument and a direct critique of the Enlightenment's failure to follow its own logic.
 
 ---

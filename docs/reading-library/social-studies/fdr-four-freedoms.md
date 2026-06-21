@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Franklin D. Roosevelt, 1944](https://commons.wikimedia.org/wiki/Special:FilePath/FDR_1944_Color_Portrait.jpg?width=320)
+*Franklin D. Roosevelt (1882–1945). This color portrait was taken in 1944, the year of D-Day and his final presidential election.*
+
 Delivered as FDR's State of the Union address on January 6, 1941 — nearly eleven months before Pearl Harbor — this speech is one of the most consequential arguments in American political history. With Europe already at war and American public opinion deeply divided between intervention and isolationism, Roosevelt reframed the question of U.S. involvement not as a military choice but as a moral and ideological one. The speech's climax articulates "four essential human freedoms" that the U.S. should be willing to defend worldwide: freedom of speech, freedom of worship, freedom from want, and freedom from fear. These four freedoms directly shaped the 1941 Atlantic Charter, the 1945 United Nations Charter, and the 1948 Universal Declaration of Human Rights — making this speech a pivot point between WWI-era isolationism and the post-WWII international rights framework.
 
 ---

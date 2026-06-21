@@ -63,9 +63,9 @@ To reach a 4.0, you must evaluate competing ideologies of Era 4 — assessing no
 
 ## CrashCourse Connection
 
-**Video:** — Era 4 CrashCourse World History episodes — coming soon in reading library
-**Additional:** *WWII: A War for Resources — CrashCourse WH #38 — coming soon*
-**Additional:** *The Cold War — CrashCourse WH #37 — coming soon*
+**Video:** World War I — CrashCourse WH #38 · [Episode in reading library](../../../crashcourse/world-history/ep-38-wwi.md)
+**Also:** WWII Part 1 — CrashCourse WH #40 · [Episode in reading library](../../../crashcourse/world-history/ep-40-wwii-1.md)
+**Also:** The Cold War — CrashCourse WH #42 · [Episode in reading library](../../../crashcourse/world-history/ep-42-cold-war.md)
 
 **Watch Prompt (general):** Track how different ideologies (fascism, communism, liberal democracy, religious nationalism) explain the same events differently. Who are the heroes and villains from each ideological perspective? What does each ideology blame for the world's problems, and what solution does each propose?
 

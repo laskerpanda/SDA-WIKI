@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Chinua Achebe, 2008](https://commons.wikimedia.org/wiki/Special:FilePath/Chinua_Achebe_-_Buffalo_25_Oct_2008.jpg?width=320)
+*Chinua Achebe (1930–2013), author of Things Fall Apart (1958). Photographed in 2008 at the University at Buffalo.*
+
 *Things Fall Apart* follows Okonkwo, a respected warrior and leader in the Igbo village of Umuofia in what is now Nigeria, in the years just before and during British colonial contact in the late 1880s–1890s. The first two-thirds of the novel establish the richness and complexity of Igbo culture from the inside — its social structures, religious beliefs, gender roles, storytelling traditions, and moral codes. The final third shows the arrival of Christian missionaries and British colonial administrators, and the destruction of Okonkwo's world — not dramatically but quietly, piece by piece, as the new religion claims converts, the new courts supplant traditional justice, and the new language becomes the language of power. Okonkwo's response — rage, resistance, and finally a death that the colonizers will barely notice — is the novel's conclusion.
 
 Achebe wrote *Things Fall Apart* in 1958, two years before Nigerian independence, and he wrote it explicitly as a response to Joseph Conrad's *Heart of Darkness* (1899), which depicted Africa as a place of primordial darkness and Africans as barely human background figures. Achebe famously called *Heart of Darkness* "a thoroughgoing racist novel" and wrote *Things Fall Apart* to show what African life actually looked like from the inside — complex, organized, morally serious — before European contact. This origin is the novel's argument: that colonialism depended on the idea that Africa had no culture worth preserving, and that idea was simply false.

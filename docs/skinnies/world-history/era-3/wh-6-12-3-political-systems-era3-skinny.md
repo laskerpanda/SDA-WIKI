@@ -64,8 +64,8 @@ To reach a 4.0, you must evaluate competing political systems and their outcomes
 ## CrashCourse Connection
 
 **Video:** The French Revolution — CrashCourse World History #33 · [Episode in reading library](../../../crashcourse/world-history/ep-33-french-revolution.md)
-**Additional:** *Haitian Revolutions — CrashCourse WH #30 — coming soon in reading library*
-**Additional:** *Colonialism — CrashCourse WH #34 — coming soon in reading library*
+**Also:** Haitian Revolution — CrashCourse WH #31 · [Episode in reading library](../../../crashcourse/world-history/ep-31-haitian-revolution.md)
+**Also:** Imperialism — CrashCourse WH #37 · [Episode in reading library](../../../crashcourse/world-history/ep-37-imperialism.md)
 
 **Key Timestamps (French Revolution ep):**
 - **[05:00]:** The estates system — who had political power before the Revolution. *Why it matters:* The Revolution's starting point was a profoundly unequal political system; understanding what it overthrew helps you analyze what it actually changed.

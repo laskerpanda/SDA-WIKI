@@ -12,6 +12,10 @@
 
 ## What This Text Is About
 
+
+![Maya Angelou](https://commons.wikimedia.org/wiki/Special:FilePath/Maya_Angelou_visits_YCP.jpg?width=320)
+*Maya Angelou (1928–2014). I Know Why the Caged Bird Sings (1969) is the first of her seven autobiographies.*
+
 *I Know Why the Caged Bird Sings* is Maya Angelou's 1969 autobiography covering her childhood and adolescence in Stamps, Arkansas, and St. Louis during the 1930s and 1940s. It is a memoir of growing up Black in the Jim Crow South — a world defined by systemic racial violence, the humiliation of segregation, and the internal community structures Black Americans built to survive and maintain dignity within a system designed to strip it away. Angelou writes about her grandmother's store, her brother Bailey, her complicated relationship with her mother, and the trauma and resilience that shaped her.
 
 **This text is essential for understanding what Jim Crow actually felt like from the inside.** US History standards cover segregation as policy and law. Angelou shows what it cost individual people, day by day, to live inside that system — and what it required of them in terms of inner resources, community, and spirit to survive. The title comes from Paul Laurence Dunbar's poem "Sympathy," whose caged bird beats its wings bloody against the bars — and yet still sings. The "singing" is the memoir itself.

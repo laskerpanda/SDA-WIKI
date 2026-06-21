@@ -64,8 +64,8 @@ To reach a 4.0, you must synthesize across religious/ideological traditions — 
 ## CrashCourse Connection
 
 **Video:** The Silk Road — CrashCourse World History #9 · [Episode in reading library](../../../crashcourse/world-history/ep-09-silk-road.md)
-**Additional:** *The Crusades — CrashCourse WH #15 — coming soon in reading library*
-**Additional:** *Islam, the Quran, and the Five Pillars — CrashCourse WH #13 — coming soon in reading library*
+**Also:** The Crusades — CrashCourse WH #15 · [Episode in reading library](../../../crashcourse/world-history/ep-15-crusades.md)
+**Also:** Islam, the Quran & the Five Pillars — CrashCourse WH #13 · [Episode in reading library](../../../crashcourse/world-history/ep-13-islam-five-pillars.md)
 
 **Key Timestamps (Silk Road ep):**
 - **[04:00]:** The role of religious networks in trade and cultural diffusion. *Why it matters:* Religion wasn't just a belief system — it created networks of trust (Muslim traders could do business across vast distances because of shared religious practices), which shaped how trade and cultural exchange worked.
