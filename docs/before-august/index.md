@@ -181,6 +181,9 @@ Your principal can access the wiki at: `https://YOUR-USERNAME.github.io/sda-wiki
 
 **Note:** GitHub Pages is public by default — anyone with the URL can read it. That's fine for the principal demo. Auth is added in Phase 2.
 
+!!! warning "After the principal meeting"
+    Make the repo private again: **github.com/laskerpanda/SDA-WIKI/settings** → Danger Zone → Change visibility → Private. GitHub Pages will stop serving until Phase 2 (Cloudflare) is set up.
+
 ---
 
 **Phase 2 — Cloudflare Access (before school starts — adds Google login for students)**
