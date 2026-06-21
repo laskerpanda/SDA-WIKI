@@ -11,12 +11,10 @@ Your Standards Tracker is the one document that shows everything you've done in 
 Find your grade below. Click the link, then choose **File → Make a Copy** to save your own version to Google Drive. Rename it: `Standards Tracker — [Your Last Name, First Name]`.
 
 **Grade 9 — ELA + World History**
-> TODO: Paste Google Drive link here after uploading SDA_Tracker_Gr9.xlsx to Drive.
-> *Mr. Reese will share this link with you at the start of the year.*
+[**Open Tracker — Grade 9 (Make a Copy)**](https://docs.google.com/spreadsheets/d/1nX_1lJ9AVUDHgeO8ZGOGJFHdJynnLRhz/copy){target="_blank"}
 
 **Grade 10 — ELA + US History**
-> TODO: Paste Google Drive link here after uploading SDA_Tracker_Gr10.xlsx to Drive.
-> *Mr. Reese will share this link with you at the start of the year.*
+[**Open Tracker — Grade 10 (Make a Copy)**](https://docs.google.com/spreadsheets/d/1Zkzxq7DvwdFQ_dMmbPsyIz6o8ykAYdY3/copy){target="_blank"}
 
 Once you have your copy, move it to your personal folder in The Commons:
 ```

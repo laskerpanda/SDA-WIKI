@@ -80,7 +80,7 @@ Write your angle as a question. Test it:
 Open the Studio Contract (Google Doc). Make a copy — rename it: *[Your Name] — [Studio Name] Contract*. Fill out all 8 parts. This is your plan for the whole studio.
 
 !!! tip "Studio Contract"
-    **[Open Studio Contract (Google Doc)](https://docs.google.com/){target="_blank"}** · [Download PDF](../assets/downloads/sda-studio-contract.pdf)
+    **[Open Studio Contract (Make a Copy)](https://docs.google.com/document/d/16IfJOUHWeECuPQ3FA6bmEoRNHZgks_YW/copy){target="_blank"}** · [Download PDF](../assets/downloads/sda-studio-contract.pdf)
 
     Parts 1–3 are the most important to get right in Week 1. Part 4 (proficiency targets) requires you to look at the relevant skinny.
 
@@ -100,7 +100,7 @@ Share your completed contract with Reese before you start Week 2. He'll either a
 Open the Source Log (Google Doc or PDF). Make a copy — rename it: *[Your Name] — [Studio Name] Source Log*.
 
 !!! tip "Source Log"
-    **[Open Source Log (Google Doc)](https://docs.google.com/){target="_blank"}** · [Download PDF](../assets/downloads/sda-source-log.pdf)
+    **[Open Source Log (Make a Copy)](https://docs.google.com/document/d/1Q0OFqHVgAFfb0e8wjURTxO0nYFedBkVa/copy){target="_blank"}** · [Download PDF](../assets/downloads/sda-source-log.pdf)
 
 **Step 2 — Find your sources**
 You need at minimum:
@@ -209,7 +209,7 @@ If your studio has a Week 6 deliverable, finish it. Practice your presentation i
 Start the Reflection template now. You'll finalize it after the exhibition, but getting your thoughts down before is easier than starting cold on Week 6.
 
 !!! tip "Reflection Template"
-    **[Open Reflection (Google Doc)](https://docs.google.com/){target="_blank"}** · [Download PDF](../assets/downloads/sda-reflection.pdf)
+    **[Open Reflection (Make a Copy)](https://docs.google.com/document/d/1dchL1IuG-orMxJnhCsZyTUwC3swuzTy7/copy){target="_blank"}** · [Download PDF](../assets/downloads/sda-reflection.pdf)
 
 **What you submit at the end of Week 5:**
 - Completed Demo of Learning evidence
@@ -256,9 +256,9 @@ Your studio is now archived. Future SDA students can see what you made.
 
 | Document | What It's For | Get It Here |
 |----------|--------------|-------------|
-| **Studio Contract** | Your plan — inquiry angle, demo mode, proficiency targets, timeline | [Google Doc](https://docs.google.com/){target="_blank"} · [PDF](../assets/downloads/sda-studio-contract.pdf) |
-| **Source Log** | Track and annotate your sources during Dig | [Google Doc](https://docs.google.com/){target="_blank"} · [PDF](../assets/downloads/sda-source-log.pdf) |
-| **Reflection** | Written reflection after the Week 6 exhibition | [Google Doc](https://docs.google.com/){target="_blank"} · [PDF](../assets/downloads/sda-reflection.pdf) |
+| **Studio Contract** | Your plan — inquiry angle, demo mode, proficiency targets, timeline | [Make a Copy](https://docs.google.com/document/d/16IfJOUHWeECuPQ3FA6bmEoRNHZgks_YW/copy){target="_blank"} · [PDF](../assets/downloads/sda-studio-contract.pdf) |
+| **Source Log** | Track and annotate your sources during Dig | [Make a Copy](https://docs.google.com/document/d/1Q0OFqHVgAFfb0e8wjURTxO0nYFedBkVa/copy){target="_blank"} · [PDF](../assets/downloads/sda-source-log.pdf) |
+| **Reflection** | Written reflection after the Week 6 exhibition | [Make a Copy](https://docs.google.com/document/d/1dchL1IuG-orMxJnhCsZyTUwC3swuzTy7/copy){target="_blank"} · [PDF](../assets/downloads/sda-reflection.pdf) |
 
 ---
 
