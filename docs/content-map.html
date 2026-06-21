@@ -150,7 +150,7 @@ svg{display:block;}
   <h1>SDA Content Map</h1>
   <p>13 studios &mdash; 67 nodes &mdash; all connections</p>
 </div>
-<a id="back-link" href="http://localhost:5010">&#8592; Back to Wiki</a>
+<a id="back-link" href=".">&#8592; Back to Wiki</a>
 <div id="ui-hint">scroll to zoom &middot; drag to pan<br>hover to see connections &middot; click to open</div>
 <div id="tooltip"></div>
 <div id="legend">
@@ -1207,6 +1207,10 @@ const LINKS = [
     "target": "USH-07"
   }
 ];
+
+// Resolve node URLs against current host — works on localhost, GitHub Pages, Cloudflare
+const SITE_ROOT = (function(){ const p=window.location.pathname; return window.location.origin+p.substring(0,p.lastIndexOf('/')); })();
+NODES.forEach(n => { if (n.url) n.url = n.url.replace(/^https?:[/][/][^/]+/, SITE_ROOT); });
 
 const palette = {
   'studio-wh':  '#c8860a',
