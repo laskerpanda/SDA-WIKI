@@ -12,7 +12,7 @@ article.md-content__inner h1 { display: none; }
 </style>
 
 <iframe
-  src="/content-map.html"
+  src="../content-map.html"
   style="width:100%;height:calc(100vh - 60px);border:none;display:block;"
   title="SDA Content Map">
 </iframe>
