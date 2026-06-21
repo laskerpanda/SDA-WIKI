@@ -15,34 +15,22 @@ These items directly affect what students can do on the first day of school.
 
 ---
 
-### ☐ 1. Upload Student Tracker Templates to Google Drive
+### ☑ 1. Upload Student Tracker Templates to Google Drive — COMPLETE (June 21, 2026)
 
-The tracker files are already built and waiting:
-- `Build Context/SDA_Tracker_Gr9.xlsx`
-- `Build Context/SDA_Tracker_Gr10.xlsx`
+Trackers uploaded to Google Drive and wired into `docs/commons/standards-tracker.md` with `/copy` links. Students click → Google prompts "Make a Copy" automatically.
 
-**Steps:**
-1. Upload each file to Google Drive — Drive auto-converts them to Google Sheets
-2. Share each: *Anyone with the link → Viewer* (students will Make a Copy)
-3. Copy both sharing URLs
-4. Open `sda-wiki/docs/commons/standards-tracker.md`
-5. Paste each URL into the two `TODO:` placeholders
-6. Rebuild: `mkdocs build` in the sda-wiki directory
+- Grade 9 Tracker: `docs.google.com/spreadsheets/d/1nX_1lJ9AVUDHgeO8ZGOGJFHdJynnLRhz/copy`
+- Grade 10 Tracker: `docs.google.com/spreadsheets/d/1Zkzxq7DvwdFQ_dMmbPsyIz6o8ykAYdY3/copy`
 
 ---
 
-### ☐ 2. Add Real Google Doc Links — Studio Contract, Source Log, Reflection
+### ☑ 2. Add Real Google Doc Links — Studio Contract, Source Log, Reflection — COMPLETE (June 21, 2026)
 
-`docs/commons/student-workflow.md` has **6 placeholder links** pointing to `https://docs.google.com/` (blank). Students will hit dead ends on Day 1 without these.
+All 6 placeholder links replaced in `docs/commons/student-workflow.md`. All three docs wired with `/copy` links. Also appears in the quick-reference table at the bottom of the page.
 
-**Steps:**
-1. Upload the three PDFs to Google Drive (or keep as Google Docs):
-   - `Build Context/sda-studio-contract.pdf` → Studio Contract
-   - `Build Context/sda-source-log.pdf` → Source Log
-   - `Build Context/sda-reflection.pdf` → Reflection
-2. Share each with *Anyone with the link → Viewer* (students Make a Copy)
-3. Open `docs/commons/student-workflow.md`
-4. Search for `docs.google.com` — replace all 6 occurrences with the real URLs
+- Studio Contract: `docs.google.com/document/d/16IfJOUHWeECuPQ3FA6bmEoRNHZgks_YW/copy`
+- Source Log: `docs.google.com/document/d/1Q0OFqHVgAFfb0e8wjURTxO0nYFedBkVa/copy`
+- Reflection: `docs.google.com/document/d/1dchL1IuG-orMxJnhCsZyTUwC3swuzTy7/copy`
 
 ---
 
@@ -146,7 +134,11 @@ A portfolio defense page is planned but not written — the format has to come f
 
 ---
 
-### ☐ 10. Deploy Wiki — Plan A (GitHub Pages now → Cloudflare Access before school)
+### ☑ 10a. Deploy Wiki — Phase 1 GitHub Pages COMPLETE (June 21, 2026) · ☐ 10b. Phase 2 Cloudflare Access — PENDING
+
+**Phase 1 done:** Wiki live at `https://laskerpanda.github.io/SDA-WIKI/` · GitHub Actions auto-deploy on every push · SSH key on GitHub · repo public for principal meeting June 22 → make private after.
+
+**Phase 2 still needed before school:** Buy domain → Cloudflare Pages → Cloudflare Access with @fargoschools.org Google OAuth. See instructions below.
 
 **Decision made:** Cloudflare Pages + Cloudflare Access (Google OAuth restricted to @fargoschools.org). Two-phase rollout:
 
