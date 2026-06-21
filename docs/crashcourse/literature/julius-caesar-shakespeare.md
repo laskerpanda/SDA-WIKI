@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Julius Caesar" on YouTube — verify URL before sharing with students*
 **Era:** WH Era 1 — Late Roman Republic
 **ELA Standard:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) + [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze argument and rhetoric in dramatic text; analyze literary elements
-**SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/) + [WH.6_12.5](../../standards/social-studies/world-history/) — Political systems and causes/effects of Roman political collapse
+**SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/standards-overview.md) + [WH.6_12.5](../../standards/social-studies/world-history/standards-overview.md) — Political systems and causes/effects of Roman political collapse
 
 ---
 

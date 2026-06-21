@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature The Kite Runner" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 9 — Contemporary America; Afghanistan, the War on Terror, and 9/11
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.5](../../standards/social-studies/us-history/) — Causes and consequences of US involvement in Afghanistan; [US.6_12.2](../../standards/social-studies/us-history/) — Ideas and beliefs: ethnic, religious, and political conflict in the post-9/11 world
+**SS Connection:** [US.6_12.5](../../standards/social-studies/us-history/standards-overview.md) — Causes and consequences of US involvement in Afghanistan; [US.6_12.2](../../standards/social-studies/us-history/standards-overview.md) — Ideas and beliefs: ethnic, religious, and political conflict in the post-9/11 world
 
 ---
 

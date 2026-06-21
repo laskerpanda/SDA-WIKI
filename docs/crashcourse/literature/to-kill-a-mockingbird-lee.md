@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature To Kill a Mockingbird" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 6 — The Civil Rights Era
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.3](../../standards/social-studies/us-history/) — Legal and political structures of Jim Crow America; [US.6_12.4](../../standards/social-studies/us-history/) — Social conditions and racial inequality in the mid-20th century South
+**SS Connection:** [US.6_12.3](../../standards/social-studies/us-history/standards-overview.md) — Legal and political structures of Jim Crow America; [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social conditions and racial inequality in the mid-20th century South
 
 ---
 

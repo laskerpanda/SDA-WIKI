@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature I Know Why the Caged Bird Sings" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 5–6 — Jim Crow South / Civil Rights Movement
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/) — Social conditions for Black Americans under Jim Crow; [US.6_12.6](../../standards/social-studies/us-history/) — Connections between the past and present: race, identity, and resilience
+**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social conditions for Black Americans under Jim Crow; [US.6_12.6](../../standards/social-studies/us-history/standards-overview.md) — Connections between the past and present: race, identity, and resilience
 
 ---
 

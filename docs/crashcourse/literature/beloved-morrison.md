@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Beloved Morrison" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 1 — Reconstruction
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/) — Social and economic conditions of formerly enslaved people during and after Reconstruction; [US.6_12.5](../../standards/social-studies/us-history/) — Causes and consequences of slavery's psychological and social aftermath
+**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social and economic conditions of formerly enslaved people during and after Reconstruction; [US.6_12.5](../../standards/social-studies/us-history/standards-overview.md) — Causes and consequences of slavery's psychological and social aftermath
 
 ---
 

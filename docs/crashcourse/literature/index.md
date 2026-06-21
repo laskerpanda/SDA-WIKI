@@ -2,7 +2,7 @@
 
 CrashCourse Literature is a YouTube playlist hosted by John Green that offers short, engaging analytical episodes on major literary works taught in high school English classrooms. Each episode focuses on what a text *means* — its themes, structure, character, and argument — rather than simply summarizing the plot.
 
-In this class, CrashCourse Literature pages work alongside the [Reading Library](../../reading-library/ela/) entries. The Reading Library holds full text context, standards alignment, and annotation guides. The CC Lit pages here give you a focused starting point: watch the episode, answer the Watch Prompt, then go deeper with the Reading Library entry and your skinny pages.
+In this class, CrashCourse Literature pages work alongside the [Reading Library](../../reading-library/index.md) entries. The Reading Library holds full text context, standards alignment, and annotation guides. The CC Lit pages here give you a focused starting point: watch the episode, answer the Watch Prompt, then go deeper with the Reading Library entry and your skinny pages.
 
 **How to use these pages:**
 

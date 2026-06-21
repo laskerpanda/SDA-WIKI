@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Moby Dick Melville" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 1 — 19th Century America / Industrial and Expansion Era
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) + [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze literary elements and devices; analyze argument and extended metaphor in complex nonfiction-inflected text
-**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/) — Social and economic structures of 19th century America: labor, industry, and expansion; [US.6_12.2](../../standards/social-studies/us-history/) — Ideas and beliefs: American individualism, Manifest Destiny, and the Romantic era
+**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social and economic structures of 19th century America: labor, industry, and expansion; [US.6_12.2](../../standards/social-studies/us-history/standards-overview.md) — Ideas and beliefs: American individualism, Manifest Destiny, and the Romantic era
 
 ---
 

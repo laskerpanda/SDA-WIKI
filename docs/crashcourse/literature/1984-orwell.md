@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature 1984 Orwell" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 5 — The Cold War / Ideological Conflict
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.2](../../standards/social-studies/us-history/) — Cold War ideology, totalitarianism, and the battle of ideas; [US.6_12.3](../../standards/social-studies/us-history/) — Political systems of the 20th century: democracy vs. totalitarianism
+**SS Connection:** [US.6_12.2](../../standards/social-studies/us-history/standards-overview.md) — Cold War ideology, totalitarianism, and the battle of ideas; [US.6_12.3](../../standards/social-studies/us-history/standards-overview.md) — Political systems of the 20th century: democracy vs. totalitarianism
 
 ---
 

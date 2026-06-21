@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature The Great Gatsby" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 2 — The Roaring Twenties / Gilded Age to Progressive Era
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/) — Social and economic structures; wealth, inequality, and the American Dream in the 1920s
+**SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social and economic structures; wealth, inequality, and the American Dream in the 1920s
 
 ---
 

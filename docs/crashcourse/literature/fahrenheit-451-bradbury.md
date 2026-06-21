@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Fahrenheit 451" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 5 — The Cold War / McCarthyism
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.2](../../standards/social-studies/us-history/) — Ideas, beliefs, and ideological conflict in the Cold War era; [US.6_12.3](../../standards/social-studies/us-history/) — Political censorship and civil liberties under McCarthyism
+**SS Connection:** [US.6_12.2](../../standards/social-studies/us-history/standards-overview.md) — Ideas, beliefs, and ideological conflict in the Cold War era; [US.6_12.3](../../standards/social-studies/us-history/standards-overview.md) — Political censorship and civil liberties under McCarthyism
 
 ---
 

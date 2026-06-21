@@ -89,7 +89,7 @@ A skinny is a short, focused mini-lesson that teaches one specific skill. You pu
 Not every Studio — only when you have a specific gap blocking your work. Your advisor may recommend one. You can also pull them yourself whenever you need them.
 
 **Where do I find skinnies?**
-In this wiki under [ELA 9-10 Skinnies](../skinnies/ela9/) and [World History Skinnies](../skinnies/world-history/). The [How to SDA](how-to-sda/index.md) guide links to the relevant ones for each skill.
+In this wiki under [ELA 9-10 Skinnies](../skinnies/index.md) and [World History Skinnies](../skinnies/index.md). The [How to SDA](how-to-sda/index.md) guide links to the relevant ones for each skill.
 
 ---
 
@@ -131,7 +131,7 @@ This wiki is your resource library for SDA — standards pages, skinnies, readin
 The wiki is hosted locally on the school network. It's available on any school device. If you need to access it from home, talk to your advisor about options.
 
 **How do I find something specific?**
-Use the navigation on the left side of any page. If you're looking for a specific standard, go to [Standards](../standards/). For texts, go to [Reading Library](../reading-library/index.md). For skill mini-lessons, go to [Skinnies](../skinnies/). For CrashCourse episode guides, go to [CrashCourse](../crashcourse/world-history/index.md).
+Use the navigation on the left side of any page. If you're looking for a specific standard, go to [Standards](../standards/ela/gr9-10-scales.md). For texts, go to [Reading Library](../reading-library/index.md). For skill mini-lessons, go to [Skinnies](../skinnies/index.md). For CrashCourse episode guides, go to [CrashCourse](../crashcourse/world-history/index.md).
 
 ---
 

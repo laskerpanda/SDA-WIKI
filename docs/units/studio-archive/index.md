@@ -98,7 +98,7 @@ When new studio packets are developed, add them to this index and to the relevan
 - [Warriors Don't Cry](../../reading-library/ela/warriors-dont-cry.md)
 - [Persepolis](../../reading-library/ela/persepolis-satrapi.md)
 - [Reading Library](../../reading-library/index.md)
-- [Skinny Library](../../skinnies/)
+- [Skinny Library](../../skinnies/index.md)
 - [How to SDA](../../commons/how-to-sda/index.md)
 
 ---

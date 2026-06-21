@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Hamlet" on YouTube — verify URL before sharing with students*
 **Era:** WH Era 2 — Early Modern Europe
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/) — Political authority, legitimacy, and succession in early modern European states
+**SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/standards-overview.md) — Political authority, legitimacy, and succession in early modern European states
 
 ---
 

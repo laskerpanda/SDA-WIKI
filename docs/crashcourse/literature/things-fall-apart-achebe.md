@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Things Fall Apart" on YouTube — verify URL before sharing with students*
 **Era:** WH Era 3 — Imperialism and Colonialism (Africa)
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [WH.6_12.5](../../standards/social-studies/world-history/) — Causes and consequences of European colonialism in Africa; [WH.6_12.3](../../standards/social-studies/world-history/) — Political systems and the disruption of pre-colonial African governance
+**SS Connection:** [WH.6_12.5](../../standards/social-studies/world-history/standards-overview.md) — Causes and consequences of European colonialism in Africa; [WH.6_12.3](../../standards/social-studies/world-history/standards-overview.md) — Political systems and the disruption of pre-colonial African governance
 
 ---
 

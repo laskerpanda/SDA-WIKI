@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature Romeo and Juliet" on YouTube — verify URL before sharing with students*
 **Era:** WH Era 2 — Renaissance Europe
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/) — Political and social structures of Renaissance Europe; family, honor, and civic order
+**SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/standards-overview.md) — Political and social structures of Renaissance Europe; family, honor, and civic order
 
 ---
 

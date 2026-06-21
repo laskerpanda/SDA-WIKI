@@ -4,7 +4,7 @@
 **YouTube:** *Search "CrashCourse Literature A Raisin in the Sun" on YouTube — verify URL before sharing with students*
 **Era:** USH Unit 6 — The Civil Rights Movement
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
-**SS Connection:** [US.6_12.3](../../standards/social-studies/us-history/) — Political and legal structures of the Civil Rights era; [US.6_12.4](../../standards/social-studies/us-history/) — Social and economic conditions facing Black Americans in the 1950s
+**SS Connection:** [US.6_12.3](../../standards/social-studies/us-history/standards-overview.md) — Political and legal structures of the Civil Rights era; [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social and economic conditions facing Black Americans in the 1950s
 
 ---
 
