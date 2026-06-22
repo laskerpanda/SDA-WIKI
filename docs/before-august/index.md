@@ -269,9 +269,9 @@ All 13 studio packet HTML documents are built and saved in `2026-27 — For Stud
 
 ---
 
-### ☑ 16. Wiki Content Map — COMPLETE (June 2026)
+### ☑ 16. Wiki Content Map — COMPLETE (June 22, 2026 — updated)
 
-Live at `localhost:5010/content-map.html`. D3.js force-directed graph, 67 nodes, 13 studios, all connections. Node types: WH Studios (amber) · USH Studios (green) · ELA Standards · WH/USH Standards · Primary Sources · Literary Texts · CrashCourse Hubs. Click any node to open the corresponding wiki page. Legend filters by node type. CrashCourse hub nodes show episode counts.
+Live at `localhost:5010/content-map.html` and GitHub Pages. D3.js force-directed graph, **89 nodes**, 13 studios, 153 connections. Expanded June 22 to include all reading library entries: 22 nodes added (Magna Carta, Olympe de Gouges, Twelve Tables, Polybius, Book of the Dead, Dhammapada, Feudal Obligations, Pope vs. Emperor, Mandela + 13 ELA texts: Odyssey, Oedipus Rex, Romeo+Juliet, Hamlet, Julius Caesar, Moby-Dick, Beloved, Things Fall Apart, TKAM, Caged Bird Sings, Lord of the Flies, Raisin in the Sun, Their Eyes Were Watching God). Node types: WH Studios (amber) · USH Studios (green) · ELA Standards · WH/USH Standards · Primary Sources · Literary Texts · CrashCourse Hubs. Click any node to open the corresponding wiki page.
 
 ---
 
