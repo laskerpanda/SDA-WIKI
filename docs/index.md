@@ -20,6 +20,26 @@ A **standard** is the official description of a skill or concept. Every standard
 
 ---
 
+## SDA Is Not a Choice Board
+
+If you've been in a class where the teacher gave you a grid of activity options — "write an essay, make a poster, or record a video" — and you picked one, that's a choice board. SDA is not that.
+
+The difference is structural, not just stylistic:
+
+| | Choice Board | SDA Studio |
+|---|---|---|
+| **Where does the question come from?** | Teacher picks the topic | You name something that genuinely interests or bothers you — then trace it into history |
+| **How do you start?** | Check a box | Write a 9-part Studio Contract; Reese reviews and approves it |
+| **What gets graded?** | The activity you completed | Evidence of the standard — separate from the deliverable you build |
+| **Who sees your work?** | Your teacher | Public exhibition — real audience in Week 6 |
+| **Does everyone get the same options?** | Yes, same menu every time | Your autonomy grows: Trailblazer → Maverick → Phoenix |
+
+The biggest difference: before you start a studio, you write out what a 2.0, a 3.0, and a 4.0 looks like for **your specific studio**. Not a generic rubric. Yours. That forces you to understand the standard before you begin — not after you're graded.
+
+**In one sentence:** A choice board differentiates *how* you prove what the teacher decided mattered. SDA starts earlier — with *whether* the question means anything to you — and holds you to a standard through a contract you helped write, in front of an audience beyond the teacher.
+
+---
+
 ## The Three Spaces
 
 SDA runs through three interconnected spaces.
