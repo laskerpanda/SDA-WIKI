@@ -1,7 +1,7 @@
 # CrashCourse World History: The Enlightenment: Crash Course European History #4
 
 **Episode:** 30 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #30 Enlightenment"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=NnoFj2cMRLY)
 **Era:** Era 3 — The Emergence of the First Global Age
 **WH Standard:** [WH.6_12.2](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-122) — Analyze the role of belief systems, philosophies, and ideologies in shaping societies
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text

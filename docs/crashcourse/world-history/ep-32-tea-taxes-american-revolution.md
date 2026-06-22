@@ -1,7 +1,7 @@
 # CrashCourse World History: Tea, Taxes, and the American Revolution
 
 **Episode:** 32 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #32 American Revolution Tea Taxes"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=HlUiSBXQHCw)
 **Era:** Era 3 — The Emergence of the First Global Age
 **WH Standard:** [WH.6_12.3](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-123) — Analyze the development and impact of democratic ideas and political revolutions
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -63,7 +63,7 @@ This connects to **WH.6_12.3**: the American Revolution is the case study for En
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=HlUiSBXQHCw" \
 > -o "/path/to/world-history/32-tea-taxes-american-revolution.%(ext)s"
 > python3 ../vtt_to_markdown.py 32-tea-taxes-american-revolution.en.vtt \
 > -o ep-32-tea-taxes-american-revolution-transcript.md

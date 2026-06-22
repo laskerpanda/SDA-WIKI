@@ -1,7 +1,7 @@
 # CrashCourse World History: Communists, Nationalists, and China's Revolutions
 
 **Episode:** 39 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #39 China Communists Nationalists Revolutions"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=UUCEeC4f6ts)
 **Era:** Era 4 — The Age of Global War and the Pursuit of Peace
 **WH Standard:** [WH.6_12.3](../../standards/social-studies/world-history/era-4-global-war.md#wh6-123) — Analyze the development and impact of democratic ideas and political revolutions
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -63,7 +63,7 @@ This connects to **WH.6_12.3**: China’s 20th-century revolutions are the Era 4
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=UUCEeC4f6ts" \
 > -o "/path/to/world-history/39-china-revolutions.%(ext)s"
 > python3 ../vtt_to_markdown.py 39-china-revolutions.en.vtt \
 > -o ep-39-china-revolutions-transcript.md

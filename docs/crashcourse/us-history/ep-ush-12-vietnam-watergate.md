@@ -8,7 +8,7 @@
 
 ## Watch
 
-[Watch on YouTube](https://www.youtube.com/watch?v=kAKECubOGJw) *(Verify URL)*
+[Watch on YouTube](https://www.youtube.com/watch?v=lkXFb1sMa38)
 
 ---
 

@@ -1,7 +1,7 @@
 # CrashCourse World History: The Black Death and the Printing Press
 
 **Episode:** 28 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #28 Black Death Printing Press"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=sLvlvpNhT5E)
 **Era:** Era 2 — Expanding Zones of Exchange and Encounter
 **WH Standard:** [WH.6_12.4](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-124) — Analyze the influence of social, cultural, and economic factors on individuals and civilizations
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text

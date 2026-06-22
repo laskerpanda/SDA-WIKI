@@ -1,7 +1,7 @@
 # CrashCourse World History: Napoleon Bonaparte and the Napoleonic Wars
 
 **Episode:** 34 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #34 Napoleon Bonaparte"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=Pd6E38FfuMg)
 **Era:** Era 3 — The Emergence of the First Global Age
 **WH Standard:** [WH.6_12.3](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-123) — Analyze the development and impact of democratic ideas and political revolutions
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text

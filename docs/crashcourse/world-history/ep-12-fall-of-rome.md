@@ -1,7 +1,7 @@
 # CrashCourse World History: Fall of the Roman Empire… in the 15th Century
 
 **Episode:** 12 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #12 Fall of Rome"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=3PszVWZNWVA)
 **Era:** Era 1 — Emergence of Civilizations and Religions Around the Globe
 **WH Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-125) — Analyze the causes and effects of significant events in world history
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -62,7 +62,7 @@ This connects to **WH.6_12.5**: the fall of the Western Roman Empire is the cano
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=3PszVWZNWVA" \
 > -o "/path/to/world-history/12-fall-of-rome.%(ext)s"
 > python3 ../vtt_to_markdown.py 12-fall-of-rome.en.vtt \
 > -o ep-12-fall-of-rome-transcript.md

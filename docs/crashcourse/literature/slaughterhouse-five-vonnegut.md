@@ -1,7 +1,7 @@
 # CrashCourse Literature: Slaughterhouse-Five
 
 **Author:** Kurt Vonnegut · **Episode:** CrashCourse Literature playlist
-**YouTube:** *Search "CrashCourse Literature Slaughterhouse-Five" on YouTube — verify URL before sharing with students*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=F6g7S2W27Kc)
 **Era:** WH Era 4 — WWII and Its Aftermath / USH Unit 4 — World War II
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
 **SS Connection:** [US.6_12.5](../../standards/social-studies/us-history/standards-overview.md) — Causes, conduct, and consequences of WWII; [WH.6_12.5](../../standards/social-studies/world-history/standards-overview.md) — The destruction of WWII and its moral aftermath

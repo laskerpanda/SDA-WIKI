@@ -1,7 +1,7 @@
 # CrashCourse World History: Mesopotamia
 
 **Episode:** 3 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #3 Mesopotamia"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=sohXPx_XZ6Y)
 **Era:** Era 1 — Emergence of Civilizations and Religions Around the Globe
 **WH Standard:** [WH.6_12.1](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-121) — Analyze the impact of scientific and technological developments on individuals and societies
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text

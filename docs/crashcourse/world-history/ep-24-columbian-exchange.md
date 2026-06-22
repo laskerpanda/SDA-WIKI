@@ -1,7 +1,7 @@
 # CrashCourse World History: The Columbian Exchange
 
 **Episode:** 24 · **Playlist:** World History · **Runtime:** ~11 min
-**YouTube:** `https://www.youtube.com/watch?v=AT9h9rx8OZk` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=AT9h9rx8OZk`
 **Era:** Era 2–3 — Age of Exploration and Early Globalization
 **WH Standard:** [WH.6_12.4](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-124) — Analyze the influence of social, cultural, and economic development on individuals
 **Secondary Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-125) — Analyze causes and effects of major world events

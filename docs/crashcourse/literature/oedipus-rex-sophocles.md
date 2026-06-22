@@ -1,7 +1,7 @@
 # CrashCourse Literature: Oedipus Rex
 
 **Author:** Sophocles · **Episode:** CrashCourse Literature playlist
-**YouTube:** *Search "CrashCourse Literature Oedipus Rex" on YouTube — verify URL before sharing with students*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=Cj7R36s4dbM)
 **Era:** WH Era 1 — Ancient Greece
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
 **SS Connection:** [WH.6_12.3](../../standards/social-studies/world-history/era-1-civilizations.md) — Political systems and the nature of authority in the ancient world

@@ -1,7 +1,7 @@
 # CrashCourse Literature: Things Fall Apart
 
 **Author:** Chinua Achebe · **Episode:** CrashCourse Literature playlist
-**YouTube:** *Search "CrashCourse Literature Things Fall Apart" on YouTube — verify URL before sharing with students*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=w1Kw94qjdQA)
 **Era:** WH Era 3 — Imperialism and Colonialism (Africa)
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
 **SS Connection:** [WH.6_12.5](../../standards/social-studies/world-history/standards-overview.md) — Causes and consequences of European colonialism in Africa; [WH.6_12.3](../../standards/social-studies/world-history/standards-overview.md) — Political systems and the disruption of pre-colonial African governance

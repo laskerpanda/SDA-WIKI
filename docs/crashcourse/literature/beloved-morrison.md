@@ -1,7 +1,7 @@
 # CrashCourse Literature: Beloved
 
 **Author:** Toni Morrison · **Episode:** CrashCourse Literature playlist
-**YouTube:** *Search "CrashCourse Literature Beloved Morrison" on YouTube — verify URL before sharing with students*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=6lQyPgaakY4)
 **Era:** USH Unit 1 — Reconstruction
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
 **SS Connection:** [US.6_12.4](../../standards/social-studies/us-history/standards-overview.md) — Social and economic conditions of formerly enslaved people during and after Reconstruction; [US.6_12.5](../../standards/social-studies/us-history/standards-overview.md) — Causes and consequences of slavery's psychological and social aftermath

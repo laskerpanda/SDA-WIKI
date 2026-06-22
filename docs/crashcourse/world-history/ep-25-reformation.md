@@ -1,7 +1,7 @@
 # CrashCourse World History: The Protestant Reformation
 
 **Episode:** 25 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** `https://www.youtube.com/watch?v=NExHHeOK6N8` *(Verify URL)*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=0eO0pPrGi6o)
 **Era:** Era 2–3 — Transition from Middle Ages to Age of Revolutions
 **WH Standard:** [WH.6_12.2](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-122) — Analyze the impact of major religions and ideologies on political, social, and cultural development
 **Secondary Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-125) — Analyze causes and effects using primary and secondary sources

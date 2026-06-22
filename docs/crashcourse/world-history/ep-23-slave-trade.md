@@ -1,7 +1,7 @@
 # CrashCourse World History: The Atlantic Slave Trade
 
 **Episode:** 23 · **Playlist:** World History · **Runtime:** ~14 min
-**YouTube:** `https://www.youtube.com/watch?v=dnDLOSuMqiI` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=dnDLOSuMqiI`
 **Era:** Era 2–3 — Early Modern Period
 **WH Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-125) — Analyze causes and effects of major world events using primary and secondary sources
 **Secondary Standard:** [WH.6_12.4](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-124) — Analyze the influence of social, cultural, and economic development on individuals

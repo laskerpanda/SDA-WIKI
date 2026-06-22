@@ -1,7 +1,7 @@
 # CrashCourse World History: Alexander the Great and the Situation — the Great?
 
 **Episode:** 8 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #8 Alexander the Great"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=0LsrkWDCvxg)
 **Era:** Era 1 — Emergence of Civilizations and Religions Around the Globe
 **WH Standard:** [WH.6_12.4](../../standards/social-studies/world-history/era-1-civilizations.md#wh6-124) — Analyze the influence of social, cultural, and economic factors on individuals and civilizations
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -62,7 +62,7 @@ This connects to **WH.6_12.4**: Hellenization is one of history’s most consequ
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=0LsrkWDCvxg" \
 > -o "/path/to/world-history/8-alexander-the-great.%(ext)s"
 > python3 ../vtt_to_markdown.py 8-alexander-the-great.en.vtt \
 > -o ep-08-alexander-the-great-transcript.md

@@ -1,7 +1,7 @@
 # CrashCourse World History: Islam, the Quran, and the Five Pillars All Without a Flamewar
 
 **Episode:** 13 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #13 Islam Quran Five Pillars"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=TpcbfxtdoI8)
 **Era:** Era 2 — Expanding Zones of Exchange and Encounter
 **WH Standard:** [WH.6_12.2](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-122) — Analyze the role of belief systems, philosophies, and ideologies in shaping societies
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -63,7 +63,7 @@ This connects to **WH.6_12.2**: Islam is the defining example in Era 2 of how a 
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=TpcbfxtdoI8" \
 > -o "/path/to/world-history/13-islam-five-pillars.%(ext)s"
 > python3 ../vtt_to_markdown.py 13-islam-five-pillars.en.vtt \
 > -o ep-13-islam-five-pillars-transcript.md

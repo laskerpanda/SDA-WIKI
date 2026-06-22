@@ -1,7 +1,7 @@
 # CrashCourse World History: Wait For It… The Mongols!
 
 **Episode:** 17 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #17 Mongols"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=szxPar0BcMo)
 **Era:** Era 2 — Expanding Zones of Exchange and Encounter
 **WH Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-125) — Analyze the causes and effects of significant events in world history
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -62,7 +62,7 @@ This connects to **WH.6_12.5**: the Mongol conquests are among the most conseque
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=szxPar0BcMo" \
 > -o "/path/to/world-history/17-mongols.%(ext)s"
 > python3 ../vtt_to_markdown.py 17-mongols.en.vtt \
 > -o ep-17-mongols-transcript.md

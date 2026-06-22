@@ -1,7 +1,7 @@
 # CrashCourse World History: Haitian Revolutions
 
 **Episode:** 31 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** `https://www.youtube.com/watch?v=5A6lYHyYe6w` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=5A6lYHyYe6w`
 **Era:** Era 3 — Age of Revolutions
 **WH Standard:** [WH.6_12.3](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-123) — Analyze the effects of different political systems on people's lives
 **Secondary Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-3-revolutions.md#wh6-125) — Analyze causes and effects using primary and secondary sources

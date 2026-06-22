@@ -1,7 +1,7 @@
 # CrashCourse World History: The Renaissance: Was it a Thing?
 
 **Episode:** 22 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #22 Renaissance"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=Vufba_ZcoR0)
 **Era:** Era 2 — Expanding Zones of Exchange and Encounter
 **WH Standard:** [WH.6_12.6](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-126) — Connect past historical developments to present-day conditions and events
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text

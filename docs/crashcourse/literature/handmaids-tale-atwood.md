@@ -1,7 +1,7 @@
 # CrashCourse Literature: The Handmaid's Tale
 
 **Author:** Margaret Atwood · **Episode:** CrashCourse Literature playlist
-**YouTube:** *Search "CrashCourse Literature The Handmaid's Tale" on YouTube — verify URL before sharing with students*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=PubyDwbNqYA)
 **Era:** USH Unit 9 — Contemporary America / Gender Politics
 **ELA Standard:** [R.8](../../standards/ela/gr9-10-scales.md#9-10r8) — Analyze how an author uses literary elements and devices to develop theme
 **SS Connection:** [US.6_12.2](../../standards/social-studies/us-history/standards-overview.md) — Ideas and beliefs: religious fundamentalism, gender politics, and reproductive rights in contemporary America; [US.6_12.3](../../standards/social-studies/us-history/standards-overview.md) — Political structures and the use of state power over bodies

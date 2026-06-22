@@ -1,7 +1,7 @@
 # CrashCourse World History: The Dark Ages… How Dark Were They?
 
 **Episode:** 14 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** *URL pending — search YouTube: "CrashCourse World History #14 Dark Ages"*
+**YouTube:** [Watch on YouTube](https://www.youtube.com/watch?v=QV7CanyzhZg)
 **Era:** Era 2 — Expanding Zones of Exchange and Encounter
 **WH Standard:** [WH.6_12.1](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-121) — Analyze the impact of scientific and technological developments on individuals and societies
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text
@@ -63,7 +63,7 @@ This connects to **WH.6_12.1**: the episode shows that scientific and technologi
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=QV7CanyzhZg" \
 > -o "/path/to/world-history/14-dark-ages.%(ext)s"
 > python3 ../vtt_to_markdown.py 14-dark-ages.en.vtt \
 > -o ep-14-dark-ages-transcript.md
