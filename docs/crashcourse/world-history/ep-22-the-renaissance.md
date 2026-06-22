@@ -62,7 +62,7 @@ This connects to **WH.6_12.6**: the Renaissance is the bridge between Era 2 and 
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=Vufba_ZcoR0" \
 > -o "/path/to/world-history/22-the-renaissance.%(ext)s"
 > python3 ../vtt_to_markdown.py 22-the-renaissance.en.vtt \
 > -o ep-22-the-renaissance-transcript.md

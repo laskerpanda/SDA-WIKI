@@ -1,7 +1,7 @@
 # CrashCourse World History: USA vs USSR Fight! The Cold War
 
 **Episode:** 42 · **Playlist:** World History · **Runtime:** ~14 min
-**YouTube:** `https://www.youtube.com/watch?v=y9HjvHZfCUI` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=y9HjvHZfCUI`
 **Era:** Era 4 — Global War and Depression (into Contemporary)
 **WH Standard:** [WH.6_12.2](../../standards/social-studies/world-history/era-4-global-war.md#wh6-122) — Analyze the impact of major religions and ideologies on political, social, and cultural development
 **Secondary Standard:** [WH.6_12.6](../../standards/social-studies/world-history/era-4-global-war.md#wh6-126) — Connect historical events and developments to current situations

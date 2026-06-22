@@ -1,7 +1,7 @@
 # CrashCourse World History: The Crusades — Pilgrimage or Holy War?
 
 **Episode:** 15 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** `https://www.youtube.com/watch?v=X0zudTQelzI` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=X0zudTQelzI`
 **Era:** Era 2 — Middle Ages, Islamic Golden Age, and the Emergence of Empires
 **WH Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-2-middle-ages.md#wh6-125) — Analyze causes and effects of major world events using primary and secondary sources
 **ELA Connection:** [R.9](../../standards/ela/gr9-10-scales.md#9-10r9) — Analyze the development of informational and argumentative elements in nonfiction text; evaluate how argumentative reasoning supports or undermines the author's purpose

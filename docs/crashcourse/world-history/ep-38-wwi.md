@@ -1,7 +1,7 @@
 # CrashCourse World History: Archdukes, Cynicism, and World War I
 
 **Episode:** 38 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** `https://www.youtube.com/watch?v=Cd2ch4XV84s` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=Cd2ch4XV84s`
 **Era:** Era 4 — Global War and Depression
 **WH Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-4-global-war.md#wh6-125) — Analyze causes and effects of major world events using primary and secondary sources
 **Secondary Standard:** [WH.6_12.2](../../standards/social-studies/world-history/era-4-global-war.md#wh6-122) — Analyze the impact of major ideologies on political and social development

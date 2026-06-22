@@ -63,7 +63,7 @@ This connects to **WH.6_12.1**: steam power, railroads, and telegraph infrastruc
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=zhL5DCizj5c" \
 > -o "/path/to/world-history/36-coal-steam-industrial-revolution.%(ext)s"
 > python3 ../vtt_to_markdown.py 36-coal-steam-industrial-revolution.en.vtt \
 > -o ep-36-coal-steam-industrial-revolution-transcript.md

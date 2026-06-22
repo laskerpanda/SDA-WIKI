@@ -198,17 +198,27 @@ These are real gaps in the wiki content. None block Day 1, but students will not
 
 ---
 
-### ☐ 11. CrashCourse Transcripts — 45 Stub Pages
+### ☐ 11. CrashCourse YouTube Links — 43 Pages Need Correct Video IDs
 
-All 45 CrashCourse pages (13 WH + 12 USH + 20 Literature) have a "Transcript pending" placeholder. Pages are functional without transcripts — but full transcripts make the pages searchable and give students quotable text.
+Audited June 21, 2026. Many CC pages have wrong or missing YouTube video IDs. Confirmed correct so far:
 
-**Technical path:**
-1. On T480: run `yt-dlp --update` (needs 2024.12+ — ThinkStation has outdated version)
-2. Download auto-captions for a specific episode
-3. Run `vtt_to_markdown.py` to clean the VTT file
-4. Paste cleaned transcript into the episode page
+| Status | Count | What |
+|--------|-------|------|
+| ✓ Confirmed correct | 8 | WH ep-01, 03, 09, 15, 22, 36, 37, 38, 40, 42; USH ep-01–05 |
+| ✗ Wrong ID (404) | 16 | WH ep-08,12,13,14,17,23,24,25,28,30,31,32,34,35,39,41; USH ep-06–12 |
+| ✗ No link at all | 20 | All CrashCourse Literature pages |
 
-**Recommendation:** Pull transcripts on-demand as episodes are assigned, not as a batch job. Start with whichever episode goes first in Studio 1.
+**To fix:** Go to [CrashCourse WH playlist](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9), find each episode, copy the video ID (the `v=` part of the URL). Add IDs to `Build Context/verify_cc_links.py` TODO list, then run:
+
+```bash
+python3 "Build Context/verify_cc_links.py"
+```
+
+Script auto-updates the wiki files and logs progress. Cron runs daily at 6am once IDs are added.
+
+**For CrashCourse Literature:** Search YouTube for "CrashCourse [book title]" — these are a separate playlist from WH/USH.
+
+**Transcripts:** 52 of 59 CC pages have "Transcript pending." Pull on-demand as episodes are assigned — start with whichever episode goes first in Studio 1.
 
 ---
 

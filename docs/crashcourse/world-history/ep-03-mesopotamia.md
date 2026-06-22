@@ -62,7 +62,7 @@ This connects to **WH.6_12.1**: cuneiform, irrigation systems, and early urban p
 > **To generate transcript:** On T480 with updated yt-dlp (2024.12+):
 > ```bash
 > yt-dlp --write-auto-subs --sub-lang en --skip-download \
-> "https://www.youtube.com/watch?v=VERIFY_URL" \
+> "https://www.youtube.com/watch?v=sohXPx_XZ6Y" \
 > -o "/path/to/world-history/3-mesopotamia.%(ext)s"
 > python3 ../vtt_to_markdown.py 3-mesopotamia.en.vtt \
 > -o ep-03-mesopotamia-transcript.md

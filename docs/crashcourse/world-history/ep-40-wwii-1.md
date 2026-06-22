@@ -1,7 +1,7 @@
 # CrashCourse World History: World War II Part 1
 
 **Episode:** 40 · **Playlist:** World History · **Runtime:** ~13 min
-**YouTube:** `https://www.youtube.com/watch?v=Q78COTwT7nE` *(Verify URL)*
+**YouTube:** `https://www.youtube.com/watch?v=Q78COTwT7nE`
 **Era:** Era 4 — Global War and Depression
 **WH Standard:** [WH.6_12.5](../../standards/social-studies/world-history/era-4-global-war.md#wh6-125) — Analyze causes and effects of major world events using primary and secondary sources
 **Secondary Standard:** [WH.6_12.2](../../standards/social-studies/world-history/era-4-global-war.md#wh6-122) — Analyze the impact of major ideologies on political and social development
