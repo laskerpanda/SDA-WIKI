@@ -198,25 +198,18 @@ These are real gaps in the wiki content. None block Day 1, but students will not
 
 ---
 
-### ☐ 11. CrashCourse YouTube Links — 43 Pages Need Correct Video IDs
+### ☑ 11. CrashCourse YouTube Links — COMPLETE (June 21, 2026)
 
-Audited June 21, 2026. Many CC pages have wrong or missing YouTube video IDs. Confirmed correct so far:
+Audited and fixed all CrashCourse YouTube links across 40 pages.
 
 | Status | Count | What |
 |--------|-------|------|
-| ✓ Confirmed correct | 8 | WH ep-01, 03, 09, 15, 22, 36, 37, 38, 40, 42; USH ep-01–05 |
-| ✗ Wrong ID (404) | 16 | WH ep-08,12,13,14,17,23,24,25,28,30,31,32,34,35,39,41; USH ep-06–12 |
-| ✗ No link at all | 20 | All CrashCourse Literature pages |
+| ✓ Confirmed + linked | 34 | All WH (20 pages) + all USH (7 pages) + 13 of 19 Literature pages |
+| ✗ No official CC episode | 6 | Julius Caesar, Moby Dick, Fahrenheit 451, Raisin in the Sun, Caged Bird Sings, Kite Runner |
 
-**To fix:** Go to [CrashCourse WH playlist](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9), find each episode, copy the video ID (the `v=` part of the URL). Add IDs to `Build Context/verify_cc_links.py` TODO list, then run:
+**No official CrashCourse episodes exist** for those 6 books — they keep their "Search YouTube" placeholder. These are niche titles that CrashCourse hasn't covered. If you want video support for these, look for TED-Ed or Khan Academy alternatives.
 
-```bash
-python3 "Build Context/verify_cc_links.py"
-```
-
-Script auto-updates the wiki files and logs progress. Cron runs daily at 6am once IDs are added.
-
-**For CrashCourse Literature:** Search YouTube for "CrashCourse [book title]" — these are a separate playlist from WH/USH.
+**WH sources:** Original CC WH series (PLBDA2E52FB1EF80C9) + CC European History for Reformation, Enlightenment, Napoleon, Industrial Revolution, WWII Part 2, Black Death.
 
 **Transcripts:** 52 of 59 CC pages have "Transcript pending." Pull on-demand as episodes are assigned — start with whichever episode goes first in Studio 1.
 
