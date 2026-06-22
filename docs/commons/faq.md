@@ -7,7 +7,7 @@
 ## About the Program
 
 **What is SDA?**
-SDA (Self-Directed Academy) is a mastery-based program where you earn credit through Studios — six-week learning cycles — instead of traditional seat time and tests. You produce real work and demonstrate that you know academic standards through evidence you choose. See [How to SDA](how-to-sda/index.md) for the full explanation.
+SDA (Self-Directed Academy) is a competency-based program where you earn credit through Studios — six-week learning cycles — instead of traditional seat time and tests. You produce real work and demonstrate that you know academic standards through evidence you choose. See [How to SDA](how-to-sda/index.md) for the full explanation.
 
 **What classes am I in?**
 In Grade 9, SDA replaces English I and World History with an integrated program. You're enrolled in both — they count as separate credits — but in SDA they run together as one experience. Your writing skills are how you prove what you learned in history.

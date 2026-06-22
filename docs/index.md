@@ -8,7 +8,7 @@ This wiki is the knowledge infrastructure for the Self-Directed Academy. Student
 
 ## What Is SDA?
 
-SDA is a mastery-based pathway inside South High. Instead of earning credit by sitting in class for a semester, you earn it by **demonstrating that you actually know something**. That demonstration happens through six-week learning cycles called **Studios**.
+SDA is a competency-based pathway inside South High. Instead of earning credit by sitting in class for a semester, you earn it by **demonstrating that you actually know something**. That demonstration happens through six-week learning cycles called **Studios**.
 
 You are enrolled in two courses simultaneously: English I or II, and either World History or US History. In SDA, these aren't separate — they're one integrated program. A single studio produces evidence for both your English standard and your Social Studies standard.
 
