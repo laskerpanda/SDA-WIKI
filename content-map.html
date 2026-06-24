@@ -1,0 +1,1607 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SDA Content Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Cinzel+Decorative:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+html,body{width:100%;height:100%;overflow:hidden;background:#0d0b08;}
+#graph{width:100vw;height:100vh;position:relative;}
+svg{display:block;}
+.label-studio{
+  font-family:'Cinzel Decorative',cursive;
+  font-size:10px;fill:#c8860a;
+  pointer-events:none;
+  text-shadow:0 0 8px rgba(200,134,10,.5);
+}
+.label-std{
+  font-family:'IM Fell English SC',serif;
+  font-size:9px;fill:rgba(232,213,163,.8);
+  pointer-events:none;
+}
+.node{cursor:pointer;}
+.node circle{transition:stroke-width .15s;}
+.node:hover circle{stroke-width:3!important;}
+
+#tooltip{
+  position:fixed;
+  pointer-events:none;
+  background:rgba(13,11,8,.92);
+  border:1px solid rgba(200,134,10,.4);
+  border-top:2px solid #c8860a;
+  padding:10px 14px;
+  border-radius:2px;
+  font-family:'Crimson Text',serif;
+  font-size:15px;
+  color:#e8d5a3;
+  max-width:260px;
+  line-height:1.5;
+  opacity:0;
+  transition:opacity .15s;
+  z-index:100;
+  backdrop-filter:blur(8px);
+}
+#tooltip strong{
+  font-family:'IM Fell English SC',serif;
+  color:#c8860a;
+  font-size:14px;
+  display:block;
+  margin-bottom:3px;
+}
+#tooltip .tt-type{
+  font-family:'IM Fell English',serif;
+  font-style:italic;
+  font-size:13px;
+  color:#a89060;
+}
+#tooltip .tt-conn{
+  font-size:13px;
+  color:#a89060;
+  margin-top:2px;
+}
+
+#legend{
+  position:fixed;
+  bottom:24px;left:24px;
+  background:rgba(13,11,8,.88);
+  border:1px solid rgba(200,134,10,.2);
+  padding:14px 18px;
+  border-radius:2px;
+  backdrop-filter:blur(8px);
+  z-index:50;
+}
+#legend h3{
+  font-family:'Cinzel Decorative',cursive;
+  font-size:9px;
+  letter-spacing:3px;
+  color:#7a4f06;
+  text-transform:uppercase;
+  margin-bottom:10px;
+}
+.legend-item{
+  display:flex;align-items:center;gap:9px;
+  margin-bottom:7px;
+  cursor:pointer;
+  user-select:none;
+  transition:opacity .2s;
+}
+.legend-item.dimmed{opacity:.28;}
+.legend-dot{
+  width:12px;height:12px;
+  border-radius:50%;
+  flex-shrink:0;
+}
+.legend-label{
+  font-family:'IM Fell English SC',serif;
+  font-size:11px;
+  color:#a89060;
+  letter-spacing:1px;
+}
+
+#ui-hint{
+  position:fixed;
+  top:18px;right:20px;
+  font-family:'IM Fell English',serif;
+  font-style:italic;
+  font-size:13px;
+  color:rgba(168,144,96,.5);
+  pointer-events:none;
+  line-height:1.6;
+  text-align:right;
+}
+#title-block{
+  position:fixed;
+  top:18px;left:24px;
+  pointer-events:none;
+}
+#title-block h1{
+  font-family:'Cinzel Decorative',cursive;
+  font-size:15px;
+  color:#c8860a;
+  letter-spacing:2px;
+  margin-bottom:3px;
+  text-shadow:0 0 20px rgba(200,134,10,.4);
+}
+#title-block p{
+  font-family:'IM Fell English',serif;
+  font-style:italic;
+  font-size:13px;
+  color:#7a4f06;
+}
+#back-link{
+  position:fixed;
+  top:56px;left:24px;
+  font-family:'IM Fell English SC',serif;
+  font-size:11px;
+  letter-spacing:2px;
+  color:#7a4f06;
+  text-decoration:none;
+  pointer-events:auto;
+  transition:color .2s;
+}
+#back-link:hover{color:#c8860a;}
+</style>
+</head>
+<body>
+<div id="title-block">
+  <h1>SDA Content Map</h1>
+  <p>13 studios &mdash; 67 nodes &mdash; all connections</p>
+</div>
+<a id="back-link" href=".">&#8592; Back to Wiki</a>
+<div id="ui-hint">scroll to zoom &middot; drag to pan<br>hover to see connections &middot; click to open</div>
+<div id="tooltip"></div>
+<div id="legend">
+  <h3>Node Types</h3>
+  <div class="legend-item" data-type="studio-wh">
+    <div class="legend-dot" style="background:#c8860a;"></div>
+    <span class="legend-label">Grade 9 Studio (WH)</span>
+  </div>
+  <div class="legend-item" data-type="studio-ush">
+    <div class="legend-dot" style="background:#4a9e3f;"></div>
+    <span class="legend-label">Grade 10 Studio (USH)</span>
+  </div>
+  <div class="legend-item" data-type="ela-std">
+    <div class="legend-dot" style="background:#e8d5a3;"></div>
+    <span class="legend-label">ELA Standard</span>
+  </div>
+  <div class="legend-item" data-type="std-wh">
+    <div class="legend-dot" style="background:#9b6ec5;"></div>
+    <span class="legend-label">WH Standard</span>
+  </div>
+  <div class="legend-item" data-type="std-ush">
+    <div class="legend-dot" style="background:#6ec5a0;"></div>
+    <span class="legend-label">USH Standard</span>
+  </div>
+  <div class="legend-item" data-type="src-ss">
+    <div class="legend-dot" style="background:#c09060;"></div>
+    <span class="legend-label">Primary Source</span>
+  </div>
+  <div class="legend-item" data-type="src-ela">
+    <div class="legend-dot" style="background:#7090b0;"></div>
+    <span class="legend-label">Literary Text</span>
+  </div>
+  <div class="legend-item" data-type="cc-hub">
+    <div class="legend-dot" style="background:#e05c6a;"></div>
+    <span class="legend-label">CrashCourse Hub</span>
+  </div>
+</div>
+<div id="graph"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+const NODES = [
+  {
+    "id": "WH-01",
+    "label": "WH-01",
+    "title": "Who Should Govern?",
+    "type": "studio-wh",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/wh-01-who-should-govern/"
+  },
+  {
+    "id": "WH-02",
+    "label": "WH-02",
+    "title": "The Rights We Wrote Down",
+    "type": "studio-wh",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/wh-02-rights-chain/"
+  },
+  {
+    "id": "WH-03",
+    "label": "WH-03",
+    "title": "Writing Against Empire",
+    "type": "studio-wh",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/wh-03-writing-against-empire/"
+  },
+  {
+    "id": "WH-04",
+    "label": "WH-04",
+    "title": "One Idea, 130 Years of War",
+    "type": "studio-wh",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/wh-04-reformation-and-revolution/"
+  },
+  {
+    "id": "WH-05",
+    "label": "WH-05",
+    "title": "The Cost of War",
+    "type": "studio-wh",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/wh-05-the-cost-of-war/"
+  },
+  {
+    "id": "WH-06",
+    "label": "WH-06",
+    "title": "The Connected World",
+    "type": "studio-wh",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/wh-06-connected-world/"
+  },
+  {
+    "id": "USH-01",
+    "label": "USH-01",
+    "title": "When the System Fails",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-01-when-the-system-fails/"
+  },
+  {
+    "id": "USH-02",
+    "label": "USH-02",
+    "title": "The Literature of Fear",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-02-literature-of-fear/"
+  },
+  {
+    "id": "USH-03",
+    "label": "USH-03",
+    "title": "When the Floor Falls Out",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-03-when-the-floor-falls-out/"
+  },
+  {
+    "id": "USH-04",
+    "label": "USH-04",
+    "title": "The Cost of Victory",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-04-the-cost-of-victory/"
+  },
+  {
+    "id": "USH-05",
+    "label": "USH-05",
+    "title": "What the Government Didn't Say",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-05-what-the-government-didnt-say/"
+  },
+  {
+    "id": "USH-06",
+    "label": "USH-06",
+    "title": "When the Rules Don't Apply",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-06-when-the-rules-dont-apply/"
+  },
+  {
+    "id": "USH-07",
+    "label": "USH-07",
+    "title": "The Unipolar Moment",
+    "type": "studio-ush",
+    "r": 18,
+    "url": "http://localhost:5010/units/studio-archive/ush-07-unipolar-moment/"
+  },
+  {
+    "id": "R.9",
+    "label": "R.9",
+    "title": "Argument Analysis (Informational)",
+    "type": "ela-std",
+    "r": 13,
+    "url": "http://localhost:5010/skinnies/ela9/r9-informational-argumentative-skinny/"
+  },
+  {
+    "id": "R.8",
+    "label": "R.8",
+    "title": "Literary Elements",
+    "type": "ela-std",
+    "r": 13,
+    "url": "http://localhost:5010/skinnies/ela9/r8-literary-elements-skinny/"
+  },
+  {
+    "id": "R.7",
+    "label": "R.7",
+    "title": "Style and Word Choice",
+    "type": "ela-std",
+    "r": 11,
+    "url": "http://localhost:5010/skinnies/ela9/r7-style-word-choice-skinny/"
+  },
+  {
+    "id": "R.4",
+    "label": "R.4",
+    "title": "Central Idea and Theme",
+    "type": "ela-std",
+    "r": 10,
+    "url": "http://localhost:5010/skinnies/ela9/r4-main-idea-theme-skinny/"
+  },
+  {
+    "id": "W.4",
+    "label": "W.4",
+    "title": "Argument Writing",
+    "type": "ela-std",
+    "r": 13,
+    "url": "http://localhost:5010/skinnies/ela9/w4-argument-writing-skinny/"
+  },
+  {
+    "id": "W.3",
+    "label": "W.3",
+    "title": "Explanatory Writing",
+    "type": "ela-std",
+    "r": 10,
+    "url": "http://localhost:5010/skinnies/ela9/w3-explanatory-writing-skinny/"
+  },
+  {
+    "id": "IR.1-5",
+    "label": "IR.1-5",
+    "title": "Research Bundle (5 stages)",
+    "type": "ela-std",
+    "r": 14,
+    "url": "http://localhost:5010/skinnies/ela9/ir1-5-research-bundle-skinny/"
+  },
+  {
+    "id": "C.1",
+    "label": "C.1",
+    "title": "Formal Presentation",
+    "type": "ela-std",
+    "r": 10,
+    "url": "http://localhost:5010/skinnies/ela9/c1-formal-presentation-skinny/"
+  },
+  {
+    "id": "C.6",
+    "label": "C.6",
+    "title": "Discussion and Debate",
+    "type": "ela-std",
+    "r": 10,
+    "url": "http://localhost:5010/skinnies/ela9/c6-discussion-debate-skinny/"
+  },
+  {
+    "id": "WH.1",
+    "label": "WH.1",
+    "title": "Trade, Technology and Innovation",
+    "type": "std-wh",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/world-history/standards-overview/"
+  },
+  {
+    "id": "WH.2",
+    "label": "WH.2",
+    "title": "Ideas, Belief Systems, and Power",
+    "type": "std-wh",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/world-history/standards-overview/"
+  },
+  {
+    "id": "WH.3",
+    "label": "WH.3",
+    "title": "Governance and Revolution",
+    "type": "std-wh",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/world-history/standards-overview/"
+  },
+  {
+    "id": "WH.4",
+    "label": "WH.4",
+    "title": "Cultural Contact and Exchange",
+    "type": "std-wh",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/world-history/standards-overview/"
+  },
+  {
+    "id": "WH.5",
+    "label": "WH.5",
+    "title": "Causes and Consequences (WH)",
+    "type": "std-wh",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/world-history/standards-overview/"
+  },
+  {
+    "id": "WH.6",
+    "label": "WH.6",
+    "title": "Continuity and Change",
+    "type": "std-wh",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/world-history/standards-overview/"
+  },
+  {
+    "id": "USH.1",
+    "label": "USH.1",
+    "title": "Progressive Era and Civil Rights",
+    "type": "std-ush",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/us-history/standards-overview/"
+  },
+  {
+    "id": "USH.2",
+    "label": "USH.2",
+    "title": "Rights and Citizenship",
+    "type": "std-ush",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/us-history/standards-overview/"
+  },
+  {
+    "id": "USH.3",
+    "label": "USH.3",
+    "title": "Economic History",
+    "type": "std-ush",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/us-history/standards-overview/"
+  },
+  {
+    "id": "USH.4",
+    "label": "USH.4",
+    "title": "WWII and American Values",
+    "type": "std-ush",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/us-history/standards-overview/"
+  },
+  {
+    "id": "USH.5",
+    "label": "USH.5",
+    "title": "Causes and Consequences (USH)",
+    "type": "std-ush",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/us-history/standards-overview/"
+  },
+  {
+    "id": "USH.6",
+    "label": "USH.6",
+    "title": "Legacy and Continuity",
+    "type": "std-ush",
+    "r": 11,
+    "url": "http://localhost:5010/standards/social-studies/us-history/standards-overview/"
+  },
+  {
+    "id": "Hammurabi",
+    "label": "Hammurabi",
+    "title": "Hammurabi's Code",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/hammurabi-code/"
+  },
+  {
+    "id": "Analects",
+    "label": "Analects",
+    "title": "Analects of Confucius",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/analects-confucius/"
+  },
+  {
+    "id": "Pericles",
+    "label": "Pericles",
+    "title": "Pericles' Funeral Oration",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/pericles-funeral-oration/"
+  },
+  {
+    "id": "Melian",
+    "label": "Melian",
+    "title": "The Melian Dialogue",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/melian-dialogue/"
+  },
+  {
+    "id": "CommonSense",
+    "label": "Common Sense",
+    "title": "Common Sense \u2014 Paine",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/common-sense-paine/"
+  },
+  {
+    "id": "RightsOfMan",
+    "label": "Rights of Man",
+    "title": "Declaration of Rights of Man",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/declaration-rights-man/"
+  },
+  {
+    "id": "Wollstonecraft",
+    "label": "Wollstonecraft",
+    "title": "Vindication of Rights of Woman",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/wollstonecraft-vindication/"
+  },
+  {
+    "id": "HaitianDecl",
+    "label": "Haiti Decl.",
+    "title": "Haitian Declaration of Independence",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/haitian-declaration-independence/"
+  },
+  {
+    "id": "UDHR",
+    "label": "UN UDHR",
+    "title": "UN Declaration of Human Rights",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/un-declaration-human-rights/"
+  },
+  {
+    "id": "Malala",
+    "label": "Malala",
+    "title": "Malala \u2014 UN Speech (2013)",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/malala-un-speech/"
+  },
+  {
+    "id": "LasCase",
+    "label": "Las Casas",
+    "title": "Short Account \u2014 Las Casas",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/las-casas-short-account/"
+  },
+  {
+    "id": "Kipling",
+    "label": "Kipling",
+    "title": "White Man's Burden + H.T. Johnson",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/kipling-white-mans-burden/"
+  },
+  {
+    "id": "Douglass",
+    "label": "Douglass",
+    "title": "Narrative \u2014 Frederick Douglass",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/narrative-frederick-douglass/"
+  },
+  {
+    "id": "Luther",
+    "label": "95 Theses",
+    "title": "95 Theses \u2014 Martin Luther",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/luther-95-theses/"
+  },
+  {
+    "id": "CommManif",
+    "label": "Manifesto",
+    "title": "Communist Manifesto",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/communist-manifesto/"
+  },
+  {
+    "id": "Owen",
+    "label": "Owen",
+    "title": "Dulce et Decorum Est",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/dulce-et-decorum-est/"
+  },
+  {
+    "id": "FDR",
+    "label": "FDR",
+    "title": "Four Freedoms Speech \u2014 FDR",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/fdr-four-freedoms/"
+  },
+  {
+    "id": "IbnBattuta",
+    "label": "Ibn Battuta",
+    "title": "Rihla \u2014 Ibn Battuta",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/ibn-battuta-rihla/"
+  },
+  {
+    "id": "TheJungle",
+    "label": "The Jungle",
+    "title": "The Jungle \u2014 Upton Sinclair",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/jungle-sinclair/"
+  },
+  {
+    "id": "MLK",
+    "label": "MLK Letter",
+    "title": "Letter from Birmingham Jail",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/mlk-letter-birmingham/"
+  },
+  {
+    "id": "Night",
+    "label": "Night",
+    "title": "Night \u2014 Elie Wiesel",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/night-wiesel/"
+  },
+  {
+    "id": "Persepolis",
+    "label": "Persepolis",
+    "title": "Persepolis \u2014 Marjane Satrapi",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/persepolis-satrapi/"
+  },
+  {
+    "id": "F451",
+    "label": "F. 451",
+    "title": "Fahrenheit 451 \u2014 Ray Bradbury",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/fahrenheit-451-bradbury/"
+  },
+  {
+    "id": "1984",
+    "label": "1984",
+    "title": "1984 \u2014 George Orwell",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/orwell-1984/"
+  },
+  {
+    "id": "PoliticsEng",
+    "label": "Pol. + Lang.",
+    "title": "Politics and the English Language",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/orwell-politics-language/"
+  },
+  {
+    "id": "Gatsby",
+    "label": "Gatsby",
+    "title": "The Great Gatsby \u2014 Fitzgerald",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/great-gatsby-fitzgerald/"
+  },
+  {
+    "id": "Slaughterhs",
+    "label": "S.-Five",
+    "title": "Slaughterhouse-Five \u2014 Vonnegut",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/slaughterhouse-five-vonnegut/"
+  },
+  {
+    "id": "HandmaidsTale",
+    "label": "Handmaid's",
+    "title": "The Handmaid's Tale \u2014 Atwood",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/handmaids-tale-atwood/"
+  },
+  {
+    "id": "KiteRunner",
+    "label": "Kite Runner",
+    "title": "The Kite Runner \u2014 Hosseini",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/kite-runner-hosseini/"
+  },
+  {
+    "id": "Warriors",
+    "label": "Warriors",
+    "title": "Warriors Don't Cry \u2014 Melba Beals",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/warriors-dont-cry/"
+  },
+  {
+    "id": "CC-WH",
+    "label": "CC WH",
+    "title": "CrashCourse World History (27 episodes)",
+    "type": "cc-hub",
+    "r": 16,
+    "url": "http://localhost:5010/crashcourse/world-history/"
+  },
+  {
+    "id": "CC-USH",
+    "label": "CC USH",
+    "title": "CrashCourse US History (12 episodes)",
+    "type": "cc-hub",
+    "r": 16,
+    "url": "http://localhost:5010/crashcourse/us-history/"
+  },
+  {
+    "id": "CC-LIT",
+    "label": "CC Lit",
+    "title": "CrashCourse Literature (19 episodes)",
+    "type": "cc-hub",
+    "r": 16,
+    "url": "http://localhost:5010/crashcourse/literature/"
+  }  ,
+  {
+    "id": "MagnaCarta",
+    "label": "Magna Carta",
+    "title": "Magna Carta (1215)",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/magna-carta/"
+  },
+  {
+    "id": "OlympeDeGouges",
+    "label": "De Gouges",
+    "title": "Declaration of Rights of Woman — de Gouges",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/olympe-de-gouges-declaration-woman/"
+  },
+  {
+    "id": "TwelveTables",
+    "label": "XII Tables",
+    "title": "Twelve Tables of Rome",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/twelve-tables-rome/"
+  },
+  {
+    "id": "RomanPolybius",
+    "label": "Polybius",
+    "title": "The Roman Republic — Polybius",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/roman-republic-polybius/"
+  },
+  {
+    "id": "BookOfDead",
+    "label": "Book of Dead",
+    "title": "Book of the Dead (Egypt)",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/book-of-the-dead-egypt/"
+  },
+  {
+    "id": "Dhammapada",
+    "label": "Dhammapada",
+    "title": "The Dhammapada (Buddhism)",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/dhammapada-buddhism/"
+  },
+  {
+    "id": "FeudalObl",
+    "label": "Feudal Oath",
+    "title": "Feudal Obligations — Primary Source",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/feudal-obligations-primary-source/"
+  },
+  {
+    "id": "PopeGregory",
+    "label": "Pope vs. Emperor",
+    "title": "Pope Gregory & Emperor Henry IV",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/pope-gregory-emperor-henry-correspondence/"
+  },
+  {
+    "id": "Mandela",
+    "label": "Mandela",
+    "title": "Mandela — Rivonia Speech (1964)",
+    "type": "src-ss",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/social-studies/mandela-rivonia-speech/"
+  },
+  {
+    "id": "Odyssey",
+    "label": "Odyssey",
+    "title": "The Odyssey — Homer",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/odyssey-homer/"
+  },
+  {
+    "id": "OedipusRex",
+    "label": "Oedipus Rex",
+    "title": "Oedipus Rex — Sophocles",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/oedipus-rex-sophocles/"
+  },
+  {
+    "id": "RomeoJuliet",
+    "label": "Romeo+Juliet",
+    "title": "Romeo and Juliet — Shakespeare",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/romeo-and-juliet-shakespeare/"
+  },
+  {
+    "id": "Hamlet",
+    "label": "Hamlet",
+    "title": "Hamlet — Shakespeare",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/hamlet-shakespeare/"
+  },
+  {
+    "id": "JuliusCaesar",
+    "label": "Julius Caesar",
+    "title": "Julius Caesar — Shakespeare",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/julius-caesar-shakespeare/"
+  },
+  {
+    "id": "MobyDick",
+    "label": "Moby-Dick",
+    "title": "Moby-Dick — Melville",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/moby-dick-melville/"
+  },
+  {
+    "id": "Beloved",
+    "label": "Beloved",
+    "title": "Beloved — Toni Morrison",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/beloved-morrison/"
+  },
+  {
+    "id": "ThingsFallApart",
+    "label": "Things Fall Apart",
+    "title": "Things Fall Apart — Achebe",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/things-fall-apart-achebe/"
+  },
+  {
+    "id": "TKAM",
+    "label": "TKAM",
+    "title": "To Kill a Mockingbird — Lee",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/to-kill-a-mockingbird-lee/"
+  },
+  {
+    "id": "CagedBird",
+    "label": "Caged Bird",
+    "title": "I Know Why the Caged Bird Sings — Angelou",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/caged-bird-sings-angelou/"
+  },
+  {
+    "id": "LordFlies",
+    "label": "Lord of Flies",
+    "title": "Lord of the Flies — Golding",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/lord-of-the-flies-golding/"
+  },
+  {
+    "id": "RaisinSun",
+    "label": "Raisin in Sun",
+    "title": "A Raisin in the Sun — Hansberry",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/raisin-in-the-sun-hansberry/"
+  },
+  {
+    "id": "TheirEyes",
+    "label": "Their Eyes",
+    "title": "Their Eyes Were Watching God — Hurston",
+    "type": "src-ela",
+    "r": 7,
+    "url": "http://localhost:5010/reading-library/ela/their-eyes-were-watching-god-hurston/"
+  }
+];
+const LINKS = [
+  {
+    "source": "WH-01",
+    "target": "WH.2"
+  },
+  {
+    "source": "WH-01",
+    "target": "WH.3"
+  },
+  {
+    "source": "WH-01",
+    "target": "R.9"
+  },
+  {
+    "source": "WH-01",
+    "target": "W.4"
+  },
+  {
+    "source": "WH-01",
+    "target": "IR.1-5"
+  },
+  {
+    "source": "WH-01",
+    "target": "Hammurabi"
+  },
+  {
+    "source": "WH-01",
+    "target": "Analects"
+  },
+  {
+    "source": "WH-01",
+    "target": "Pericles"
+  },
+  {
+    "source": "WH-01",
+    "target": "Melian"
+  },
+  {
+    "source": "WH-02",
+    "target": "WH.3"
+  },
+  {
+    "source": "WH-02",
+    "target": "WH.5"
+  },
+  {
+    "source": "WH-02",
+    "target": "WH.6"
+  },
+  {
+    "source": "WH-02",
+    "target": "R.9"
+  },
+  {
+    "source": "WH-02",
+    "target": "W.4"
+  },
+  {
+    "source": "WH-02",
+    "target": "Hammurabi"
+  },
+  {
+    "source": "WH-02",
+    "target": "CommonSense"
+  },
+  {
+    "source": "WH-02",
+    "target": "RightsOfMan"
+  },
+  {
+    "source": "WH-02",
+    "target": "Wollstonecraft"
+  },
+  {
+    "source": "WH-02",
+    "target": "HaitianDecl"
+  },
+  {
+    "source": "WH-02",
+    "target": "UDHR"
+  },
+  {
+    "source": "WH-02",
+    "target": "Malala"
+  },
+  {
+    "source": "WH-03",
+    "target": "WH.4"
+  },
+  {
+    "source": "WH-03",
+    "target": "WH.5"
+  },
+  {
+    "source": "WH-03",
+    "target": "R.9"
+  },
+  {
+    "source": "WH-03",
+    "target": "W.4"
+  },
+  {
+    "source": "WH-03",
+    "target": "IR.1-5"
+  },
+  {
+    "source": "WH-03",
+    "target": "LasCase"
+  },
+  {
+    "source": "WH-03",
+    "target": "Kipling"
+  },
+  {
+    "source": "WH-03",
+    "target": "Douglass"
+  },
+  {
+    "source": "WH-04",
+    "target": "WH.1"
+  },
+  {
+    "source": "WH-04",
+    "target": "WH.2"
+  },
+  {
+    "source": "WH-04",
+    "target": "WH.5"
+  },
+  {
+    "source": "WH-04",
+    "target": "R.9"
+  },
+  {
+    "source": "WH-04",
+    "target": "W.4"
+  },
+  {
+    "source": "WH-04",
+    "target": "IR.1-5"
+  },
+  {
+    "source": "WH-04",
+    "target": "Luther"
+  },
+  {
+    "source": "WH-04",
+    "target": "CommonSense"
+  },
+  {
+    "source": "WH-04",
+    "target": "CommManif"
+  },
+  {
+    "source": "WH-05",
+    "target": "WH.2"
+  },
+  {
+    "source": "WH-05",
+    "target": "WH.5"
+  },
+  {
+    "source": "WH-05",
+    "target": "R.7"
+  },
+  {
+    "source": "WH-05",
+    "target": "R.8"
+  },
+  {
+    "source": "WH-05",
+    "target": "R.9"
+  },
+  {
+    "source": "WH-05",
+    "target": "Owen"
+  },
+  {
+    "source": "WH-05",
+    "target": "FDR"
+  },
+  {
+    "source": "WH-05",
+    "target": "Night"
+  },
+  {
+    "source": "WH-05",
+    "target": "Persepolis"
+  },
+  {
+    "source": "WH-06",
+    "target": "WH.1"
+  },
+  {
+    "source": "WH-06",
+    "target": "WH.4"
+  },
+  {
+    "source": "WH-06",
+    "target": "R.9"
+  },
+  {
+    "source": "WH-06",
+    "target": "IR.1-5"
+  },
+  {
+    "source": "WH-06",
+    "target": "IbnBattuta"
+  },
+  {
+    "source": "USH-01",
+    "target": "USH.1"
+  },
+  {
+    "source": "USH-01",
+    "target": "USH.2"
+  },
+  {
+    "source": "USH-01",
+    "target": "R.9"
+  },
+  {
+    "source": "USH-01",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-01",
+    "target": "R.8"
+  },
+  {
+    "source": "USH-01",
+    "target": "TheJungle"
+  },
+  {
+    "source": "USH-01",
+    "target": "Warriors"
+  },
+  {
+    "source": "USH-01",
+    "target": "MLK"
+  },
+  {
+    "source": "USH-02",
+    "target": "WH.2"
+  },
+  {
+    "source": "USH-02",
+    "target": "WH.6"
+  },
+  {
+    "source": "USH-02",
+    "target": "R.8"
+  },
+  {
+    "source": "USH-02",
+    "target": "R.9"
+  },
+  {
+    "source": "USH-02",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-02",
+    "target": "F451"
+  },
+  {
+    "source": "USH-02",
+    "target": "1984"
+  },
+  {
+    "source": "USH-02",
+    "target": "Persepolis"
+  },
+  {
+    "source": "USH-03",
+    "target": "USH.4"
+  },
+  {
+    "source": "USH-03",
+    "target": "USH.5"
+  },
+  {
+    "source": "USH-03",
+    "target": "R.8"
+  },
+  {
+    "source": "USH-03",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-03",
+    "target": "Gatsby"
+  },
+  {
+    "source": "USH-04",
+    "target": "USH.2"
+  },
+  {
+    "source": "USH-04",
+    "target": "USH.5"
+  },
+  {
+    "source": "USH-04",
+    "target": "R.8"
+  },
+  {
+    "source": "USH-04",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-04",
+    "target": "Night"
+  },
+  {
+    "source": "USH-04",
+    "target": "FDR"
+  },
+  {
+    "source": "USH-04",
+    "target": "Slaughterhs"
+  },
+  {
+    "source": "USH-05",
+    "target": "USH.3"
+  },
+  {
+    "source": "USH-05",
+    "target": "USH.5"
+  },
+  {
+    "source": "USH-05",
+    "target": "R.9"
+  },
+  {
+    "source": "USH-05",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-05",
+    "target": "F451"
+  },
+  {
+    "source": "USH-05",
+    "target": "1984"
+  },
+  {
+    "source": "USH-05",
+    "target": "PoliticsEng"
+  },
+  {
+    "source": "USH-06",
+    "target": "USH.2"
+  },
+  {
+    "source": "USH-06",
+    "target": "USH.3"
+  },
+  {
+    "source": "USH-06",
+    "target": "R.9"
+  },
+  {
+    "source": "USH-06",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-06",
+    "target": "HandmaidsTale"
+  },
+  {
+    "source": "USH-06",
+    "target": "PoliticsEng"
+  },
+  {
+    "source": "USH-07",
+    "target": "USH.2"
+  },
+  {
+    "source": "USH-07",
+    "target": "USH.5"
+  },
+  {
+    "source": "USH-07",
+    "target": "R.8"
+  },
+  {
+    "source": "USH-07",
+    "target": "W.4"
+  },
+  {
+    "source": "USH-07",
+    "target": "KiteRunner"
+  },
+  {
+    "source": "USH-07",
+    "target": "Persepolis"
+  },
+  {
+    "source": "USH-07",
+    "target": "Malala"
+  },
+  {
+    "source": "CC-WH",
+    "target": "WH-01"
+  },
+  {
+    "source": "CC-WH",
+    "target": "WH-02"
+  },
+  {
+    "source": "CC-WH",
+    "target": "WH-03"
+  },
+  {
+    "source": "CC-WH",
+    "target": "WH-04"
+  },
+  {
+    "source": "CC-WH",
+    "target": "WH-05"
+  },
+  {
+    "source": "CC-WH",
+    "target": "WH-06"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-01"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-02"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-03"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-04"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-05"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-06"
+  },
+  {
+    "source": "CC-USH",
+    "target": "USH-07"
+  },
+  {
+    "source": "CC-LIT",
+    "target": "WH-05"
+  },
+  {
+    "source": "CC-LIT",
+    "target": "USH-02"
+  },
+  {
+    "source": "CC-LIT",
+    "target": "USH-03"
+  },
+  {
+    "source": "CC-LIT",
+    "target": "USH-04"
+  },
+  {
+    "source": "CC-LIT",
+    "target": "USH-06"
+  },
+  {
+    "source": "CC-LIT",
+    "target": "USH-07"
+  }  ,
+  { "source": "WH-01", "target": "TwelveTables" },
+  { "source": "WH-01", "target": "RomanPolybius" },
+  { "source": "WH-01", "target": "BookOfDead" },
+  { "source": "WH-01", "target": "Dhammapada" },
+  { "source": "WH-01", "target": "Odyssey" },
+  { "source": "WH-01", "target": "OedipusRex" },
+  { "source": "WH-01", "target": "JuliusCaesar" },
+  { "source": "WH-02", "target": "MagnaCarta" },
+  { "source": "WH-02", "target": "OlympeDeGouges" },
+  { "source": "WH-04", "target": "FeudalObl" },
+  { "source": "WH-04", "target": "PopeGregory" },
+  { "source": "WH-04", "target": "RomeoJuliet" },
+  { "source": "WH-04", "target": "Hamlet" },
+  { "source": "WH-05", "target": "LordFlies" },
+  { "source": "WH-03", "target": "ThingsFallApart" },
+  { "source": "WH-06", "target": "Mandela" },
+  { "source": "USH-01", "target": "Beloved" },
+  { "source": "USH-01", "target": "TKAM" },
+  { "source": "USH-01", "target": "CagedBird" },
+  { "source": "USH-01", "target": "RaisinSun" },
+  { "source": "USH-01", "target": "TheirEyes" },
+  { "source": "CC-LIT", "target": "Odyssey" },
+  { "source": "CC-LIT", "target": "OedipusRex" },
+  { "source": "CC-LIT", "target": "RomeoJuliet" },
+  { "source": "CC-LIT", "target": "Hamlet" },
+  { "source": "CC-LIT", "target": "JuliusCaesar" },
+  { "source": "CC-LIT", "target": "MobyDick" },
+  { "source": "CC-LIT", "target": "Beloved" },
+  { "source": "CC-LIT", "target": "ThingsFallApart" },
+  { "source": "CC-LIT", "target": "TKAM" },
+  { "source": "CC-LIT", "target": "CagedBird" },
+  { "source": "CC-LIT", "target": "LordFlies" },
+  { "source": "CC-LIT", "target": "RaisinSun" },
+  { "source": "CC-LIT", "target": "TheirEyes" }
+];
+
+// Resolve node URLs against current host — works on localhost, GitHub Pages, Cloudflare
+const SITE_ROOT = (function(){ const p=window.location.pathname; return window.location.origin+p.substring(0,p.lastIndexOf('/')); })();
+NODES.forEach(n => { if (n.url) n.url = n.url.replace(/^https?:[/][/][^/]+/, SITE_ROOT); });
+
+const palette = {
+  'studio-wh':  '#c8860a',
+  'studio-ush': '#4a9e3f',
+  'ela-std':    '#e8d5a3',
+  'std-wh':     '#9b6ec5',
+  'std-ush':    '#6ec5a0',
+  'src-ss':     '#c09060',
+  'src-ela':    '#7090b0',
+  'cc-hub':     '#e05c6a',
+};
+
+const typeLabel = {
+  'studio-wh':  'Grade 9 Studio',
+  'studio-ush': 'Grade 10 Studio',
+  'ela-std':    'ELA Standard → Skinny',
+  'std-wh':     'World History Standard',
+  'std-ush':    'US History Standard',
+  'src-ss':     'Primary Source',
+  'src-ela':    'Literary Text',
+  'cc-hub':     'CrashCourse Hub',
+};
+
+const W = window.innerWidth, H = window.innerHeight;
+
+// Build adjacency map
+const adj = new Map();
+NODES.forEach(n => adj.set(n.id, new Set()));
+LINKS.forEach(l => {
+  adj.get(l.source) && adj.get(l.source).add(l.target);
+  adj.get(l.target) && adj.get(l.target).add(l.source);
+});
+
+// SVG setup
+const svg = d3.select('#graph').append('svg')
+  .attr('width', W).attr('height', H);
+
+// Glow filter
+const defs = svg.append('defs');
+const gf = defs.append('filter').attr('id','glow').attr('x','-50%').attr('y','-50%').attr('width','200%').attr('height','200%');
+gf.append('feGaussianBlur').attr('in','SourceGraphic').attr('stdDeviation','4').attr('result','blur');
+const fm = gf.append('feMerge');
+fm.append('feMergeNode').attr('in','blur');
+fm.append('feMergeNode').attr('in','SourceGraphic');
+
+const g = svg.append('g');
+
+// Zoom
+svg.call(d3.zoom().scaleExtent([0.08,6]).on('zoom', e => g.attr('transform', e.transform)));
+
+// Initial positions — nudge WH studios left, USH studios right
+NODES.forEach(n => {
+  if (n.type === 'studio-wh')  { n.x = W*0.3 + (Math.random()-0.5)*80;  n.y = H*0.5 + (Math.random()-0.5)*200; }
+  else if (n.type === 'studio-ush') { n.x = W*0.7 + (Math.random()-0.5)*80; n.y = H*0.5 + (Math.random()-0.5)*200; }
+  else if (n.type === 'ela-std')    { n.x = W*0.5 + (Math.random()-0.5)*100; n.y = H*0.5 + (Math.random()-0.5)*150; }
+  else if (n.type === 'std-wh')     { n.x = W*0.22 + (Math.random()-0.5)*60; n.y = H*0.35 + (Math.random()-0.5)*100; }
+  else if (n.type === 'std-ush')    { n.x = W*0.78 + (Math.random()-0.5)*60; n.y = H*0.35 + (Math.random()-0.5)*100; }
+  else if (n.id==='CC-WH')  { n.x = W*0.18; n.y = H*0.75; }
+  else if (n.id==='CC-USH') { n.x = W*0.82; n.y = H*0.75; }
+  else if (n.id==='CC-LIT') { n.x = W*0.5;  n.y = H*0.88; }
+  else { n.x = W*0.5 + (Math.random()-0.5)*W*0.85; n.y = H*0.5 + (Math.random()-0.5)*H*0.85; }
+});
+
+// Force simulation
+const sim = d3.forceSimulation(NODES)
+  .force('link', d3.forceLink(LINKS).id(d => d.id)
+    .distance(d => {
+      const st = (d.source.type||''), tt = (d.target.type||'');
+      if (st.startsWith('studio') && (tt==='src-ss'||tt==='src-ela')) return 140;
+      if (st.startsWith('studio')) return 95;
+      return 75;
+    })
+    .strength(0.35))
+  .force('charge', d3.forceManyBody().strength(d => d.r >= 18 ? -480 : d.r >= 11 ? -90 : -55))
+  .force('center', d3.forceCenter(W/2, H/2).strength(0.05))
+  .force('collision', d3.forceCollide().radius(d => d.r + 7).strength(0.85));
+
+// Draw links
+const linkSel = g.append('g').attr('class','links')
+  .selectAll('line').data(LINKS).join('line')
+  .attr('stroke','rgba(200,134,10,0.13)')
+  .attr('stroke-width', 1);
+
+// Draw nodes
+const nodeSel = g.append('g').attr('class','nodes')
+  .selectAll('g.node').data(NODES).join('g')
+  .attr('class','node')
+  .call(d3.drag()
+    .on('start', (e,d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
+    .on('drag',  (e,d) => { d.fx=e.x; d.fy=e.y; })
+    .on('end',   (e,d) => { if (!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; }));
+
+nodeSel.append('circle')
+  .attr('r', d => d.r)
+  .attr('fill', d => palette[d.type]||'#888')
+  .attr('fill-opacity', 0.8)
+  .attr('stroke', d => palette[d.type]||'#888')
+  .attr('stroke-width', d => d.type.startsWith('studio') ? 2.5 : 1.5)
+  .attr('stroke-opacity', 0.55)
+  .attr('filter', d => d.type.startsWith('studio') ? 'url(#glow)' : null);
+
+// Studio and CC hub labels (above node)
+nodeSel.filter(d => d.type.startsWith('studio') || d.type === 'cc-hub')
+  .append('text')
+  .attr('class','label-studio')
+  .attr('text-anchor','middle')
+  .attr('dy', d => -(d.r + 6))
+  .style('fill', d => d.type === 'cc-hub' ? '#e05c6a' : '#c8860a')
+  .text(d => d.label);
+
+// Standard labels (inside node)
+nodeSel.filter(d => d.type==='ela-std'||d.type==='std-wh'||d.type==='std-ush')
+  .append('text')
+  .attr('class','label-std')
+  .attr('text-anchor','middle')
+  .attr('dy', 4)
+  .text(d => d.label);
+
+// Tooltip element
+const tip = d3.select('#tooltip');
+
+nodeSel
+  .on('mouseenter', function(event, d) {
+    const connCount = (adj.get(d.id)||new Set()).size;
+    tip.style('opacity',1)
+      .html('<strong>'+d.title+'</strong>'
+           +'<div class="tt-type">'+( typeLabel[d.type]||d.type )+'</div>'
+           +'<div class="tt-conn">'+connCount+' connection'+(connCount!==1?'s':'')+'</div>');
+    positionTip(event);
+    // dim non-neighbors
+    const nbrs = adj.get(d.id)||new Set();
+    nodeSel.style('opacity', n => (n.id===d.id||nbrs.has(n.id)) ? 1 : 0.07);
+    linkSel.style('opacity', l => (l.source.id===d.id||l.target.id===d.id) ? 0.9 : 0.03)
+           .attr('stroke-width', l => (l.source.id===d.id||l.target.id===d.id) ? 2.5 : 1)
+           .attr('stroke', l => (l.source.id===d.id||l.target.id===d.id) ? 'rgba(200,134,10,0.7)' : 'rgba(200,134,10,0.13)');
+  })
+  .on('mousemove', function(event) { positionTip(event); })
+  .on('mouseleave', function() {
+    tip.style('opacity',0);
+    if (hiddenTypes.size === 0) {
+      nodeSel.style('opacity',1);
+      linkSel.style('opacity',1).attr('stroke-width',1).attr('stroke','rgba(200,134,10,0.13)');
+    } else {
+      applyHiddenFilter();
+    }
+  })
+  .on('click', (event, d) => { if (d.url) window.open(d.url,'_blank'); });
+
+function positionTip(event) {
+  let x = event.pageX + 16, y = event.pageY - 10;
+  if (x + 280 > W) x = event.pageX - 294;
+  if (y + 100 > H) y = H - 110;
+  tip.style('left', x+'px').style('top', y+'px');
+}
+
+// Simulation tick
+sim.on('tick', () => {
+  linkSel
+    .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+    .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+  nodeSel.attr('transform', d => 'translate('+d.x+','+d.y+')');
+});
+
+// Legend filter
+const hiddenTypes = new Set();
+document.querySelectorAll('.legend-item').forEach(item => {
+  item.addEventListener('click', () => {
+    const t = item.dataset.type;
+    if (hiddenTypes.has(t)) { hiddenTypes.delete(t); item.classList.remove('dimmed'); }
+    else { hiddenTypes.add(t); item.classList.add('dimmed'); }
+    applyHiddenFilter();
+  });
+});
+
+function applyHiddenFilter() {
+  nodeSel.style('opacity', d => hiddenTypes.has(d.type) ? 0.04 : 1);
+  linkSel.style('opacity', l => {
+    const sh = hiddenTypes.has(l.source.type||''), th = hiddenTypes.has(l.target.type||'');
+    return (sh||th) ? 0.02 : 1;
+  }).attr('stroke-width',1).attr('stroke','rgba(200,134,10,0.13)');
+}
+</script>
+</body>
+</html>
