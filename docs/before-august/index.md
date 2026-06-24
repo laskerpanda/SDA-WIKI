@@ -253,7 +253,7 @@ Covers: Year arc & pacing · Studio launch protocol · Contract approval guide �
 |------|-------|
 | CrashCourse transcripts | Pull on-demand as episodes are assigned (see Item 11) |
 | Reading Library ingest system | Future project — design decisions needed first |
-| Hermes Kanban | Implement after Hermes is reliable |
+| Hermes Kanban | ~~Implement after Hermes is reliable~~ **Removed June 24, 2026** — no Kanban system planned. Hermes uses Telegram + REVIEW_LOG for task communication. |
 
 ---
 
@@ -280,6 +280,21 @@ Live at `localhost:5010/content-map.html` and GitHub Pages. D3.js force-directed
 **Reading library:** 26 entries now have embedded Wikimedia Commons portrait/artifact images (author portraits, manuscript scans, historical artifacts). Images load client-side from Wikimedia — no local storage needed.
 
 **Studio wiki pages:** All 13 studio pages have era timeline SVG diagrams showing which historical period the studio covers (amber = WH, green = USH). Self-generated, no external dependencies.
+
+---
+
+### ☐ 19. Pre-School Content Audit — Student-Visible Pages (Added June 24, 2026)
+
+Before students access the wiki, audit all pages for teacher-facing or system content that should not be student-visible.
+
+**What to check:**
+- Confirm `docs/AGENTS.md` is excluded from mkdocs nav (it is a system file, not a student page)
+- Confirm `WORK_QUEUE.md` and `REVIEW_LOG.md` are excluded from the student-facing build
+- Confirm `_Hermes — Workshop/` is not included in any published output
+- Review all pages in `2026-27 — For Students/` to ensure no references to Hermes agent, Claude Code, build scripts, or teacher workflow appear
+- Remove the "Before August" tab from mkdocs nav (see "When You're Done" section below)
+
+**Who does this:** Claude Code, with Reese reviewing student-facing studio packets.
 
 ---
 

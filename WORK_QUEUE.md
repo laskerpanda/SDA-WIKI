@@ -1,5 +1,5 @@
 # SDA Wiki — Hermes Work Queue
-# Last updated: 2026-06-12
+# Last updated: 2026-06-24
 # Purpose: Hermes reads this file to know what to build next.
 # Update status inline as you work. Commit after every completed item.
 
@@ -10,11 +10,29 @@
 Pick the highest-priority PENDING item. Do it. Change its status to DONE. Commit. Move to the next.
 If you're blocked, mark BLOCKED and add a note. Notify Reese via Telegram.
 
+Hermes: read this file at the start of every wiki session before doing any other wiki work.
+
 ---
 
-## CURRENT STATUS — June 12, 2026
+## CURRENT STATUS — June 24, 2026
 
-**Wiki is functionally complete for Year 1 (Grade 9).** All WH skinnies, ELA skinnies, reading library, and studio packets are done. Remaining work is cross-linking (navigation convenience) and USH skinnies (Grade 10 / Year 2 — can wait until after school starts).
+**Wiki is functionally complete for Year 1 (Grade 9).** All WH skinnies, ELA skinnies, reading library, and studio packets are done. Remaining work is cross-linking (navigation convenience), pre-school cleanup (before August 2026), and USH skinnies (Grade 10 / Year 2 — hold until October 2026).
+
+---
+
+## PRIORITY 0 — Pre-School Cleanup (Before August 20, 2026)
+
+These tasks must be complete before students access any wiki materials. Claude Code handles all of these — Hermes does not touch sda-wiki directly.
+
+| Task | Details | Status |
+|------|---------|--------|
+| Audit student-visible pages | Review all pages in `sda-wiki-site/` that students might access. Confirm no teacher-facing operational notes, Hermes agent references, or build system details appear in student-visible output. | PENDING |
+| Review `docs/AGENTS.md` visibility | AGENTS.md is the agent spec — it should NOT appear in the sda-wiki-site student build. Confirm mkdocs.yml excludes it from the nav, or move to a teacher-only location. | PENDING |
+| Review `WORK_QUEUE.md` visibility | This file is operational. Confirm it is excluded from sda-wiki-site build. | PENDING |
+| Review `REVIEW_LOG.md` visibility | Confirm it is excluded from sda-wiki-site build. | PENDING |
+| Confirm `_Hermes — Workshop/` is not published | This folder must never appear in any published or student-accessible output. | PENDING |
+| Strip teacher-facing language from student pages | Any page in `2026-27 — For Students/` that references Hermes, Claude Code, build scripts, or teacher workflow should have that language removed before school. | PENDING |
+| Final audit of `2026-27 — For Students/` | Reese reviews all student-facing studio packets for accuracy, tone, and appropriateness before August. | PENDING — Reese reviews |
 
 ---
 
